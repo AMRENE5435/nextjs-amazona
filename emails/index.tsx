@@ -4,7 +4,7 @@ import { IOrder } from '@/lib/db/models/order.model'
 import AskReviewOrderItemsEmail from './ask-review-order-items'
 import { SENDER_EMAIL, SENDER_NAME } from '@/lib/constants'
 
-//const resend = new Resend(process.env.RESEND_API_KEY as string)
+const resend = new Resend(process.env.RESEND_API_KEY as string)
 
 export const sendPurchaseReceipt = async ({ order }: { order: IOrder }) => {
   await resend.emails.send({
