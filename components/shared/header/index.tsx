@@ -27,7 +27,7 @@ export default async function Header() {
                 height={40}
                 alt={`${site.name} logo`}
               />
-              {site.name}
+              {/* {site.name} */}
             </Link>
           </div>
 

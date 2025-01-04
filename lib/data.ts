@@ -1251,18 +1251,19 @@ We also provide helpful resources such as order tracking, product guides, and FA
         pageSize: 9,
       },
       site: {
-        name: 'NxtAmzn',
+        name: 'LaptopSolution',
         description:
-          'NxtAmzn is a sample Ecommerce website built with Next.js, Tailwind CSS, and MongoDB.',
-        keywords: 'Next Ecommerce, Next.js, Tailwind CSS, MongoDB',
-        url: 'https://next-mongo-ecommerce-final.vercel.app',
-        logo: '/icons/logo.svg',
-        slogan: 'Spend less, enjoy more.',
-        author: 'Next Ecommerce',
-        copyright: '2000-2024, Next-Ecommerce.com, Inc. or its affiliates',
-        email: 'admin@example.com',
-        address: '123, Main Street, Anytown, CA, Zip 12345',
-        phone: '+1 (123) 456-7890',
+          'LaptopSolution is your trusted source for software solutions. We offer a wide range of software for office, design, and development.',
+        keywords:
+          'Software for office, Software for design, Software for development, Tailwind CSS, MongoDB',
+        url: 'https://www.laptopsolution.tech',
+        logo: '/icons/2.webp',
+        slogan: 'Your trusted source for software solutions.',
+        author: 'LaptopSolution Team',
+        copyright: '2023-2025, LaptopSolution, Inc.',
+        email: 'support@laptopsolution.tech', // Replace with your support email
+        address: '123, Tech Street, Casablanca, Morocco, Zip 20000', // Replace with your address
+        phone: '+212 673-454681',
       },
       carousels: [
         {

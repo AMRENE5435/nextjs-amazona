@@ -30,7 +30,7 @@ export default async function ProfilePage() {
               <p>{session?.user.name}</p>
             </div>
             <div>
-              <Link href='/account/addresses/Current-addres'>
+              <Link href='/account/addresses/current-address'>
                 <Button className='rounded-full w-32' variant='outline'>
                   Edit
                 </Button>
@@ -40,11 +40,10 @@ export default async function ProfilePage() {
           <Separator />
           <CardContent className='p-4 flex justify-between flex-wrap'>
             <div>
-              <h3 className='font-bold'>New address</h3>
-              <p>{session?.user.email}</p>
+              <h3 className='font-bold'>Add new address</h3>
             </div>
             <div>
-              <Link href='#'>
+              <Link href='/account/addresses/add-address'>
                 <Button className='rounded-full w-32' variant='outline'>
                   Add address
                 </Button>
