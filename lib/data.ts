@@ -1263,7 +1263,7 @@ We also provide helpful resources such as order tracking, product guides, and FA
         copyright: '2023-2025, LaptopSolution, Inc.',
         email: 'support@laptopsolution.tech', // Replace with your support email
         address: '123, Tech Street, Casablanca, Morocco, Zip 20000', // Replace with your address
-        phone: '+212 673-454681',
+        phone: 'Whatsapp: +212 673-454681',
       },
       carousels: [
         {
