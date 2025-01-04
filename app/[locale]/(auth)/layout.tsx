@@ -14,7 +14,7 @@ export default async function AuthLayout({
       <header className='mt-8'>
         <Link href='/'>
           <Image
-            src='/icons/1.webp'
+            src='/icons/2.webp'
             alt='logo'
             width={64}
             height={64}
