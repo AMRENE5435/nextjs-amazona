@@ -10,7 +10,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from '../../ui/select'
-import { getSetting } from '@/lib/actions/setting.actions'
+// import { getSetting } from '@/lib/actions/setting.actions'
 import { getTranslations } from 'next-intl/server'
 
 export default async function Search() {
