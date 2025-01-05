@@ -25,7 +25,7 @@ export async function generateMetadata() {
   } = await getSetting()
   return {
     title: {
-      template: `%s | ${name}`,
+      template: `%s | ${name}`,  
       default: `${name}. ${slogan}`,
     },
     description: description,

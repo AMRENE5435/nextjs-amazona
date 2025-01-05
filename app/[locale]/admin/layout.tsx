@@ -19,8 +19,8 @@ export default async function AdminLayout({
             <Link href='/'>
               <Image
                 src='/icons/2.webp'
-                width={48}
-                height={48}
+                width={128}
+                height={128}
                 alt={`${site.name} logo`}
               />
             </Link>

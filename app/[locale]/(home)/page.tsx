@@ -46,7 +46,7 @@ export default async function HomePage() {
       title: t('Explore New Arrivals'),
       items: newArrivals,
       link: {
-        text: t('View All'),
+        text: t('See More'),
         href: '/search?tag=new-arrival',
       },
     },
@@ -54,7 +54,7 @@ export default async function HomePage() {
       title: t('Discover Best Sellers'),
       items: bestSellers,
       link: {
-        text: t('View All'),
+        text: t('See More'),
         href: '/search?tag=new-arrival',
       },
     },
@@ -62,7 +62,7 @@ export default async function HomePage() {
       title: t('Featured Products'),
       items: featureds,
       link: {
-        text: t('Shop Now'),
+        text: t('See More'),
         href: '/search?tag=new-arrival',
       },
     },

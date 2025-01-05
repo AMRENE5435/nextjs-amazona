@@ -96,9 +96,9 @@ export default function Footer() {
               <Image
                 src='/icons/2.webp'
                 alt={`${site.name} logo`}
-                width={48}
-                height={48}
-                className='w-14'
+                width={128}
+                height={128}
+                className='w-full h-auto'
                 style={{
                   maxWidth: '100%',
                   height: 'auto',
@@ -163,7 +163,7 @@ export default function Footer() {
           <p> © {site.copyright}</p>
         </div>
         <div className='mt-8 flex justify-center text-sm text-gray-400'>
-          {site.address} | {site.phone}
+          {site.address} | Whatsapp {site.phone}
         </div>
       </div>
     </footer>

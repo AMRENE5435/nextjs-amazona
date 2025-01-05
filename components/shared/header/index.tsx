@@ -23,8 +23,8 @@ export default async function Header() {
             >
               <Image
                 src={site.logo}
-                width={40}
-                height={40}
+                width={140}
+                height={140}
                 alt={`${site.name} logo`}
               />
               {/* {site.name} */}

@@ -10,13 +10,13 @@ export default function CheckoutLayout({
 }) {
   return (
     <div className='p-4'>
-      <header className='bg-card mb-4 border-b'>
+      <header className='bg-black mb-4 border-b sticky top-0 z-10'>
         <div className='max-w-6xl mx-auto flex justify-between items-center'>
           <Link href='/'>
             <Image
               src='/icons/2.webp'
               alt='logo'
-              width={70}
+              width={150}
               height={70}
               style={{
                 maxWidth: '100%',
@@ -25,11 +25,13 @@ export default function CheckoutLayout({
             />
           </Link>
           <div>
-            <h1 className='text-3xl'>Checkout</h1>
+            <h1 className='text-3xl font-bold text-center text-white'>
+              Checkout
+            </h1>
           </div>
           <div>
             <Link href='/page/help'>
-              <HelpCircle className='w-6 h-6' />
+              <HelpCircle className='w-6 h-6 text-white' />
             </Link>
           </div>
         </div>

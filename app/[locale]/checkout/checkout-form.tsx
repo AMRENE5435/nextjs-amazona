@@ -43,13 +43,13 @@ import ProductPrice from '@/components/shared/product/product-price'
 const shippingAddressDefaultValues =
   process.env.NODE_ENV === 'development'
     ? {
-        fullName: 'Basir',
-        street: '1911, 65 Sherbrooke Est',
-        city: 'Montreal',
-        province: 'Quebec',
-        phone: '4181234567',
-        postalCode: 'H2X 1C4',
-        country: 'Canada',
+        // fullName: 'Basir',
+        // street: '1911, 65 Sherbrooke Est',
+        // city: 'Montreal',
+        // province: 'Quebec',
+        // phone: '4181234567',
+        // postalCode: 'H2X 1C4',
+        // country: 'Canada',
       }
     : {
         fullName: '',
@@ -292,7 +292,7 @@ const CheckoutForm = () => {
                     <Card className='md:ml-8 my-4'>
                       <CardContent className='p-4 space-y-2'>
                         <div className='text-lg font-bold mb-2'>
-                          Your address
+                          Your information
                         </div>
 
                         <div className='flex flex-col gap-5 md:flex-row'>
