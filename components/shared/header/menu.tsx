@@ -31,7 +31,9 @@ const Menu = ({ forAdmin = false }: { forAdmin?: boolean }) => {
           <SheetContent className='bg-black text-white  flex flex-col items-start  '>
             <SheetHeader className='w-full'>
               <div className='flex items-center justify-between '>
-                <SheetTitle className='  '>{t('Header.Site Menu')}</SheetTitle>
+                <SheetTitle className='text-white'>
+                  {t('Header.Site Menu')}
+                </SheetTitle>
                 <SheetDescription></SheetDescription>
               </div>
             </SheetHeader>
