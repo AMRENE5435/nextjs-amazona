@@ -14,9 +14,9 @@ import { getSetting } from '@/lib/actions/setting.actions'
 import { getTranslations } from 'next-intl/server'
 
 export default async function Search() {
-  const {
-    site: { name },
-  } = await getSetting()
+  // const {
+  //   site: { name },
+  // } = await getSetting()
   const categories = await getAllCategories()
 
   const t = await getTranslations()
