@@ -55,9 +55,33 @@ export default async function ProductDetails(props: {
     page: Number(page || '1'),
   })
 
+  // Structured Data (JSON-LD)
+  const structuredData = {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": product.name,
+    "description": product.description,
+    "brand": {
+      "@type": "Brand",
+      "name": product.brand
+    },
+    "image": product.images,
+    "offers": {
+      "@type": "Offer",
+      "price": product.price,
+      "priceCurrency": "USD"
+    }
+  };
+
   const t = await getTranslations()
   return (
     <div>
+      {/* Structured Data */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
+      />
+
       <AddToBrowsingHistory id={product._id} category={product.category} />
       <section>
         <div className='grid grid-cols-1 md:grid-cols-5  '>
