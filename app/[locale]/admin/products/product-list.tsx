@@ -30,6 +30,7 @@ type ProductListDataProps = {
   to: number
   from: number
 }
+
 const ProductList = () => {
   const [page, setPage] = useState<number>(1)
   const [inputValue, setInputValue] = useState<string>('')
@@ -38,11 +39,7 @@ const ProductList = () => {
 
   const handlePageChange = (changeType: 'next' | 'prev') => {
     const newPage = changeType === 'next' ? page + 1 : page - 1
-    if (changeType === 'next') {
-      setPage(newPage)
-    } else {
-      setPage(newPage)
-    }
+    setPage(newPage)
     startTransition(async () => {
       const data = await getAllProductsForAdmin({
         query: inputValue,
@@ -70,6 +67,7 @@ const ProductList = () => {
       })
     }
   }
+
   useEffect(() => {
     startTransition(async () => {
       const data = await getAllProductsForAdmin({ query: '' })
@@ -77,13 +75,43 @@ const ProductList = () => {
     })
   }, [])
 
+  const handleBulkUpload = async () => {
+    const input = document.createElement('input')
+    input.type = 'file'
+    input.accept = '.csv'
+    input.onchange = async (event) => {
+      const file = (event.target as HTMLInputElement).files?.[0]
+      if (file) {
+        const formData = new FormData()
+        formData.append('file', file)
+
+        const response = await fetch('/api/products/bulk-upload', {
+          method: 'POST',
+          body: formData,
+        })
+
+        if (response.ok) {
+          alert('Products uploaded successfully')
+          // Refresh product list
+          startTransition(async () => {
+            const data = await getAllProductsForAdmin({ query: inputValue })
+            setData(data)
+          })
+        } else {
+          alert('Failed to upload products')
+        }
+      }
+    }
+    input.click()
+  }
+
   return (
     <div>
       <div className='space-y-2'>
         <div className='flex-between flex-wrap gap-2'>
           <div className='flex flex-wrap items-center gap-2 '>
             <h1 className='font-bold text-lg'>Products</h1>
-            <div className='flex flex-wrap items-center  gap-2 '>
+            <div className='flex flex-wrap items-center gap-2 '>
               <Input
                 className='w-auto'
                 type='text '
@@ -105,9 +133,14 @@ const ProductList = () => {
             </div>
           </div>
 
-          <Button asChild variant='default'>
-            <Link href='/admin/products/create'>Create Product</Link>
-          </Button>
+          <div className='flex gap-2'>
+            <Button asChild variant='default'>
+              <Link href='/admin/products/create'>Create Product</Link>
+            </Button>
+            <Button onClick={handleBulkUpload} variant='default'>
+              Add in Bulk
+            </Button>
+          </div>
         </div>
         <div>
           <Table>
