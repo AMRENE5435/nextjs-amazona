@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server'
 import { parse } from 'csv-parse/sync'
-import fs from 'fs'
+// import fs from 'fs'
 import { toSlug } from '@/lib/utils' // Supposons que toSlug kayn f utils.ts
 
 export async function POST(request: Request) {
