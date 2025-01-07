@@ -8,6 +8,7 @@ import { routing } from '@/i18n/routing'
 import { notFound } from 'next/navigation'
 import { getSetting } from '@/lib/actions/setting.actions'
 import { cookies } from 'next/headers'
+import { SpeedInsights } from '@vercel/speed-insights/next'
 
 const geistSans = Geist({
   variable: '--font-geist-sans',
@@ -25,7 +26,7 @@ export async function generateMetadata() {
   } = await getSetting()
   return {
     title: {
-      template: `%s | ${name}`,  
+      template: `%s | ${name}`,
       default: `${name}. ${slogan}`,
     },
     description: description,
