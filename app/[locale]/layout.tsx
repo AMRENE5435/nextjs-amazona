@@ -60,7 +60,7 @@ export default async function AppLayout({
     >
       {/* Ajout des balises Head pour le favicon */}
       <Head>
-        <link rel="icon" href="/icons/favicon.ico" />
+        <link rel="icon" href="/favicon.ico" />
         <title>{setting.site.name}</title>
         <meta name="description" content={setting.site.description} />
       </Head>
