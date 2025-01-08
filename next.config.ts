@@ -12,6 +12,19 @@ const nextConfig: NextConfig = withNextIntl()({
       },
     ],
   },
+  async headers() {
+    return [
+      {
+        source: '/icons/favicon.ico',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'public, max-age=31536000, immutable',
+          },
+        ],
+      },
+    ]
+  },
 })
 
 export default nextConfig
