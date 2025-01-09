@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
-import data from '@/lib/data'
+import data from '@/lib/Hold data'
 import { connectToDatabase } from '.'
 import User from './models/user.model'
 import Product from './models/product.model'

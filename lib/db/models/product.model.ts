@@ -85,6 +85,35 @@ const productSchema = new Schema<IProduct>(
         default: [],
       },
     ],
+    // Zid l-property `variations`
+    variations: [
+      {
+        id: {
+          type: Number,
+          required: true,
+        },
+        sku: {
+          type: String,
+          required: true,
+        },
+        price: {
+          type: Number,
+          required: true,
+        },
+        attribute: {
+          type: String,
+          required: true,
+        },
+        value: {
+          type: String,
+          required: true,
+        },
+        stock: {
+          type: Number,
+          required: true,
+        },
+      },
+    ],
   },
   {
     timestamps: true,

@@ -60,6 +60,19 @@ export const ProductInputSchema = z.object({
     .number()
     .int()
     .nonnegative('Number of sales must be a non-negative number'),
+  // Zid l-property `variations` o khliha optional
+  variations: z
+    .array(
+      z.object({
+        id: z.number(),
+        sku: z.string(),
+        price: z.number(),
+        attribute: z.string(),
+        value: z.string(),
+        stock: z.number(),
+      })
+    )
+    .optional(), // Khliha optional b `.optional()`
 })
 
 export const ProductUpdateSchema = ProductInputSchema.extend({

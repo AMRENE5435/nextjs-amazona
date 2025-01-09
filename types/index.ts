@@ -27,7 +27,21 @@ export type IReviewDetails = IReviewInput & {
     name: string
   }
 }
-export type IProductInput = z.infer<typeof ProductInputSchema>
+
+// Define IVariation type
+export type IVariation = {
+  id: number
+  sku: string
+  price: number
+  attribute: string
+  value: string
+  stock: number
+}
+
+// Update IProductInput to include optional variations
+export type IProductInput = z.infer<typeof ProductInputSchema> & {
+  variations?: IVariation[] // Khliha optional b `?`
+}
 
 export type Data = {
   settings: ISettingInput[]
@@ -51,6 +65,7 @@ export type Data = {
     isPublished: boolean
   }[]
 }
+
 // Order
 export type IOrderInput = z.infer<typeof OrderInputSchema>
 export type IOrderList = IOrderInput & {

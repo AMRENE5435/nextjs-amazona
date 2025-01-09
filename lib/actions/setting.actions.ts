@@ -1,6 +1,6 @@
 'use server'
 import { ISettingInput } from '@/types'
-import data from '../data'
+import data from '../Hold data'
 import Setting from '../db/models/setting.model'
 import { connectToDatabase } from '../db'
 import { formatError } from '../utils'
