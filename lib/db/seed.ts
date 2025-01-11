@@ -16,6 +16,7 @@ import {
 import WebPage from './models/web-page.model';
 import Setting from './models/setting.model';
 import { OrderItem, IOrderInput, ShippingAddress } from '@/types';
+import Carousel from './models/carousel.model'; // Assure-toi d'avoir ce modèle
 
 loadEnvConfig(cwd());
 
@@ -39,7 +40,7 @@ const insertInBatches = async (model: any, batches: any[][], collectionName: str
 
 const main = async () => {
   try {
-    const { users, products, reviews, webPages, settings } = data;
+    const { users, products, reviews, webPages, settings, carousels } = data;
     await connectToDatabase(process.env.MONGODB_URI);
 
     // Supprimer les anciennes données
@@ -49,6 +50,7 @@ const main = async () => {
     await Order.deleteMany();
     await Setting.deleteMany();
     await WebPage.deleteMany();
+    await Carousel.deleteMany(); // Supprimer les anciens carousels
 
     // Diviser les utilisateurs et les produits en lots
     const userBatches = splitIntoBatches(users, 100); // 100 utilisateurs par lot
@@ -60,7 +62,7 @@ const main = async () => {
     // Insérer les produits par lots
     await insertInBatches(Product, productBatches, 'products');
 
-    // Insérer les autres données (reviews, orders, etc.)
+    // Insérer les autres données (reviews, orders, settings, webPages, carousels)
     const createdUser = await User.find(); // Récupérer les utilisateurs insérés
     const createdProducts = await Product.find(); // Récupérer les produits insérés
 
@@ -100,15 +102,23 @@ const main = async () => {
     }
     await Order.insertMany(orders);
 
-    // Insérer les settings et webPages
+    // Insérer les settings
     await Setting.insertMany(settings);
+
+    // Insérer les webPages
     await WebPage.insertMany(webPages);
+
+    // Insérer les carousels
+    await Carousel.insertMany(carousels);
 
     console.log({
       createdUser,
       createdProducts,
       createdReviews: rws,
       createdOrders: orders,
+      createdSettings: settings,
+      createdWebPages: webPages,
+      createdCarousels: carousels,
       message: 'Seeded database successfully',
     });
     process.exit(0);
