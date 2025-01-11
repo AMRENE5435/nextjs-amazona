@@ -30,7 +30,7 @@ export const ReviewInputSchema = z.object({
 export const ProductInputSchema = z.object({
   name: z.string().min(3, 'Name must be at least 3 characters'),
   slug: z.string().min(3, 'Slug must be at least 3 characters'),
-  category: z.string().min(1, 'Category is required').optional(),
+  category: z.string().min(1, 'Category is required'),
   images: z.array(z.string()).min(1, 'Product must have at least one image'),
   brand: z.string().min(1, 'Brand is required').optional(),
   description: z.string().min(1, 'Description is required'),
