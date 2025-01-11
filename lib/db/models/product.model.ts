@@ -20,12 +20,12 @@ const productSchema = new Schema<IProduct>(
     },
     category: {
       type: String,
-      required: true,
+      required: false,
     },
     images: [String],
     brand: {
       type: String,
-      required: true,
+      required: false,
     },
     description: {
       type: String,
@@ -46,7 +46,7 @@ const productSchema = new Schema<IProduct>(
     tags: { type: [String], default: ['new arrival'] },
     colors: { type: [String], default: ['White', 'Red', 'Black'] },
     sizes: { type: [String], default: ['S', 'M', 'L'] },
-    avgRating: {
+    avgRating: { 
       type: Number,
       required: true,
       default: 0,

@@ -47,7 +47,7 @@ export default async function HomePage() {
       items: newArrivals,
       link: {
         text: t('See More'),
-        href: '/search?tag=new-arrival',
+        href: '/search?tag=Adobe',
       },
     },
     {

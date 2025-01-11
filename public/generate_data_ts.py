@@ -1,13 +1,18 @@
-
 import csv
+from bs4 import BeautifulSoup
 
-# Function to convert product name to slug
-def to_slug(name):
-    return name.lower().replace(" ", "-").replace(".", "").replace(",", "")
-
-# Function to escape double quotes
-def escape_double_quotes(text):
-    return text.replace('"', '\\"')
+# Function to convert HTML to plain text
+def html_to_plain_text(html_content):
+    if not html_content:
+        return ""  # Return empty string if no content
+    
+    # Parse HTML using BeautifulSoup
+    soup = BeautifulSoup(html_content, 'lxml')
+    
+    # Convert HTML to plain text with preserved line breaks
+    text = soup.get_text(separator="\n")  # Use newline as separator between elements
+    
+    return text.strip()  # Remove leading/trailing whitespace
 
 # Read CSV file
 csv_file = r'I:\nextwebsite\Next Js project\nextjs-amazona\public\product copy.csv'  
@@ -21,17 +26,30 @@ with open(csv_file, mode='r', encoding='utf-8') as file:
     
     for row in reader:
         if row['Type'] == 'variable':
+            # Set default category if missing
+            category = row['Categories'] if row['Categories'] else 'T-Shirts'
+            
+            # Set default brand if missing
+            brand = row['Categories'] if row['Categories'] else 'laptop solution'
+            
+            # Set price to 35 if it is 0
+            price = float(row['Sale price']) if row['Sale price'] and float(row['Sale price']) != 0 else 35
+            list_price = float(row['Regular price']) if row['Regular price'] else 0
+            
+            # Convert HTML description to plain text
+            description = html_to_plain_text(row['Short description'] or row['Description'])
+            
             # Parent product
             product = {
-                'name': escape_double_quotes(row['Name']),
+                'name': row['Name'],
                 'slug': to_slug(row['Name']),
-                'category': escape_double_quotes(row['Categories']),
-                'images': [escape_double_quotes(row['Images'])] if row['Images'] else [],
-                'tags': [escape_double_quotes(tag) for tag in row['Tags'].split(',')] if row['Tags'] else [],
+                'category': category,
+                'images': [row['Images']] if row['Images'] else [],
+                'tags': [tag for tag in row['Tags'].split(',')] if row['Tags'] else [],
                 'isPublished': True if row['Published'] == '1' else False,
-                'price': float(row['Sale price']) if row['Sale price'] else 0,
-                'listPrice': float(row['Regular price']) if row['Regular price'] else 0,
-                'brand': escape_double_quotes(row['Categories']),  # Assuming category as brand
+                'price': price,
+                'listPrice': list_price,
+                'brand': brand,
                 'avgRating': 0,
                 'numReviews': 0,
                 'ratingDistribution': [
@@ -42,8 +60,8 @@ with open(csv_file, mode='r', encoding='utf-8') as file:
                     { 'rating': 5, 'count': 0 }
                 ],
                 'numSales': 0,
-                'countInStock': 0,  # Will be calculated from variations
-                'description': escape_double_quotes(row['Short description'] or row['Description']),
+                'countInStock': 50,  # Always set stock to 50
+                'description': description,  # Use plain text description
                 'sizes': [],  # Will be filled from variations
                 'colors': [],  # Will be filled from variations
                 'variations': [],
@@ -52,19 +70,21 @@ with open(csv_file, mode='r', encoding='utf-8') as file:
             products.append(product)
         elif row['Type'] == 'variation':
             # Variation
+            # Set stock to 50 for variations as well
+            stock = 50
             variation = {
                 'id': int(row['ID']),
-                'sku': escape_double_quotes(row['SKU']),
+                'sku': row['SKU'],
                 'price': float(row['Sale price']) if row['Sale price'] else 0,
-                'attribute': escape_double_quotes(row['Attribute 1 name']),
-                'value': escape_double_quotes(row['Attribute 1 value(s)']),
-                'stock': int(row['Stock']) if row['Stock'] else 0
+                'attribute': row['Attribute 1 name'],
+                'value': row['Attribute 1 value(s)'],
+                'stock': stock
             }
             # Add variation to the parent product
             parent_product = next((p for p in products if p['slug'] == to_slug(row['Parent'])), None)
             if parent_product:
                 parent_product['variations'].append(variation)
-                # Update parent stock
+                # Update parent stock (though it's already set to 50)
                 parent_product['countInStock'] += variation['stock']
                 # Update sizes and colors if applicable
                 if variation['attribute'] == 'Size' and variation['value'] not in parent_product['sizes']:
@@ -94,7 +114,7 @@ with open(ts_file, mode='w', encoding='utf-8') as file:
         file.write(f'    ratingDistribution: {product["ratingDistribution"]},\n')
         file.write(f'    numSales: {product["numSales"]},\n')
         file.write(f'    countInStock: {product["countInStock"]},\n')
-        file.write(f'    description: "{product["description"]}",\n')
+        file.write(f'    description: `{product["description"]}`,\n')  # Use backticks for multi-line text
         file.write(f'    sizes: {product["sizes"]},\n')
         file.write(f'    colors: {product["colors"]},\n')
         file.write("    variations: [\n")
