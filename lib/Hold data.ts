@@ -17219,7 +17219,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     category: 'Other',
     images: ['/images/webp/Adobookproduct_16.webp'],
     tags: ['new-arrival', 'todays-deal', 'best-seller'],
-    isPublished: true,
+    isPublished: false,
     price: 35,
     listPrice: 0,
     brand: 'HaAdobeanie',
