@@ -265,7 +265,7 @@ const products: IProductInput[] = [
   {
     name: 'Autodesk Maya 2023 For Windows - Email Delivery',
     slug: toSlug('Autodesk Maya 2023 For Windows - Email Delivery'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/SoftwareForwindows_78.webp'],
     tags: ['new-arrival', 'best-seller'],
     isPublished: true,
@@ -346,7 +346,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk Maya 2023 Full Version with Lifetime License for Windows Fast service'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/YUZATZAR_49d68acf-b61c-46cc-840c-479e5d4c815c.webp'],
     tags: ['todays-deal', 'best-seller'],
     isPublished: true,
@@ -427,7 +427,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       '5 Device Microsoft Office Professional Plus 2019 Product Key FPP Retail. 5U'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Office-2019-5U.webp'],
     tags: ['best-seller', 'new-arrival'],
     isPublished: true,
@@ -506,7 +506,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Account Microsoft Office 365 Personal - 1 Year Subscription',
     slug: toSlug('Account Microsoft Office 365 Personal - 1 Year Subscription'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/OFFICE365_d97656c1-cde9-4888-b9a0-cb0372b63cc5.webp',
     ],
@@ -589,7 +589,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'AcDSee Photo Studio Ultimate 2022 for 5PCs Photo Studio Software Photo Editing'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/s-l1000_7530666f-e3c7-4f1f-a3d6-a369f8faf630.webp'],
     tags: ['todays-deal'],
     isPublished: true,
@@ -670,7 +670,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'AcDSee Photo Studio Ultimate 2023 for 5PCs Photo Studio Software Photo Editing'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/s-l1000_669dc400-9146-49fa-bbef-9d4799dc112d.webp'],
     tags: ['todays-deal', 'featured', 'best-seller'],
     isPublished: true,
@@ -751,7 +751,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Adobe Acrobat Pro 2020 for Windows (non-subscription) LIFETIME'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/616CJTOZvIL._AC_SL1415.webp'],
     tags: ['featured', 'new-arrival'],
     isPublished: true,
@@ -832,7 +832,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Adobe Acrobat Pro DC 2021 Lifetime Activation Last Full Version For Mac'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/adobeacrobatprodc20222.webp'],
     tags: ['best-seller'],
     isPublished: true,
@@ -911,7 +911,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Adobe Acrobat Pro DC 2022',
     slug: toSlug('Adobe Acrobat Pro DC 2022'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/4333515.webp'],
     tags: ['best-seller', 'todays-deal'],
     isPublished: true,
@@ -990,7 +990,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Adobe After Effects 2022',
     slug: toSlug('Adobe After Effects 2022'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/product2.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -1071,7 +1071,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'ADOBE AFTER EFFECTS 2022 FULL VERSION LIFETIME ACTIVATION FOR WINDOWS'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/Capture_e93172ff-59a1-4aca-85bd-7ea67c80e7bd.webp'],
     tags: ['new-arrival', 'featured', 'best-seller'],
     isPublished: true,
@@ -1150,7 +1150,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Adobe After Effects 2022 With Lifetime Licence For Windows',
     slug: toSlug('Adobe After Effects 2022 With Lifetime Licence For Windows'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/ADOBEAFTEREFFECT222.webp'],
     tags: ['new-arrival', 'best-seller', 'featured'],
     isPublished: true,
@@ -1229,7 +1229,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Adobe Animate 2022',
     slug: toSlug('Adobe Animate 2022'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/product3.webp'],
     tags: ['featured'],
     isPublished: true,
@@ -1308,7 +1308,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Adobe Animate 2022 For windows',
     slug: toSlug('Adobe Animate 2022 For windows'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/adobe-animate-202.webp'],
     tags: ['todays-deal'],
     isPublished: true,
@@ -1387,7 +1387,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Adobe Animate 2022 Lifetime Subscription for Windows',
     slug: toSlug('Adobe Animate 2022 Lifetime Subscription for Windows'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/ADOBE-65304049BA01B12-1__26954.webp'],
     tags: ['todays-deal'],
     isPublished: true,
@@ -1466,7 +1466,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Adobe Audition 2022',
     slug: toSlug('Adobe Audition 2022'),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: ['/images/webp/product4.webp'],
     tags: ['todays-deal', 'featured'],
     isPublished: true,
@@ -1545,7 +1545,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Adobe Audition 2022 Lifetime License',
     slug: toSlug('Adobe Audition 2022 Lifetime License'),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: ['/images/webp/Capture.webp'],
     tags: ['new-arrival', 'best-seller'],
     isPublished: true,
@@ -1624,7 +1624,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Adobe Audition 2022 With Lifetime License For Windows',
     slug: toSlug('Adobe Audition 2022 With Lifetime License For Windows'),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: ['/images/webp/adobe_audition.webp'],
     tags: ['new-arrival', 'todays-deal', 'featured'],
     isPublished: true,
@@ -1703,7 +1703,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Adobe Character Animator 2022',
     slug: toSlug('Adobe Character Animator 2022'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/product5.webp'],
     tags: ['best-seller', 'featured'],
     isPublished: true,
@@ -1782,7 +1782,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Adobe Creative Cloud 2022',
     slug: toSlug('Adobe Creative Cloud 2022'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/product6.webp'],
     tags: ['new-arrival', 'featured'],
     isPublished: true,
@@ -1861,7 +1861,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Adobe Creative Cloud 2024',
     slug: toSlug('Adobe Creative Cloud 2024'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/Capture_857004b8-cf5b-45d1-815f-f7f06700fbb9.webp'],
     tags: ['todays-deal'],
     isPublished: true,
@@ -1942,7 +1942,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Adobe Creative Master Collection 2022 Lifetime Version For Windows'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/Adobe-2022.webp'],
     tags: ['featured', 'todays-deal'],
     isPublished: true,
@@ -2021,7 +2021,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Adobe Dimension 2022',
     slug: toSlug('Adobe Dimension 2022'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/product7.webp'],
     tags: ['best-seller'],
     isPublished: true,
@@ -2100,7 +2100,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Adobe Dreamweaver 2022',
     slug: toSlug('Adobe Dreamweaver 2022'),
-    category: 'Development & IT Solutions',
+    category: 'Development and IT',
     images: ['/images/webp/product8.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -2179,7 +2179,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Adobe Fresco 2022',
     slug: toSlug('Adobe Fresco 2022'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/product9.webp'],
     tags: ['new-arrival', 'todays-deal'],
     isPublished: true,
@@ -2258,7 +2258,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'ADOBE ILLUSTRATOR 2021 – LIFETIME ACTIVATION FOR WINDOWS',
     slug: toSlug('ADOBE ILLUSTRATOR 2021 – LIFETIME ACTIVATION FOR WINDOWS'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/dcs_1.webp'],
     tags: ['todays-deal', 'best-seller', 'featured'],
     isPublished: true,
@@ -2337,7 +2337,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Adobe Illustrator 2022',
     slug: toSlug('Adobe Illustrator 2022'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/product10.webp'],
     tags: ['new-arrival', 'featured', 'todays-deal'],
     isPublished: true,
@@ -2416,7 +2416,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'ADOBE ILLUSTRATOR 2024',
     slug: toSlug('ADOBE ILLUSTRATOR 2024'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/Capture_7b265a8e-1a0a-4dbb-91d9-2c9e026de187.webp'],
     tags: ['todays-deal', 'best-seller'],
     isPublished: true,
@@ -2497,7 +2497,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Adobe Illustrator 2022 With Lifetime License For Windows Email delivery'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: [
       '/images/webp/adi22-00_500x_e172b011-9f36-48d4-8218-5e86f611201b.webp',
     ],
@@ -2578,7 +2578,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Adobe InCopy 2022',
     slug: toSlug('Adobe InCopy 2022'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/proudct11.webp'],
     tags: ['todays-deal', 'new-arrival', 'featured'],
     isPublished: true,
@@ -2657,7 +2657,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Adobe InDesign 2022',
     slug: toSlug('Adobe InDesign 2022'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/product12.webp'],
     tags: ['new-arrival', 'todays-deal', 'featured'],
     isPublished: true,
@@ -2736,7 +2736,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Adobe Indesign 2022 Lifetime Activation For Windows',
     slug: toSlug('Adobe Indesign 2022 Lifetime Activation For Windows'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: [
       '/images/webp/ADOBEINDISINE_8d9e5dcc-08eb-42b5-bf48-88f3281636cd.webp',
     ],
@@ -2817,7 +2817,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Adobe Lightroom Classic 2022',
     slug: toSlug('Adobe Lightroom Classic 2022'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/product13.webp'],
     tags: ['featured', 'new-arrival'],
     isPublished: true,
@@ -2898,7 +2898,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Adobe Lightroom Classic 2022 Lifetime License - Full Version'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/lightroomclassic.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -2979,7 +2979,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Adobe Lightroom Classic 2022 with lifetime License For Windows Email delivery'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: [
       '/images/webp/lrc22-00_500x_049193c0-abf4-4386-a59b-eaa25cad97ef.webp',
     ],
@@ -3060,7 +3060,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Adobe Master Collection 2022 Windows Email Delivery',
     slug: toSlug('Adobe Master Collection 2022 Windows Email Delivery'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/Adobe-CC-2022-Master-Collection.webp'],
     tags: ['featured'],
     isPublished: true,
@@ -3141,7 +3141,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Adobe Master Collection CC 2022 Lifetime License Multilingual For Windows'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/777888.webp'],
     tags: ['best-seller'],
     isPublished: true,
@@ -3220,7 +3220,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Adobe Media Encoder 2022',
     slug: toSlug('Adobe Media Encoder 2022'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/productME.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -3299,7 +3299,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'ADOBE MEDIA ENCODER CC 2022 OVERVIEW',
     slug: toSlug('ADOBE MEDIA ENCODER CC 2022 OVERVIEW'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/Capture_4a997d15-812b-4f7e-a3b1-3ec429d76abf.webp'],
     tags: ['featured'],
     isPublished: true,
@@ -3378,7 +3378,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Adobe Media Encoder For Windows CC 2022 latest',
     slug: toSlug('Adobe Media Encoder For Windows CC 2022 latest'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/Adobe-Media-Encoder.webp'],
     tags: ['best-seller', 'new-arrival', 'todays-deal'],
     isPublished: true,
@@ -3457,7 +3457,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Adobe Photoshop 2022',
     slug: toSlug('Adobe Photoshop 2022'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/product14.webp'],
     tags: ['featured', 'new-arrival', 'best-seller'],
     isPublished: true,
@@ -3538,7 +3538,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Adobe Photoshop 2022 With Lifetime License For Windows Email delivery'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: [
       '/images/webp/adobephotoshop22112_500x_eb0697ce-83b6-4ca8-9e2c-507f1a294dcf.webp',
     ],
@@ -3619,7 +3619,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Adobe Photoshop CC 2022 Full Last Version For Mac',
     slug: toSlug('Adobe Photoshop CC 2022 Full Last Version For Mac'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: [
       '/images/webp/AdobePhotoshopCC2022v23ForWindowsFullLastVersionlifetimeActivation11_57d87655-ea07-4121-b864-d5e5413ac3c5.webp',
     ],
@@ -3700,7 +3700,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Adobe Photoshop CC For windows 2022 latest',
     slug: toSlug('Adobe Photoshop CC For windows 2022 latest'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: [
       '/images/webp/adobephotoshop22112_500x_1024x1024_2x_eb36591e-3f14-42a7-a5cd-13297a0aac46.webp',
     ],
@@ -3783,7 +3783,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Adobe Photoshop Lightroom Classic 2022 With Lifetime License'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: [
       '/images/webp/adobe-lightroom-classic-2022-with-lifetime-license-for-windows-831_1296x_e2701c84-e30d-4729-b635-9c452c6c9337.webp',
     ],
@@ -3864,7 +3864,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Adobe Premiere Pro 2022',
     slug: toSlug('Adobe Premiere Pro 2022'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/product15.webp'],
     tags: ['todays-deal', 'best-seller', 'new-arrival'],
     isPublished: true,
@@ -3945,7 +3945,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Adobe Premiere Pro 2022 With Lifetime License For Windows Email delivery'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: [
       '/images/webp/adpp22-00_500x_834c8ecc-666d-4268-88da-aa43771e9652.webp',
     ],
@@ -4026,7 +4026,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'ADOBE PREMIERE PRO CC 2022',
     slug: toSlug('ADOBE PREMIERE PRO CC 2022'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: [
       '/images/webp/Premiere_Pro_CC_2022_1024x1024_2x_41587527-0761-4511-9e38-d9101a9e542f.webp',
     ],
@@ -4107,7 +4107,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Adobe Premiere Rush',
     slug: toSlug('Adobe Premiere Rush'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/unnamed.webp'],
     tags: ['best-seller', 'todays-deal'],
     isPublished: true,
@@ -4186,7 +4186,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Adobe XD Windows',
     slug: toSlug('Adobe XD Windows'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/product17.webp'],
     tags: ['new-arrival', 'best-seller'],
     isPublished: true,
@@ -4267,7 +4267,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'AOMEI Backupper Professional Lifetime License Latest Version'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/bhmlml.webp'],
     tags: ['new-arrival', 'featured', 'best-seller'],
     isPublished: true,
@@ -4348,7 +4348,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'AOMEI Backupper Professional Lifetime License Latest Version Fast service'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/bhmlml_aac0e9ab-e805-4daf-9108-8d9362d4f2f8.webp'],
     tags: ['new-arrival', 'featured', 'best-seller'],
     isPublished: true,
@@ -4429,7 +4429,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'AOMEI Partition Assistant Professional Latest Version Lifetime License'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/plssqs.webp'],
     tags: ['new-arrival', 'best-seller'],
     isPublished: true,
@@ -4510,7 +4510,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'AOMEI Partition Assistant Professional Latest Version Lifetime License Fast service'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/plssqs_81def737-f05f-423e-9218-6ff571965dce.webp'],
     tags: ['new-arrival', 'best-seller'],
     isPublished: true,
@@ -4589,7 +4589,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Apple Logic Pro X 10.7.2 Full Version | Email Delivery',
     slug: toSlug('Apple Logic Pro X 10.7.2 Full Version | Email Delivery'),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: [
       '/images/webp/product_40_5b717da9-b9a3-49a4-a2fd-3e2623ea18d0.webp',
     ],
@@ -4670,7 +4670,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Apple UnlimitAdobecription 12 months Full Access',
     slug: toSlug('Apple UnlimitAdobecription 12 months Full Access'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Untitleddesign_7.webp'],
     tags: ['best-seller'],
     isPublished: true,
@@ -4751,7 +4751,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Arturia Analog Lab Full version For Windows - Email Delivery'
     ),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: ['/images/webp/SoftwareForwindows.webp'],
     tags: ['featured', 'new-arrival'],
     isPublished: true,
@@ -4832,7 +4832,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Audials One 2022 Lifetime License Latest Version For windows'
     ),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: ['/images/webp/UHUHJ.webp'],
     tags: ['featured'],
     isPublished: true,
@@ -4913,7 +4913,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Audiority Effects Plugin Bundle 2022 Full version For Windows - Email Delivery'
     ),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: ['/images/webp/SoftwareForwindows_2.webp'],
     tags: ['best-seller', 'featured', 'new-arrival'],
     isPublished: true,
@@ -4992,7 +4992,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Autodesk 3DS MAX 2022 Lifetime License for Windows',
     slug: toSlug('Autodesk 3DS MAX 2022 Lifetime License for Windows'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/MAXDSRQSG.webp'],
     tags: ['todays-deal', 'best-seller'],
     isPublished: true,
@@ -5073,7 +5073,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk 3DS MAX 2023 Full Version For Windows - Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: [
       '/images/webp/product_1_bdd7bbb8-96f8-41a0-a031-c2479f0625c4.webp',
     ],
@@ -5154,7 +5154,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Autodesk 3DS MAX 2023 Lifetime License for Windows',
     slug: toSlug('Autodesk 3DS MAX 2023 Lifetime License for Windows'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/ERATAZGGS.webp'],
     tags: ['featured', 'todays-deal'],
     isPublished: true,
@@ -5233,7 +5233,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Autodesk Advance Steel 2023 For Windows - Email Delivery',
     slug: toSlug('Autodesk Advance Steel 2023 For Windows - Email Delivery'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_90.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -5312,7 +5312,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Autodesk Advance Steel 2024 For Windows - Email Delivery',
     slug: toSlug('Autodesk Advance Steel 2024 For Windows - Email Delivery'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_61.webp'],
     tags: ['todays-deal'],
     isPublished: true,
@@ -5391,7 +5391,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Autodesk Alias SpeedForm 2019 For Windows - Email Delivery',
     slug: toSlug('Autodesk Alias SpeedForm 2019 For Windows - Email Delivery'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_83.webp'],
     tags: ['best-seller', 'todays-deal', 'new-arrival'],
     isPublished: true,
@@ -5472,7 +5472,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk AutoCAD 2021 With Lifetime License For Windows - Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/instantdelivery_46.webp'],
     tags: ['new-arrival', 'best-seller'],
     isPublished: true,
@@ -5551,7 +5551,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Autodesk AutoCAD 2022 Lifetime License For Windows',
     slug: toSlug('Autodesk AutoCAD 2022 Lifetime License For Windows'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/NHJDUYD.webp'],
     tags: ['best-seller', 'todays-deal'],
     isPublished: true,
@@ -5632,7 +5632,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk AutoCAD 2022 Lifetime license for Windows - Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: [
       '/images/webp/product_1_2093783b-4b6e-48b3-a28b-98b1a2f8f6b7.webp',
     ],
@@ -5715,7 +5715,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk AutoCAD 2022 Lifetime License For Windows Fast service'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/NHJDUYD_1c588906-3caf-4d5b-ba57-f8cb385d1d12.webp'],
     tags: ['best-seller', 'new-arrival'],
     isPublished: true,
@@ -5794,7 +5794,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'AUTODESK AUTOCAD 2022 WITH LIFETIME LICENSE FOR WINDOWS',
     slug: toSlug('AUTODESK AUTOCAD 2022 WITH LIFETIME LICENSE FOR WINDOWS'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/Capture_35f6de1f-9fb7-4ee9-a3f4-db3825ab2414.webp'],
     tags: ['todays-deal'],
     isPublished: true,
@@ -5873,7 +5873,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Autodesk AutoCAD 2024 With Lifetime License For Windows',
     slug: toSlug('Autodesk AutoCAD 2024 With Lifetime License For Windows'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: [
       '/images/webp/autodesk-autocad-small_social-400_2000x_bf5e06f6-de65-4617-9034-e19fb5b27df4.webp',
     ],
@@ -5956,7 +5956,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk AutoCAD 2023 Full Version With Lifetime License For Windows Fast service'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/WVBZAGH_46c06603-5e61-4449-a9d0-e667a05c12eb.webp'],
     tags: ['best-seller', 'new-arrival'],
     isPublished: true,
@@ -6035,7 +6035,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Autodesk AutoCAD 2023.0.1 For Windows - Email Delivery',
     slug: toSlug('Autodesk AutoCAD 2023.0.1 For Windows - Email Delivery'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_44.webp'],
     tags: ['todays-deal', 'new-arrival'],
     isPublished: true,
@@ -6116,7 +6116,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk AutoCAD Architecture 2022 x64 windows Full Version Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/WhatsAppImage2022-05-25at23.22.43.webp'],
     tags: ['todays-deal', 'featured'],
     isPublished: true,
@@ -6197,7 +6197,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk AutoCAD Architecture 2023 For Windows - Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_45.webp'],
     tags: ['todays-deal', 'best-seller'],
     isPublished: true,
@@ -6276,7 +6276,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Autodesk AutoCAD Civil 3D 2023 For Windows - Email Delivery',
     slug: toSlug('Autodesk AutoCAD Civil 3D 2023 For Windows - Email Delivery'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_56.webp'],
     tags: ['best-seller'],
     isPublished: true,
@@ -6357,7 +6357,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk AutoCAD Design Suite Premium 2021.4 For Windows - Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_57.webp'],
     tags: ['new-arrival', 'featured', 'todays-deal'],
     isPublished: true,
@@ -6438,7 +6438,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk AutoCAD Electrical 2023 For Windows - Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_46.webp'],
     tags: ['featured', 'todays-deal'],
     isPublished: true,
@@ -6519,7 +6519,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk AutoCAD Inventor LT Suite 2021 For Windows - Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_58.webp'],
     tags: ['todays-deal', 'featured', 'new-arrival'],
     isPublished: true,
@@ -6598,7 +6598,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Autodesk AutoCAD LT 2023.0.1 For Windows - Email Delivery',
     slug: toSlug('Autodesk AutoCAD LT 2023.0.1 For Windows - Email Delivery'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_47.webp'],
     tags: ['featured', 'new-arrival', 'todays-deal'],
     isPublished: true,
@@ -6677,7 +6677,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Autodesk AutoCAD Map 3D 2023 For Windows - Email Delivery',
     slug: toSlug('Autodesk AutoCAD Map 3D 2023 For Windows - Email Delivery'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_48.webp'],
     tags: ['featured', 'new-arrival'],
     isPublished: true,
@@ -6758,7 +6758,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk AutoCAD Mechanical 2023 For Windows - Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_49.webp'],
     tags: ['featured', 'best-seller'],
     isPublished: true,
@@ -6837,7 +6837,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Autodesk AutoCAD MEP 2023 For Windows - Email Delivery',
     slug: toSlug('Autodesk AutoCAD MEP 2023 For Windows - Email Delivery'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_50.webp'],
     tags: ['best-seller', 'featured', 'todays-deal'],
     isPublished: true,
@@ -6916,7 +6916,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Autodesk AutoCAD Plant 3D 2023 For Windows - Email Delivery',
     slug: toSlug('Autodesk AutoCAD Plant 3D 2023 For Windows - Email Delivery'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_51.webp'],
     tags: ['featured', 'new-arrival'],
     isPublished: true,
@@ -6997,7 +6997,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk AutoCAD Raster Design 2023 For Windows - Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_52.webp'],
     tags: ['new-arrival', 'todays-deal'],
     isPublished: true,
@@ -7076,7 +7076,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Autodesk CFD 2021 Ultimate For Windows - Email Delivery',
     slug: toSlug('Autodesk CFD 2021 Ultimate For Windows - Email Delivery'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_53.webp'],
     tags: ['new-arrival', 'featured', 'todays-deal'],
     isPublished: true,
@@ -7155,7 +7155,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Autodesk Civil 3D 2022 With Lifetime License For Windows',
     slug: toSlug('Autodesk Civil 3D 2022 With Lifetime License For Windows'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/civil3d22-0v_1.webp'],
     tags: ['todays-deal'],
     isPublished: true,
@@ -7236,7 +7236,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk Fabrication CADmep 2023 For Windows - Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_91.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -7317,7 +7317,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk Fabrication CADmep 2024 For Windows - Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_62.webp'],
     tags: ['best-seller'],
     isPublished: true,
@@ -7398,7 +7398,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk Fabrication CAMduct 2023 For Windows - Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_65.webp'],
     tags: ['new-arrival', 'todays-deal', 'featured'],
     isPublished: true,
@@ -7479,7 +7479,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk Fabrication ESTmep 2023 For Windows - Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_66.webp'],
     tags: ['featured', 'best-seller', 'new-arrival'],
     isPublished: true,
@@ -7560,7 +7560,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk Factory Design Utilities 2023 For Windows - Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_67.webp'],
     tags: ['featured', 'todays-deal'],
     isPublished: true,
@@ -7641,7 +7641,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk FeatureCAM Ultimate 2022.0.3 For Windows - Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_70.webp'],
     tags: ['todays-deal', 'new-arrival'],
     isPublished: true,
@@ -7722,7 +7722,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk FormIt Pro 2022.1.0 Full LifeTime Activation for Windows'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: [
       '/images/webp/product_2_9ef39ebf-6bb2-418e-a4e2-8c6ef43eca8c.webp',
     ],
@@ -7803,7 +7803,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Autodesk Helius PFA 2021.1 For Windows - Email Delivery',
     slug: toSlug('Autodesk Helius PFA 2021.1 For Windows - Email Delivery'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_69.webp'],
     tags: ['featured', 'new-arrival', 'best-seller'],
     isPublished: true,
@@ -7884,7 +7884,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk HSMWorks Ultimate 2023 For Windows - Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_75.webp'],
     tags: ['todays-deal'],
     isPublished: true,
@@ -7963,7 +7963,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Autodesk InfraWorks 2023 For Windows - Email Delivery',
     slug: toSlug('Autodesk InfraWorks 2023 For Windows - Email Delivery'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_59.webp'],
     tags: ['todays-deal'],
     isPublished: true,
@@ -8044,7 +8044,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk Inventor HSM Professional 2021 For Windows - Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_73.webp'],
     tags: ['best-seller', 'new-arrival'],
     isPublished: true,
@@ -8125,7 +8125,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk Inventor Nesting 2022.0.1 For Windows - Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_76.webp'],
     tags: ['best-seller', 'featured', 'todays-deal'],
     isPublished: true,
@@ -8206,7 +8206,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk Inventor Professional 2023 Full Version with Lifetime License for Windows'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/image_9343a205-b79a-4f71-9941-7aaf26cf0894.webp'],
     tags: ['best-seller'],
     isPublished: true,
@@ -8287,7 +8287,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk Inventor Professional 2023.0.1 For Windows - Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_64.webp'],
     tags: ['best-seller', 'todays-deal', 'featured'],
     isPublished: true,
@@ -8368,7 +8368,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk Inventor Tolerance analysis 2023 For Windows - Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_77.webp'],
     tags: ['featured', 'todays-deal'],
     isPublished: true,
@@ -8447,7 +8447,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Autodesk MotionBuilder 2023 For Windows - Email Delivery',
     slug: toSlug('Autodesk MotionBuilder 2023 For Windows - Email Delivery'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/SoftwareForwindows_79.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -8526,7 +8526,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Autodesk Mudbox 2022 Lifetime License for Windows',
     slug: toSlug('Autodesk Mudbox 2022 Lifetime License for Windows'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/AIUDYFJHDF.webp'],
     tags: ['best-seller'],
     isPublished: true,
@@ -8607,7 +8607,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk Navisworks Manage 2023 For Windows - Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_81.webp'],
     tags: ['new-arrival', 'featured', 'best-seller'],
     isPublished: true,
@@ -8688,7 +8688,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk Navisworks Simulate 2023 For Windows - Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_82.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -8769,7 +8769,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk PowerInspect Ultimate 2023 For Windows - Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_84.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -8850,7 +8850,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk Powermill Ultimate 2022.1.0 For Windows - Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_72.webp'],
     tags: ['featured', 'todays-deal'],
     isPublished: true,
@@ -8931,7 +8931,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk PowerShape Ultimate 2022 For Windows - Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_71.webp'],
     tags: ['todays-deal', 'featured'],
     isPublished: true,
@@ -9010,7 +9010,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Autodesk ReCap Pro 2023 For Windows - Email Delivery',
     slug: toSlug('Autodesk ReCap Pro 2023 For Windows - Email Delivery'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_85.webp'],
     tags: ['new-arrival', 'best-seller'],
     isPublished: true,
@@ -9089,7 +9089,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'AUTODESK Revit 2022 With Lifetime Activation For Windows',
     slug: toSlug('AUTODESK Revit 2022 With Lifetime Activation For Windows'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/Your-paragraph-text-21_1.webp'],
     tags: ['featured'],
     isPublished: true,
@@ -9168,7 +9168,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Autodesk Revit 2023.0.1 For Windows - Email Delivery',
     slug: toSlug('Autodesk Revit 2023.0.1 For Windows - Email Delivery'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_63.webp'],
     tags: ['best-seller', 'new-arrival'],
     isPublished: true,
@@ -9249,7 +9249,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk Robot Structural Analysis Professional 2023 For Windows - Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_60.webp'],
     tags: ['best-seller', 'new-arrival', 'todays-deal'],
     isPublished: true,
@@ -9328,7 +9328,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Autodesk SketchBook Pro 2021',
     slug: toSlug('Autodesk SketchBook Pro 2021'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: [
       '/images/webp/autodesk-sketchbook-pro-2021-full-version-for-windows_6022af5f368d7-1.webp',
     ],
@@ -9411,7 +9411,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk Structural Bridge Design 2023 For Windows - Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_68.webp'],
     tags: ['featured'],
     isPublished: true,
@@ -9492,7 +9492,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk Vault Office Client 2023 For Windows - Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_86.webp'],
     tags: ['featured'],
     isPublished: true,
@@ -9571,7 +9571,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Autodesk Vehicle Tracking 2023 For Windows - Email Delivery',
     slug: toSlug('Autodesk Vehicle Tracking 2023 For Windows - Email Delivery'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_87.webp'],
     tags: ['best-seller', 'todays-deal', 'new-arrival'],
     isPublished: true,
@@ -9652,7 +9652,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk VRED Professional 2023 For Windows - Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SoftwareForwindows_88.webp'],
     tags: ['new-arrival', 'best-seller'],
     isPublished: true,
@@ -9731,7 +9731,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Avanquest expert pdf 14 converter download	windows-LIFETIME',
     slug: toSlug('Avanquest expert pdf 14 converter download	windows-LIFETIME'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/s-l1000_aed9ae8d-e582-4165-a4ff-ac5101dbedc6.webp'],
     tags: ['todays-deal', 'best-seller'],
     isPublished: true,
@@ -9812,7 +9812,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'AVCLabs Video Enhancer AI 2.2.0 full version For windows - Email delivery'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/product_a303d6a5-bfc6-4a12-ab32-67a2baed92c2.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -9893,7 +9893,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Avid Pro tools HD Full version Lifetime License Fast service'
     ),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: ['/images/webp/AVID_e208322f-f0aa-427e-8f11-d6ad896a6404.webp'],
     tags: ['new-arrival', 'featured'],
     isPublished: true,
@@ -9974,7 +9974,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Avid Sibelius Ultimate 2019 Full ACTIVATED For Windows -Email Delivery'
     ),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: [
       '/images/webp/product_3_36435045-1c04-4e93-a261-f950428f1fca.webp',
     ],
@@ -10055,7 +10055,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'BarTender Enterprise 2021 Lifetime License',
     slug: toSlug('BarTender Enterprise 2021 Lifetime License'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/BartenderLogo__96521.1447774372.1280.1280.webp'],
     tags: ['new-arrival', 'best-seller'],
     isPublished: true,
@@ -10134,7 +10134,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Bluebeam Revu eXtreme 20 Lifetime License',
     slug: toSlug('Bluebeam Revu eXtreme 20 Lifetime License'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/REVUEXTREME20.webp'],
     tags: ['featured', 'todays-deal', 'best-seller'],
     isPublished: true,
@@ -10215,7 +10215,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Bluebeam Revu eXtreme 20 Lifetime License for Windows Fast service'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/BSJDKSD_d060ef22-b3ce-4c0a-8e15-a54b2058c047.webp'],
     tags: ['best-seller', 'featured'],
     isPublished: true,
@@ -10294,7 +10294,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Bluebeam Revu eXtreme 2020 for Windows -Email Delivery',
     slug: toSlug('Bluebeam Revu eXtreme 2020 for Windows -Email Delivery'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: [
       '/images/webp/product_5_0bc69cdf-4d2a-4489-b85c-a5756ed5ed9c.webp',
     ],
@@ -10458,7 +10458,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Boris FX Continuum Complete 2022 Lifetime For windows -Email Delivery'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/SoftwareForwindows.webp'],
     tags: ['new-arrival', 'todays-deal', 'featured'],
     isPublished: true,
@@ -10539,7 +10539,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Boris FX Continuum Complete 2022 Lifetime License Latest Version For windows'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/HUHXUW.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -10620,7 +10620,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Boris FX Genarts Sapphire Suite 2021 Lifetime License Latest Version For windows'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/NJJBH2022.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -10701,7 +10701,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Brother PE Design 11 Digitizing with 220 000 DESIGN FOR FREE ?? FULL VERSION Fast service'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/88.webp'],
     tags: ['best-seller', 'todays-deal', 'new-arrival'],
     isPublished: true,
@@ -10782,7 +10782,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Brother PE Design 11 Embroidery & Sewing Digitizing Machine Full Activated -Email Delivery'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: [
       '/images/webp/product_6_58ce3428-6eed-4a76-b691-0e294d3b72a3.webp',
     ],
@@ -10865,7 +10865,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Brother Pe Design 11 Sewing And Embroidery Software For Digitizing Machine'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/prdessing_1.webp'],
     tags: ['featured'],
     isPublished: true,
@@ -10944,7 +10944,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Brother PE-DESIGN 11 LIFETIME FOR WINDOWS',
     slug: toSlug('Brother PE-DESIGN 11 LIFETIME FOR WINDOWS'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/555747.webp'],
     tags: ['featured', 'best-seller'],
     isPublished: true,
@@ -11025,7 +11025,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Capture One 21 Pro 14.4 full version For windows - Email Delivery'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: [
       '/images/webp/product_1_505c032d-74f9-4211-9e69-e618ee5d70fe.webp',
     ],
@@ -11106,7 +11106,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Capture One Pro 21 Lifetime License',
     slug: toSlug('Capture One Pro 21 Lifetime License'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/capture_244315be-a03e-4ec6-8853-a20a3e38e4af.webp'],
     tags: ['featured', 'new-arrival'],
     isPublished: true,
@@ -11187,7 +11187,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Capture One Pro 22 Full Version With Lifetime License For Windows'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/COKSL.webp'],
     tags: ['best-seller'],
     isPublished: true,
@@ -11266,7 +11266,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Capture One Pro 22 Lifetime License',
     slug: toSlug('Capture One Pro 22 Lifetime License'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: [
       '/images/webp/02b87836b061f3efeb4ca1ad6bc0d266324b7812_3832b272-4215-45d2-b9ff-b3a1885840ab.webp',
     ],
@@ -11347,7 +11347,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'CCleaner Professional (1 PC | 1 Year) Email Delivery',
     slug: toSlug('CCleaner Professional (1 PC | 1 Year) Email Delivery'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/45331310_f60ab83b-85c4-45de-bceb-6b721fa25841_635_634.webp',
     ],
@@ -11428,7 +11428,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'CCleaner Professional 1 Year 1 PC - Shipped',
     slug: toSlug('CCleaner Professional 1 Year 1 PC - Shipped'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/ccleanerPro1year.webp'],
     tags: ['todays-deal', 'featured', 'new-arrival'],
     isPublished: true,
@@ -11507,7 +11507,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'CCleaner Professional 6 ACTIVATION LIFETIME',
     slug: toSlug('CCleaner Professional 6 ACTIVATION LIFETIME'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/747b6347c92feb991b92c67facb41999.webp'],
     tags: ['best-seller'],
     isPublished: true,
@@ -11586,7 +11586,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Celemony Melodyne 5 Editor Lifetime License',
     slug: toSlug('Celemony Melodyne 5 Editor Lifetime License'),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: ['/images/webp/15144303_800_1.webp'],
     tags: ['todays-deal', 'featured'],
     isPublished: true,
@@ -11665,7 +11665,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Chief Architect Home Designer Pro 2022 Lifetime License',
     slug: toSlug('Chief Architect Home Designer Pro 2022 Lifetime License'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/homedesigner.webp'],
     tags: ['best-seller', 'featured', 'new-arrival'],
     isPublished: true,
@@ -11746,7 +11746,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Chief Architect Premier X13 2021 Lifetime License for Windows Fast service'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/ARTSDSHD_b5eb44d2-a236-47cc-a2a5-7ab4ecbb40fc.webp'],
     tags: ['featured'],
     isPublished: true,
@@ -11827,7 +11827,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Chief Architect Premier X13 Full version for Windows -Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: [
       '/images/webp/product_7_1825e0d0-224f-4351-a03d-1183ada50574.webp',
     ],
@@ -11910,7 +11910,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Chief Architect Premier X14 Lifetime License Latest Version For windows'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/CGVGHV.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -11989,7 +11989,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Claris FileMaker Pro 19 Lifetime License',
     slug: toSlug('Claris FileMaker Pro 19 Lifetime License'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/1563-facebook.webp'],
     tags: ['featured', 'new-arrival', 'todays-deal'],
     isPublished: true,
@@ -12070,7 +12070,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Clip Studio PAINT EX FULL VERSION FOR WINDOWS - EMAIL DELIVERY'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: [
       '/images/webp/product_8_a765482d-9c82-4fc6-a971-53a9e57203bd.webp',
     ],
@@ -12153,7 +12153,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'CoffeeCup Responsive Site Designer Full version For Windows - Email Delivery'
     ),
-    category: 'Development & IT Solutions',
+    category: 'Development and IT',
     images: [
       '/images/webp/SoftwareForwindows_96cfa0a0-255b-471f-99a1-0e3e367f43b7.webp',
     ],
@@ -12234,7 +12234,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Corel AfterShot HDR 2021 Lifetime License for Windows',
     slug: toSlug('Corel AfterShot HDR 2021 Lifetime License for Windows'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/ATZYAGH.webp'],
     tags: ['new-arrival', 'todays-deal'],
     isPublished: true,
@@ -12313,7 +12313,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Corel AfterShot HDR 3 Lifetime License',
     slug: toSlug('Corel AfterShot HDR 3 Lifetime License'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: [
       '/images/webp/corel_esdass3ml_corel_aftershot_3_standard_1300108_a376e401-621d-4f9b-8c69-2d51fe7d6e35.webp',
     ],
@@ -12394,7 +12394,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Corel PaintShop Pro 2021 - Instant Download for Windows',
     slug: toSlug('Corel PaintShop Pro 2021 - Instant Download for Windows'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/7145ej32yll._ac_sl1500.webp'],
     tags: ['best-seller', 'new-arrival'],
     isPublished: true,
@@ -12473,7 +12473,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Corel PaintShop Pro 2022 - Instant Download for Windows',
     slug: toSlug('Corel PaintShop Pro 2022 - Instant Download for Windows'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/71rxt_2bt3dgl._ac_sl1500.webp'],
     tags: ['best-seller'],
     isPublished: true,
@@ -12552,7 +12552,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Corel PaintShop Pro 2022 Lifetime License',
     slug: toSlug('Corel PaintShop Pro 2022 Lifetime License'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/corel222_aeadf235-d50d-4296-902c-c5a34af20db9.webp'],
     tags: ['featured', 'todays-deal', 'new-arrival'],
     isPublished: true,
@@ -12631,7 +12631,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Corel VideoStudio 2021 Pro - Instant Download for Windows',
     slug: toSlug('Corel VideoStudio 2021 Pro - Instant Download for Windows'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/61sv6xxxwhl._ac_sl1000.webp'],
     tags: ['todays-deal', 'best-seller', 'featured'],
     isPublished: true,
@@ -12710,7 +12710,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Corel VideoStudio Ultimate 2021 Lifetime License',
     slug: toSlug('Corel VideoStudio Ultimate 2021 Lifetime License'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/6479652_sd.webp'],
     tags: ['featured'],
     isPublished: true,
@@ -12789,7 +12789,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Corel WinDVD Pro 2021 Lifetime License',
     slug: toSlug('Corel WinDVD Pro 2021 Lifetime License'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/5151fgkuWAL._AC_SL1000.webp'],
     tags: ['todays-deal', 'featured'],
     isPublished: true,
@@ -12870,7 +12870,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Corel WordPerfect Office 2021 Home and Student - Instant Download for Windows'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/51on-fko6bs._ac_sl1000.webp'],
     tags: ['todays-deal', 'best-seller', 'featured'],
     isPublished: true,
@@ -12951,7 +12951,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Corel WordPerfect Office 2021 Standard - Instant Download for Windows'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/510v90ltdds._ac_sl1000.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -13030,7 +13030,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'CorelCAD 2021 Lifetime License',
     slug: toSlug('CorelCAD 2021 Lifetime License'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/CorelCAD-2021-Windows.webp'],
     tags: ['featured', 'best-seller', 'todays-deal'],
     isPublished: true,
@@ -13109,7 +13109,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'CorelCAD 2021 Lifetime License for Windows',
     slug: toSlug('CorelCAD 2021 Lifetime License for Windows'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/YHJSDJHD.webp'],
     tags: ['new-arrival', 'todays-deal'],
     isPublished: true,
@@ -13188,7 +13188,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'CorelCAD 2023 Lifetime License for Windows Fast service',
     slug: toSlug('CorelCAD 2023 Lifetime License for Windows Fast service'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SWFXVFG_72dd817f-158e-4aec-a4f1-3601f0b1c651.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -13267,7 +13267,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'CorelDRAW Essentials 2021 - Instant Download for Windows',
     slug: toSlug('CorelDRAW Essentials 2021 - Instant Download for Windows'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/51zcofjr4ll._ac_sl1000.webp'],
     tags: ['todays-deal', 'featured', 'new-arrival'],
     isPublished: true,
@@ -13346,7 +13346,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'CorelDRAW Graphics Suite 2021 Lifetime License',
     slug: toSlug('CorelDRAW Graphics Suite 2021 Lifetime License'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/CorelDraw-logo.webp'],
     tags: ['featured'],
     isPublished: true,
@@ -13425,7 +13425,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'CorelDRAW Graphics Suite 2022 Lifetime License',
     slug: toSlug('CorelDRAW Graphics Suite 2022 Lifetime License'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/CorelDRAW-Graphics-Suite-2022.webp'],
     tags: ['new-arrival', 'featured', 'best-seller'],
     isPublished: true,
@@ -13504,7 +13504,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'CorelDRAW Graphics Suite 2022 Lifetime License for Windows',
     slug: toSlug('CorelDRAW Graphics Suite 2022 Lifetime License for Windows'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: [
       '/images/webp/CorelDraw-Graphics-Suite-2022_540x_db52a609-486f-4c09-9a07-3788d00e85d9.webp',
     ],
@@ -13668,7 +13668,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Custom Order: Microsoft Windows 10 Pro 32 or 64 Bit Standard License Key Code Product'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/windows-10-download-license-32-64-bit_1024x1024_b2114217-42f7-41cb-9fbe-c0aea6abcf8d.webp',
     ],
@@ -13751,7 +13751,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'CyberLink AudioDirector 11 Ultra - Instant Download for Windows'
     ),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: ['/images/webp/shopping.webp'],
     tags: ['best-seller', 'new-arrival'],
     isPublished: true,
@@ -13832,7 +13832,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'CyberLink AudioDirector Ultra 12 Lifetime License Latest Version For windows Fast delivery'
     ),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: ['/images/webp/PLLSKDS_15f79013-eaf5-4ddc-8e77-422fbfad6f70.webp'],
     tags: ['todays-deal', 'best-seller'],
     isPublished: true,
@@ -13913,7 +13913,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'CyberLink ColorDirector Ultra 10 Lifetime License Latest Version For windows Fast delivery'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/KODFDF_c0e79f6e-6adc-4390-a389-4ed3e9524fab.webp'],
     tags: ['new-arrival', 'todays-deal', 'best-seller'],
     isPublished: true,
@@ -13994,7 +13994,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'CyberLink PerfectCam Premium 2.3.5 Lifetime License Latest Version For windows'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/HBDSHSD.webp'],
     tags: ['todays-deal', 'new-arrival', 'featured'],
     isPublished: true,
@@ -14075,7 +14075,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'CyberLink PerfectCam Premium Full version For Windows - Email Delivery'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/SoftwareForwindows_1.webp'],
     tags: ['todays-deal'],
     isPublished: true,
@@ -14156,7 +14156,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'CyberLink PhotoDirector 12 Ultra - Instant Download for Windows'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/91inzec2kbl._ac_sl1500.webp'],
     tags: ['featured', 'new-arrival'],
     isPublished: true,
@@ -14237,7 +14237,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'CyberLink PhotoDirector Ultra 13 Lifetime License Latest Version For windows'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/JKSD.webp'],
     tags: ['todays-deal', 'new-arrival', 'best-seller'],
     isPublished: true,
@@ -14318,7 +14318,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'CyberLink PowerDirector 19 Ultra - Instant Download for Windows'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/81t5gk5_2be9l._ac_sl1470__20_1.webp'],
     tags: ['featured', 'new-arrival', 'best-seller'],
     isPublished: true,
@@ -14397,7 +14397,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'CyberLink PowerDirector 20 Ultimate Lifetime License',
     slug: toSlug('CyberLink PowerDirector 20 Ultimate Lifetime License'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: [
       '/images/webp/cyberlink_pdr_ek00_rpm0_00_powerdirector_20_ultimate_1680804_b2d77259-c391-47c2-b4bf-38008f77c3fe.webp',
     ],
@@ -14480,7 +14480,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'CyberLink PowerDirector Ultimate 20 Lifetime License Latest Version For windows Fast delivery'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/BHJBJ_9fba3c8b-1815-43b3-8a75-cc306e5a3ace.webp'],
     tags: ['best-seller', 'todays-deal', 'new-arrival'],
     isPublished: true,
@@ -14559,7 +14559,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'CyberLink PowerDVD Ultra 21 Lifetime License',
     slug: toSlug('CyberLink PowerDVD Ultra 21 Lifetime License'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: [
       '/images/webp/Cyberlink-PowerDVD-21-Ultra_0173e166-81ac-4c5c-b229-58ab4a3ca5ef.webp',
     ],
@@ -14640,7 +14640,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'CyberLink YouCam 9 Deluxe - Instant Download for Windows',
     slug: toSlug('CyberLink YouCam 9 Deluxe - Instant Download for Windows'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/71hkjwh9rol._ac_sl1479.webp'],
     tags: ['new-arrival', 'todays-deal', 'best-seller'],
     isPublished: true,
@@ -14721,7 +14721,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'CyberLink Youcam Deluxe 10 Lifetime License Latest Version For windows'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/UISJDKJ.webp'],
     tags: ['best-seller', 'featured'],
     isPublished: true,
@@ -14800,7 +14800,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'DaVinci Resolve Studio 17 Full Version Lifetime for Windows',
     slug: toSlug('DaVinci Resolve Studio 17 Full Version Lifetime for Windows'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/davincii.webp'],
     tags: ['todays-deal'],
     isPublished: true,
@@ -14881,7 +14881,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'DaVinci Resolve Studio 18 Video Editing Software For Windows Lifetime Fast service'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/image_a592e870-d0b7-4224-849d-fe61148d8d7f.webp'],
     tags: ['best-seller', 'new-arrival', 'featured'],
     isPublished: true,
@@ -15041,7 +15041,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'DesignCAD 2D 2021 - Instant Download for Windows',
     slug: toSlug('DesignCAD 2D 2021 - Instant Download for Windows'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/designcad-2021-2d.webp'],
     tags: ['todays-deal'],
     isPublished: true,
@@ -15120,7 +15120,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'DesignCAD 3D Max 2021 - Instant Download for Windows',
     slug: toSlug('DesignCAD 3D Max 2021 - Instant Download for Windows'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/designcad-2021-3d-max-2.webp'],
     tags: ['best-seller', 'featured', 'todays-deal'],
     isPublished: true,
@@ -15521,7 +15521,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'DOWNLOAD CORELDRAW GRAPHICS SUITE 2021 FOR WINDOWS',
     slug: toSlug('DOWNLOAD CORELDRAW GRAPHICS SUITE 2021 FOR WINDOWS'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/Capture_99be0c84-5409-4a19-bcf3-a8176f2a702e.webp'],
     tags: ['todays-deal'],
     isPublished: true,
@@ -15602,7 +15602,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Dynamics 365 for Customer Service Enterprise - 1 Month Subscription'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/Microsoft-Dynamics-365-for-Customer-Service_1024x1024_0f0aee65-7615-4184-ab13-a374c7010311.webp',
     ],
@@ -15685,7 +15685,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'EaseUS Data Recovery Wizard v13.5 - LIFETIME FULL VERSION - Email DELIVERY'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/product_6.webp'],
     tags: ['new-arrival', 'best-seller'],
     isPublished: true,
@@ -15764,7 +15764,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'ESET Smart Security Email delivery',
     slug: toSlug('ESET Smart Security Email delivery'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/WhatsAppImage2022-05-24at14.23.50.webp'],
     tags: ['todays-deal', 'featured'],
     isPublished: true,
@@ -15843,7 +15843,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'ESET SMART SECURITY PREMIEUM',
     slug: toSlug('ESET SMART SECURITY PREMIEUM'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Capture_6f045de2-b318-4405-98b5-ed8a4fd31dbd.webp'],
     tags: ['best-seller', 'new-arrival'],
     isPublished: true,
@@ -15924,7 +15924,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'FabFilter Total Bundle 2021 Full Version For Windows & Mac - Email Delivery'
     ),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: [
       '/images/webp/product_11_0963299f-c362-42a4-b6aa-2f345c1ae8de.webp',
     ],
@@ -16007,7 +16007,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'FileMaker Pro 18 Advanced for MAC & Windows Lifetime License'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/filemaker-pro-18.2.webp'],
     tags: ['featured', 'todays-deal'],
     isPublished: true,
@@ -16086,7 +16086,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'FileMaker Pro 19 Advanced Lifetime License for windows',
     slug: toSlug('FileMaker Pro 19 Advanced Lifetime License for windows'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/FileMaker-19-Pro-Advanced.webp'],
     tags: ['todays-deal', 'best-seller'],
     isPublished: true,
@@ -16167,7 +16167,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'FL Studio 20 Producer Edition for Windows Lifetime License Fast Service'
     ),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: ['/images/webp/NJSDHSD_d701d076-8770-47ba-bf7f-7ec568795dd0.webp'],
     tags: ['featured'],
     isPublished: true,
@@ -16248,7 +16248,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'FL Studio 20 Producer Edition Full Version with Lifetime License for Windows'
     ),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: ['/images/webp/flstudio.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -16327,7 +16327,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'FL Studio Full version for macOS - Email Delivery',
     slug: toSlug('FL Studio Full version for macOS - Email Delivery'),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: [
       '/images/webp/product_12_454e0faa-e630-4762-bd94-79df3f26d904.webp',
     ],
@@ -16410,7 +16410,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'FL Studio Producer Edition Version 20 Full version for Windows - Email Delivery'
     ),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: [
       '/images/webp/product_13_df0131f8-e1d7-444c-833f-1f41c42e0791.webp',
     ],
@@ -16493,7 +16493,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'FloorPlan 2020 Home & Landscape Deluxe - Instant Download for Windows'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/71eyu9s78el._ac_sl1401.webp'],
     tags: ['best-seller', 'todays-deal'],
     isPublished: true,
@@ -16574,7 +16574,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'FloorPlan 2020 Instant Architect - Instant Download for Windows'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/71pvnb_2bwgql._ac_sl1401.webp'],
     tags: ['todays-deal', 'best-seller'],
     isPublished: true,
@@ -16653,7 +16653,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Foxit PDF Editor Pro 11 Lifetime License',
     slug: toSlug('Foxit PDF Editor Pro 11 Lifetime License'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/foxit_cca3d40a-e004-4682-b356-0bbcd8e5cba3.webp'],
     tags: ['featured', 'best-seller'],
     isPublished: true,
@@ -16732,7 +16732,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Fruity Loops Studio 20 Producer Edition Lifetime License',
     slug: toSlug('Fruity Loops Studio 20 Producer Edition Lifetime License'),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: ['/images/webp/00008276.webp'],
     tags: ['best-seller', 'featured'],
     isPublished: true,
@@ -16892,7 +16892,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Graphisoft Archicad 25 Lifetime License',
     slug: toSlug('Graphisoft Archicad 25 Lifetime License'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/1421506-1626236935844-f7a6fe423437b.webp'],
     tags: ['new-arrival', 'best-seller', 'todays-deal'],
     isPublished: true,
@@ -16973,7 +16973,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Graphisoft Archicad 25 Lifetime License for Windows Fast service'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/KOSLQS_828ef1ee-5b27-4d4b-b318-986fe137e08e.webp'],
     tags: ['featured'],
     isPublished: true,
@@ -17054,7 +17054,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Graphisoft Archicad 26 Lifetime License Latest Version For windows Fast delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/NJDFD_29cae408-b7aa-450c-a019-c978f75837d1.webp'],
     tags: ['new-arrival', 'todays-deal', 'featured'],
     isPublished: true,
@@ -17135,7 +17135,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'GUITAR PRO 7.6 Editing & Composition Software For Windows - Email Delivery'
     ),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: [
       '/images/webp/product_14_f7e18e9d-fd50-428d-9f8b-75b8580a5792.webp',
     ],
@@ -18330,7 +18330,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'HDRsoft Photomatix Pro 6.3 Lifetime License for Windows',
     slug: toSlug('HDRsoft Photomatix Pro 6.3 Lifetime License for Windows'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: [
       '/images/webp/81NN3BvUbqL._SL1500_25618da5-af36-4f76-92c0-d6f123cd4e79.webp',
     ],
@@ -18492,7 +18492,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'HitFilm Pro 9 Lifetime License Latest Version For windows',
     slug: toSlug('HitFilm Pro 9 Lifetime License Latest Version For windows'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/IDJSD.webp'],
     tags: ['featured', 'todays-deal'],
     isPublished: true,
@@ -18735,7 +18735,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Image-Line FL Studio 20 Producer Edition + Signature Bundle With Lifetime License For Windows'
     ),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: ['/images/webp/shopping_3.webp'],
     tags: ['todays-deal'],
     isPublished: true,
@@ -18816,7 +18816,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'INTUIT QuickBooks Desktop Enterprise 2021 Lifetime – 5 Users FOR WINDOWS USA'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Captureh3.webp'],
     tags: ['todays-deal', 'best-seller', 'new-arrival'],
     isPublished: true,
@@ -18897,7 +18897,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'INTUIT QuickBooks Desktop Enterprise 2021 – 5 Users License key Lifetime WINDOWS USA'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/Captureh3_885b8f88-de99-4630-81ad-847b8f68056a.webp',
     ],
@@ -18980,7 +18980,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'INTUIT QuickBooks Desktop Pro 2018 FOR WINDOWS - 10 USERS USA'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/q18.webp'],
     tags: ['todays-deal', 'featured'],
     isPublished: true,
@@ -19059,7 +19059,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'INTUIT QuickBooks Enterprise 2021 Lifetime License',
     slug: toSlug('INTUIT QuickBooks Enterprise 2021 Lifetime License'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/INTUIT_QUICKBOOKS_2021_6e6fd8af-e9b9-4dd0-9a1c-5eca18408286.webp',
     ],
@@ -19140,7 +19140,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Intuit TurboTax Deluxe 2021 Lifetime License',
     slug: toSlug('Intuit TurboTax Deluxe 2021 Lifetime License'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/image_e12c38b2-5610-4e29-b938-fe828cba42dd.webp'],
     tags: ['featured'],
     isPublished: true,
@@ -19219,7 +19219,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Iobit Driver Booster 9 Pro | 1 Year License Key | 2 Devices',
     slug: toSlug('Iobit Driver Booster 9 Pro | 1 Year License Key | 2 Devices'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/image_705c8b71-c408-4a5e-8717-371e127ee625.webp'],
     tags: ['new-arrival', 'todays-deal'],
     isPublished: true,
@@ -19298,7 +19298,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'IZOTOPE OZONE ADVANCED 9 FOR WINDOWS',
     slug: toSlug('IZOTOPE OZONE ADVANCED 9 FOR WINDOWS'),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: ['/images/webp/Capture_6c82112c-73e4-4253-bacd-b5c520c4703f.webp'],
     tags: ['best-seller', 'featured', 'new-arrival'],
     isPublished: true,
@@ -19377,7 +19377,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'iZotope Ozone Advanced 9 for Windows| Email Delivery',
     slug: toSlug('iZotope Ozone Advanced 9 for Windows| Email Delivery'),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: ['/images/webp/product_41.webp'],
     tags: ['best-seller', 'todays-deal'],
     isPublished: true,
@@ -19458,7 +19458,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'IZotope RX 9 Audio Editor Advanced Activated For macOS - Email Delivery'
     ),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: ['/images/webp/product_15.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -19537,7 +19537,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Kaspersky Internet Security 2022        1 Users	1 Year',
     slug: toSlug('Kaspersky Internet Security 2022        1 Users	1 Year'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/kasperskytotalsecurity.webp'],
     tags: ['new-arrival', 'best-seller', 'todays-deal'],
     isPublished: true,
@@ -19618,7 +19618,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Kaspersky Total Security 2022 Latest Version – 1 PC– 1 Year (Email Delivery)'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/totalsecurity.webp'],
     tags: ['todays-deal'],
     isPublished: true,
@@ -19697,7 +19697,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Kofax Power PDF Advanced 3.0 - Instant Download for Windows',
     slug: toSlug('Kofax Power PDF Advanced 3.0 - Instant Download for Windows'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/3150glyw-gl._ac_-3.webp'],
     tags: ['best-seller', 'new-arrival', 'todays-deal'],
     isPublished: true,
@@ -19776,7 +19776,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Kofax Power PDF Standard 4.0 - Instant Download for Windows',
     slug: toSlug('Kofax Power PDF Standard 4.0 - Instant Download for Windows'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/kofax-power-pdf-4-standard.webp'],
     tags: ['featured', 'new-arrival', 'best-seller'],
     isPublished: true,
@@ -19855,7 +19855,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'LOGIC PRO X 2021',
     slug: toSlug('LOGIC PRO X 2021'),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: ['/images/webp/Capture_773fc46e-ef7f-4798-84e6-9ecdb23147eb.webp'],
     tags: ['featured', 'best-seller', 'todays-deal'],
     isPublished: true,
@@ -19934,7 +19934,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Logic Pro X 2022 Edition',
     slug: toSlug('Logic Pro X 2022 Edition'),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: ['/images/webp/descr1_9451f6e7-f099-4e42-89f5-4e53487fd3e1-1.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -20013,7 +20013,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Luminar NEO Full Version for Windows and Mac',
     slug: toSlug('Luminar NEO Full Version for Windows and Mac'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: [
       '/images/webp/image_dc397290-f1b7-426c-88ec-03a6e3f12a61.webp, /images/webp/image_80f8d6ae-1d14-46e1-bf0f-e88ff985846f.webp',
     ],
@@ -20094,7 +20094,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Luminar NEO Full Version Lifetime License for Windows',
     slug: toSlug('Luminar NEO Full Version Lifetime License for Windows'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/image_4c6ec4bb-8281-48dd-a7ba-ed07c6c0732e.webp'],
     tags: ['best-seller', 'new-arrival'],
     isPublished: true,
@@ -20175,7 +20175,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'LUMION PRO 11.5 Full Activated Version for Windows -Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: [
       '/images/webp/product_16_302e7247-2d2b-4665-8c95-8eccff1012e3.webp',
     ],
@@ -20256,7 +20256,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'MAGIX ACID Pro 11 Lifetime License',
     slug: toSlug('MAGIX ACID Pro 11 Lifetime License'),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: ['/images/webp/64203.webp'],
     tags: ['best-seller'],
     isPublished: true,
@@ -20335,7 +20335,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Magix Movie Edit Pro 2016 - Instant Download for Windows',
     slug: toSlug('Magix Movie Edit Pro 2016 - Instant Download for Windows'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/b1vyu9sj-is._ac.webp'],
     tags: ['new-arrival', 'featured', 'todays-deal'],
     isPublished: true,
@@ -20414,7 +20414,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'MAGIX Movie Edit Pro 2022 Premium Lifetime License',
     slug: toSlug('MAGIX Movie Edit Pro 2022 Premium Lifetime License'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/MAGIX-Movie-Edit-boxshot.webp'],
     tags: ['best-seller'],
     isPublished: true,
@@ -20495,7 +20495,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'MAGIX Movie Edit Pro 2022 Premium Lifetime License for Windows'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/XWDFX.webp'],
     tags: ['todays-deal', 'featured', 'best-seller'],
     isPublished: true,
@@ -20574,7 +20574,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'MAGIX Samplitude Pro X7 Suite Lifetime License',
     slug: toSlug('MAGIX Samplitude Pro X7 Suite Lifetime License'),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: ['/images/webp/maxresdefault_5.webp'],
     tags: ['featured', 'new-arrival', 'best-seller'],
     isPublished: true,
@@ -20653,7 +20653,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'MAGIX Sound Forge Pro 16 Suite Lifetime License',
     slug: toSlug('MAGIX Sound Forge Pro 16 Suite Lifetime License'),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: ['/images/webp/1615305324_sound-forge-pro-15_0-suite.webp'],
     tags: ['featured'],
     isPublished: true,
@@ -20734,7 +20734,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'MAGIX VEGAS MOVIE STUDIO 2022 PLATINUM LIFETIME LICENSE FOR WINDOWS'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: [
       '/images/webp/MAGIX-VEGAS-Movie-Studio-Platinum-2022-Free-Download-GetintoPC.com_.webp',
     ],
@@ -20817,7 +20817,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'MAGIX VEGAS Pro 19 - Video Editing Software - Full Version Fast service'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/image_1cdae909-9b30-497c-ad21-372940aa5e71.webp'],
     tags: ['featured', 'new-arrival'],
     isPublished: true,
@@ -20898,7 +20898,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'MAGIX VEGAS Pro 19 Full Version for WINDOWS - Email Delivery'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: [
       '/images/webp/product_18_e5163ed5-5dc3-450f-b164-65400e206793.webp',
     ],
@@ -20979,7 +20979,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'MAGIX VEGAS Pro 19 Lifetime License',
     slug: toSlug('MAGIX VEGAS Pro 19 Lifetime License'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: [
       '/images/webp/246114637_e1bd7e15fd6c74c51cb10837e324d25e_0e68ed7f-7837-459f-9288-20aa816f6f26.webp',
     ],
@@ -21062,7 +21062,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'MathWorks MATLAB R2022 Lifetime License Latest Version For windows'
     ),
-    category: 'Development & IT Solutions',
+    category: 'Development and IT',
     images: ['/images/webp/MMM.webp'],
     tags: ['featured', 'new-arrival', 'todays-deal'],
     isPublished: true,
@@ -21143,7 +21143,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Maxon Cinema 4D R26 Lifetime License Latest Version For windows'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/IJSDI.webp'],
     tags: ['todays-deal', 'best-seller', 'featured'],
     isPublished: true,
@@ -21222,7 +21222,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Maxon CINEMA 4D Studio S24 2021 Lifetime License',
     slug: toSlug('Maxon CINEMA 4D Studio S24 2021 Lifetime License'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: [
       '/images/webp/Screenshot_2021-04-13-Maxon-Announces-Cinema-4D-S24_6d8ae591-0942-429d-bd50-a85ec14560be.webp',
     ],
@@ -21382,7 +21382,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Mcafee livesafe 1 year global Email delivery',
     slug: toSlug('Mcafee livesafe 1 year global Email delivery'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/WhatsAppImage2022-05-24at14.30.21.webp'],
     tags: ['featured', 'best-seller', 'new-arrival'],
     isPublished: true,
@@ -21463,7 +21463,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'McAfee Total Protection 2022 | 3 Device | Antivirus Internet Security Software | VPN Password Manager Dark Web Monitoring | 1 Year Subscription | Download Code'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/61tLiQFFSQL._AC_SL1050.webp'],
     tags: ['best-seller', 'new-arrival'],
     isPublished: true,
@@ -21544,7 +21544,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft 2016 Visio Pro 32 or 64 Bit Retail License Key Code Product'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Visio.webp'],
     tags: ['todays-deal', 'featured'],
     isPublished: true,
@@ -21625,7 +21625,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft 2019 Visio Pro 32 or 64 Bit Retail License Key Code Product'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/1510811281.webp'],
     tags: ['todays-deal'],
     isPublished: true,
@@ -21704,7 +21704,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Audio Conferencing',
     slug: toSlug('Microsoft Audio Conferencing'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Audio_Conferencing_copy.webp'],
     tags: ['todays-deal', 'best-seller', 'new-arrival'],
     isPublished: true,
@@ -21785,7 +21785,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Dynamics 365 for Finance and Operations Business Edition'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/For_finance_and_Operations_f0fe837f-e555-482b-8469-f2c5b92fa029.webp',
     ],
@@ -21866,7 +21866,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Dynamics 365 for Sales Enterprise Edition',
     slug: toSlug('Microsoft Dynamics 365 for Sales Enterprise Edition'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/for_sales_6d50832e-3870-4b6f-9cb4-7bdbd6cecbc8.webp',
     ],
@@ -21947,7 +21947,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Dynamics 365 for Sales Enterprise Edition - GOV',
     slug: toSlug('Microsoft Dynamics 365 for Sales Enterprise Edition - GOV'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/for_salesGOV_2376b601-80b9-447f-9e6e-78749b5d057a.webp',
     ],
@@ -22030,7 +22030,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Dynamics 365 for Sales Enterprise Edition Add-on for CRM Basic (Qualified Offer) - GOV'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/for_salesGOV_7cb019ae-ad05-40d1-852d-faf26b546a06.webp',
     ],
@@ -22113,7 +22113,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Dynamics 365 for Sales Enterprise Edition CRM Online Basic (Qualified Offer)'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/for_sales.webp'],
     tags: ['best-seller', 'featured'],
     isPublished: true,
@@ -22194,7 +22194,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Dynamics 365 for Sales Enterprise Edition CRM Online Basic (Qualified Offer) - GOV'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/for_salesGOV_a622b182-367b-4e0c-bbdf-390612e7d940.webp',
     ],
@@ -22277,7 +22277,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Dynamics 365 for Sales Enterprise Edition CRM Online Professional (Qualified Offer)'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/for_sales_54f8f0c8-8ec7-4c5e-b0c2-5f509022a33b.webp',
     ],
@@ -22358,7 +22358,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Dynamics 365 for Sales Enterprise Edition Device',
     slug: toSlug('Microsoft Dynamics 365 for Sales Enterprise Edition Device'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/for_sales_82616a37-9842-4046-9370-a32a650e3716.webp',
     ],
@@ -22441,7 +22441,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Dynamics 365 for Sales Enterprise Edition for CRM Online Pro add-on to Office 365 Users (Qualified Offer) - GOV'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/for_salesGOV_6143ed85-08c1-4917-b9dc-3aa147f1dcce.webp',
     ],
@@ -22524,7 +22524,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Dynamics 365 for Sales Enterprise Edition From SA for CRM Basic (Qualified Offer)'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/for_sales_ce35ccb6-6c13-4d09-854e-9713efabb1e0.webp',
     ],
@@ -22607,7 +22607,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Dynamics 365 for Sales Enterprise Edition From SA for CRM Basic (Qualified Offer) - GOV'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/for_salesGOV_6cdf4ee9-57f6-4a93-a61b-0a52b9eea53f.webp',
     ],
@@ -22688,7 +22688,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Excel Course - Excel from Beginner To Advanced',
     slug: toSlug('Microsoft Excel Course - Excel from Beginner To Advanced'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/166494570_807758666495002_4225888564000821323_n.webp',
     ],
@@ -22771,7 +22771,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Home & Student 2019 - Windows 10 - Installer DVD & product key'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/DSC00815_c009b932-0f9d-4fa5-85c6-aad0fdd40737.webp'],
     tags: ['todays-deal', 'new-arrival'],
     isPublished: true,
@@ -22852,7 +22852,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Home & Student 2019 for Windows 10 - Retail Box with key card'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/IMG_1496.webp'],
     tags: ['new-arrival', 'todays-deal', 'featured'],
     isPublished: true,
@@ -22933,7 +22933,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Office 2010 Professional Plus for Windows PC Product License Code 1 PC'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/serial_number_microsoft_office_2010_professional_plus_14.webp',
     ],
@@ -23016,7 +23016,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Office 2010 Professional Plus Lifetime License Key'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/office-2010-pro-plus.webp'],
     tags: ['featured'],
     isPublished: true,
@@ -23095,7 +23095,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office 2013 Pro Plus Lifetime License Key',
     slug: toSlug('Microsoft Office 2013 Pro Plus Lifetime License Key'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/microsoft-office-pro-2013_e3061015-93d5-4a33-9f7b-da3f79acbddd.webp',
     ],
@@ -23176,7 +23176,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office 2016 Home & Business 1 Mac',
     slug: toSlug('Microsoft Office 2016 Home & Business 1 Mac'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/mac2016hb_695x695_0edd6d84-533f-4282-ab2f-a6aaa6d10d3d.webp',
     ],
@@ -23259,7 +23259,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Office 2016 Home and Business For PC - Lifetime Activation'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/Office2016home_businessForPC-LifetimeSubscription-min.webp',
     ],
@@ -23340,7 +23340,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office 2016 Pro Plus Lifetime License Key',
     slug: toSlug('Microsoft Office 2016 Pro Plus Lifetime License Key'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/office-2016-pro-plus_96f3c189-7028-420b-9952-d18082de1d79.webp',
     ],
@@ -23421,7 +23421,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office 2016 Pro Plus Lifetime Retail License 1PC',
     slug: toSlug('Microsoft Office 2016 Pro Plus Lifetime Retail License 1PC'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/Plan-de-travail-1-5_0bd8b01b-0a5c-4612-adce-baf0d2a53c86.webp',
     ],
@@ -23504,7 +23504,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Office 2016 Professional Plus for Windows 2 PC Latest Updates'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/buy-purchase-download-install-office-professional-plus-2016.webp',
     ],
@@ -23587,7 +23587,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Office 2016 Professional Plus Product Key License Digital'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Capture_2a2705cd-db55-4723-9441-2723e1e7640d.webp'],
     tags: ['featured', 'best-seller', 'new-arrival'],
     isPublished: true,
@@ -23666,7 +23666,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office 2019 Home & Business 1 User PC or Mac',
     slug: toSlug('Microsoft Office 2019 Home & Business 1 User PC or Mac'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/MS_Office_2019_H_B_Retail_Box_Win_4b7fd370-c313-4cff-b9cc-bd5cda7628b2.webp, /images/webp/Microsoft-Office-2019-Home-Business-Activation-Key-_E2_80_93-1-PC-Mac.webp',
     ],
@@ -23749,7 +23749,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Office 2019 Home and Business For Mac Product Key License Digital'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Capture_bf458503-f25e-430f-9009-3637fe30641f.webp'],
     tags: ['best-seller'],
     isPublished: true,
@@ -23830,7 +23830,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Office 2019 Pro Professional Plus Lifetime License Key'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/Microsoft-Office-pro-plus-product_698765db-70bb-4f56-a9a2-2e5a936959d3.webp',
     ],
@@ -23913,7 +23913,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Office 2019 Professional Plus For Windows 2 PC Latest Updates'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/o19pp2pc.webp'],
     tags: ['featured'],
     isPublished: true,
@@ -23994,7 +23994,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Office 2019 Professional Plus For Windows PC Redemption Code'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/MS_Office_Pro_Plus_2019_Win_1024x1024_8b4816c5-1afa-4ec0-b7b8-97f622f2f4ac.webp',
     ],
@@ -24077,7 +24077,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Office 2021 Home & Business For MAC Product key RETAIL'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/MS-office-H_B-MAC.webp'],
     tags: ['new-arrival', 'featured', 'todays-deal'],
     isPublished: true,
@@ -24156,7 +24156,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office 2021 Home & Business MAC',
     slug: toSlug('Microsoft Office 2021 Home & Business MAC'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/office-2021-home-and-business-for-mac.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -24235,7 +24235,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office 2021 Home & Business PC',
     slug: toSlug('Microsoft Office 2021 Home & Business PC'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/imageService.webp'],
     tags: ['todays-deal'],
     isPublished: true,
@@ -24314,7 +24314,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office 2021 Home & Student 1 PC',
     slug: toSlug('Microsoft Office 2021 Home & Student 1 PC'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/h_s_425x425_5c559e8e-bf47-4737-acee-66992a33de28.webp',
     ],
@@ -24395,7 +24395,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office 2021 Professional Plus for Windows PC',
     slug: toSlug('Microsoft Office 2021 Professional Plus for Windows PC'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/Microsoft-Office-2021-Professinal-Plus_425x425_b204f785-d68a-4ca9-a9ae-d0f865cc940a.webp',
     ],
@@ -24478,7 +24478,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Office 2021 Professional Plus For Windows PC Latest Updates'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/office-2021-professional_Plus.webp'],
     tags: ['best-seller'],
     isPublished: true,
@@ -24557,7 +24557,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office 2021 Professional Plus License Key',
     slug: toSlug('Microsoft Office 2021 Professional Plus License Key'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/office2021_1024x1024_2x_8b3391b2-49d7-41fb-bf6a-283094c1b741.webp',
     ],
@@ -24640,7 +24640,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Office 2021 Professional Plus Lifetime License Activation Key'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/2021-PP-Win.webp'],
     tags: ['todays-deal', 'best-seller', 'new-arrival'],
     isPublished: true,
@@ -24719,7 +24719,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office 2021 Professional Plus Redemption Code',
     slug: toSlug('Microsoft Office 2021 Professional Plus Redemption Code'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/office-2021-professional_Plus_3cf639d6-68ff-4265-9539-1d19389976b1.webp',
     ],
@@ -24802,7 +24802,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Office 365 - 5 Users 5 TB Lifetime License for PC / MAC / Android'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/365.webp'],
     tags: ['featured', 'new-arrival', 'todays-deal'],
     isPublished: false,
@@ -24883,7 +24883,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Office 365 Account - 5 Users 5 TB Lifetime License PC / MAC'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/NDSD.webp'],
     tags: ['featured', 'best-seller'],
     isPublished: false,
@@ -24962,7 +24962,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office 365 Advanced eDiscovery - Government',
     slug: toSlug('Microsoft Office 365 Advanced eDiscovery - Government'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Advanced_eDiscoveryGOV.webp'],
     tags: ['best-seller', 'featured'],
     isPublished: false,
@@ -25041,7 +25041,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office 365 Business',
     slug: toSlug('Microsoft Office 365 Business'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Office_365year.webp'],
     tags: ['todays-deal', 'best-seller'],
     isPublished: false,
@@ -25122,7 +25122,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Office 365 Business Essentials - 1 Year Subscription'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/Office_365year_f42a8e48-52ff-498f-bebf-d2b12c7c4c6b.webp',
     ],
@@ -25203,7 +25203,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office 365 Business Premium - 1 Year Subscription',
     slug: toSlug('Microsoft Office 365 Business Premium - 1 Year Subscription'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/Office_365year_08f6995c-966d-4977-aa0e-19c77fa4631d.webp',
     ],
@@ -25286,7 +25286,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Office 365 Business with Installation Media - 1 Year Subscription'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/Office_365year_a8df4944-7da1-44c9-a6b6-fc369f43d5ae.webp',
     ],
@@ -25367,7 +25367,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office 365 Cloud App Security',
     slug: toSlug('Microsoft Office 365 Cloud App Security'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/CAP.webp'],
     tags: ['new-arrival', 'todays-deal'],
     isPublished: false,
@@ -25446,7 +25446,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office 365 Cloud App Security - Government',
     slug: toSlug('Microsoft Office 365 Cloud App Security - Government'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/CAPGOV.webp'],
     tags: ['best-seller'],
     isPublished: false,
@@ -25525,7 +25525,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office 365 Enterprise E1',
     slug: toSlug('Microsoft Office 365 Enterprise E1'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Enterprise_Plan_e1.webp'],
     tags: ['featured'],
     isPublished: false,
@@ -25604,7 +25604,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office 365 Enterprise E1 - Government',
     slug: toSlug('Microsoft Office 365 Enterprise E1 - Government'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Enterprise_Plan_e1GOV.webp'],
     tags: ['todays-deal', 'featured'],
     isPublished: false,
@@ -25683,7 +25683,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office 365 Enterprise E3 - Government',
     slug: toSlug('Microsoft Office 365 Enterprise E3 - Government'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Enterprise_Plan_GOV.webp'],
     tags: ['new-arrival', 'featured'],
     isPublished: false,
@@ -25762,7 +25762,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office 365 Enterprise E5',
     slug: toSlug('Microsoft Office 365 Enterprise E5'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Enterprise_Plan_e5_month.webp'],
     tags: ['todays-deal', 'best-seller', 'featured'],
     isPublished: false,
@@ -25841,7 +25841,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office 365 Enterprise E5 - 1 Year Subscription',
     slug: toSlug('Microsoft Office 365 Enterprise E5 - 1 Year Subscription'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/Enterprise_Plan_e5_month_GOV_9eaa31bf-d220-44c5-9cb2-22fc0d29eeb4.webp',
     ],
@@ -25922,7 +25922,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office 365 Enterprise E5 - Government',
     slug: toSlug('Microsoft Office 365 Enterprise E5 - Government'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/Enterprise_Plan_e5_month_GOV_ac189580-4283-49b8-91cf-86d6f6e969cc.webp',
     ],
@@ -26005,7 +26005,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Office 365 Enterprise E5 without Audio Conferencing'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/Enterprise_Plan_e5_month_0f3c1519-ee3a-4193-99d0-519e9ad87160.webp',
     ],
@@ -26088,7 +26088,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Office 365 Enterprise E5 Without Audio Conferencing - 1 Year Subscription'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/Enterprise_Plan_e5_month_GOV_22d46ea2-2ca8-438a-8cfd-30ee87615aa8.webp',
     ],
@@ -26171,7 +26171,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Office 365 Enterprise E5 Without Audio Conferencing - Government'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/Enterprise_Plan_e5_month_GOV_b91ffac7-e309-44c9-87a9-9c2464598db0.webp',
     ],
@@ -26252,7 +26252,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office 365 F1',
     slug: toSlug('Microsoft Office 365 F1'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/EnterpriseF1.webp'],
     tags: ['featured', 'new-arrival'],
     isPublished: false,
@@ -26331,7 +26331,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office 365 F1 - 1 Year Subscription',
     slug: toSlug('Microsoft Office 365 F1 - 1 Year Subscription'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/F1YearReg.webp'],
     tags: ['todays-deal', 'new-arrival', 'featured'],
     isPublished: false,
@@ -26410,7 +26410,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office 365 F1 - 1 Year Subscription - GOV',
     slug: toSlug('Microsoft Office 365 F1 - 1 Year Subscription - GOV'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/F1YearGOV.webp'],
     tags: ['featured'],
     isPublished: false,
@@ -26489,7 +26489,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office 365 F1 - Government',
     slug: toSlug('Microsoft Office 365 F1 - Government'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/EnterpriseF1GOV.webp'],
     tags: ['todays-deal'],
     isPublished: false,
@@ -26570,7 +26570,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Office 365 PERSONAL Professional Plus For 5 Devices'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Office-365-new-pro-plus.webp'],
     tags: ['new-arrival', 'todays-deal', 'featured'],
     isPublished: false,
@@ -26651,7 +26651,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Office 365 Pro Plus Account Lifetime | 5 Devices | 1 User | 1 Year | PC/Mac/Mobile Devices'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/1668995899.webp'],
     tags: ['todays-deal', 'new-arrival'],
     isPublished: false,
@@ -26732,7 +26732,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Office 365 Professional Plus 2019 Download Full Version'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/ProductImage_Office2019.webp'],
     tags: ['todays-deal', 'best-seller'],
     isPublished: false,
@@ -26811,7 +26811,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office 365 Professional Plus For 5 Devices',
     slug: toSlug('Microsoft Office 365 Professional Plus For 5 Devices'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/Office-365-new-pro-plus_d4211c50-f6b1-4642-823c-55c42698a059.webp',
     ],
@@ -26892,7 +26892,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office 365 ProPlus - 1 Year Subscription',
     slug: toSlug('Microsoft Office 365 ProPlus - 1 Year Subscription'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/ProPlus_86dfc947-bbee-41d2-abf7-a9cdc19cc8c8.webp'],
     tags: ['new-arrival', 'best-seller'],
     isPublished: false,
@@ -26971,7 +26971,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office 365 Threat Intelligence',
     slug: toSlug('Microsoft Office 365 Threat Intelligence'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Threat_Intelligence.webp'],
     tags: ['todays-deal', 'new-arrival'],
     isPublished: false,
@@ -27050,7 +27050,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office 365 Threat Intelligence - Government',
     slug: toSlug('Microsoft Office 365 Threat Intelligence - Government'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Threat_IntelligenceGOV.webp'],
     tags: ['new-arrival'],
     isPublished: false,
@@ -27131,7 +27131,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Office 365 | Business Premium With Installation Media'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/Office_365year_d19d3ef4-4439-4f67-943b-3c0623c8d32c.webp',
     ],
@@ -27214,7 +27214,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Office For Mac Home & Business 2016 - Full Version'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Home_Business1PC.webp'],
     tags: ['todays-deal', 'new-arrival'],
     isPublished: true,
@@ -27293,7 +27293,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office Home & Business 2019',
     slug: toSlug('Microsoft Office Home & Business 2019'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/mso-2019-hb.webp'],
     tags: ['todays-deal', 'new-arrival', 'best-seller'],
     isPublished: true,
@@ -27374,7 +27374,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Office Home & Business 2019 - Retail Box with Key card'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/DSC01184.webp'],
     tags: ['best-seller', 'featured', 'todays-deal'],
     isPublished: true,
@@ -27455,7 +27455,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Office Home & Business 2019 1 - PC - Digital License product key'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/HB-NoBIND.webp'],
     tags: ['featured', 'new-arrival', 'todays-deal'],
     isPublished: true,
@@ -27534,7 +27534,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office Home & Business 2019 for Windows & Mac',
     slug: toSlug('Microsoft Office Home & Business 2019 for Windows & Mac'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/PCorMac.webp'],
     tags: ['best-seller'],
     isPublished: true,
@@ -27613,7 +27613,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office Home & Business 2019 for Windows 10',
     slug: toSlug('Microsoft Office Home & Business 2019 for Windows 10'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/OfficeforPCcopy.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -27692,7 +27692,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office Home & Business 2021 for Mac',
     slug: toSlug('Microsoft Office Home & Business 2021 for Mac'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/forGoogle.webp'],
     tags: ['todays-deal', 'featured'],
     isPublished: true,
@@ -27773,7 +27773,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Office Home & Student 2016 for Windows - Retail Box and Product Key Card'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/DSC00592.webp'],
     tags: ['best-seller'],
     isPublished: true,
@@ -27854,7 +27854,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Office Home & Student 2019 1 - PC ONLY - Digital License product key'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Homeandstudent-BIND.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -27933,7 +27933,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office Home & Student 2021 for Windows',
     slug: toSlug('Microsoft Office Home & Student 2021 for Windows'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Home_Student2021.webp'],
     tags: ['best-seller', 'todays-deal', 'featured'],
     isPublished: true,
@@ -28014,7 +28014,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Office Pro plus 2021 product key License digital ESD instant delivery'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Ofifce_pro_plus_2021.webp'],
     tags: ['todays-deal'],
     isPublished: true,
@@ -28093,7 +28093,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office Professional 2021 - Elite Pricing',
     slug: toSlug('Microsoft Office Professional 2021 - Elite Pricing'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/mso-pro-2021_ttt_2b492cc6-b178-4248-9202-7501f11fa0f4.webp',
     ],
@@ -28174,7 +28174,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office Professional Plus 2016 - Full Version',
     slug: toSlug('Microsoft Office Professional Plus 2016 - Full Version'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/Professional_plus_white_copy_b317cff7-ce16-4e25-a0ed-8ad0239c6d17.webp',
     ],
@@ -28257,7 +28257,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Office Professional Plus 2019 - Box Pack - Installer DVD & product key'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/IMG_1518.webp'],
     tags: ['best-seller', 'featured', 'todays-deal'],
     isPublished: true,
@@ -28336,7 +28336,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office Professional Plus 2019 - Full Version',
     slug: toSlug('Microsoft Office Professional Plus 2019 - Full Version'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Microsoft_Pro_Plus_2019_with_pro_plus.webp'],
     tags: ['best-seller', 'new-arrival', 'todays-deal'],
     isPublished: true,
@@ -28415,7 +28415,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office Professional Plus 2019 - License',
     slug: toSlug('Microsoft Office Professional Plus 2019 - License'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/MicrosoftOfficeProfessionalPlus2019-FullVersion.webp',
     ],
@@ -28498,7 +28498,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Office Professional Plus 2019 Product Key BIND Retail key'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/Office-2019-pro-plus-bind-product-key-bind-key.webp',
     ],
@@ -28579,7 +28579,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Office Professional Plus 2021 - Full Version',
     slug: toSlug('Microsoft Office Professional Plus 2021 - Full Version'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/2021OfficeNEWTILESPROPLUS_400x_5cb629e5-2444-4b31-8e9f-de62862093de.webp',
     ],
@@ -28662,7 +28662,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Office Professional Plus 2021 Product Key BIND Retail key'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Microsoft-office-2021-pro-plus-licence-key_1.webp'],
     tags: ['featured', 'new-arrival'],
     isPublished: true,
@@ -28741,7 +28741,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft OnAdobesiness Plan 1',
     slug: toSlug('Microsoft OnAdobesiness Plan 1'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/OneDrive_49a2fc90-2668-49ae-80bb-dd306908756f.webp'],
     tags: ['new-arrival', 'todays-deal'],
     isPublished: true,
@@ -28820,7 +28820,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft OnAdobesiness Plan 2',
     slug: toSlug('Microsoft OnAdobesiness Plan 2'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/OneDrivePlan2_550caa02-423a-4aaf-9dc1-6a206d771460.webp',
     ],
@@ -28901,7 +28901,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Power BI Premium P1',
     slug: toSlug('Microsoft Power BI Premium P1'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Power_BI.webp'],
     tags: ['featured'],
     isPublished: true,
@@ -28980,7 +28980,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Power BI Premium P1 - Government',
     slug: toSlug('Microsoft Power BI Premium P1 - Government'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Power_BIGOV.webp'],
     tags: ['todays-deal', 'new-arrival'],
     isPublished: true,
@@ -29059,7 +29059,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Power BI Premium P2 - Government',
     slug: toSlug('Microsoft Power BI Premium P2 - Government'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Power_BI_P2GOV.webp'],
     tags: ['featured'],
     isPublished: true,
@@ -29138,7 +29138,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Power BI Premium P3',
     slug: toSlug('Microsoft Power BI Premium P3'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/Power_BI_P2_7ac5e35d-6f88-4a98-9335-d7f4d026b496.webp',
     ],
@@ -29219,7 +29219,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Power BI Premium P3 - Government',
     slug: toSlug('Microsoft Power BI Premium P3 - Government'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Power_BI_P3GOV.webp'],
     tags: ['best-seller', 'new-arrival'],
     isPublished: true,
@@ -29298,7 +29298,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Power BI Pro',
     slug: toSlug('Microsoft Power BI Pro'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/PRO.webp'],
     tags: ['featured', 'todays-deal', 'new-arrival'],
     isPublished: true,
@@ -29377,7 +29377,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Power BI Pro - Government',
     slug: toSlug('Microsoft Power BI Pro - Government'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/PROGOV.webp'],
     tags: ['new-arrival', 'todays-deal'],
     isPublished: true,
@@ -29456,7 +29456,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Project Professional 2019 - Full Version',
     slug: toSlug('Microsoft Project Professional 2019 - Full Version'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/oldgreenProject_2019-Recovered_copy_400x_2e7f238c-bf23-42c1-bb1c-4d5b6e6043bd.webp',
     ],
@@ -29537,7 +29537,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Project Professional 2021 - Full Version',
     slug: toSlug('Microsoft Project Professional 2021 - Full Version'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/oldgreenProject_2019-Recovered_copy.webp'],
     tags: ['best-seller', 'todays-deal', 'featured'],
     isPublished: true,
@@ -29616,7 +29616,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Project Professional 2019',
     slug: toSlug('Microsoft Project Professional 2019'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/oldgreenProject_2019-Recovered_copy_028e551b-9caf-446b-9710-769494134e52.webp',
     ],
@@ -29699,7 +29699,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Project Professional 2019 32 or 64 bit Windows 1 PC'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Screenshot_2019-08-03_at_9.52.37_PM.webp'],
     tags: ['new-arrival', 'best-seller'],
     isPublished: true,
@@ -29778,7 +29778,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Project Professional 2019 Download Full Version',
     slug: toSlug('Microsoft Project Professional 2019 Download Full Version'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/ProductImage_Project.webp'],
     tags: ['featured', 'todays-deal', 'new-arrival'],
     isPublished: true,
@@ -29859,7 +29859,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Project Professional 2019 License Key Code Product USB Drive with License'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/MS-Project-Pro-2019-Win-V2_1024x1024_334e8ea0-7c6e-4661-a8b6-a566798022c3.webp',
     ],
@@ -29940,7 +29940,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft SharePoint Online Plan 1',
     slug: toSlug('Microsoft SharePoint Online Plan 1'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/SharePoint.webp'],
     tags: ['featured', 'best-seller', 'todays-deal'],
     isPublished: true,
@@ -30019,7 +30019,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft SharePoint Online Plan 1 - Government',
     slug: toSlug('Microsoft SharePoint Online Plan 1 - Government'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/SharePointGOV.webp'],
     tags: ['todays-deal'],
     isPublished: true,
@@ -30098,7 +30098,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft SharePoint Online Plan 2',
     slug: toSlug('Microsoft SharePoint Online Plan 2'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/SharePoint_ae349db3-854c-443c-a2ab-a5cfc534af69.webp',
     ],
@@ -30179,7 +30179,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft SharePoint Online Plan 2 - Government',
     slug: toSlug('Microsoft SharePoint Online Plan 2 - Government'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/SharePointGOV_16ea1f03-edc2-4f66-a985-1a3a0da31aaa.webp',
     ],
@@ -30260,7 +30260,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Sharepoint Server 2016',
     slug: toSlug('Microsoft Sharepoint Server 2016'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Sharepoint-server-2016.webp'],
     tags: ['todays-deal', 'featured'],
     isPublished: true,
@@ -30339,7 +30339,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Sharepoint Server 2019',
     slug: toSlug('Microsoft Sharepoint Server 2019'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Sharepoint-server-2019.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -30418,7 +30418,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft SQL Server 2012 Standard',
     slug: toSlug('Microsoft SQL Server 2012 Standard'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/SQL-server-2012.webp'],
     tags: ['todays-deal', 'new-arrival'],
     isPublished: true,
@@ -30499,7 +30499,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft SQL Server 2016 Standard Digital License Product Key'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Capture_aaac4775-32bb-4b23-bf46-dbf79a76b276.webp'],
     tags: ['featured', 'todays-deal', 'best-seller'],
     isPublished: true,
@@ -30580,7 +30580,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft SQL Server 2017 24 Cores Standard Digital License Product Key'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Capture_93d97903-3abd-4047-86c0-6556ddd266b9.webp'],
     tags: ['new-arrival', 'featured'],
     isPublished: true,
@@ -30661,7 +30661,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft SQL Server Standard 2014 Digital License Product Key'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Capture_1a0a8b54-1dd3-4a9f-a8cc-2a99c5991787.webp'],
     tags: ['best-seller', 'new-arrival', 'todays-deal'],
     isPublished: true,
@@ -30740,7 +30740,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Visio Professional 2019 - Full Version',
     slug: toSlug('Microsoft Visio Professional 2019 - Full Version'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/withstripVisio_Pro_2019-Recovered_copy.webp'],
     tags: ['featured'],
     isPublished: true,
@@ -30819,7 +30819,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Visio Professional 2019 Download Full Version',
     slug: toSlug('Microsoft Visio Professional 2019 Download Full Version'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/ProductImage_Visio.webp'],
     tags: ['new-arrival', 'todays-deal', 'featured'],
     isPublished: true,
@@ -30898,7 +30898,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Windows 10 Enterprise E3 - 1 Year Subscription',
     slug: toSlug('Microsoft Windows 10 Enterprise E3 - 1 Year Subscription'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/windows_10_blue_e3_year.webp'],
     tags: ['todays-deal', 'featured'],
     isPublished: true,
@@ -30979,7 +30979,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Windows 10 Enterprise E3 VDA - 1 Year Subscription'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/windows_10_blue_e3_year_3860f3b2-9f75-458d-890b-7c572b8a537a.webp',
     ],
@@ -31062,7 +31062,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Windows 10 Enterprise E5 with Advanced Threat Protection - 1 Year Subscription'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/windows10e5year_dcf01bec-6cac-41d5-87df-75d844baa0cb.webp',
     ],
@@ -31143,7 +31143,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Windows 10 Enterprise Lifetime License Key',
     slug: toSlug('Microsoft Windows 10 Enterprise Lifetime License Key'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Windows10Enterprise.webp'],
     tags: ['featured', 'todays-deal', 'new-arrival'],
     isPublished: true,
@@ -31224,7 +31224,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Windows 10 Home 32 or 64 Bit Retail License Key Code Product'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/Windows_10_Home_f907ec4c-8c6b-46df-99ee-e702ecf82ae7_1024x1024_2x_-_Edited.webp',
     ],
@@ -31307,7 +31307,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Windows 10 Home 32 or 64 Bit Standard License Key Code Product'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/Windows_10_Home_1024x1024_2x_-_Edited_3761c36e-89dd-4200-bfdc-c92f3e125cc0.webp',
     ],
@@ -31390,7 +31390,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Windows 10 Home Product Key 32/64 Bit (Retail Version) Digital'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/51839670_793684170999735_3480731841315471360_n_1700448a-deda-4622-8891-f60dcc6a386b.webp',
     ],
@@ -31473,7 +31473,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Windows 10 Pro 32 or 64 Bit Retail License Key Code Product'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/Windows_10_Pro_2_1024x1024_2x_-_Edited_92bd5694-0c44-4c1f-9618-003c6e1ab8d7.webp, /images/webp/Win10prousb.webp',
     ],
@@ -31556,7 +31556,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Windows 10 Pro 32 or 64 Bit Standard License Key Code Product'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Windows_10_Pro_2_1024x1024_2x_-_Edited.webp'],
     tags: ['new-arrival', 'todays-deal'],
     isPublished: true,
@@ -31637,7 +31637,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Windows 10 Pro 64 Bit OEM - Installer DVD & Product Key'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/s-l1600_1400x_ce4d46a8-9671-41ee-8586-363d3c99843c.webp',
     ],
@@ -31718,7 +31718,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Windows 10 Pro License Key - Full Version',
     slug: toSlug('Microsoft Windows 10 Pro License Key - Full Version'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/ProductImage_Windows10.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -31797,7 +31797,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Windows 10 Pro Lifetime License Key',
     slug: toSlug('Microsoft Windows 10 Pro Lifetime License Key'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/windows-10-pro-product-key_6e282e8c-bba9-414e-ad20-917623440dff.webp',
     ],
@@ -31878,7 +31878,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Windows 10 Professional License - 32/64 bit',
     slug: toSlug('Microsoft Windows 10 Professional License - 32/64 bit'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Windows_10_Pro_copy.webp'],
     tags: ['todays-deal'],
     isPublished: true,
@@ -31957,7 +31957,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Windows 11 Home 64 Bit License Key Code Product',
     slug: toSlug('Microsoft Windows 11 Home 64 Bit License Key Code Product'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/windows11-home.webp'],
     tags: ['featured', 'new-arrival', 'todays-deal'],
     isPublished: true,
@@ -32038,7 +32038,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Windows 11 Pro 32 or 64 Bit Retail License Key Code Product'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/w11-pro_2048x2048_85709649-af87-4d1d-89bc-0265fa56050e.webp',
     ],
@@ -32119,7 +32119,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Windows 11 Pro Professional Lifetime License Key',
     slug: toSlug('Microsoft Windows 11 Pro Professional Lifetime License Key'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Microsoft_Windows_11_Pro__Logiciel_1798474_30.webp'],
     tags: ['featured', 'best-seller', 'todays-deal'],
     isPublished: true,
@@ -32200,7 +32200,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Windows 11 Professional (5PC) - Lifetime Activation Key'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/Windows11Professional5PC_LifetimeActivationKey.webp',
     ],
@@ -32281,7 +32281,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Windows 11 Professional License - 64 bit',
     slug: toSlug('Microsoft Windows 11 Professional License - 64 bit'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/Windows11Prowith10tile_dc0cc424-f650-4ba4-9638-5008867d44fd.webp',
     ],
@@ -32364,7 +32364,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Windows 8.1 Pro 32 or 64 Bit Retail License Key Code Product'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/Windows_8.1_Pro_1024x1024_2x_-_Edited_75e4a792-03c1-4466-af80-bc0c5dd49216.webp',
     ],
@@ -32447,7 +32447,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Windows 8.1 Pro 32 or 64 Bit Standard License Key Code Product'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Windows_8.1_Pro_1024x1024_2x_-_Edited.webp'],
     tags: ['new-arrival', 'best-seller', 'featured'],
     isPublished: true,
@@ -32528,7 +32528,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Windows Server 2008 R2 Datacenter Product Key - Lifetime Activation for 1 PC'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/WindowsServer2008R2Datacenter.webp'],
     tags: ['todays-deal', 'new-arrival', 'best-seller'],
     isPublished: true,
@@ -32609,7 +32609,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Windows Server 2008 R2 Standard Product Key - Lifetime Activation for 1 PC'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/WindowsServer2008R2Standard.webp'],
     tags: ['best-seller'],
     isPublished: true,
@@ -32690,7 +32690,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Windows Server 2012 R2 Standard Edition - Lifetime Activation for 1 PC'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/WindowsServer2012R2Essentials.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -32769,7 +32769,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Windows Server 2016 Standard',
     slug: toSlug('Microsoft Windows Server 2016 Standard'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/server2016standard_large_f5d4c3cb-fc4d-453f-998f-31969903d894.webp',
     ],
@@ -32852,7 +32852,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Microsoft Windows Server 2019 Essentials Edition - Lifetime Activation for 1 PC'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/MicrosoftWindowsServer2019Essentials_2.webp'],
     tags: ['best-seller', 'featured', 'todays-deal'],
     isPublished: true,
@@ -32931,7 +32931,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Yammer Enterprise',
     slug: toSlug('Microsoft Yammer Enterprise'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Yammer.webp'],
     tags: ['best-seller', 'featured', 'todays-deal'],
     isPublished: true,
@@ -33010,7 +33010,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Microsoft Yammer Enterprise - Government',
     slug: toSlug('Microsoft Yammer Enterprise - Government'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/YammerGOV.webp'],
     tags: ['best-seller', 'featured'],
     isPublished: true,
@@ -33091,7 +33091,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'MobiSystems OfficeSuite Family - Instant Download for Windows'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/61wswmjlbll._ac_sl1500.webp'],
     tags: ['featured', 'todays-deal', 'best-seller'],
     isPublished: true,
@@ -33172,7 +33172,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'MobiSystems OfficeSuite Home & Business 2021 - Instant Download for Windows'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/61wz8alx49l._ac_sl1500.webp'],
     tags: ['todays-deal'],
     isPublished: true,
@@ -33253,7 +33253,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'MobiSystems OfficeSuite Personal - Instant Download for Windows'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/61zydhc5qvl._ac_sl1500.webp'],
     tags: ['best-seller'],
     isPublished: true,
@@ -33332,7 +33332,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'MobiSystems PDF Extra 2021 - Instant Download for Windows',
     slug: toSlug('MobiSystems PDF Extra 2021 - Instant Download for Windows'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/61qkiuufpdl._ac_sl1500.webp'],
     tags: ['featured', 'best-seller', 'new-arrival'],
     isPublished: true,
@@ -33413,7 +33413,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Movavi Video Converter 22 Premium Lifetime License Latest Version For windows'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/UHJN.webp'],
     tags: ['featured', 'new-arrival'],
     isPublished: true,
@@ -33494,7 +33494,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Movavi Video Editor Plus 22 Full Version for MacOS - Email Delivery'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: [
       '/images/webp/product_21_c05d1e4f-eec3-461f-808e-fe6e53fb9ffd.webp',
     ],
@@ -33577,7 +33577,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Movavi Video Editor Plus 22 Full Version for Windows - Email Delivery'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: [
       '/images/webp/product_20_932c0322-49e1-45f7-b27b-1f5d8c7f223b.webp',
     ],
@@ -33658,7 +33658,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Movavi Video Suite 2022 Lifetime License',
     slug: toSlug('Movavi Video Suite 2022 Lifetime License'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: [
       '/images/webp/movavi_mvs22pe_esd_video_suite_2022_personal_1682332_c58a08d2-04b8-4d06-bdf9-440d7ba0fbee.webp',
     ],
@@ -33741,7 +33741,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Movavi Video Suite 22 Lifetime License Latest Version For windows'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/PLM.webp'],
     tags: ['todays-deal', 'new-arrival'],
     isPublished: true,
@@ -33820,7 +33820,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'MS Office 2021 Lifetime license for Mac 16.63',
     slug: toSlug('MS Office 2021 Lifetime license for Mac 16.63'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/slider_ef57a58a-0050-4fee-aa72-bd7ea3f1c66a.webp'],
     tags: ['todays-deal', 'featured'],
     isPublished: true,
@@ -33980,7 +33980,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'New 2200 embroidery Designs-machine pattern',
     slug: toSlug('New 2200 embroidery Designs-machine pattern'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/Capture77.webp'],
     tags: ['featured'],
     isPublished: true,
@@ -34061,7 +34061,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Norton 360 Deluxe 1 Year/5 Devices - Instant Download for Windows and Mac'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/81giofgy6xl._ac_sl1500.webp'],
     tags: ['best-seller'],
     isPublished: true,
@@ -34140,7 +34140,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Norton 360 Deluxe Digital Download Email delivery',
     slug: toSlug('Norton 360 Deluxe Digital Download Email delivery'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Norton360deluxe.webp'],
     tags: ['featured', 'best-seller', 'new-arrival'],
     isPublished: true,
@@ -34221,7 +34221,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Norton 360 Premium 1 Year/10 Devices - Instant Download for Windows and Mac'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/81k2rre8g_2bl._ac_sl1500.webp'],
     tags: ['new-arrival', 'featured', 'best-seller'],
     isPublished: true,
@@ -34300,7 +34300,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Nuance Dragon Home 15 - Instant Download for Windows',
     slug: toSlug('Nuance Dragon Home 15 - Instant Download for Windows'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/713y1t_2b1s6l._ac_sl1500.webp'],
     tags: ['best-seller'],
     isPublished: true,
@@ -34381,7 +34381,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Nuance Dragon NaturallySpeaking Premium 13 Full Version for Windows'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/nuance-dragon-naturallyspeaking-premium-130-international-english-dns13prem.webp',
     ],
@@ -34462,7 +34462,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Nuance Dragon NaturallySpeaking Premium 13 Lifetime License',
     slug: toSlug('Nuance Dragon NaturallySpeaking Premium 13 Lifetime License'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/71TOY2ypeGL._AC_SL1500_973a9be2-41a1-483a-b16f-cee4c7e1668f.webp',
     ],
@@ -34545,7 +34545,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'NUANCE DRAGON NATURALLYSPEAKING PREMIUM 13 LIFETIME LICENSE FOR WINDOWS'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/0x720_16504974183b7bb0fc80.webp'],
     tags: ['todays-deal', 'best-seller', 'featured'],
     isPublished: true,
@@ -34624,7 +34624,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Nuance Dragon Professional 15',
     slug: toSlug('Nuance Dragon Professional 15'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/slide_f7b12063-7d3d-405c-9384-07ac54713db8-1.webp'],
     tags: ['best-seller', 'featured'],
     isPublished: true,
@@ -34705,7 +34705,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Nuance Dragon Professional 15 - Instant Download for Windows'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/71kqlcmc1cl._ac_sl1500.webp'],
     tags: ['featured', 'todays-deal', 'best-seller'],
     isPublished: true,
@@ -34784,7 +34784,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Nuance Dragon Professional Individual 15 Lifetime License',
     slug: toSlug('Nuance Dragon Professional Individual 15 Lifetime License'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/dragonprofessional.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -34865,7 +34865,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Nuance Dragon Professional Individual 15.61 Lifetime Activation for Windows'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/shopping-_4.webp'],
     tags: ['best-seller', 'todays-deal'],
     isPublished: true,
@@ -34946,7 +34946,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Nuance OmniPage Ultimate 19 Full Version with Lifetime License for Windows'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/61qjMw6p8oL._AC_SY741.webp'],
     tags: ['featured'],
     isPublished: true,
@@ -35025,7 +35025,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Nuance OmniPage Ultimate 19 Lifetime License',
     slug: toSlug('Nuance OmniPage Ultimate 19 Lifetime License'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/omnipage-ultimate-19_cc835b42-662e-495d-995a-e8503e76a3de.webp',
     ],
@@ -35108,7 +35108,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Nuance PaperPort Professional 14 Full Version - instant Delivery'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/product_9.webp'],
     tags: ['new-arrival', 'todays-deal'],
     isPublished: true,
@@ -35187,7 +35187,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Nuance PaperPort Professional 14.5 Full Version for Windows',
     slug: toSlug('Nuance PaperPort Professional 14.5 Full Version for Windows'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/4404744.webp'],
     tags: ['featured', 'best-seller'],
     isPublished: true,
@@ -35268,7 +35268,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Nuance PDF Converter Creator Professional 8.1 Full Version for Windows'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/PDFConverterPro8__98746_380x380_9599fdb6-7dab-4691-be7d-4b566b38343d.webp',
     ],
@@ -35351,7 +35351,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Nuance PDF Converter Creator Professional 8.1 Lifetime License'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/PDFConverterPro8__98746_380x380_6394f5dc-88fb-449d-bb13-1cc9030b0671.webp',
     ],
@@ -35434,7 +35434,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Nuance PowerPDF Advanced 3 Full Version with Lifetime License for Windows'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/nuance-power-pdf-advanced-3header.webp'],
     tags: ['best-seller', 'todays-deal', 'new-arrival'],
     isPublished: true,
@@ -35513,7 +35513,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Nuance PowerPDF Advanced 3 Lifetime License',
     slug: toSlug('Nuance PowerPDF Advanced 3 Lifetime License'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/nuance-power-pdf-advanced-3header_8e1a3c57-325e-4fe3-bc31-0436600b1d2c.webp',
     ],
@@ -35596,7 +35596,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Office 2016 Pro Plus 32/64 Bit Lifetime License Key For Windows Email delivery'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/office-professional-2016-international.webp'],
     tags: ['new-arrival', 'best-seller'],
     isPublished: true,
@@ -35677,7 +35677,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Office 2021 Pro Plus 32/64 Bit Lifetime License Key for Windows Email delivery'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Hcca573a4a7e0444b91de53e4a3b5c465N.webp'],
     tags: ['todays-deal', 'best-seller', 'featured'],
     isPublished: true,
@@ -35758,7 +35758,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Office 2021 Pro Plus 32/64 BIT Lifetime License Key For Mac Email Delivery'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/Hcca573a4a7e0444b91de53e4a3b5c465N_1024x1024_2x_08d2d837-fe83-4fcf-9fe6-5abd09a240a5.webp',
     ],
@@ -35841,7 +35841,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Office 2021 Pro Plus 32/64 Bit Lifetime License Key – For Windows'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Office-21.webp'],
     tags: ['best-seller', 'featured', 'new-arrival'],
     isPublished: true,
@@ -35920,7 +35920,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Parallels Desktop 12 for Mac - Instant Download for Mac',
     slug: toSlug('Parallels Desktop 12 for Mac - Instant Download for Mac'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/81ufejt8c4l._ac_sl1500.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -35999,7 +35999,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Parallels Desktop 16 for Mac - Instant Download for Mac',
     slug: toSlug('Parallels Desktop 16 for Mac - Instant Download for Mac'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/1607355986_1608195.webp'],
     tags: ['featured', 'todays-deal', 'new-arrival'],
     isPublished: true,
@@ -36078,7 +36078,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Parallels Desktop 17 for Mac - Instant Download for Mac',
     slug: toSlug('Parallels Desktop 17 for Mac - Instant Download for Mac'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/712wpw86inl._ac_sl1500.webp'],
     tags: ['todays-deal', 'featured', 'best-seller'],
     isPublished: true,
@@ -36159,7 +36159,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Parallels Desktop Business Edition v17 Full version For MacOS - Email Delivery'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/product_6fffcf04-277d-4cd0-a2e3-0652ce224805.webp'],
     tags: ['new-arrival', 'featured'],
     isPublished: true,
@@ -36321,7 +36321,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'PDF Editor Pro Software Editing -Create - Convert - Edit - Text and Unlock PDF LIFETIME ACTIVATION'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/s-l1000_325cfa03-2256-40d9-883e-d520b8a9747d.webp'],
     tags: ['todays-deal'],
     isPublished: true,
@@ -36402,7 +36402,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'PDF Editor Software Editing -Create - Convert - Edit - Text and Images Lifetime activation'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/s-l1000.webp'],
     tags: ['best-seller', 'featured', 'todays-deal'],
     isPublished: true,
@@ -36483,7 +36483,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'PDFZilla PDF Editor and Converter (Windows) LIFETIME ACTIVATION'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/s-l1000_fea42352-8c7f-461b-afed-62d79f18e195.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -36641,7 +36641,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'PHOTOSHOP 2022 FOR WINDOWS Lifetime',
     slug: toSlug('PHOTOSHOP 2022 FOR WINDOWS Lifetime'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/pp.webp'],
     tags: ['todays-deal', 'best-seller'],
     isPublished: true,
@@ -36722,7 +36722,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Photoshop 2022 Full version Lifetime Fast Delivery For Windows'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/image_7533a56b-ce91-4fb6-a0fa-34463969b167.webp'],
     tags: ['new-arrival', 'featured', 'todays-deal'],
     isPublished: true,
@@ -36801,7 +36801,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Pinnacle Studio 24 Ultimate - Instant Download for Windows',
     slug: toSlug('Pinnacle Studio 24 Ultimate - Instant Download for Windows'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/1600161632_1585447.webp'],
     tags: ['featured', 'new-arrival'],
     isPublished: true,
@@ -36880,7 +36880,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Pinnacle Studio 25 Ultimate - Instant Download for Windows',
     slug: toSlug('Pinnacle Studio 25 Ultimate - Instant Download for Windows'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/61bujxc0pql._ac_sl1500.webp'],
     tags: ['featured', 'todays-deal'],
     isPublished: true,
@@ -36961,7 +36961,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Pinnacle Studio Ultimate 26 Lifetime License Latest Version For windows'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/OKKP.webp'],
     tags: ['new-arrival', 'todays-deal'],
     isPublished: true,
@@ -37042,7 +37042,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Pioneer DJ Rekordbox 6 Full version For Windows - Email Delivery'
     ),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: ['/images/webp/SoftwareForwindows_2.webp'],
     tags: ['new-arrival', 'featured'],
     isPublished: true,
@@ -37121,7 +37121,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Pixologic ZBrush 2022 Lifetime License',
     slug: toSlug('Pixologic ZBrush 2022 Lifetime License'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/ZB-P-22-1__06011.webp'],
     tags: ['best-seller', 'featured', 'todays-deal'],
     isPublished: true,
@@ -37200,7 +37200,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Pixologic ZBrush 2022 Lifetime License for Windows',
     slug: toSlug('Pixologic ZBrush 2022 Lifetime License for Windows'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/GJDHSB.webp'],
     tags: ['best-seller', 'featured'],
     isPublished: true,
@@ -37281,7 +37281,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Pixologic ZBrush 2022 Lifetime License for Windows Fast service'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/GJDHSB._2e6da87a-c323-450e-9c71-d43710cea2ef.webp'],
     tags: ['best-seller', 'featured', 'todays-deal'],
     isPublished: true,
@@ -37360,7 +37360,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'PowerdAdoberlink 21 New. Lifetime -instant Delivery',
     slug: toSlug('PowerdAdoberlink 21 New. Lifetime -instant Delivery'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/product_10.webp'],
     tags: ['todays-deal', 'new-arrival'],
     isPublished: true,
@@ -37441,7 +37441,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'PREMIUM Microsoft Office Professional Plus 2019 Product Key FPP Retail.'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/51839670_793684170999735_3480731841315471360_n_de70ed14-29e8-4a9a-b95d-40c01f773c3b.webp',
     ],
@@ -37524,7 +37524,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Presonus Studio One 5 Professional Full Version Fast service'
     ),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: ['/images/webp/PLKL_d5f0fdd9-9a09-4938-a78f-a83db2eea729.webp'],
     tags: ['featured'],
     isPublished: true,
@@ -37605,7 +37605,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Presonus Studio One 5 Professional Full Version Lifetime Key'
     ),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: ['/images/webp/PLKL.webp'],
     tags: ['new-arrival', 'best-seller'],
     isPublished: true,
@@ -37686,7 +37686,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'PRO STX PDF Converter Viewer & Editor Easy Convert + Edit Word to PDF Text DVD LIFETIME ACTIVATION'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/s-l1000.webp'],
     tags: ['featured'],
     isPublished: true,
@@ -37765,7 +37765,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Project Professional 2016',
     slug: toSlug('Project Professional 2016'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Project-2016-professional.webp'],
     tags: ['best-seller', 'featured'],
     isPublished: true,
@@ -37846,7 +37846,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Punch! Home & Landscape Design Essentials v21 - Instant Download for Windows'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/81vmuzdoa-l._ac_sl1406.webp'],
     tags: ['best-seller'],
     isPublished: true,
@@ -37927,7 +37927,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Punch! Home & Landscape Design Professional v21 - Instant Download for Mac'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/phd-professional-mac-v21-front_6.webp'],
     tags: ['featured', 'best-seller', 'todays-deal'],
     isPublished: true,
@@ -38008,7 +38008,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Punch! Home & Landscape Design Studio v21 - Instant Download for Windows'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/71aaq9h3pol._ac_sl1406.webp'],
     tags: ['new-arrival', 'best-seller', 'todays-deal'],
     isPublished: true,
@@ -38087,7 +38087,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'QuarkXPress 2022 Lifetime License',
     slug: toSlug('QuarkXPress 2022 Lifetime License'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/logomark-qxp-2021.webp'],
     tags: ['best-seller', 'new-arrival'],
     isPublished: true,
@@ -38245,7 +38245,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Rhinoceros 3D 7 2021 Lifetime License',
     slug: toSlug('Rhinoceros 3D 7 2021 Lifetime License'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/download_7.webp'],
     tags: ['featured', 'best-seller'],
     isPublished: true,
@@ -38326,7 +38326,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Rhinoceros 3D v7 Full Version with Lifetime License for Windows'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SNDSD.webp'],
     tags: ['new-arrival', 'featured', 'todays-deal'],
     isPublished: true,
@@ -38407,7 +38407,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Rhinoceros 3D v7 Full Version with Lifetime License for Windows Fast service'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SNDSD_e48a5137-de75-4865-abaa-2feba7887016.webp'],
     tags: ['todays-deal', 'new-arrival', 'best-seller'],
     isPublished: true,
@@ -38486,7 +38486,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Roxio Creator NXT Pro 8 Lifetime License',
     slug: toSlug('Roxio Creator NXT Pro 8 Lifetime License'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/6445000_sd_1.webp'],
     tags: ['best-seller', 'new-arrival'],
     isPublished: true,
@@ -38567,7 +38567,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Roxio Easy CD & DVD Burning 2 | Disc Burner & Video Capture Software ACTIVATION LIFETIME'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/71DjNLyzK7L._AC_SL1500.webp'],
     tags: ['todays-deal'],
     isPublished: true,
@@ -38648,7 +38648,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Sage Software Sage 50 Premium Accounting 2022 - Instant Download for Windows'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/51temavzpvl._ac_sl1000.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -38729,7 +38729,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Serato Studio 1.7.0 Full version For Windows - Email Delivery'
     ),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: ['/images/webp/SoftwareForwindows_3.webp'],
     tags: ['featured', 'best-seller'],
     isPublished: true,
@@ -38810,7 +38810,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'SharePoint Server Enterprise 2019 Project 25 CALS Digital License Product Key'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/1.webp'],
     tags: ['todays-deal'],
     isPublished: true,
@@ -38968,7 +38968,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'SketchUp Pro 2021 FOR WINDOWS Lifetime',
     slug: toSlug('SketchUp Pro 2021 FOR WINDOWS Lifetime'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/Y9.webp'],
     tags: ['new-arrival', 'todays-deal', 'best-seller'],
     isPublished: true,
@@ -39049,7 +39049,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'SketchUp Pro 2021 Full Version with Lifetime License for Windows'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: [
       '/images/webp/sketchup-pro-2021-full-version-for-macos_6116834f803e1.webp',
     ],
@@ -39130,7 +39130,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'SketchUp Pro 2021 Lifetime License',
     slug: toSlug('SketchUp Pro 2021 Lifetime License'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/104310_sketchup-pro-de-elmtec-2.webp'],
     tags: ['todays-deal', 'new-arrival'],
     isPublished: true,
@@ -39209,7 +39209,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'SketchUp Pro 2022 Lifetime License',
     slug: toSlug('SketchUp Pro 2022 Lifetime License'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/620b340b93829.webp'],
     tags: ['featured', 'new-arrival'],
     isPublished: true,
@@ -39288,7 +39288,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'SketchUp Pro 2022 Lifetime License for Windows',
     slug: toSlug('SketchUp Pro 2022 Lifetime License for Windows'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/GHDSTDS.webp'],
     tags: ['todays-deal', 'best-seller', 'new-arrival'],
     isPublished: true,
@@ -39367,7 +39367,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'SketchUp Pro 2022 Lifetime License for Windows Fast service',
     slug: toSlug('SketchUp Pro 2022 Lifetime License for Windows Fast service'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/GHDSTDS_e47f0ba5-33b3-4dbb-b4e9-e741fa3802fe.webp'],
     tags: ['todays-deal'],
     isPublished: true,
@@ -39529,7 +39529,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'SolidWorks 2021 Full Version Premium For Windows - Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: [
       '/images/webp/product_22_844353e6-f1d3-43c7-83fe-1a4b364a9477.webp',
     ],
@@ -39612,7 +39612,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'SOLIDWORKS 2021 FULL VERSION WITH LIFETIME LICENSE FOR WINDOWS'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/Capture_b6aad311-9a95-4e73-a5a6-f0dec34ffd75.webp'],
     tags: ['featured', 'new-arrival'],
     isPublished: true,
@@ -39693,7 +39693,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'SolidWorks 2022 Premium Full Version With Lifetime License For Windows'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/sw22-1.webp'],
     tags: ['best-seller'],
     isPublished: true,
@@ -39855,7 +39855,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Steinberg Cubase 11 Pro full version for MacOS - Email Delivery'
     ),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: [
       '/images/webp/product_24_f9ab6e3c-2bab-4343-8f4c-6b69a6dcfb08.webp',
     ],
@@ -39936,7 +39936,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Steinberg Cubase Pro 12 Lifetime License Last Full Version',
     slug: toSlug('Steinberg Cubase Pro 12 Lifetime License Last Full Version'),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: ['/images/webp/slide_3f16b36d-8f5e-4f83-96fa-1968c58422d5-1.webp'],
     tags: ['best-seller'],
     isPublished: true,
@@ -40017,7 +40017,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Steinberg Cubase Pro 12 Lifetime License Latest Version For windows'
     ),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: ['/images/webp/JIJK.webp'],
     tags: ['best-seller', 'todays-deal'],
     isPublished: true,
@@ -40098,7 +40098,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Stellar Photo Recovery Full version For Windows - Email Delivery'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/SoftwareForwindows_4.webp'],
     tags: ['featured', 'best-seller'],
     isPublished: true,
@@ -40177,7 +40177,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'TechSmith Camtasia 2021 Windows Email Delivery',
     slug: toSlug('TechSmith Camtasia 2021 Windows Email Delivery'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/TechSmithCamtasia.webp'],
     tags: ['featured', 'new-arrival'],
     isPublished: true,
@@ -40256,7 +40256,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'The Print Shop Deluxe 6.0 - Instant Download for Windows',
     slug: toSlug('The Print Shop Deluxe 6.0 - Instant Download for Windows'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/71lewvwh09l._ac_sl1375.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -40337,7 +40337,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'The Print Shop Professional 6.0 - Instant Download for Windows'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/71e-xtazjdl._ac_sl1375.webp'],
     tags: ['todays-deal'],
     isPublished: true,
@@ -40418,7 +40418,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Toontrack Superior Drummer Full Version 3.2 for Mac - Email Delivery'
     ),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: [
       '/images/webp/product_25_dd2401a9-4920-4c85-b0de-d88423d6e7a3.webp',
     ],
@@ -40501,7 +40501,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Toontrack Superior Drummer Full Version 3.2 For Windows - Email Delivery'
     ),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: [
       '/images/webp/product_26_35f23227-8012-4e9d-adc2-d22c8975fede.webp',
     ],
@@ -40584,7 +40584,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Topaz Gigapixel AI 6.2.1 Lifetime License Latest Version For windows'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/HUJ.webp'],
     tags: ['todays-deal', 'best-seller', 'new-arrival'],
     isPublished: true,
@@ -40665,7 +40665,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Trimble Tekla Tedds 2021 SP2 v23.2 for windows - Email Delivery'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: [
       '/images/webp/product_22_760495ae-d10c-44ba-92d3-20bddba37f6d.webp',
     ],
@@ -40746,7 +40746,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'TurboCAD Designer 2022 - Instant Download for Windows',
     slug: toSlug('TurboCAD Designer 2022 - Instant Download for Windows'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/turbocad-designer-6.webp'],
     tags: ['best-seller', 'featured'],
     isPublished: true,
@@ -40825,7 +40825,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'TurboCAD Mac Deluxe 2D/3D v12 - Instant Download for Mac',
     slug: toSlug('TurboCAD Mac Deluxe 2D/3D v12 - Instant Download for Mac'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/71wnkksplll._ac_sl1413.webp'],
     tags: ['best-seller'],
     isPublished: true,
@@ -40904,7 +40904,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'TurboCAD Mac Designer 2D v12 - Instant Download for Mac',
     slug: toSlug('TurboCAD Mac Designer 2D v12 - Instant Download for Mac'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/71gakeoukul._ac_sl1413.webp'],
     tags: ['todays-deal'],
     isPublished: true,
@@ -40983,7 +40983,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'TurboCAD Mac Pro v12 - Instant Download for Mac',
     slug: toSlug('TurboCAD Mac Pro v12 - Instant Download for Mac'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/71pxx6wt9jl._ac_sl1413.webp'],
     tags: ['todays-deal', 'new-arrival', 'featured'],
     isPublished: true,
@@ -41062,7 +41062,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'TurboCAD Platinum 2022 - Instant Download for Windows',
     slug: toSlug('TurboCAD Platinum 2022 - Instant Download for Windows'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/turbocad-platinum-7.webp'],
     tags: ['best-seller', 'new-arrival', 'featured'],
     isPublished: true,
@@ -41143,7 +41143,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'V-Ray Advanced 5.1 For 3ds Max Full Version with Lifetime License for Windows'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/VRFGFGH.webp'],
     tags: ['best-seller', 'todays-deal'],
     isPublished: true,
@@ -41224,7 +41224,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'V-Ray Advanced 5.1 For SketchUp Full Version with Lifetime License for Windows'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/vrayjsh.webp'],
     tags: ['todays-deal', 'featured', 'new-arrival'],
     isPublished: true,
@@ -41303,7 +41303,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Vectorworks 2021 Lifetime License',
     slug: toSlug('Vectorworks 2021 Lifetime License'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/image.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -41382,7 +41382,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Vectorworks 2021 Lifetime License for Windows',
     slug: toSlug('Vectorworks 2021 Lifetime License for Windows'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/nnnndd.webp'],
     tags: ['new-arrival', 'featured', 'todays-deal'],
     isPublished: true,
@@ -41461,7 +41461,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Vectorworks 2021 Lifetime License for Windows Fast service',
     slug: toSlug('Vectorworks 2021 Lifetime License for Windows Fast service'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/nnnndd_09dfd8c4-4374-4d31-9b61-0fec95b9e456.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -41542,7 +41542,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Vectorworks 2022 Full Version with Lifetime License for Windows'
     ),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/vectorworks-2022.webp'],
     tags: ['new-arrival', 'best-seller'],
     isPublished: true,
@@ -41621,7 +41621,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Vectorworks 2022 Lifetime License',
     slug: toSlug('Vectorworks 2022 Lifetime License'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/SUJygxu.webp'],
     tags: ['best-seller'],
     isPublished: true,
@@ -41700,7 +41700,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Vectorworks 2022 Lifetime License for Windows',
     slug: toSlug('Vectorworks 2022 Lifetime License for Windows'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: ['/images/webp/VICTRTFGFH.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -41779,7 +41779,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Vectorworks 2022 Lifetime License for Windows Fast service',
     slug: toSlug('Vectorworks 2022 Lifetime License for Windows Fast service'),
-    category: 'Architecture & Construction Software',
+    category: 'Architecture and Construction',
     images: [
       '/images/webp/VICTRTFGFH_476ab340-c8e8-4ab4-8966-fb2ef7b83675.webp',
     ],
@@ -41860,7 +41860,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'VEGAS Movie Studio 14 Suite - Instant Download for Windows',
     slug: toSlug('VEGAS Movie Studio 14 Suite - Instant Download for Windows'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/710om3zjjal._ac.webp'],
     tags: ['todays-deal', 'featured', 'new-arrival'],
     isPublished: true,
@@ -41941,7 +41941,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'VirtualDJ 2021 Pro Infinity 8.5.6 Full version - Email Delivery'
     ),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: ['/images/webp/product_11.webp'],
     tags: ['featured', 'best-seller'],
     isPublished: true,
@@ -42020,7 +42020,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'VirtualDJ Pro Infinity 2021 Lifetime License',
     slug: toSlug('VirtualDJ Pro Infinity 2021 Lifetime License'),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: ['/images/webp/q70h8-TTTEo9fvsl-Xn-AEoa-CU02-Ow-Mywe2.webp'],
     tags: ['featured'],
     isPublished: true,
@@ -42099,7 +42099,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'VirtualDJ Pro Infinity 2021 Lifetime License for Windows',
     slug: toSlug('VirtualDJ Pro Infinity 2021 Lifetime License for Windows'),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: ['/images/webp/NCFGF.webp'],
     tags: ['new-arrival', 'featured'],
     isPublished: true,
@@ -42178,7 +42178,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Visio Professional 2016',
     slug: toSlug('Visio Professional 2016'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/visio-2016-professional.webp'],
     tags: ['best-seller', 'featured', 'todays-deal'],
     isPublished: true,
@@ -42259,7 +42259,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Visio Professional Plus 2019 (Pro) plus Key Global Works 32/64 bits'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/test_4a793d6a-bbfe-4f30-8399-8319e05f5425.webp'],
     tags: ['todays-deal', 'new-arrival', 'featured'],
     isPublished: true,
@@ -42338,7 +42338,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'VMWare Fusion 12 Pro Product Key Lifetime',
     slug: toSlug('VMWare Fusion 12 Pro Product Key Lifetime'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Vmware-Fusion-12.webp'],
     tags: ['best-seller'],
     isPublished: true,
@@ -42417,7 +42417,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'VMware ThinApp Enterprise 2203 For Windows - Email Delivery',
     slug: toSlug('VMware ThinApp Enterprise 2203 For Windows - Email Delivery'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/SoftwareForwindows_89.webp'],
     tags: ['best-seller', 'featured', 'new-arrival'],
     isPublished: true,
@@ -42498,7 +42498,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'VMware Workstation 16 Pro - Lifetime License Key - EMAIL DELIVERY'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/product_12.webp'],
     tags: ['featured'],
     isPublished: true,
@@ -42579,7 +42579,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'VMware Workstation 16 Pro for Windows Lifetime License Key INSTANT DELIVERY'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/vmw_icon_workstationpro_d_1000x1000_1_1.webp'],
     tags: ['best-seller'],
     isPublished: true,
@@ -42660,7 +42660,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'WavePad Free Audio Editor – Create Music and Sound Tracks with Audio Editing Tools and Effects [Download]'
     ),
-    category: 'Music & Audio Production',
+    category: 'Music Production',
     images: ['/images/webp/B1HPw_BmlXS._AC.webp'],
     tags: ['featured', 'todays-deal', 'new-arrival'],
     isPublished: true,
@@ -42739,7 +42739,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Webroot Business Endpoint Protection (New License) 1 Year',
     slug: toSlug('Webroot Business Endpoint Protection (New License) 1 Year'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/webroot-logo.webp'],
     tags: ['new-arrival', 'best-seller'],
     isPublished: true,
@@ -42818,7 +42818,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Wilcom embroidery software e4.2 2 Key LifeTime for windows',
     slug: toSlug('Wilcom embroidery software e4.2 2 Key LifeTime for windows'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/nos.webp'],
     tags: ['best-seller', 'todays-deal', 'featured'],
     isPublished: true,
@@ -42899,7 +42899,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Wilcom embroidery software e4.2 2 Key LifeTime for windows Fast service'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/nos_d41282f5-20a5-4f2e-8ea3-db5d67c3ae8c.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -42980,7 +42980,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Windows 10 Enterprise LTSC 2019 Product Key License Digital - Instant'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/51839670_793684170999735_3480731841315471360_n_bf16a100-88f2-4ec1-85d7-2f89a5ba950f.webp',
     ],
@@ -43061,7 +43061,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Windows 10 Enterprise LTSC 2021',
     slug: toSlug('Windows 10 Enterprise LTSC 2021'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Win10-LTS.webp'],
     tags: ['new-arrival', 'featured'],
     isPublished: true,
@@ -43142,7 +43142,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Windows 10 Home 32/64 Bit Lifetime License Key Email delivery'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/WhatsAppImage2022-05-23at17.31.49.webp'],
     tags: ['new-arrival', 'best-seller'],
     isPublished: true,
@@ -43223,7 +43223,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Windows 10 Pro 32/64 Bit Lifetime License Key Email delivery'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/WhatsAppImage2022-05-23at17.27.50.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -43304,7 +43304,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Windows 10 PRO Professional License - ESD DIGITAL ACTIVATE ONLY Special Key.'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Windows10-professional-ESD-keys.direct.webp'],
     tags: ['todays-deal', 'featured'],
     isPublished: true,
@@ -43383,7 +43383,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Windows 10 Professional License Key',
     slug: toSlug('Windows 10 Professional License Key'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/10pro_1024x1024_2x_a3d77f09-cd95-4074-a963-b1758deaf389.webp',
     ],
@@ -43466,7 +43466,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Windows 11 Home product key License digital ESD instant delivery'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/win-11-homeo.webp'],
     tags: ['featured', 'todays-deal', 'best-seller'],
     isPublished: true,
@@ -43547,7 +43547,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Windows 11 Pro 32/64 Bit Lifetime License Key Email delivery'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/WhatsAppImage2022-05-23at17.11.45.webp'],
     tags: ['featured', 'new-arrival', 'todays-deal'],
     isPublished: true,
@@ -43628,7 +43628,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Windows 11 Pro for workstation product key License digital ESD instant delivery'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/win-11-pro.webp'],
     tags: ['featured', 'todays-deal'],
     isPublished: true,
@@ -43707,7 +43707,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Windows 11 Pro License Key',
     slug: toSlug('Windows 11 Pro License Key'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/windows11professional_1024x1024_2x_8f8ff28f-ef5e-42ae-8410-2e5039d6701c.webp',
     ],
@@ -43790,7 +43790,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Windows 11 Pro product key License digital ESD instant delivery'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/windowsPro11.webp'],
     tags: ['todays-deal'],
     isPublished: true,
@@ -43871,7 +43871,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Windows 11 Pro with MS Office 2021 Pro Plus Full version For Windows - Email Delivery'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/SoftwareForwindows_6.webp'],
     tags: ['best-seller', 'featured', 'todays-deal'],
     isPublished: true,
@@ -43950,7 +43950,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Windows 7 Enterprise Product Key License',
     slug: toSlug('Windows 7 Enterprise Product Key License'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/5e6e0cf65cfed_468030b.webp'],
     tags: ['featured', 'new-arrival'],
     isPublished: true,
@@ -44029,7 +44029,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Windows 7 Ultimate Lifetime License Key',
     slug: toSlug('Windows 7 Ultimate Lifetime License Key'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/windows-7.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -44110,7 +44110,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Windows 7 Ultimate Product Key License (Retail version) 32 & 64 Bit'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/windows-7-ultimate_1.webp'],
     tags: ['new-arrival', 'best-seller'],
     isPublished: true,
@@ -44191,7 +44191,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Windows 8.1 Enterprise 32/64-bit Product Key Digital license'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/windows8.1.webp'],
     tags: ['featured'],
     isPublished: true,
@@ -44272,7 +44272,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Windows Movie Maker 2022 Full version For Windows - Email Delivery'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/SoftwareForwindows_7.webp'],
     tags: ['featured', 'new-arrival', 'todays-deal'],
     isPublished: true,
@@ -44351,7 +44351,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Windows Server 2016 DataCenter 16 core Product key',
     slug: toSlug('Windows Server 2016 DataCenter 16 core Product key'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Windows-server-2016-16-core.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -44430,7 +44430,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Windows Server 2016 DataCenter 32 core product key',
     slug: toSlug('Windows Server 2016 DataCenter 32 core product key'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Windows-server-2016-datacenter-32-core.webp'],
     tags: ['best-seller', 'new-arrival'],
     isPublished: true,
@@ -44509,7 +44509,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Windows Server 2016 Standard 16 core product key',
     slug: toSlug('Windows Server 2016 Standard 16 core product key'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/windows-server-standard-2016-15-core.webp'],
     tags: ['featured', 'new-arrival'],
     isPublished: true,
@@ -44588,7 +44588,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Windows Server 2016 Standard 32 core product key',
     slug: toSlug('Windows Server 2016 Standard 32 core product key'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Windows-server-2016-32-core.webp'],
     tags: ['best-seller', 'todays-deal'],
     isPublished: true,
@@ -44667,7 +44667,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Windows Server 2019 DataCenter 16 core product key',
     slug: toSlug('Windows Server 2019 DataCenter 16 core product key'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/windows-server-2019-16-core_57f47710-423a-4a03-b659-8bf16803efb0.webp',
     ],
@@ -44748,7 +44748,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Windows Server 2019 DataCenter 32 core Product key',
     slug: toSlug('Windows Server 2019 DataCenter 32 core Product key'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/windows-server-2019-32-core_e2a63f19-3146-493c-8990-164a4525dfea.webp',
     ],
@@ -44829,7 +44829,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Windows Server 2019 DataCenter 8 core Product key',
     slug: toSlug('Windows Server 2019 DataCenter 8 core Product key'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Windows-Server-2019-DataCenter-8-core.webp'],
     tags: ['new-arrival'],
     isPublished: true,
@@ -44908,7 +44908,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'WINDOWS SERVER 2019 STANDARD',
     slug: toSlug('WINDOWS SERVER 2019 STANDARD'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/MS_Win_Server_2019_Standard_16_core_380x380_b2d7d70f-8084-4c68-8f75-6483bebd765e.webp',
     ],
@@ -44989,7 +44989,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Windows Server 2019 Standard 16 Core',
     slug: toSlug('Windows Server 2019 Standard 16 Core'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/windows-server-2019-16-core.webp'],
     tags: ['todays-deal'],
     isPublished: true,
@@ -45068,7 +45068,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Windows Server 2019 Standard 32 core Product key',
     slug: toSlug('Windows Server 2019 Standard 32 core Product key'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/windows-server-2019-32-core.webp'],
     tags: ['best-seller', 'featured', 'todays-deal'],
     isPublished: true,
@@ -45147,7 +45147,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Windows Server 2019 Standard 8 Core product key',
     slug: toSlug('Windows Server 2019 Standard 8 Core product key'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/windows-server-2019-8-core.webp'],
     tags: ['todays-deal'],
     isPublished: true,
@@ -45226,7 +45226,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Windows Server 2022 DataCenter 16 core product key',
     slug: toSlug('Windows Server 2022 DataCenter 16 core product key'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Windows-Server-2022-DataCenter-16-Cores.webp'],
     tags: ['new-arrival', 'featured', 'todays-deal'],
     isPublished: true,
@@ -45305,7 +45305,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Windows Server 2022 DataCenter 32 Cores product key',
     slug: toSlug('Windows Server 2022 DataCenter 32 Cores product key'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Windows-Server-2022-DataCenter-8-core.webp'],
     tags: ['featured', 'best-seller', 'new-arrival'],
     isPublished: true,
@@ -45384,7 +45384,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Windows Server 2022 Datacenter 8 Cores product key',
     slug: toSlug('Windows Server 2022 Datacenter 8 Cores product key'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: [
       '/images/webp/Windows-Server-2022-DataCenter-8-Cores_48cef92c-e0c4-4915-8bbb-309913adc7ca.webp',
     ],
@@ -45467,7 +45467,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Windows Server 2022 RDS Device CAL Product key RETAIL license'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/P2.webp'],
     tags: ['best-seller', 'new-arrival', 'todays-deal'],
     isPublished: true,
@@ -45546,7 +45546,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Windows Server 2022 RDS User CAL Product key RETAIL license',
     slug: toSlug('Windows Server 2022 RDS User CAL Product key RETAIL license'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/P1.webp'],
     tags: ['todays-deal'],
     isPublished: true,
@@ -45625,7 +45625,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Windows Server 2022 Standard 16 cores product key',
     slug: toSlug('Windows Server 2022 Standard 16 cores product key'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Windows-Server-2022-Standard-16-cores.webp'],
     tags: ['todays-deal'],
     isPublished: true,
@@ -45704,7 +45704,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Windows Server 2022 Standard 32 cores product key',
     slug: toSlug('Windows Server 2022 Standard 32 cores product key'),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/Windows-Server-2022-Standard-32-cores.webp'],
     tags: ['featured', 'best-seller'],
     isPublished: true,
@@ -45866,7 +45866,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Winzip 26 Pro SUITE Archive Software RAR Compress Uncompress Zip Unzip for 5PCs'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/s-l1000_23aa74c7-561a-4052-b0aa-52deff0d3b47.webp'],
     tags: ['new-arrival', 'featured', 'todays-deal'],
     isPublished: true,
@@ -45947,7 +45947,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Winzip 26 Pro SUITE Archive Software RAR Compress Uncompress Zip Unzip for 1PCs'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/s-l1000_b21d104b-2654-4975-b771-656e3af38db8.webp'],
     tags: ['todays-deal', 'featured'],
     isPublished: true,
@@ -46028,7 +46028,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Winzip 26 Pro SUITE Archive Software RAR Compress Uncompress Zip Unzip for 8PCs'
     ),
-    category: 'Productivity & Business Tools',
+    category: 'Productivity and Business',
     images: ['/images/webp/s-l1000_b2854f8d-73b7-4974-9b92-0b7187996fd1.webp'],
     tags: ['todays-deal', 'featured'],
     isPublished: true,
@@ -46109,7 +46109,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Wondershare filmora 2021 Latest version Lifetime - Email Delivery'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/product_6.webp'],
     tags: ['featured', 'new-arrival'],
     isPublished: true,
@@ -46190,7 +46190,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Wondershare Filmora X 10.7.8.12 Lifetime Activation for Windows'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: [
       '/images/webp/WhatsAppImage2021-12-31at9.16.49AM_500x_e400647c-c295-4711-8b09-e8fee3e70a97.webp',
     ],
@@ -46271,7 +46271,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'Wondershare Filmora X Email delivery',
     slug: toSlug('Wondershare Filmora X Email delivery'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/Filmora.webp'],
     tags: ['featured', 'new-arrival'],
     isPublished: true,
@@ -46350,7 +46350,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
   {
     name: 'WONDERSHARE FILMORA X FULL ACTIVATED VERSION FOR WINDOWS',
     slug: toSlug('WONDERSHARE FILMORA X FULL ACTIVATED VERSION FOR WINDOWS'),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/Capture_5e1308c4-1f57-40d2-a4b0-a4082cc71192.webp'],
     tags: ['todays-deal', 'best-seller', 'featured'],
     isPublished: true,
@@ -46431,7 +46431,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Wondershare Filmora X Lifetime License Latest Version For windows'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/OKLKP.webp'],
     tags: ['featured', 'new-arrival'],
     isPublished: true,
@@ -46512,7 +46512,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Xara Designer Pro V21.6 full version for Windows - Email Delivery'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: [
       '/images/webp/product_17_9512fe10-33b6-4de3-926c-ff0b5500a930.webp',
     ],
@@ -46595,7 +46595,7 @@ For any questions, issues, or support needs, please reach out to our team. We’
     slug: toSlug(
       'Autodesk Maya 2022 Lifetime License for Windows Fast service'
     ),
-    category: 'Creative & Design Software',
+    category: 'Creative and Design',
     images: ['/images/webp/MAYAPKLSMSD.webp'],
     tags: ['todays-deal', 'new-arrival'],
     isPublished: true,
@@ -47022,7 +47022,7 @@ Refunds are not available for software that has been downloaded, accessed, or us
       buttonCaption: 'Shop Now',
       image:
         '/images/Top Tools for Music Producers - Professional Studio Equipment and Software.webp',
-      url: '/search?category=Music & Audio Production',
+      url: '/search?category=Music Production',
       isPublished: true,
     },
     {
@@ -47030,7 +47030,7 @@ Refunds are not available for software that has been downloaded, accessed, or us
       buttonCaption: 'Shop Now',
       image:
         '/images/Best-Selling Tools for Designers - Creative Workspace and Design Software.webp',
-      url: '/search?category=Creative & Design Software',
+      url: '/search?category=Creative and Design',
       isPublished: true,
     },
     {
@@ -47038,7 +47038,7 @@ Refunds are not available for software that has been downloaded, accessed, or us
       buttonCaption: 'See More',
       image:
         '/images/Top Deals for Architects - Modern Architecture Tools and Software.webp',
-      url: '/search?category=Architecture & Construction Software',
+      url: '/search?category=Architecture and Construction',
       isPublished: true,
     },
   ],
@@ -47068,22 +47068,25 @@ Refunds are not available for software that has been downloaded, accessed, or us
       },
       carousels: [
         {
-          title: 'Most Popular Software For Sale',
+          title: 'Top Tools for Music Producers',
           buttonCaption: 'Shop Now',
-          image: '/images/banner3.jpg',
-          url: '/search?category=laptop solution',
+          image:
+            '/images/Top Tools for Music Producers - Professional Studio Equipment and Software.webp',
+          url: '/search?category=Music Production',
         },
         {
-          title: 'Best Sellers in Software',
+          title: 'Best-Selling Tools for Designers',
           buttonCaption: 'Shop Now',
-          image: '/images/banner1.jpg',
-          url: '/search?category=laptop solution',
+          image:
+            '/images/Best-Selling Tools for Designers - Creative Workspace and Design Software.webp',
+          url: '/search?category=Creative and Design',
         },
         {
-          title: 'Best Deals on Software',
+          title: 'Top Deals for Architects',
           buttonCaption: 'See More',
-          image: '/images/banner2.jpg',
-          url: '/search?category=laptop solution',
+          image:
+            '/images/Top Deals for Architects - Modern Architecture Tools and Software.webp',
+          url: '/search?category=Architecture and Construction',
         },
       ],
       availableLanguages: i18n.locales.map((locale) => ({
