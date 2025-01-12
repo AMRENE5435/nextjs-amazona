@@ -49,7 +49,7 @@ export default function SelectVariant({
       )}
       {product.sizes.length > 0 && (
         <div className='mt-2 space-x-2 space-y-2'>
-          <div>Size:</div>
+          <div>Operating System:</div>
           {product.sizes.map((x: string) => (
             <Button
               asChild
