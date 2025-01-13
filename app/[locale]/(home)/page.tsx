@@ -38,7 +38,7 @@ export default async function HomePage() {
       },
       items: categories.map((category) => ({
         name: category,
-        image: `/images/webp/${toSlug(category)}.webp`,
+        image: `/icons/${toSlug(category)}.png`,
         href: `/search?category=${category}`,
       })),
     },
