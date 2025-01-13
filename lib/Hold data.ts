@@ -17041,7 +17041,7 @@ Refunds are not available for software that has been downloaded, accessed, or us
   settings: [
     {
       common: {
-        freeShippingMinPrice: 35,
+        freeShippingMinPrice: 0,
         isMaintenanceMode: false,
         defaultTheme: 'Light',
         defaultColor: 'Green',

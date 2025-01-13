@@ -278,7 +278,7 @@ export const SettingInputSchema = z.object({
     defaultColor: z
       .string()
       .min(1, 'Default color is required')
-      .default('gold'),
+      .default('Green'),
   }),
   site: z.object({
     name: z.string().min(1, 'Name is required'),
