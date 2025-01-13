@@ -46,8 +46,14 @@
     "Related to items that you've viewed": "Related to items that you've viewed",
     "Your browsing history": "Your browsing history",
     "Top Tools for Music Producers": "Top Tools for Music Producers",
-    "Best Selling Tools for Designers": "BestSelling Tools for Designers",
-    "Top Deals for Architects": "Top Deals for Architects"
+    "Best Selling Tools for Designers": "Best Selling Tools for Designers",
+    "Top Deals for Architects": "Top Deals for Architects",
+    "Architecture and Construction": "Architecture and Construction",
+    "Creative and Design": "Creative and Design",
+    "Development and IT": "Development and IT",
+    "Music Production": "Music Production",
+    "Other": "Other",
+    "Productivity and Business": "Productivity and Business"
   },
   "Product": {
     "Added to Cart": "Added to Cart",
@@ -150,7 +156,13 @@
     "No product found": "No product found",
     "Next": "Next",
     "Previous": "Previous",
-    "Page": "Page"
+    "Page": "Page",
+    "Architecture and Construction": "Architecture and Construction",
+    "Creative and Design": "Creative and Design",
+    "Development and IT": "Development and IT",
+    "Music Production": "Music Production",
+    "Other": "Other",
+    "Productivity and Business": "Productivity and Business"
   },
   "Footer": {
     "Select a currency": "Select a currency",

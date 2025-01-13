@@ -17071,7 +17071,7 @@ Refunds are not available for software that has been downloaded, accessed, or us
           url: '/search?category=Music Production',
         },
         {
-          title: 'Best-Selling Tools for Designers',
+          title: 'Best Selling Tools for Designers',
           buttonCaption: 'Shop Now',
           image:
             '/images/Best-Selling Tools for Designers - Creative Workspace and Design Software.webp',

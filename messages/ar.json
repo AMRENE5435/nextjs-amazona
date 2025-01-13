@@ -47,7 +47,13 @@
     "Your browsing history": "سجل التصفح الخاص بك",
     "Top Tools for Music Producers": "أفضل الأدوات لمنتجي الموسيقى",
     "Best Selling Tools for Designers": "أفضل الأدوات مبيعًا للمصممين",
-    "Top Deals for Architects": "أفضل العروض للمهندسين المعماريين"
+    "Top Deals for Architects": "أفضل العروض للمهندسين المعماريين",
+    "Architecture and Construction": "الهندسة المعمارية والبناء",
+    "Creative and Design": "الإبداع والتصميم",
+    "Development and IT": "التطوير وتكنولوجيا المعلومات",
+    "Music Production": "إنتاج الموسيقى",
+    "Other": "أخرى",
+    "Productivity and Business": "الإنتاجية والأعمال"
   },
   "Product": {
     "Added to Cart": "أضيف إلى السلة",
@@ -150,7 +156,13 @@
     "No product found": "لم يتم العثور على منتج",
     "Next": "التالي",
     "Previous": "السابق",
-    "Page": "الصفحة"
+    "Page": "الصفحة",
+    "Architecture and Construction": "الهندسة المعمارية والبناء",
+    "Creative and Design": "الإبداع والتصميم",
+    "Development and IT": "التطوير وتكنولوجيا المعلومات",
+    "Music Production": "إنتاج الموسيقى",
+    "Other": "أخرى",
+    "Productivity and Business": "الإنتاجية والأعمال"
   },
 
   "Footer": {
