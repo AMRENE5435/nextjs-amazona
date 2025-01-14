@@ -17017,7 +17017,7 @@ Refunds are not available for software that has been downloaded, accessed, or us
       title: 'Top Tools for Music Producers',
       buttonCaption: 'Shop Now',
       image:
-        '/images/Top Tools for Music Producers - Professional Studio Equipment and Software.webp',
+        '/icons/Top_Tools_for_Music_Producers_-_Professional_Studio_Equipment_and_Software.jpeg',
       url: '/search?category=Music Production',
       isPublished: true,
     },
@@ -17025,7 +17025,7 @@ Refunds are not available for software that has been downloaded, accessed, or us
       title: 'Best Selling Tools for Designers',
       buttonCaption: 'Shop Now',
       image:
-        '/images/Best-Selling Tools for Designers - Creative Workspace and Design Software.webp',
+        '/icons/Best-Selling_Tools_for_Designers_-_Creative_Workspace_and_Design_Software.jpeg',
       url: '/search?category=Creative and Design',
       isPublished: true,
     },
@@ -17033,7 +17033,7 @@ Refunds are not available for software that has been downloaded, accessed, or us
       title: 'Top Deals for Architects',
       buttonCaption: 'See More',
       image:
-        '/images/Top Deals for Architects - Modern Architecture Tools and Software.webp',
+        '/icons/Top_Deals_for_Architects_-_Modern_Architecture_Tools_and_Software.jpeg',
       url: '/search?category=Architecture and Construction',
       isPublished: true,
     },
@@ -17067,21 +17067,21 @@ Refunds are not available for software that has been downloaded, accessed, or us
           title: 'Top Tools for Music Producers',
           buttonCaption: 'Shop Now',
           image:
-            '/images/Top Tools for Music Producers - Professional Studio Equipment and Software.webp',
+            '/icons/Top_Tools_for_Music_Producers_-_Professional_Studio_Equipment_and_Software.jpeg',
           url: '/search?category=Music Production',
         },
         {
           title: 'Best Selling Tools for Designers',
           buttonCaption: 'Shop Now',
           image:
-            '/images/Best-Selling Tools for Designers - Creative Workspace and Design Software.webp',
+            '/icons/Best-Selling_Tools_for_Designers_-_Creative_Workspace_and_Design_Software.jpeg',
           url: '/search?category=Creative and Design',
         },
         {
           title: 'Top Deals for Architects',
           buttonCaption: 'See More',
           image:
-            '/images/Top Deals for Architects - Modern Architecture Tools and Software.webp',
+            '/icons/Top_Deals_for_Architects_-_Modern_Architecture_Tools_and_Software.jpeg',
           url: '/search?category=Architecture and Construction',
         },
       ],

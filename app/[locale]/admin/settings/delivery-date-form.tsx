@@ -78,7 +78,7 @@ export default function DeliveryDateForm({
                 name={`availableDeliveryDates.${index}.daysToDeliver`}
                 render={({ field }) => (
                   <FormItem>
-                    {index == 0 && <FormLabel>Days</FormLabel>}
+                    {index == 0 && <FormLabel>Hours</FormLabel>}
                     <FormControl>
                       <Input {...field} placeholder='daysToDeliver' />
                     </FormControl>
