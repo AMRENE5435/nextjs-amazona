@@ -60,6 +60,7 @@ export default async function AppLayout({
       suppressHydrationWarning
     >
       <Head>
+        <link rel="icon" href="/favicon.ico" />
         <title>{setting.site.name}</title>
         <meta name='description' content={setting.site.description} />
       </Head>
