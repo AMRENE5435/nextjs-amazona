@@ -9,6 +9,7 @@ import { notFound } from 'next/navigation'
 import { getSetting } from '@/lib/actions/setting.actions'
 import { cookies } from 'next/headers'
 import Head from 'next/head'
+import Script from 'next/script'
 
 const geistSans = Geist({
   variable: '--font-geist-sans',
@@ -58,9 +59,7 @@ export default async function AppLayout({
       dir={getDirection(locale) === 'rtl' ? 'rtl' : 'ltr'}
       suppressHydrationWarning
     >
-      {/* Ajout des balises Head pour le favicon */}
       <Head>
-        {/* <link rel='icon' href='/icons/favicon.ico' type='image/x-icon' /> */}
         <title>{setting.site.name}</title>
         <meta name='description' content={setting.site.description} />
       </Head>
@@ -72,6 +71,19 @@ export default async function AppLayout({
             {children}
           </ClientProviders>
         </NextIntlClientProvider>
+        <Script
+          id='clarity-script'
+          strategy='afterInteractive'
+          dangerouslySetInnerHTML={{
+            __html: `
+              (function(c,l,a,r,i,t,y){
+                  c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+                  t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+                  y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+              })(window, document, "clarity", "script", "ptzdblmohq");
+            `,
+          }}
+        />
       </body>
     </html>
   )
