@@ -1,30 +1,30 @@
-import { getProducts } from '@/lib/getProducts' // L path dyal getProducts
-import { getAllPages } from '@/lib/getAllPages'
+// sitemap.js
+import { getProducts } from '@/lib/getProducts';
+import { getAllPages } from '@/lib/getAllPages';
 
 export default async function sitemap() {
-  const baseUrl = 'https://www.laptopsolution.tech' // URL dyal website dyalk
-  const pages = await getAllPages() // Jib l pages statiques
-  const products = await getProducts() // Jib l products dynamiques
+  const baseUrl = 'https://www.laptopsolution.tech'; // Website base URL
+  const pages = await getAllPages(); // Fetch static pages
+  const products = await getProducts(); // Fetch dynamic products
 
+  // Map static pages with dynamic titles
   const pageUrls = pages.map((page) => ({
     url: `${baseUrl}${page.path}`,
     lastModified: new Date(),
-    title: page.title, // Zid title dynamique
-  }))
+    title: page.title, // Include page title dynamically
+  }));
 
+  // Map dynamic products with all required details
   const productUrls = products.map((product) => ({
     url: `${baseUrl}/product/${product.slug}`,
     lastModified: product.lastModified,
-    title: product.name, // Title dyal product
-    price: product.price, // Price dyal product
-    image: product.image, // Image dyal product
-    osVersion: product.osVersion, // OS-version dyal product
-    rating: product.rating, // Rating dyal product
-    description: product.description, // Zid description
-  }))
+    title: product.name, // Product title
+    price: product.price, // Product price
+    image: product.image, // Product image
+    osVersion: product.osVersion, // Product OS version
+    rating: product.rating, // Product rating
+  }));
 
-  return [
-    ...pageUrls, // Zid l pages statiques
-    ...productUrls, // Zid l products dynamiques
-  ]
+  // Combine and return both static pages and dynamic products
+  return [...pageUrls, ...productUrls];
 }
