@@ -28,7 +28,9 @@ export default auth((req) => {
   )
   const isPublicPage = publicPathnameRegex.test(req.nextUrl.pathname)
 
-  if (isPublicPage) {
+  const isProductPage = req.nextUrl.pathname.startsWith('/product')
+
+  if (isPublicPage || isProductPage) {
     // return NextResponse.next()
     return intlMiddleware(req)
   } else {
@@ -48,5 +50,5 @@ export default auth((req) => {
 
 export const config = {
   // Skip all paths that should not be internationalized
-  matcher: ['/((?!api|_next|favicon.ico|.*\\..*).*)'],
+  matcher: ['/((?!api|_next|favicon.ico|logo.png|.*\\..*).*)'],
 }
