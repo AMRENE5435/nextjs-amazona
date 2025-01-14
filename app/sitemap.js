@@ -10,10 +10,10 @@ export default async function sitemap() {
     url: `${baseUrl}${page.path}`,
     lastModified: new Date(),
     title: page.title, // Zid title dynamique
-  }));
+  }))
 
   const productUrls = products.map((product) => ({
-    url: `${baseUrl}/products/${product.slug}`,
+    url: `${baseUrl}/product/${product.slug}`,
     lastModified: product.lastModified,
     title: product.name, // Title dyal product
     price: product.price, // Price dyal product
@@ -21,7 +21,7 @@ export default async function sitemap() {
     osVersion: product.osVersion, // OS-version dyal product
     rating: product.rating, // Rating dyal product
     description: product.description, // Zid description
-  }));
+  }))
 
   return [
     ...pageUrls, // Zid l pages statiques
