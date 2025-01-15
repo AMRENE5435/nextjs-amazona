@@ -317,8 +317,8 @@ export default function ReviewList({
                     {review.user ? review.user.name : t('Deleted User')}
                   </div>
                   <div className='flex items-center'>
-                    <Calendar className='mr-1 h-3 w-3' />
-                    {review.createdAt.toString().substring(0, 10)}
+                    {/* <Calendar className='mr-1 h-3 w-3' /> */}
+                    {/* {review.createdAt.toString().substring(0, 10)} */}
                   </div>
                 </div>
               </CardContent>
