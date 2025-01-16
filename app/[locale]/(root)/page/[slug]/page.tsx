@@ -14,7 +14,7 @@ export async function generateMetadata(props: {
   }
   return {
     title: webPage.title,
-    description: webPage.description, // Ila kayn description f webPage
+    // description: webPage.description, // Ila kayn description f webPage
   }
 }
 
@@ -38,7 +38,7 @@ export default async function ProductDetailsPage(props: {
             '@type': 'AboutPage',
             url: `https://www.laptopsolution.tech/page/${webPage.slug}`,
             name: webPage.title,
-            description: webPage.description, // Ila kayn description f webPage
+            // description: webPage.description, // Ila kayn description f webPage
           })}
         </script>
       </Head>
