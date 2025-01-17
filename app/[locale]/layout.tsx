@@ -78,24 +78,24 @@ export default async function AppLayout({
             },
           })}
         </script>
-        {/* Zid l Google Tag f <head> */}
-        <Script
-          strategy='afterInteractive'
-          src='https://www.googletagmanager.com/gtag/js?id=G-Z2PJ156XQJ'
-        />
-        <Script
-          id='gtag-init'
-          strategy='afterInteractive'
-          dangerouslySetInnerHTML={{
-            __html: `
-              window.dataLayer = window.dataLayer || [];
-              function gtag(){dataLayer.push(arguments);}
-              gtag('js', new Date());
-              gtag('config', 'G-Z2PJ156XQJ');
-            `,
-          }}
-        />
       </Head>
+      {/* Zid l Google Tag outside dyal <Head> */}
+      <Script
+        strategy='afterInteractive'
+        src='https://www.googletagmanager.com/gtag/js?id=G-Z2PJ156XQJ'
+      />
+      <Script
+        id='gtag-init'
+        strategy='afterInteractive'
+        dangerouslySetInnerHTML={{
+          __html: `
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-Z2PJ156XQJ');
+          `,
+        }}
+      />
       <body
         className={`min-h-screen ${geistSans.variable} ${geistMono.variable} antialiased`}
       >
