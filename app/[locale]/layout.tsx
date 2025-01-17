@@ -1,30 +1,30 @@
-import { Geist, Geist_Mono } from 'next/font/google';
-import '../globals.css';
-import ClientProviders from '@/components/shared/client-providers';
-import { getDirection } from '@/i18n-config';
-import { NextIntlClientProvider } from 'next-intl';
-import { getMessages } from 'next-intl/server';
-import { routing } from '@/i18n/routing';
-import { notFound } from 'next/navigation';
-import { getSetting } from '@/lib/actions/setting.actions';
-import { cookies } from 'next/headers';
-import Head from 'next/head';
-import Script from 'next/script';
+import { Geist, Geist_Mono } from 'next/font/google'
+import '../globals.css'
+import ClientProviders from '@/components/shared/client-providers'
+import { getDirection } from '@/i18n-config'
+import { NextIntlClientProvider } from 'next-intl'
+import { getMessages } from 'next-intl/server'
+import { routing } from '@/i18n/routing'
+import { notFound } from 'next/navigation'
+import { getSetting } from '@/lib/actions/setting.actions'
+import { cookies } from 'next/headers'
+import Head from 'next/head'
+import Script from 'next/script'
 
 const geistSans = Geist({
   variable: '--font-geist-sans',
   subsets: ['latin'],
-});
+})
 
 const geistMono = Geist_Mono({
   variable: '--font-geist-mono',
   subsets: ['latin'],
-});
+})
 
 export async function generateMetadata() {
   const {
     site: { slogan, name, description, url },
-  } = await getSetting();
+  } = await getSetting()
   return {
     title: {
       template: `%s | ${name}`,
@@ -32,26 +32,26 @@ export async function generateMetadata() {
     },
     description: description,
     metadataBase: new URL(url),
-  };
+  }
 }
 
 export default async function AppLayout({
   params,
   children,
 }: {
-  params: { locale: string };
-  children: React.ReactNode;
+  params: { locale: string }
+  children: React.ReactNode
 }) {
-  const setting = await getSetting();
-  const currencyCookie = (await cookies()).get('currency');
-  const currency = currencyCookie ? currencyCookie.value : 'USD';
+  const setting = await getSetting()
+  const currencyCookie = (await cookies()).get('currency')
+  const currency = currencyCookie ? currencyCookie.value : 'USD'
 
-  const { locale } = await params;
+  const { locale } = await params
   // Ensure that the incoming `locale` is valid
   if (!routing.locales.includes(locale)) {
-    notFound();
+    notFound()
   }
-  const messages = await getMessages();
+  const messages = await getMessages()
 
   return (
     <html
@@ -60,24 +60,41 @@ export default async function AppLayout({
       suppressHydrationWarning
     >
       <Head>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel='icon' href='/favicon.ico' />
         <title>{setting.site.name}</title>
-        <meta name="description" content={setting.site.description} />
+        <meta name='description' content={setting.site.description} />
         {/* Zid Schema Markup f <head> */}
-        <script type="application/ld+json">
+        <script type='application/ld+json'>
           {JSON.stringify({
-            "@context": "https://schema.org",
-            "@type": "WebSite",
-            "url": setting.site.url,
-            "name": setting.site.name,
-            "description": setting.site.description,
-            "potentialAction": {
-              "@type": "SearchAction",
-              "target": `${setting.site.url}/search?q={search_term_string}`,
-              "query-input": "required name=search_term_string",
+            '@context': 'https://schema.org',
+            '@type': 'WebSite',
+            url: setting.site.url,
+            name: setting.site.name,
+            description: setting.site.description,
+            potentialAction: {
+              '@type': 'SearchAction',
+              target: `${setting.site.url}/search?q={search_term_string}`,
+              'query-input': 'required name=search_term_string',
             },
           })}
         </script>
+        {/* Zid l Google Tag f <head> */}
+        <Script
+          strategy='afterInteractive'
+          src='https://www.googletagmanager.com/gtag/js?id=G-Z2PJ156XQJ'
+        />
+        <Script
+          id='gtag-init'
+          strategy='afterInteractive'
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-Z2PJ156XQJ');
+            `,
+          }}
+        />
       </Head>
       <body
         className={`min-h-screen ${geistSans.variable} ${geistMono.variable} antialiased`}
@@ -88,8 +105,8 @@ export default async function AppLayout({
           </ClientProviders>
         </NextIntlClientProvider>
         <Script
-          id="clarity-script"
-          strategy="afterInteractive"
+          id='clarity-script'
+          strategy='afterInteractive'
           dangerouslySetInnerHTML={{
             __html: `
               (function(c,l,a,r,i,t,y){
@@ -102,5 +119,5 @@ export default async function AppLayout({
         />
       </body>
     </html>
-  );
+  )
 }
