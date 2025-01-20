@@ -124,7 +124,7 @@ const CheckoutForm = () => {
       items,
       shippingAddress,
       expectedDeliveryDate: calculateFutureDate(
-        availableDeliveryDates[deliveryDateIndex!].daysToDeliver
+        availableDeliveryDates[deliveryDateIndex!].hoursToDeliver
       ),
       deliveryDateIndex,
       paymentMethod,
@@ -510,7 +510,7 @@ const CheckoutForm = () => {
                       formatDateTime(
                         calculateFutureDate(
                           availableDeliveryDates[deliveryDateIndex]
-                            .daysToDeliver
+                            .hoursToDeliver
                         )
                       ).dateOnly
                     }
@@ -550,7 +550,7 @@ const CheckoutForm = () => {
                           formatDateTime(
                             calculateFutureDate(
                               availableDeliveryDates[deliveryDateIndex!]
-                                .daysToDeliver
+                                .hoursToDeliver
                             )
                           ).dateOnly
                         }
@@ -639,10 +639,13 @@ const CheckoutForm = () => {
                                     htmlFor={`address-${dd.name}`}
                                   >
                                     <div className='text-green-700 font-semibold'>
+                                      {dd.name} - {/* Shipping name */}
+                                      <br /> {/* Line break */}
+                                      Estimated delivery by{' '}
                                       {
                                         formatDateTime(
-                                          calculateFutureDate(dd.daysToDeliver)
-                                        ).dateOnly
+                                          calculateFutureDate(dd.hoursToDeliver)
+                                        ).dateTime
                                       }
                                     </div>
                                     <div>
@@ -650,7 +653,7 @@ const CheckoutForm = () => {
                                       itemsPrice >= dd.freeShippingMinPrice
                                         ? 0
                                         : dd.shippingPrice) === 0 ? (
-                                        'FREE Shipping'
+                                        'Free Shipping'
                                       ) : (
                                         <ProductPrice
                                           price={dd.shippingPrice}

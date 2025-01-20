@@ -6,11 +6,12 @@ import { Button } from '@/components/ui/button'
 import {
   getAllCategories,
   getAllProducts,
-  getAllTags,
+  // getAllTags,
 } from '@/lib/actions/product.actions'
 import { IProduct } from '@/lib/db/models/product.model'
 import ProductSortSelector from '@/components/shared/product/product-sort-selector'
-import { getFilterUrl, toSlug } from '@/lib/utils'
+import { getFilterUrl } from '@/lib/utils'
+// import { getFilterUrl, toSlug } from '@/lib/utils'
 import Rating from '@/components/shared/product/rating'
 
 import CollapsibleOnMobile from '@/components/shared/collapsible-on-mobile'
@@ -100,14 +101,14 @@ export default async function SearchPage(props: {
     tag = 'all',
     price = 'all',
     rating = 'all',
-    sort = 'best-selling',
+    sort = 'newest-arrivals',
     page = '1',
   } = searchParams
 
   const params = { q, category, tag, price, rating, sort, page }
 
   const categories = await getAllCategories()
-  const tags = await getAllTags()
+  // const tags = await getAllTags()
   const data = await getAllProducts({
     category,
     tag,
@@ -237,7 +238,7 @@ export default async function SearchPage(props: {
                 </li>
               </ul>
             </div>
-            <div>
+            {/* <div>
               <div className='font-bold'>{t('Search.Tag')}</div>
               <ul>
                 <li>
@@ -261,7 +262,7 @@ export default async function SearchPage(props: {
                   </li>
                 ))}
               </ul>
-            </div>
+            </div> */}
           </div>
         </CollapsibleOnMobile>
 

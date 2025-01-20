@@ -88,7 +88,7 @@ const settingSchema = new Schema<ISetting>(
     availableDeliveryDates: [
       {
         name: { type: String, required: true },
-        daysToDeliver: { type: Number, required: true },
+        hoursToDeliver: { type: Number, required: true },
         shippingPrice: { type: Number, required: true },
         freeShippingMinPrice: { type: Number, required: true },
       },

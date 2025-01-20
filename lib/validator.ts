@@ -251,7 +251,7 @@ export const PaymentMethodSchema = z.object({
 
 export const DeliveryDateSchema = z.object({
   name: z.string().min(1, 'Name is required'),
-  daysToDeliver: z.number().min(0, 'Days to deliver must be at least 0'),
+  hoursToDeliver: z.number().min(0, 'Days to deliver must be at least 0'),
   shippingPrice: z.coerce.number().min(0, 'Shipping price must be at least 0'),
   freeShippingMinPrice: z.coerce
     .number()
@@ -309,8 +309,13 @@ export const SettingInputSchema = z.object({
     .array(PaymentMethodSchema)
     .min(1, 'At least one payment method is required'),
   defaultPaymentMethod: z.string().min(1, 'Payment method is required'),
-  availableDeliveryDates: z
-    .array(DeliveryDateSchema)
-    .min(1, 'At least one delivery date is required'),
-  defaultDeliveryDate: z.string().min(1, 'Delivery date is required'),
+  availableDeliveryDates: z.array( // Add this property
+    z.object({
+      name: z.string(),
+      hoursToDeliver: z.number(),
+      shippingPrice: z.number(),
+      freeShippingMinPrice: z.number(),
+    })
+  ),
+  defaultDeliveryDate: z.string(),
 })

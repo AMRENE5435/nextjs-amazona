@@ -1,53 +1,54 @@
 /* eslint-disable react-hooks/exhaustive-deps */
-import { Button } from '@/components/ui/button'
-import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
+import { Button } from '@/components/ui/button';
+import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import {
   FormControl,
   FormField,
   FormItem,
   FormLabel,
   FormMessage,
-} from '@/components/ui/form'
-import { Input } from '@/components/ui/input'
+} from '@/components/ui/form';
+import { Input } from '@/components/ui/input';
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from '@/components/ui/select'
-import { ISettingInput } from '@/types'
-import { TrashIcon } from 'lucide-react'
-import React, { useEffect } from 'react'
-import { useFieldArray, UseFormReturn } from 'react-hook-form'
+} from '@/components/ui/select';
+import { ISettingInput } from '@/types';
+import { TrashIcon } from 'lucide-react';
+import React, { useEffect } from 'react';
+import { useFieldArray, UseFormReturn } from 'react-hook-form';
 
 export default function DeliveryDateForm({
   form,
   id,
 }: {
-  form: UseFormReturn<ISettingInput>
-  id: string
+  form: UseFormReturn<ISettingInput>;
+  id: string;
 }) {
   const { fields, append, remove } = useFieldArray({
     control: form.control,
     name: 'availableDeliveryDates',
-  })
+  });
+
   const {
     setValue,
     watch,
     control,
     formState: { errors },
-  } = form
+  } = form;
 
-  const availableDeliveryDates = watch('availableDeliveryDates')
-  const defaultDeliveryDate = watch('defaultDeliveryDate')
+  const availableDeliveryDates = watch('availableDeliveryDates');
+  const defaultDeliveryDate = watch('defaultDeliveryDate');
 
   useEffect(() => {
-    const validCodes = availableDeliveryDates.map((lang) => lang.name)
+    const validCodes = availableDeliveryDates.map((lang) => lang.name);
     if (!validCodes.includes(defaultDeliveryDate)) {
-      setValue('defaultDeliveryDate', '')
+      setValue('defaultDeliveryDate', '');
     }
-  }, [JSON.stringify(availableDeliveryDates)])
+  }, [JSON.stringify(availableDeliveryDates)]);
 
   return (
     <Card id={id}>
@@ -75,16 +76,20 @@ export default function DeliveryDateForm({
               />
               <FormField
                 control={form.control}
-                name={`availableDeliveryDates.${index}.daysToDeliver`}
+                name={`availableDeliveryDates.${index}.hoursToDeliver`} // Updated to hoursToDeliver
                 render={({ field }) => (
                   <FormItem>
                     {index == 0 && <FormLabel>Hours</FormLabel>}
                     <FormControl>
-                      <Input {...field} placeholder='daysToDeliver' />
+                      <Input
+                        {...field}
+                        placeholder='Hours to Deliver'
+                        type='number'
+                      />
                     </FormControl>
                     <FormMessage>
                       {
-                        errors.availableDeliveryDates?.[index]?.daysToDeliver
+                        errors.availableDeliveryDates?.[index]?.hoursToDeliver
                           ?.message
                       }
                     </FormMessage>
@@ -98,7 +103,7 @@ export default function DeliveryDateForm({
                   <FormItem>
                     {index == 0 && <FormLabel>Shipping Price</FormLabel>}
                     <FormControl>
-                      <Input {...field} placeholder='shippingPrice' />
+                      <Input {...field} placeholder='Shipping Price' />
                     </FormControl>
                     <FormMessage>
                       {
@@ -116,7 +121,7 @@ export default function DeliveryDateForm({
                   <FormItem>
                     {index == 0 && <FormLabel>Free Shipping</FormLabel>}
                     <FormControl>
-                      <Input {...field} placeholder='freeShippingMinPrice' />
+                      <Input {...field} placeholder='Free Shipping Min Price' />
                     </FormControl>
                     <FormMessage>
                       {
@@ -135,12 +140,12 @@ export default function DeliveryDateForm({
                   variant='outline'
                   className={index == 0 ? 'mt-2' : ''}
                   onClick={() => {
-                    remove(index)
+                    remove(index);
                   }}
                 >
                   <TrashIcon className='w-4 h-4' />
                 </Button>
-              </div>{' '}
+              </div>
             </div>
           ))}
 
@@ -150,13 +155,13 @@ export default function DeliveryDateForm({
             onClick={() =>
               append({
                 name: '',
-                daysToDeliver: 0,
+                hoursToDeliver: 0, // Updated to hoursToDeliver
                 shippingPrice: 0,
                 freeShippingMinPrice: 0,
               })
             }
           >
-            Add DeliveryDate
+            Add Delivery Date
           </Button>
         </div>
 
@@ -165,7 +170,7 @@ export default function DeliveryDateForm({
           name='defaultDeliveryDate'
           render={({ field }) => (
             <FormItem>
-              <FormLabel>Default DeliveryDate</FormLabel>
+              <FormLabel>Default Delivery Date</FormLabel>
               <FormControl>
                 <Select
                   value={field.value || ''}
@@ -179,7 +184,7 @@ export default function DeliveryDateForm({
                       .filter((x) => x.name)
                       .map((lang, index) => (
                         <SelectItem key={index} value={lang.name}>
-                          {lang.name} ({lang.name})
+                          {lang.name} ({lang.hoursToDeliver} hours)
                         </SelectItem>
                       ))}
                   </SelectContent>
@@ -191,5 +196,5 @@ export default function DeliveryDateForm({
         />
       </CardContent>
     </Card>
-  )
+  );
 }

@@ -199,8 +199,10 @@ export default function OrderDetailsForm({
             </div>
             <div className='col-span-2'>
               <p>
-                Delivery date:
-                {formatDateTime(expectedDeliveryDate).dateOnly}
+                Delivery date:{' '}
+                {expectedDeliveryDate
+                  ? formatDateTime(expectedDeliveryDate).dateTime
+                  : '--'}
               </p>
               <ul>
                 {items.map((item) => (
