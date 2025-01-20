@@ -16727,7 +16727,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'MC77 AU VST VST3 U2B FiXED macOS-MORiA',
-    slug: toSlug('? MC77 AU VST VST3 U2B FiXED macOS-MORiA'),
+    slug: toSlug('MC77 AU VST VST3 U2B FiXED macOS-MORiA'),
     category: 'Music Production',
     images: ['/images/webp2/MC77-AU-VST-VST3-U2B-macOS-MORiA-MaGeSY.webp'],
     tags: [
@@ -16764,7 +16764,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'BBL Bundle Collection Super Pack WAV',
-    slug: toSlug('? BBL Bundle Collection Super Pack WAV'),
+    slug: toSlug('BBL Bundle Collection Super Pack WAV'),
     category: 'Music Production',
     images: ['/images/webp2/BBL-Bundle-Collection-Super-Pack-WAV-MaGeSY.webp'],
     tags: ['new-arrival', 'Audio samples', 'wav'],
@@ -16791,7 +16791,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'S-VX Hybrid Library KONTAKT',
-    slug: toSlug('? S-VX Hybrid Library KONTAKT'),
+    slug: toSlug('S-VX Hybrid Library KONTAKT'),
     category: 'Music Production',
     images: ['/images/webp2/S-VX-Hybrid-Library-KONTAKT.webp'],
     tags: ['todays-deal', 'Audio samples', 'Kontakt'],
@@ -16818,7 +16818,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'TRAP GODS 2 WAV MiDi-GTA',
-    slug: toSlug('? TRAP GODS 2 WAV MiDi-GTA'),
+    slug: toSlug('TRAP GODS 2 WAV MiDi-GTA'),
     category: 'Music Production',
     images: ['/images/webp2/TRAP-GODS-2-WAV-MiDi-GTA-MaGeSY.webp'],
     tags: [
@@ -16852,7 +16852,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Rockin? Guitar KONTAKT',
-    slug: toSlug('? Rockin? Guitar KONTAKT'),
+    slug: toSlug('Rockin? Guitar KONTAKT'),
     category: 'Music Production',
     images: ['/images/webp2/Rockin-Guitar-KONTAKT-MaGeSY.webp'],
     tags: ['new-arrival', 'Audio samples', 'Kontakt'],
@@ -16879,7 +16879,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'FADED Sample Bundle WAV-FANTASTiC',
-    slug: toSlug('? FADED Sample Bundle WAV-FANTASTiC'),
+    slug: toSlug('FADED Sample Bundle WAV-FANTASTiC'),
     category: 'Music Production',
     images: ['/images/webp2/FADED-Sample-Bundle-WAV-FANTASTiC-MaGeSY.webp'],
     tags: ['new-arrival', 'todays-deal', 'Audio samples', 'wav'],
@@ -16906,7 +16906,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Funky Rhythm Essentials on Piano TUTORiAL',
-    slug: toSlug('? Funky Rhythm Essentials on Piano TUTORiAL'),
+    slug: toSlug('Funky Rhythm Essentials on Piano TUTORiAL'),
     category: 'Music Production',
     images: [
       '/images/webp2/Funky-Rhythm-Essentials-on-Piano-TUTORiAL-MaGeSY.webp',
@@ -16935,7 +16935,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'AXFX v1.1.1 AU VSTi CLAP 64Bit U2B macOS-MORiA',
-    slug: toSlug('? AXFX v1.1.1 AU VSTi CLAP 64Bit U2B macOS-MORiA'),
+    slug: toSlug('AXFX v1.1.1 AU VSTi CLAP 64Bit U2B macOS-MORiA'),
     category: 'Music Production',
     images: ['/images/webp2/AXFX-v1.0.0-AAX-VST2-CLAP-x64-WiN-TCD-MaGeSY.webp'],
     tags: [
@@ -16972,7 +16972,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Sparkstation Massive SoundBank II MASSiVE NSMV-DiSCOVER',
-    slug: toSlug('? Sparkstation Massive SoundBank II MASSiVE NSMV-DiSCOVER'),
+    slug: toSlug('Sparkstation Massive SoundBank II MASSiVE NSMV-DiSCOVER'),
     category: 'Music Production',
     images: [
       '/images/webp2/Sparkstation-Massive-SoundBank-II-MASSiVE-NSMV-DiSCOVER-MaGeSY.webp',
@@ -17008,7 +17008,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'PXT Series for Ableton Push WiN MAC-0RGan1c',
-    slug: toSlug('? PXT Series for Ableton Push WiN MAC-0RGan1c'),
+    slug: toSlug('PXT Series for Ableton Push WiN MAC-0RGan1c'),
     category: 'Music Production',
     images: [
       '/images/webp2/PXT-Series-for-Ableton-Push-WiN-MAC-0RGan1c-MaGeSY.webp',
@@ -17037,7 +17037,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Efx MOTiONS v1.1.0.5460 AAX VST2 VST3 x64 WiN-TCD',
-    slug: toSlug('? Efx MOTiONS v1.1.0.5460 AAX VST2 VST3 x64 WiN-TCD'),
+    slug: toSlug('Efx MOTiONS v1.1.0.5460 AAX VST2 VST3 x64 WiN-TCD'),
     category: 'Music Production',
     images: [
       '/images/webp2/Efx-MOTiONS-v1.0.0-AAX-VST2-VST3-x64-WiN-TCD-MaGeSY.webp',
@@ -17066,7 +17066,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Black Friday MiDi Bundle 2024-GTA',
-    slug: toSlug('? Black Friday MiDi Bundle 2024-GTA'),
+    slug: toSlug('Black Friday MiDi Bundle 2024-GTA'),
     category: 'Music Production',
     images: ['/images/webp2/Black-Friday-MiDi-Bundle-2024-GTA-MaGeSY.webp'],
     tags: ['new-arrival', 'Patterns MIDI'],
@@ -17093,7 +17093,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Eclectic Electric Vol.2 KONTAKT-ARCADiA',
-    slug: toSlug('? Eclectic Electric Vol.2 KONTAKT-ARCADiA'),
+    slug: toSlug('Eclectic Electric Vol.2 KONTAKT-ARCADiA'),
     category: 'Music Production',
     images: [
       '/images/webp2/Eclectic-Electric-Vol.2-KONTAKT-ARCADiA-MaGeSY.webp',
@@ -17128,7 +17128,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Impress v3.4.1 U2B macOS-MORiA',
-    slug: toSlug('? Impress v3.4.1 U2B macOS-MORiA'),
+    slug: toSlug('Impress v3.4.1 U2B macOS-MORiA'),
     category: 'Music Production',
     images: ['/images/webp2/Impress-v3.2.2-WiN-BUBBiX-MaGeSY.webp'],
     tags: [
@@ -17165,7 +17165,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Moonwave FX Bundle v1.0 WiN MAC-BUBBiX',
-    slug: toSlug('? Moonwave FX Bundle v1.0 WiN MAC-BUBBiX'),
+    slug: toSlug('Moonwave FX Bundle v1.0 WiN MAC-BUBBiX'),
     category: 'Music Production',
     images: [
       '/images/webp2/Moonwave-FX-Bundle-v1.0-WiN-MAC-BUBBiX-MaGeSY.webp',
@@ -17202,7 +17202,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'KCNCrew Pack 2025-01-15 UB macOS',
-    slug: toSlug('? KCNCrew Pack 2025-01-15 UB macOS'),
+    slug: toSlug('KCNCrew Pack 2025-01-15 UB macOS'),
     category: 'Music Production',
     images: ['/images/webp2/KCNCrew-Pack-2021-02-15-UB-macOS.webp'],
     tags: [
@@ -17237,7 +17237,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Tilda v1.0.3 KONTAKT',
-    slug: toSlug('? Tilda v1.0.3 KONTAKT'),
+    slug: toSlug('Tilda v1.0.3 KONTAKT'),
     category: 'Music Production',
     images: ['/images/webp2/Tilda-v1.0.3-KONTAKT-MaGeSY.webp'],
     tags: ['new-arrival', 'Audio samples', 'Kontakt'],
@@ -17264,7 +17264,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'TRAVELER v1.1.3 AAX VST2 VST3 x64 WiN-LaptopSolution',
-    slug: toSlug('? TRAVELER v1.1.3 AAX VST2 VST3 x64 WiN-LaptopSolution'),
+    slug: toSlug('TRAVELER v1.1.3 AAX VST2 VST3 x64 WiN-LaptopSolution'),
     category: 'Music Production',
     images: ['/images/webp2/Traveler_V1_1_1.webp'],
     tags: ['todays-deal', 'featured', 'AAX', 'Vst', 'VST3', 'windows', 'x64'],
@@ -17291,7 +17291,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'HitStrip v1.1.1 U2B macOS-MORiA',
-    slug: toSlug('? HitStrip v1.1.1 U2B macOS-MORiA'),
+    slug: toSlug('HitStrip v1.1.1 U2B macOS-MORiA'),
     category: 'Music Production',
     images: ['/images/webp2/HitStrip-v1.0.0-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
@@ -17327,7 +17327,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'SPECTRL EQ v1.0.2 WiN-LaptopSolution',
-    slug: toSlug('? SPECTRL EQ v1.0.2 WiN-LaptopSolution'),
+    slug: toSlug('SPECTRL EQ v1.0.2 WiN-LaptopSolution'),
     category: 'Music Production',
     images: ['/images/webp2/SPECTRL-EQ-v1.0.0-WiN-LaptopSolution.webp'],
     tags: [
@@ -17362,7 +17362,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'SpinTracer v1.2.0 WiN-LaptopSolution',
-    slug: toSlug('? SpinTracer v1.2.0 WiN-LaptopSolution'),
+    slug: toSlug('SpinTracer v1.2.0 WiN-LaptopSolution'),
     category: 'Music Production',
     images: ['/images/webp2/SpinTracer-v1.2.0-WiN-LaptopSolution-MaGeSY.webp'],
     tags: ['new-arrival', 'AAX', 'Vst', 'VST3', 'windows', 'x64'],
@@ -17389,7 +17389,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'The Him DSP Complete Bundle U2B macOS-GUSEPPE',
-    slug: toSlug('? The Him DSP Complete Bundle U2B macOS-GUSEPPE'),
+    slug: toSlug('The Him DSP Complete Bundle U2B macOS-GUSEPPE'),
     category: 'Music Production',
     images: ['/images/webp2/The-Him-DSP-Complete-Bundle-U2B-macOS-MaGeSY.webp'],
     tags: [
@@ -17424,7 +17424,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Korea Pop Sensation Vol.1 WAV-FANTASTiC',
-    slug: toSlug('? Korea Pop Sensation Vol.1 WAV-FANTASTiC'),
+    slug: toSlug('Korea Pop Sensation Vol.1 WAV-FANTASTiC'),
     category: 'Music Production',
     images: [
       '/images/webp2/Korea-Pop-Sensation-Vol.1-WAV-FANTASTiC-MaGeSY.webp',
@@ -17453,7 +17453,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Cubase Pro 14 v14.0.5 64Bit macOS-V.R',
-    slug: toSlug('? Cubase Pro 14 v14.0.5 64Bit macOS-V.R'),
+    slug: toSlug('Cubase Pro 14 v14.0.5 64Bit macOS-V.R'),
     category: 'Music Production',
     images: ['/images/webp2/Cubase-Pro-14-v14.0.5-x64-WiN-V.R-MaGeSY.webp'],
     tags: [
@@ -17487,7 +17487,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'DRC v2.12.0 U2B macOS-MORiA',
-    slug: toSlug('? DRC v2.12.0 U2B macOS-MORiA'),
+    slug: toSlug('DRC v2.12.0 U2B macOS-MORiA'),
     category: 'Music Production',
     images: ['/images/webp2/DRC-v2.12.0-U2B-macOS-MORiA-MaGeSY.webp'],
     tags: [
@@ -17524,7 +17524,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'reMiDi 4 v4.1.3 VST2i VST3i x64 WiN MAC-BTCR',
-    slug: toSlug('? reMiDi 4 v4.1.3 VST2i VST3i x64 WiN MAC-BTCR'),
+    slug: toSlug('reMiDi 4 v4.1.3 VST2i VST3i x64 WiN MAC-BTCR'),
     category: 'Music Production',
     images: ['/images/webp2/reMiDi-4-MaGeSY.webp'],
     tags: ['best-seller', 'macos', 'VST3', 'VSTi', 'windows', 'x64'],
@@ -17591,7 +17591,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Emotional Uplifting Trance MiDi SYLENTH SPiRE-FANTASTiC',
-    slug: toSlug('? Emotional Uplifting Trance MiDi SYLENTH SPiRE-FANTASTiC'),
+    slug: toSlug('Emotional Uplifting Trance MiDi SYLENTH SPiRE-FANTASTiC'),
     category: 'Music Production',
     images: [
       '/images/webp2/Emotional-Uplifting-Trance-MiDi-SYLENTH-SPiRE-FANTASTiC-MaGeSY.webp',
@@ -17630,7 +17630,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Cinemorphic RETROLOGUE EXPANSiON',
-    slug: toSlug('? Cinemorphic RETROLOGUE EXPANSiON'),
+    slug: toSlug('Cinemorphic RETROLOGUE EXPANSiON'),
     category: 'Music Production',
     images: ['/images/webp2/Cinemorphic-RETROLOGUE-EXPANSiON-MaGeSY.webp'],
     tags: ['new-arrival', 'Presets', 'RETROLOGUE', 'Steinberg Banks'],
@@ -17657,7 +17657,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'AGSC v3.7.0 AAX AU VSTi VST3 x64 WiN MAC-LaptopSolution',
-    slug: toSlug('? AGSC v3.7.0 AAX AU VSTi VST3 x64 WiN MAC-LaptopSolution'),
+    slug: toSlug('AGSC v3.7.0 AAX AU VSTi VST3 x64 WiN MAC-LaptopSolution'),
     category: 'Music Production',
     images: ['/images/webp2/AGSC-v3.1.0-AAX-AU-VSTi-VST3-x64-WiN-MAC.webp'],
     tags: [
@@ -17696,7 +17696,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Serpentine: Neo Noir Cinematics WAV-FANTASTiC',
-    slug: toSlug('? Serpentine: Neo Noir Cinematics WAV-FANTASTiC'),
+    slug: toSlug('Serpentine: Neo Noir Cinematics WAV-FANTASTiC'),
     category: 'Music Production',
     images: [
       '/images/webp2/Serpentine-Neo-Noir-Cinematics-WAV-FANTASTiC-MaGeSY.webp',
@@ -17725,7 +17725,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'AGSH v3.7.0 WiN MAC-LaptopSolution',
-    slug: toSlug('? AGSH v3.7.0 WiN MAC-LaptopSolution'),
+    slug: toSlug('AGSH v3.7.0 WiN MAC-LaptopSolution'),
     category: 'Music Production',
     images: ['/images/webp2/AGSH-v3.1.0-WiN-MAC.webp'],
     tags: [
@@ -17761,7 +17761,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Texture Bundle KONTAKT-FANTASTiC',
-    slug: toSlug('? Texture Bundle KONTAKT-FANTASTiC'),
+    slug: toSlug('Texture Bundle KONTAKT-FANTASTiC'),
     category: 'Music Production',
     images: ['/images/webp2/Texture-Bundle-KONTAKT-FANTASTiC-MaGeSY.webp'],
     tags: [
@@ -17794,7 +17794,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'MVP Loops Sound World V.L.X WAV MiDi KONTAKT-MAGNETRiXX',
-    slug: toSlug('? MVP Loops Sound World V.L.X WAV MiDi KONTAKT-MAGNETRiXX'),
+    slug: toSlug('MVP Loops Sound World V.L.X WAV MiDi KONTAKT-MAGNETRiXX'),
     category: 'Music Production',
     images: [
       '/images/webp2/Sound-World-V.L.X-WAV-MiDi-KONTAKT-MAGNETRiXX-MaGeSY.webp',
@@ -17823,7 +17823,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Beat Issue 229 February 2025 PDF',
-    slug: toSlug('? Beat Issue 229 February 2025 PDF'),
+    slug: toSlug('Beat Issue 229 February 2025 PDF'),
     category: 'Music Production',
     images: ['/images/webp2/Beat-Issue-229-February-2025-PDF-MaGeSY.webp'],
     tags: ['featured', 'new-arrival', 'News'],
@@ -17850,7 +17850,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Evermotion v1.0.0 WiN MAC-BUBBiX',
-    slug: toSlug('? Evermotion v1.0.0 WiN MAC-BUBBiX'),
+    slug: toSlug('Evermotion v1.0.0 WiN MAC-BUBBiX'),
     category: 'Music Production',
     images: ['/images/webp2/Evermotion-v1.0.0-WiN-MAC-BUBBiX-MaGeSY.webp'],
     tags: [
@@ -17887,7 +17887,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'reMiDi 4 v4.1.3 VST2i VST3i x64 WiN-MOCHA',
-    slug: toSlug('? reMiDi 4 v4.1.3 VST2i VST3i x64 WiN-MOCHA'),
+    slug: toSlug('reMiDi 4 v4.1.3 VST2i VST3i x64 WiN-MOCHA'),
     category: 'Music Production',
     images: ['/images/webp2/reMiDi-4-MaGeSY.webp'],
     tags: ['featured', 'new-arrival', 'VST3', 'VSTi', 'windows', 'x64'],
@@ -17914,7 +17914,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'AGT v3.7.0 AAX AU VSTi VST3 x64 WiN MAC-LaptopSolution',
-    slug: toSlug('? AGT v3.7.0 AAX AU VSTi VST3 x64 WiN MAC-LaptopSolution'),
+    slug: toSlug('AGT v3.7.0 AAX AU VSTi VST3 x64 WiN MAC-LaptopSolution'),
     category: 'Music Production',
     images: ['/images/webp2/AGT-v3.2.0-AAX-AU-VSTi-VST3-x64-WiN-MAC.webp'],
     tags: [
@@ -17952,7 +17952,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'AGTW v3.7.0 AU AAX VST3 VSTi x64 WiN MAC-LaptopSolution',
-    slug: toSlug('? AGTW v3.7.0 AU AAX VST3 VSTi x64 WiN MAC-LaptopSolution'),
+    slug: toSlug('AGTW v3.7.0 AU AAX VST3 VSTi x64 WiN MAC-LaptopSolution'),
     category: 'Music Production',
     images: ['/images/webp2/AGT3-v3.2.0-AU-AAX-VST3-VSTi-x64-WiN-MAC.webp'],
     tags: [
@@ -17990,7 +17990,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Proton: MultiFX v1.0.0 WiN MAC-MOCHA',
-    slug: toSlug('? Proton: MultiFX v1.0.0 WiN MAC-MOCHA'),
+    slug: toSlug('Proton: MultiFX v1.0.0 WiN MAC-MOCHA'),
     category: 'Music Production',
     images: ['/images/webp2/Proton-MultiFX-v1.0.0-WiN-MAC-MOCHA-MaGeSY.webp'],
     tags: ['new-arrival', 'best-seller', 'macos', 'Vst', 'VST3', 'windows'],
@@ -18017,7 +18017,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'FUEL v1.0.4 AAX VST3 x64 WiN-MOCHA',
-    slug: toSlug('? FUEL v1.0.4 AAX VST3 x64 WiN-MOCHA'),
+    slug: toSlug('FUEL v1.0.4 AAX VST3 x64 WiN-MOCHA'),
     category: 'Music Production',
     images: ['/images/webp2/FUEL-v1.0.3-AAX-VST3-x64-WiN-MOCHA-MaGeSY.webp'],
     tags: ['todays-deal', 'best-seller', 'AAX', 'VST3', 'windows'],
@@ -18044,7 +18044,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Infinitone 2 v2.0.3 AAX STANDALONE VST3 x64 WiN-MOCHA',
-    slug: toSlug('? Infinitone 2 v2.0.3 AAX STANDALONE VST3 x64 WiN-MOCHA'),
+    slug: toSlug('Infinitone 2 v2.0.3 AAX STANDALONE VST3 x64 WiN-MOCHA'),
     category: 'Music Production',
     images: [
       '/images/webp2/Infinitone-2-v2.0.0-AAX-STANDALONE-VST3-x64-WiN-MOCHA-MaGeSY.webp',
@@ -18080,7 +18080,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'KickDrum v2.0.4 VST3 x64 WiN-MOCHA',
-    slug: toSlug('? KickDrum v2.0.4 VST3 x64 WiN-MOCHA'),
+    slug: toSlug('KickDrum v2.0.4 VST3 x64 WiN-MOCHA'),
     category: 'Music Production',
     images: ['/images/webp2/KickDrum-v2.0.2-VST3-x64-WiN-MOCHA-MaGeSY.webp'],
     tags: ['new-arrival', 'featured', 'VST3', 'windows', 'x64'],
@@ -18107,7 +18107,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Lumina Delay v2.5.3.386 AAX VST3 x64 WiN-MOCHA',
-    slug: toSlug('? Lumina Delay v2.5.3.386 AAX VST3 x64 WiN-MOCHA'),
+    slug: toSlug('Lumina Delay v2.5.3.386 AAX VST3 x64 WiN-MOCHA'),
     category: 'Music Production',
     images: [
       '/images/webp2/Lumina-Delay-v2.0.0-AAX-VST3-x64-WiN-MOCHA-MaGeSY.webp',
@@ -18144,7 +18144,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'AGVC v3.7.0 AAX AU VSTi VST3 x64 WiN MAC-LaptopSolution',
-    slug: toSlug('? AGVC v3.7.0 AAX AU VSTi VST3 x64 WiN MAC-LaptopSolution'),
+    slug: toSlug('AGVC v3.7.0 AAX AU VSTi VST3 x64 WiN MAC-LaptopSolution'),
     category: 'Music Production',
     images: ['/images/webp2/AGVC-AAX-AU-VSTi-VST3-x64-WiN-MAC.webp'],
     tags: [
@@ -18183,7 +18183,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Ableton Live 12 MiDi Tools v1.2 ALP',
-    slug: toSlug('? Ableton Live 12 MiDi Tools v1.2 ALP'),
+    slug: toSlug('Ableton Live 12 MiDi Tools v1.2 ALP'),
     category: 'Music Production',
     images: ['/images/webp2/Ableton-Live-12-MiDi-Tools-v1.1-ALP-MaGeSY.webp'],
     tags: ['new-arrival', 'todays-deal', 'Ableton LiVE', 'ALP', 'Presets'],
@@ -18210,7 +18210,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Convolution Reverb v1.6 For MAX FOR LiVE',
-    slug: toSlug('? Convolution Reverb v1.6 For MAX FOR LiVE'),
+    slug: toSlug('Convolution Reverb v1.6 For MAX FOR LiVE'),
     category: 'Music Production',
     images: [
       '/images/webp2/Convolution-Reverb-v1.3-For-MAX-FOR-LiVE-FLARE.webp',
@@ -18246,7 +18246,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Black Box Analog Design HG-Q v1.0.1 WiN-BUBBiX',
-    slug: toSlug('? Black Box Analog Design HG-Q v1.0.1 WiN-BUBBiX'),
+    slug: toSlug('Black Box Analog Design HG-Q v1.0.1 WiN-BUBBiX'),
     category: 'Music Production',
     images: [
       '/images/webp2/Black-Box-Analog-Design-HG-Q-v1.0.0-WiN-LaptopSolution-MaGeSY.webp',
@@ -18275,7 +18275,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Woodwindulator KONTAKT',
-    slug: toSlug('? Woodwindulator KONTAKT'),
+    slug: toSlug('Woodwindulator KONTAKT'),
     category: 'Music Production',
     images: ['/images/webp2/Woodwindulator-KONTAKT-MaGeSY.webp'],
     tags: [
@@ -18308,7 +18308,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'EQ4 v1.16.1 AAX VST2 VST3 x64 WiN-BUBBiX',
-    slug: toSlug('? EQ4 v1.16.1 AAX VST2 VST3 x64 WiN-BUBBiX'),
+    slug: toSlug('EQ4 v1.16.1 AAX VST2 VST3 x64 WiN-BUBBiX'),
     category: 'Music Production',
     images: ['/images/webp2/EQ4-v1.16.0-U2B-macOS-MORiA-MaGeSY.webp'],
     tags: ['best-seller', 'featured', 'AAX', 'Vst', 'VST3', 'windows', 'x64'],
@@ -18335,7 +18335,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'PES 24 + EXPANSION PACK MULTiFORMAT-FANTASTiC',
-    slug: toSlug('? PES 24 + EXPANSION PACK MULTiFORMAT-FANTASTiC'),
+    slug: toSlug('PES 24 + EXPANSION PACK MULTiFORMAT-FANTASTiC'),
     category: 'Music Production',
     images: [
       '/images/webp2/PES-24-EXPANSION-PACK-MULTiFORMAT-FANTASTiC-MaGeSY.webp',
@@ -18373,7 +18373,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'iReal Pro 2024.7 macOS-TNT',
-    slug: toSlug('? iReal Pro 2024.7 macOS-TNT'),
+    slug: toSlug('iReal Pro 2024.7 macOS-TNT'),
     category: 'Music Production',
     images: ['/images/webp2/iReal-Pro-2020.1-macOS-TNT-MaGeSY.webp'],
     tags: ['featured', 'APPS', 'Audio Software', 'macos'],
@@ -18400,7 +18400,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'DP Meter Pro v4.3.3 WiN MAC-LaptopSolution',
-    slug: toSlug('? DP Meter Pro v4.3.3 WiN MAC-LaptopSolution'),
+    slug: toSlug('DP Meter Pro v4.3.3 WiN MAC-LaptopSolution'),
     category: 'Music Production',
     images: [
       '/images/webp2/DP-Meter-Pro-v4.3.3-WiN-MAC-LaptopSolution-MaGeSY.webp',
@@ -18442,7 +18442,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'iZ Aurora v1.0.0 AAX AU VST3 64Bit macOS-MORiA',
-    slug: toSlug('? iZ Aurora v1.0.0 AAX AU VST3 64Bit macOS-MORiA'),
+    slug: toSlug('iZ Aurora v1.0.0 AAX AU VST3 64Bit macOS-MORiA'),
     category: 'Music Production',
     images: [
       '/images/webp2/iZ-Aurora-v1.0.0-AAX-VST3-x64-WiN-LaptopSolution-MaGeSY.webp',
@@ -18479,7 +18479,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'RYM2612 v1.0.6 FM Synthesizer WiN MAC LiNUX-FANTASTiC',
-    slug: toSlug('? RYM2612 v1.0.6 FM Synthesizer WiN MAC LiNUX-FANTASTiC'),
+    slug: toSlug('RYM2612 v1.0.6 FM Synthesizer WiN MAC LiNUX-FANTASTiC'),
     category: 'Music Production',
     images: ['/images/webp2/RYM2612-v1.0.5-FM-Synthesizer-WiN-MAC.webp'],
     tags: [
@@ -18516,7 +18516,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Dark Tones Vol.2 KONTAKT-ARCADiA',
-    slug: toSlug('? Dark Tones Vol.2 KONTAKT-ARCADiA'),
+    slug: toSlug('Dark Tones Vol.2 KONTAKT-ARCADiA'),
     category: 'Music Production',
     images: ['/images/webp2/Dark-Tones-Vol.2-KONTAKT-ARCADiA-MaGeSY.webp'],
     tags: ['featured', 'new-arrival', 'Audio samples', 'Kontakt'],
@@ -18543,7 +18543,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Digisizer KONTAKT-ARCADiA',
-    slug: toSlug('? Digisizer KONTAKT-ARCADiA'),
+    slug: toSlug('Digisizer KONTAKT-ARCADiA'),
     category: 'Music Production',
     images: ['/images/webp2/Digisizer-KONTAKT-ARCADiA-MaGeSY.webp'],
     tags: ['new-arrival', 'todays-deal', 'Audio samples', 'Kontakt'],
@@ -18570,7 +18570,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Steinberg Dorico Pro 5 v5.1.80 WiN-V.R',
-    slug: toSlug('? Steinberg Dorico Pro 5 v5.1.80 WiN-V.R'),
+    slug: toSlug('Steinberg Dorico Pro 5 v5.1.80 WiN-V.R'),
     category: 'Music Production',
     images: ['/images/webp2/Steinberg-Dorico-Pro-5-CONTENT-MaGeSY.webp'],
     tags: [
@@ -18603,7 +18603,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Tech Tips Vol.96 TUTORiAL-HiDERA',
-    slug: toSlug('? Tech Tips Vol.96 TUTORiAL-HiDERA'),
+    slug: toSlug('Tech Tips Vol.96 TUTORiAL-HiDERA'),
     category: 'Music Production',
     images: ['/images/webp2/Tech-Tips-Vol.96-TUTORiAL-HiDERA-MaGeSY.webp'],
     tags: ['featured', 'best-seller', 'new-arrival', 'TUTORiALS'],
@@ -18630,7 +18630,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'RiRi WAV MiDi-FANTASTiC',
-    slug: toSlug('? RiRi WAV MiDi-FANTASTiC'),
+    slug: toSlug('RiRi WAV MiDi-FANTASTiC'),
     category: 'Music Production',
     images: ['/images/webp2/RiRi-WAV-MiDi-FANTASTiC-MaGeSY.webp'],
     tags: ['best-seller', 'Audio samples', 'Patterns MIDI', 'wav'],
@@ -18657,7 +18657,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'How To Sound Like Disclosure TUTORiAL-HiDERA',
-    slug: toSlug('? How To Sound Like Disclosure TUTORiAL-HiDERA'),
+    slug: toSlug('How To Sound Like Disclosure TUTORiAL-HiDERA'),
     category: 'Music Production',
     images: [
       '/images/webp2/How-To-Sound-Like-Disclosure-TUTORiAL-HiDERA-MaGeSY.webp',
@@ -18686,7 +18686,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'NUSofting Fat Machine v1.2 VSTi x86 WiN-0xdBass',
-    slug: toSlug('? NUSofting Fat Machine v1.2 VSTi x86 WiN-0xdBass'),
+    slug: toSlug('NUSofting Fat Machine v1.2 VSTi x86 WiN-0xdBass'),
     category: 'Music Production',
     images: ['/images/webp2/Fat-Machine-v1.2-VSTi-x86-WiN-0xdBass.gif'],
     tags: ['new-arrival', 'featured', 'NUSofting', 'VSTi', 'windows', 'x86'],
@@ -18713,7 +18713,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Black Castle 2 WAV MiDi-FANTASTiC',
-    slug: toSlug('? Black Castle 2 WAV MiDi-FANTASTiC'),
+    slug: toSlug('Black Castle 2 WAV MiDi-FANTASTiC'),
     category: 'Music Production',
     images: ['/images/webp2/Black-Castle-2-WAV-MiDi-FANTASTiC-MaGeSY.webp'],
     tags: ['featured', 'Audio samples', 'Patterns MIDI', 'wav'],
@@ -18740,7 +18740,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Beat Magazine 226 November 2024 PDF',
-    slug: toSlug('? Beat Magazine 226 November 2024 PDF'),
+    slug: toSlug('Beat Magazine 226 November 2024 PDF'),
     category: 'Music Production',
     images: ['/images/webp2/Beat-Magazine-226-November-2024-PDF-MaGeSY.webp'],
     tags: ['best-seller', 'News'],
@@ -18767,7 +18767,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'P42 Climax v5.7.0 U2B macOS-MORiA',
-    slug: toSlug('? P42 Climax v5.7.0 U2B macOS-MORiA'),
+    slug: toSlug('P42 Climax v5.7.0 U2B macOS-MORiA'),
     category: 'Music Production',
     images: [
       '/images/webp2/P42-Climax-v3.84-AAX-VST3-x64-WiN-LaptopSolution.webp',
@@ -18805,7 +18805,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'MH Production Bundle v4.0.23.187 WiN-LaptopSolution',
-    slug: toSlug('? MH Production Bundle v4.0.23.187 WiN-LaptopSolution'),
+    slug: toSlug('MH Production Bundle v4.0.23.187 WiN-LaptopSolution'),
     category: 'Music Production',
     images: [
       '/images/webp2/MH-Production-Bundle-v4.0.23.187-WiN-LaptopSolution-MaGeSY.webp',
@@ -18834,7 +18834,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Acoustic Drums v1.0.0 KONTAKT 8-FANTASTiC',
-    slug: toSlug('? Acoustic Drums v1.0.0 KONTAKT 8-FANTASTiC'),
+    slug: toSlug('Acoustic Drums v1.0.0 KONTAKT 8-FANTASTiC'),
     category: 'Music Production',
     images: [
       '/images/webp2/Acoustic-Drums-v1.0.0-KONTAKT-8-FANTASTiC-MaGeSY.webp',
@@ -18869,7 +18869,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Koto Nation v2.0 KONTAKT-SYNTHiC4TE',
-    slug: toSlug('? Koto Nation v2.0 KONTAKT-SYNTHiC4TE'),
+    slug: toSlug('Koto Nation v2.0 KONTAKT-SYNTHiC4TE'),
     category: 'Music Production',
     images: ['/images/webp2/Koto-Nation-v2.0-KONTAKT-SYNTHiC4TE.webp'],
     tags: [
@@ -18902,7 +18902,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Thorns: Emotional Guitars WAV MiDi-FANTASTiC',
-    slug: toSlug('? Thorns: Emotional Guitars WAV MiDi-FANTASTiC'),
+    slug: toSlug('Thorns: Emotional Guitars WAV MiDi-FANTASTiC'),
     category: 'Music Production',
     images: [
       '/images/webp2/Thorns-Emotional-Guitars-WAV-MiDi-FANTASTiC-MaGeSY.webp',
@@ -18938,7 +18938,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'GateMate v1.0.0 AAX AU VST3 macOS-HCiSO',
-    slug: toSlug('? GateMate v1.0.0 AAX AU VST3 macOS-HCiSO'),
+    slug: toSlug('GateMate v1.0.0 AAX AU VST3 macOS-HCiSO'),
     category: 'Music Production',
     images: ['/images/webp2/GateMate-v1.0.0-macOS-HCiSO-MaGeSY.webp'],
     tags: ['best-seller', 'AAX', 'AU', 'macos', 'VST3', 'x64'],
@@ -18965,7 +18965,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'NI Razor TUTORiAL',
-    slug: toSlug('? NI Razor TUTORiAL'),
+    slug: toSlug('NI Razor TUTORiAL'),
     category: 'Music Production',
     images: ['/images/webp2/NI-Razor-TUTORiAL-MaGeSY.webp'],
     tags: ['featured', 'new-arrival', 'TUTORiALS'],
@@ -18992,7 +18992,7 @@ const products: IProductInput[] = [
   },
   {
     name: '80s New Wave v1.0.0 KONTAKT 8-FANTASTiC',
-    slug: toSlug('? 80s New Wave v1.0.0 KONTAKT 8-FANTASTiC'),
+    slug: toSlug('80s New Wave v1.0.0 KONTAKT 8-FANTASTiC'),
     category: 'Music Production',
     images: [
       '/images/webp2/80s-New-Wave-v1.0.0-KONTAKT-8-FANTASTiC-MaGeSY.webp',
@@ -19021,7 +19021,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Battery 4 v4.3.1 U2B macOS-HCiSO',
-    slug: toSlug('? Battery 4 v4.3.1 U2B macOS-HCiSO'),
+    slug: toSlug('Battery 4 v4.3.1 U2B macOS-HCiSO'),
     category: 'Music Production',
     images: ['/images/webp2/Battery-4-U2B-macOS-HCiSO-MaGeSY.webp'],
     tags: [
@@ -19059,7 +19059,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Dark Tones Vol.1 KONTAKT-ARCADiA',
-    slug: toSlug('? Dark Tones Vol.1 KONTAKT-ARCADiA'),
+    slug: toSlug('Dark Tones Vol.1 KONTAKT-ARCADiA'),
     category: 'Music Production',
     images: ['/images/webp2/Dark-Tones-Vol.1-KONTAKT-ARCADiA-MaGeSY.webp'],
     tags: ['todays-deal', 'featured', 'Audio samples', 'Kontakt'],
@@ -19086,7 +19086,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Parallels Toolbox Business Edition 6.7.0 macOS-HCiSO',
-    slug: toSlug('? Parallels Toolbox Business Edition 6.7.0 macOS-HCiSO'),
+    slug: toSlug('Parallels Toolbox Business Edition 6.7.0 macOS-HCiSO'),
     category: 'Music Production',
     images: [
       '/images/webp2/Parallels-Toolbox-Business-Edition-6.7.0-macOS-HCiSO-MaGeSY.webp',
@@ -19123,7 +19123,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Sononym v1.5.6 macOS-HCiSO',
-    slug: toSlug('? Sononym v1.5.6 macOS-HCiSO'),
+    slug: toSlug('Sononym v1.5.6 macOS-HCiSO'),
     category: 'Music Production',
     images: ['/images/webp2/Sononym-v1.3.1-x64-WiN-MaGeSY.webp'],
     tags: [
@@ -19160,7 +19160,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Ableton Drum Booth v2.1 ALP',
-    slug: toSlug('? Ableton Drum Booth v2.1 ALP'),
+    slug: toSlug('Ableton Drum Booth v2.1 ALP'),
     category: 'Music Production',
     images: ['/images/webp2/Ableton-Drum-Booth-v2.0-ALP.webp'],
     tags: [
@@ -19194,7 +19194,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Rhythm Box v1.0.1 WiN-LaptopSolution',
-    slug: toSlug('? Rhythm Box v1.0.1 WiN-LaptopSolution'),
+    slug: toSlug('Rhythm Box v1.0.1 WiN-LaptopSolution'),
     category: 'Music Production',
     images: ['/images/webp2/Rhythm-Box-v1.0.0-WiN-TCD-MaGeSY.webp'],
     tags: [
@@ -19229,7 +19229,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Groove Shaper v1.1.2 WiN-LaptopSolution',
-    slug: toSlug('? Groove Shaper v1.1.2 WiN-LaptopSolution'),
+    slug: toSlug('Groove Shaper v1.1.2 WiN-LaptopSolution'),
     category: 'Music Production',
     images: [
       '/images/webp2/Groove-Shaper-v1.0.0-WiN-LaptopSolution-MaGeSY.webp',
@@ -19265,7 +19265,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Fluid Chords v1.5.1 WiN-LaptopSolution',
-    slug: toSlug('? Fluid Chords v1.5.1 WiN-LaptopSolution'),
+    slug: toSlug('Fluid Chords v1.5.1 WiN-LaptopSolution'),
     category: 'Music Production',
     images: ['/images/webp2/Fluid-Chords-v1.0.0-WiN-LaptopSolution.webp'],
     tags: [
@@ -19300,7 +19300,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Waldorf Microwave 1 v1.1.0 WiN-BUBBiX',
-    slug: toSlug('? Waldorf Microwave 1 v1.1.0 WiN-BUBBiX'),
+    slug: toSlug('Waldorf Microwave 1 v1.1.0 WiN-BUBBiX'),
     category: 'Music Production',
     images: [
       '/images/webp2/Waldorf-Microwave-1-v1.0.0-WiN-MAC-LaptopSolution-MaGeSY.webp',
@@ -19329,7 +19329,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Fluid Pitch v1.4.4 WiN-LaptopSolution',
-    slug: toSlug('? Fluid Pitch v1.4.4 WiN-LaptopSolution'),
+    slug: toSlug('Fluid Pitch v1.4.4 WiN-LaptopSolution'),
     category: 'Music Production',
     images: ['/images/webp2/Fluid-Pitch-v1.3.1-WiN-LaptopSolution.webp'],
     tags: ['new-arrival', 'Audio Software', 'VST3', 'VSTi', 'windows', 'x64'],
@@ -19356,7 +19356,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'ABL3 v3.3.3.4 WiN MAC-LaptopSolution',
-    slug: toSlug('? ABL3 v3.3.3.4 WiN MAC-LaptopSolution'),
+    slug: toSlug('ABL3 v3.3.3.4 WiN MAC-LaptopSolution'),
     category: 'Music Production',
     images: ['/images/webp2/ABL3-v3.3.2.2-WiN-MAC-LaptopSolution-MaGeSY.webp'],
     tags: [
@@ -19394,7 +19394,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Extended Classical Choir Keyswitched AKAi KONTAKT',
-    slug: toSlug('? Extended Classical Choir Keyswitched AKAi KONTAKT'),
+    slug: toSlug('Extended Classical Choir Keyswitched AKAi KONTAKT'),
     category: 'Music Production',
     images: ['/images/webp2/Extended-Classical-Choir-MaGeSY.webp'],
     tags: ['featured', 'new-arrival', 'AKAi', 'Audio samples', 'Kontakt'],
@@ -19421,7 +19421,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Computer Music 337, September 2024 PDF',
-    slug: toSlug('? Computer Music 337, September 2024 PDF'),
+    slug: toSlug('Computer Music 337, September 2024 PDF'),
     category: 'Music Production',
     images: ['/images/webp2/Computer-Music-337-September-2024-PDF-MaGeSY.webp'],
     tags: ['new-arrival', 'featured', 'todays-deal', 'News'],
@@ -19448,7 +19448,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Bornemark Broomstick Bass VSTi x86 WiN MAC-FULL',
-    slug: toSlug('? Bornemark Broomstick Bass VSTi x86 WiN MAC-FULL'),
+    slug: toSlug('Bornemark Broomstick Bass VSTi x86 WiN MAC-FULL'),
     category: 'Music Production',
     images: [
       '/images/webp2/Bornemark-Broomstick-Bass-VSTi-x86-WiN-MAC-FULL-MaGeSY.webp',
@@ -19477,7 +19477,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'VENOM Production Suite MULTiFORMAT-GTA',
-    slug: toSlug('? VENOM Production Suite MULTiFORMAT-GTA'),
+    slug: toSlug('VENOM Production Suite MULTiFORMAT-GTA'),
     category: 'Music Production',
     images: ['/images/webp2/CYM-VENOM-MaGeSY.webp'],
     tags: [
@@ -19512,7 +19512,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Tech Trance Masterclass TUTORiAL-ARCADiA',
-    slug: toSlug('? Tech Trance Masterclass TUTORiAL-ARCADiA'),
+    slug: toSlug('Tech Trance Masterclass TUTORiAL-ARCADiA'),
     category: 'Music Production',
     images: [
       '/images/webp2/Tech-Trance-Masterclass-TUTORiAL-ARCADiA-MaGeSY.webp',
@@ -19572,7 +19572,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Chaos Audio Plugins Bundle v14.01.2025 WiN-GTA',
-    slug: toSlug('? Chaos Audio Plugins Bundle v14.01.2025 WiN-GTA'),
+    slug: toSlug('Chaos Audio Plugins Bundle v14.01.2025 WiN-GTA'),
     category: 'Music Production',
     images: [
       '/images/webp2/Chaos-Audio-Plugins-Bundle-v14.01.2025-WiN-GTA-MaGeSY.webp',
@@ -19601,7 +19601,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'BEAT Magazine 222 July 2024 (English Edition) PDF',
-    slug: toSlug('? BEAT Magazine 222 July 2024 (English Edition) PDF'),
+    slug: toSlug('BEAT Magazine 222 July 2024 (English Edition) PDF'),
     category: 'Music Production',
     images: [
       '/images/webp2/BEAT-Magazine-222-July-2024-English-Edition-PDF-MaGeSY.webp',
@@ -19630,7 +19630,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'JoyToKey v7.1.0 WiN',
-    slug: toSlug('? JoyToKey v7.1.0 WiN'),
+    slug: toSlug('JoyToKey v7.1.0 WiN'),
     category: 'Music Production',
     images: ['/images/webp2/JoyToKey-v7.1.0-WiN-MaGeSY.webp'],
     tags: ['best-seller', 'new-arrival', 'Audio Software', 'windows'],
@@ -19657,7 +19657,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'iZip Archiver Pro 5.0.0 macOS-TNT',
-    slug: toSlug('? iZip Archiver Pro 5.0.0 macOS-TNT'),
+    slug: toSlug('iZip Archiver Pro 5.0.0 macOS-TNT'),
     category: 'Music Production',
     images: ['/images/webp2/iZip-Archiver-Pro-5.0.0-macOS-TNT-MaGeSY.webp'],
     tags: ['best-seller', 'macos', 'Special'],
@@ -19684,7 +19684,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'TE-100 v1.1.3 U2B AU VST VST3 64Bit macOS-MORiA',
-    slug: toSlug('? TE-100 v1.1.3 U2B AU VST VST3 64Bit macOS-MORiA'),
+    slug: toSlug('TE-100 v1.1.3 U2B AU VST VST3 64Bit macOS-MORiA'),
     category: 'Music Production',
     images: [
       '/images/webp2/TE-100-v1.1.1-AAX-VST-VST3-x86-x64-WiN-LaptopSolution.webp',
@@ -19722,7 +19722,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'ST-R-I-P v1.1.0 AU VST WiN MAC-LaptopSolution',
-    slug: toSlug('? ST-R-I-P v1.1.0 AU VST WiN MAC-LaptopSolution'),
+    slug: toSlug('ST-R-I-P v1.1.0 AU VST WiN MAC-LaptopSolution'),
     category: 'Music Production',
     images: [
       '/images/webp2/ST-R-I-P-v1.1.0-AU-VST-WiN-MAC-LaptopSolution.webp',
@@ -19760,7 +19760,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'FreaQ v1.0.0 WiN MAC PROPER-BEAT',
-    slug: toSlug('? FreaQ v1.0.0 WiN MAC PROPER-BEAT'),
+    slug: toSlug('FreaQ v1.0.0 WiN MAC PROPER-BEAT'),
     category: 'Music Production',
     images: ['/images/webp2/FreaQ-v1.0.0-WiN-MAC-PROPER-BEAT.webp'],
     tags: [
@@ -19798,7 +19798,7 @@ const products: IProductInput[] = [
   },
   {
     name: '412 RECT Essentials Impulse Responses IRs WAV',
-    slug: toSlug('? 412 RECT Essentials Impulse Responses IRs WAV'),
+    slug: toSlug('412 RECT Essentials Impulse Responses IRs WAV'),
     category: 'Music Production',
     images: [
       '/images/webp2/412-RECT-Essentials-Impulse-Responses-IRs-WAV-MaGeSY.webp',
@@ -19827,7 +19827,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Soundbox v1.0.5 U2B macOS-MORiA',
-    slug: toSlug('? Soundbox v1.0.5 U2B macOS-MORiA'),
+    slug: toSlug('Soundbox v1.0.5 U2B macOS-MORiA'),
     category: 'Music Production',
     images: ['/images/webp2/Soundbox-v1.0.5-U2B-macOS-MORiA-MaGeSY.webp'],
     tags: [
@@ -19866,7 +19866,7 @@ const products: IProductInput[] = [
   },
   {
     name: '3HUNNiD WAV-FANTASTiC',
-    slug: toSlug('? 3HUNNiD WAV-FANTASTiC'),
+    slug: toSlug('3HUNNiD WAV-FANTASTiC'),
     category: 'Music Production',
     images: ['/images/webp2/3HUNNiD-WAV-FANTASTiC-MaGeSY.webp'],
     tags: ['todays-deal', 'Audio samples', 'wav'],
@@ -19893,7 +19893,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'NEOLD OLDTiMER v1.0.1 macOS-HCiSO',
-    slug: toSlug('? NEOLD OLDTiMER v1.0.1 macOS-HCiSO'),
+    slug: toSlug('NEOLD OLDTiMER v1.0.1 macOS-HCiSO'),
     category: 'Music Production',
     images: ['/images/webp2/NEOLD-OLDTIMER-v1.0.0-WiN-BUBBiX-MaGeSY.webp'],
     tags: [
@@ -19929,7 +19929,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'BEAT Magazine 223 August 2024 (English Edition) PDF',
-    slug: toSlug('? BEAT Magazine 223 August 2024 (English Edition) PDF'),
+    slug: toSlug('BEAT Magazine 223 August 2024 (English Edition) PDF'),
     category: 'Music Production',
     images: ['/images/webp2/Beat_08-24_Cover_EN-MaGeSY.webp'],
     tags: ['new-arrival', 'featured', 'todays-deal', 'News'],
@@ -19956,7 +19956,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Shady Mountain Compo Mojo 192 khz for Nebula Pro',
-    slug: toSlug('? Shady Mountain Compo Mojo 192 khz for Nebula Pro'),
+    slug: toSlug('Shady Mountain Compo Mojo 192 khz for Nebula Pro'),
     category: 'Music Production',
     images: [
       '/images/webp2/Shady-Mountain-Compo-Mojo-192-khz-for-Nebula-Pro-MaGeSY.webp',
@@ -19985,7 +19985,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Pad Invasion For Padshop Vol.1-TZ Group',
-    slug: toSlug('? Pad Invasion For Padshop Vol.1-TZ Group'),
+    slug: toSlug('Pad Invasion For Padshop Vol.1-TZ Group'),
     category: 'Music Production',
     images: [
       '/images/webp2/Pad-Invasion-For-Padshop-Vol.1-TZ-Group-MaGeSY.webp',
@@ -20014,7 +20014,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'i-Sound Recorder for Windows v7.9.5.3 WiN-LAXiTY',
-    slug: toSlug('? i-Sound Recorder for Windows v7.9.5.3 WiN-LAXiTY'),
+    slug: toSlug('i-Sound Recorder for Windows v7.9.5.3 WiN-LAXiTY'),
     category: 'Music Production',
     images: ['/images/webp2/i-Sound-Recorder-for-Windows-v7.8.8.0-WiN.webp'],
     tags: ['todays-deal', 'APPS', 'Audio Software', 'windows'],
@@ -20041,7 +20041,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'MPC MASCHiNE EXPANSiONS WAV',
-    slug: toSlug('? MPC MASCHiNE EXPANSiONS WAV'),
+    slug: toSlug('MPC MASCHiNE EXPANSiONS WAV'),
     category: 'Music Production',
     images: ['/images/webp2/MPC-MASCHiNE-EXPANSiONS-WAV-MaGeSY.webp'],
     tags: ['new-arrival', 'Audio samples', 'MASCHiNE', 'MPC', 'Presets', 'wav'],
@@ -20068,7 +20068,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'House Engine Pro v1.3.0 WiN MAC-LaptopSolution',
-    slug: toSlug('? House Engine Pro v1.3.0 WiN MAC-LaptopSolution'),
+    slug: toSlug('House Engine Pro v1.3.0 WiN MAC-LaptopSolution'),
     category: 'Music Production',
     images: [
       '/images/webp2/House-Engine-Pro-v1.3.0-WiN-MAC-LaptopSolution-MaGeSY.webp',
@@ -20138,7 +20138,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Complete v15 Ultimate 13.01.2025 WiN MAC',
-    slug: toSlug('? Complete v15 Ultimate 13.01.2025 WiN MAC'),
+    slug: toSlug('Complete v15 Ultimate 13.01.2025 WiN MAC'),
     category: 'Music Production',
     images: [
       '/images/webp2/Complete-v15-Ultimate-18.12.2024-WiN-MAC-MaGeSY.webp',
@@ -20179,7 +20179,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Puremagnetik Devil07 MULTiFORMAT-DYNAMiCS',
-    slug: toSlug('? Puremagnetik Devil07 MULTiFORMAT-DYNAMiCS'),
+    slug: toSlug('Puremagnetik Devil07 MULTiFORMAT-DYNAMiCS'),
     category: 'Music Production',
     images: [
       '/images/webp2/Puremagnetik-Devil07-MULTiFORMAT-DYNAMiCS-MaGeSY.webp',
@@ -20217,7 +20217,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Organic Downtempo WAV-FANTASTiC',
-    slug: toSlug('? Organic Downtempo WAV-FANTASTiC'),
+    slug: toSlug('Organic Downtempo WAV-FANTASTiC'),
     category: 'Music Production',
     images: ['/images/webp2/Organic-Downtempo-WAV-FANTASTiC-MaGeSY.webp'],
     tags: ['featured', 'Audio samples', 'wav'],
@@ -20244,7 +20244,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Noise Bleach 15 v1.5.2 U2B macOS-MORiA',
-    slug: toSlug('? Noise Bleach 15 v1.5.2 U2B macOS-MORiA'),
+    slug: toSlug('Noise Bleach 15 v1.5.2 U2B macOS-MORiA'),
     category: 'Music Production',
     images: ['/images/webp2/Noise-Bleach-v1.0.9-macOS-TRAZOR.webp'],
     tags: [
@@ -20281,7 +20281,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Matcha v1.5.0 WiN-LaptopSolution',
-    slug: toSlug('? Matcha v1.5.0 WiN-LaptopSolution'),
+    slug: toSlug('Matcha v1.5.0 WiN-LaptopSolution'),
     category: 'Music Production',
     images: ['/images/webp2/Matcha-v1.3.5-WiN-LaptopSolution.webp'],
     tags: ['featured', 'Audio Software', 'Vst', 'VST3', 'windows', 'x64'],
@@ -20308,7 +20308,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Polyscape Analogue v1.0.0 WiN MAC-BUBBiX',
-    slug: toSlug('? Polyscape Analogue v1.0.0 WiN MAC-BUBBiX'),
+    slug: toSlug('Polyscape Analogue v1.0.0 WiN MAC-BUBBiX'),
     category: 'Music Production',
     images: [
       '/images/webp2/Polyscape-Analogue-v1.0.0-WiN-MAC-BUBBiX-MaGeSY.webp',
@@ -20345,7 +20345,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Desert Voice Refurbished KONTAKT-MAGNETRiXX',
-    slug: toSlug('? Desert Voice Refurbished KONTAKT-MAGNETRiXX'),
+    slug: toSlug('Desert Voice Refurbished KONTAKT-MAGNETRiXX'),
     category: 'Music Production',
     images: ['/images/webp2/Desert-Voice-Refurbished-KONTAKT-MaGeSY.webp'],
     tags: ['featured', 'Audio samples', 'Kontakt'],
@@ -20372,7 +20372,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Just Ambience Construction Sites WAV',
-    slug: toSlug('? Just Ambience Construction Sites WAV'),
+    slug: toSlug('Just Ambience Construction Sites WAV'),
     category: 'Music Production',
     images: ['/images/webp2/Just-Ambience-Construction-Sites-WAV-MaGeSY.webp'],
     tags: ['todays-deal', 'Audio samples', 'wav'],
@@ -20399,7 +20399,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Beginner DJ Lessons TUTORiAL',
-    slug: toSlug('? Beginner DJ Lessons TUTORiAL'),
+    slug: toSlug('Beginner DJ Lessons TUTORiAL'),
     category: 'Music Production',
     images: ['/images/webp2/Beginner-DJ-Lessons-TUTORiAL-MaGeSY.webp'],
     tags: ['todays-deal', 'featured', 'TUTORiALS'],
@@ -20426,7 +20426,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Mechanicals Construction Kit WAV',
-    slug: toSlug('? Mechanicals Construction Kit WAV'),
+    slug: toSlug('Mechanicals Construction Kit WAV'),
     category: 'Music Production',
     images: ['/images/webp2/Mechanicals-Construction-Kit-WAV-MaGeSY.webp'],
     tags: ['todays-deal', 'new-arrival', 'featured', 'Audio samples', 'wav'],
@@ -20453,7 +20453,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Scary Strings KONTAKT',
-    slug: toSlug('? Scary Strings KONTAKT'),
+    slug: toSlug('Scary Strings KONTAKT'),
     category: 'Music Production',
     images: ['/images/webp2/Scary-Strings-KONTAKT-MaGeSY.webp'],
     tags: ['featured', 'Audio samples', 'Kontakt'],
@@ -20480,7 +20480,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Sylab v1.2.5 U2B macOS-MORiA',
-    slug: toSlug('? Sylab v1.2.5 U2B macOS-MORiA'),
+    slug: toSlug('Sylab v1.2.5 U2B macOS-MORiA'),
     category: 'Music Production',
     images: ['/images/webp2/Sylab-v1.0.0-U2B-macOS-MORiA-MaGeSY.webp'],
     tags: [
@@ -20553,7 +20553,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Dark Melodic Minimal Techno WAV MiDi-FANTASTiC',
-    slug: toSlug('? Dark Melodic Minimal Techno WAV MiDi-FANTASTiC'),
+    slug: toSlug('Dark Melodic Minimal Techno WAV MiDi-FANTASTiC'),
     category: 'Music Production',
     images: [
       '/images/webp2/Dark-Melodic-Minimal-Techno-WAV-MiDi-FANTASTiC-MaGeSY.webp',
@@ -20582,7 +20582,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'DSEQ3 v3.9.5 U2B macOS-MORiA',
-    slug: toSlug('? DSEQ3 v3.9.5 U2B macOS-MORiA'),
+    slug: toSlug('DSEQ3 v3.9.5 U2B macOS-MORiA'),
     category: 'Music Production',
     images: ['/images/webp2/DSEQ3-v3.6.0-WiN-MAC-LaptopSolution.webp'],
     tags: ['featured', 'Apple Silicon', 'AU', 'macos', 'U2B', 'Vst', 'VST3'],
@@ -20609,7 +20609,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'FKFX Vocal Freeze v1.5.1 U2B macOS-MORiA',
-    slug: toSlug('? FKFX Vocal Freeze v1.5.1 U2B macOS-MORiA'),
+    slug: toSlug('FKFX Vocal Freeze v1.5.1 U2B macOS-MORiA'),
     category: 'Music Production',
     images: [
       '/images/webp2/FKFX-Vocal-Freeze-v1.4.0-U2B-macOS-MORiA-MaGeSY.webp',
@@ -20647,7 +20647,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Keemun v1.1.2 WiN-LaptopSolution',
-    slug: toSlug('? Keemun v1.1.2 WiN-LaptopSolution'),
+    slug: toSlug('Keemun v1.1.2 WiN-LaptopSolution'),
     category: 'Music Production',
     images: ['/images/webp2/Keemun-v1.0.2-WiN.webp'],
     tags: ['new-arrival', 'best-seller', 'todays-deal', 'AAX', 'windows'],
@@ -20674,7 +20674,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'NEOLD OLDTiMER v1.0.1 WiN-BUBBiX',
-    slug: toSlug('? NEOLD OLDTiMER v1.0.1 WiN-BUBBiX'),
+    slug: toSlug('NEOLD OLDTiMER v1.0.1 WiN-BUBBiX'),
     category: 'Music Production',
     images: ['/images/webp2/NEOLD-OLDTIMER-v1.0.0-WiN-BUBBiX-MaGeSY.webp'],
     tags: ['todays-deal', 'AAX', 'Vst', 'VST3', 'windows', 'x64'],
@@ -20701,7 +20701,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Illusion v1.0.x WiN MAC-TCD-GTA',
-    slug: toSlug('? Illusion v1.0.x WiN MAC-TCD-GTA'),
+    slug: toSlug('Illusion v1.0.x WiN MAC-TCD-GTA'),
     category: 'Music Production',
     images: ['/images/webp2/Illusion-v1.0.0-WiN-TCD-MaGeSY.webp'],
     tags: [
@@ -20738,7 +20738,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Start All Back v3.8.11 WiN-LaptopSolution',
-    slug: toSlug('? Start All Back v3.8.11 WiN-LaptopSolution'),
+    slug: toSlug('Start All Back v3.8.11 WiN-LaptopSolution'),
     category: 'Music Production',
     images: ['/images/webp2/Start-All-Back-v3.0.2-WiN-LaptopSolution.webp'],
     tags: ['todays-deal', 'featured', 'best-seller', 'Special', 'windows'],
@@ -20765,7 +20765,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Dance Mega Disco-House WAV',
-    slug: toSlug('? Dance Mega Disco-House WAV'),
+    slug: toSlug('Dance Mega Disco-House WAV'),
     category: 'Music Production',
     images: [
       '/images/webp2/Best-Service-Dance-Mega-Disco-House-FRONT-MaGeSY.webp',
@@ -20794,7 +20794,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Qin Engine v3.1.1 WiN-LaptopSolution',
-    slug: toSlug('? Qin Engine v3.1.1 WiN-LaptopSolution'),
+    slug: toSlug('Qin Engine v3.1.1 WiN-LaptopSolution'),
     category: 'Music Production',
     images: ['/images/webp2/Qin-Engine-v3.0.4-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
@@ -20829,7 +20829,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'CORROSiON v1.0.0 macOS-GTA',
-    slug: toSlug('? CORROSiON v1.0.0 macOS-GTA'),
+    slug: toSlug('CORROSiON v1.0.0 macOS-GTA'),
     category: 'Music Production',
     images: ['/images/webp2/CORROSiON-v1.0.0-macOS-GTA-MaGeSY.webp'],
     tags: ['new-arrival', 'AAX', 'AU', 'macos', 'VST3'],
@@ -20856,7 +20856,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'My Metronome v1.4.1 MULTiLANG MAC-TNT',
-    slug: toSlug('? My Metronome v1.4.1 MULTiLANG MAC-TNT'),
+    slug: toSlug('My Metronome v1.4.1 MULTiLANG MAC-TNT'),
     category: 'Music Production',
     images: ['/images/webp2/My-Metronome-v1.3.7-MULTiLANG-MAC-TNT-MaGeSY.webp'],
     tags: ['todays-deal', 'featured', 'Audio Software', 'macos'],
@@ -20883,7 +20883,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Dance Mega House-Dance WAV KONTAKT',
-    slug: toSlug('? Dance Mega House-Dance WAV KONTAKT'),
+    slug: toSlug('Dance Mega House-Dance WAV KONTAKT'),
     category: 'Music Production',
     images: ['/images/webp2/Dance-Mega-House-Dance-WAV-KONTAKT-MaGeSY.webp'],
     tags: [
@@ -20917,7 +20917,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Inspiring Guitar Loops Vol.1 WAV',
-    slug: toSlug('? Inspiring Guitar Loops Vol.1 WAV'),
+    slug: toSlug('Inspiring Guitar Loops Vol.1 WAV'),
     category: 'Music Production',
     images: ['/images/webp2/Inspiring-Guitar-Loops-Vol.1-WAV-MaGeSY.webp'],
     tags: ['featured', 'best-seller', 'Audio samples', 'wav'],
@@ -20944,7 +20944,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'AmpKnob BDH Bundle 2024.08 WiN-TCD',
-    slug: toSlug('? AmpKnob BDH Bundle 2024.08 WiN-TCD'),
+    slug: toSlug('AmpKnob BDH Bundle 2024.08 WiN-TCD'),
     category: 'Music Production',
     images: ['/images/webp2/AmpKnob-BDH-Bundle-2024.04-WiN-TCD.webp'],
     tags: [
@@ -20979,7 +20979,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Pro-Rec State of The Art Synths AKAi',
-    slug: toSlug('? Pro-Rec State of The Art Synths AKAi'),
+    slug: toSlug('Pro-Rec State of The Art Synths AKAi'),
     category: 'Music Production',
     images: ['/images/webp2/Pro-Rec-State-of-The-Art-Synths-AKAi-MaGeSY.webp'],
     tags: ['featured', 'best-seller', 'AKAi', 'Audio samples'],
@@ -21006,7 +21006,7 @@ const products: IProductInput[] = [
   },
   {
     name: 'Maag EQ4 MS v1.0.0 AAX VST2 VST3 x64 WiN-LaptopSolution',
-    slug: toSlug('? Maag EQ4 MS v1.0.0 AAX VST2 VST3 x64 WiN-LaptopSolution'),
+    slug: toSlug('Maag EQ4 MS v1.0.0 AAX VST2 VST3 x64 WiN-LaptopSolution'),
     category: 'Music Production',
     images: [
       '/images/webp2/Maag-EQ4-MS-v1.0.0-AAX-VST2-VST3-x64-WiN-LaptopSolution-MaGeSY.webp',
