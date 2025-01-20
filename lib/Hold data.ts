@@ -351,9 +351,7 @@ const products: IProductInput[] = [
     name: 'Account Microsoft Office 365 Personal - 1 Year Subscription',
     slug: toSlug('Account Microsoft Office 365 Personal - 1 Year Subscription'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/OFFICE365_d97656c1-cde9-4888-b9a0-cb0372b63cc5.webp',
-    ],
+    images: ['/images/webp/OFFICE365_d97656c1-cde9-4888-b9a0-cb0372b63cc5.webp'],
     tags: ['featured', 'todays-deal'],
     isPublished: false,
     price: 35,
@@ -1042,9 +1040,7 @@ const products: IProductInput[] = [
       'Adobe Illustrator 2022 With Lifetime License For Windows Email delivery'
     ),
     category: 'Creative and Design',
-    images: [
-      '/images/webp/adi22-00_500x_e172b011-9f36-48d4-8218-5e86f611201b.webp',
-    ],
+    images: ['/images/webp/adi22-00_500x_e172b011-9f36-48d4-8218-5e86f611201b.webp'],
     tags: ['featured', 'todays-deal'],
     isPublished: true,
     price: 35,
@@ -1125,9 +1121,7 @@ const products: IProductInput[] = [
     name: 'Adobe Indesign 2022 Lifetime Activation For Windows',
     slug: toSlug('Adobe Indesign 2022 Lifetime Activation For Windows'),
     category: 'Creative and Design',
-    images: [
-      '/images/webp/ADOBEINDISINE_8d9e5dcc-08eb-42b5-bf48-88f3281636cd.webp',
-    ],
+    images: ['/images/webp/ADOBEINDISINE_8d9e5dcc-08eb-42b5-bf48-88f3281636cd.webp'],
     tags: ['todays-deal', 'featured'],
     isPublished: true,
     price: 35,
@@ -1212,9 +1206,7 @@ const products: IProductInput[] = [
       'Adobe Lightroom Classic 2022 with lifetime License For Windows Email delivery'
     ),
     category: 'Creative and Design',
-    images: [
-      '/images/webp/lrc22-00_500x_049193c0-abf4-4386-a59b-eaa25cad97ef.webp',
-    ],
+    images: ['/images/webp/lrc22-00_500x_049193c0-abf4-4386-a59b-eaa25cad97ef.webp'],
     tags: ['featured', 'todays-deal'],
     isPublished: true,
     price: 35,
@@ -1407,9 +1399,7 @@ const products: IProductInput[] = [
       'Adobe Photoshop 2022 With Lifetime License For Windows Email delivery'
     ),
     category: 'Creative and Design',
-    images: [
-      '/images/webp/adobephotoshop22112_500x_eb0697ce-83b6-4ca8-9e2c-507f1a294dcf.webp',
-    ],
+    images: ['/images/webp/adobephotoshop22112_500x_eb0697ce-83b6-4ca8-9e2c-507f1a294dcf.webp'],
     tags: ['todays-deal', 'new-arrival', 'featured'],
     isPublished: true,
     price: 35,
@@ -1436,9 +1426,7 @@ const products: IProductInput[] = [
     name: 'Adobe Photoshop CC 2022 Full Last Version For Mac',
     slug: toSlug('Adobe Photoshop CC 2022 Full Last Version For Mac'),
     category: 'Creative and Design',
-    images: [
-      '/images/webp/AdobePhotoshopCC2022v23ForWindowsFullLastVersionlifetimeActivation11_57d87655-ea07-4121-b864-d5e5413ac3c5.webp',
-    ],
+    images: ['/images/webp/AdobePhotoshopCC2022v23ForWindowsFullLastVersionlifetimeActivation11_57d87655-ea07-4121-b864-d5e5413ac3c5.webp'],
     tags: ['featured'],
     isPublished: true,
     price: 35,
@@ -1465,9 +1453,7 @@ const products: IProductInput[] = [
     name: 'Adobe Photoshop CC For windows 2022 latest',
     slug: toSlug('Adobe Photoshop CC For windows 2022 latest'),
     category: 'Creative and Design',
-    images: [
-      '/images/webp/adobephotoshop22112_500x_1024x1024_2x_eb36591e-3f14-42a7-a5cd-13297a0aac46.webp',
-    ],
+    images: ['/images/webp/adobephotoshop22112_500x_1024x1024_2x_eb36591e-3f14-42a7-a5cd-13297a0aac46.webp'],
     tags: ['todays-deal', 'new-arrival'],
     isPublished: true,
     price: 35,
@@ -1496,9 +1482,7 @@ const products: IProductInput[] = [
       'Adobe Photoshop Lightroom Classic 2022 With Lifetime License'
     ),
     category: 'Creative and Design',
-    images: [
-      '/images/webp/adobe-lightroom-classic-2022-with-lifetime-license-for-windows-831_1296x_e2701c84-e30d-4729-b635-9c452c6c9337.webp',
-    ],
+    images: ['/images/webp/adobe-lightroom-classic-2022-with-lifetime-license-for-windows-831_1296x_e2701c84-e30d-4729-b635-9c452c6c9337.webp'],
     tags: ['new-arrival'],
     isPublished: true,
     price: 35,
@@ -1554,9 +1538,7 @@ const products: IProductInput[] = [
       'Adobe Premiere Pro 2022 With Lifetime License For Windows Email delivery'
     ),
     category: 'Creative and Design',
-    images: [
-      '/images/webp/adpp22-00_500x_834c8ecc-666d-4268-88da-aa43771e9652.webp',
-    ],
+    images: ['/images/webp/adpp22-00_500x_834c8ecc-666d-4268-88da-aa43771e9652.webp'],
     tags: ['best-seller', 'todays-deal'],
     isPublished: true,
     price: 35,
@@ -1583,9 +1565,7 @@ const products: IProductInput[] = [
     name: 'ADOBE PREMIERE PRO CC 2022',
     slug: toSlug('ADOBE PREMIERE PRO CC 2022'),
     category: 'Creative and Design',
-    images: [
-      '/images/webp/Premiere_Pro_CC_2022_1024x1024_2x_41587527-0761-4511-9e38-d9101a9e542f.webp',
-    ],
+    images: ['/images/webp/Premiere_Pro_CC_2022_1024x1024_2x_41587527-0761-4511-9e38-d9101a9e542f.webp'],
     tags: ['new-arrival', 'best-seller', 'todays-deal'],
     isPublished: true,
     price: 35,
@@ -1782,9 +1762,7 @@ const products: IProductInput[] = [
     name: 'Apple Logic Pro X 10.7.2 Full Version | Email Delivery',
     slug: toSlug('Apple Logic Pro X 10.7.2 Full Version | Email Delivery'),
     category: 'Music Production',
-    images: [
-      '/images/webp/product_40_5b717da9-b9a3-49a4-a2fd-3e2623ea18d0.webp',
-    ],
+    images: ['/images/webp/product_40_5b717da9-b9a3-49a4-a2fd-3e2623ea18d0.webp'],
     tags: ['new-arrival', 'todays-deal', 'best-seller'],
     isPublished: true,
     price: 35,
@@ -1954,9 +1932,7 @@ const products: IProductInput[] = [
       'Autodesk 3DS MAX 2023 Full Version For Windows - Email Delivery'
     ),
     category: 'Architecture and Construction',
-    images: [
-      '/images/webp/product_1_bdd7bbb8-96f8-41a0-a031-c2479f0625c4.webp',
-    ],
+    images: ['/images/webp/product_1_bdd7bbb8-96f8-41a0-a031-c2479f0625c4.webp'],
     tags: ['new-arrival', 'best-seller'],
     isPublished: true,
     price: 35,
@@ -2149,9 +2125,7 @@ const products: IProductInput[] = [
       'Autodesk AutoCAD 2022 Lifetime license for Windows - Email Delivery'
     ),
     category: 'Architecture and Construction',
-    images: [
-      '/images/webp/product_1_2093783b-4b6e-48b3-a28b-98b1a2f8f6b7.webp',
-    ],
+    images: ['/images/webp/product_1_2093783b-4b6e-48b3-a28b-98b1a2f8f6b7.webp'],
     tags: ['todays-deal', 'best-seller', 'featured'],
     isPublished: true,
     price: 35,
@@ -2234,9 +2208,7 @@ const products: IProductInput[] = [
     name: 'Autodesk AutoCAD 2024 With Lifetime License For Windows',
     slug: toSlug('Autodesk AutoCAD 2024 With Lifetime License For Windows'),
     category: 'Architecture and Construction',
-    images: [
-      '/images/webp/autodesk-autocad-small_social-400_2000x_bf5e06f6-de65-4617-9034-e19fb5b27df4.webp',
-    ],
+    images: ['/images/webp/autodesk-autocad-small_social-400_2000x_bf5e06f6-de65-4617-9034-e19fb5b27df4.webp'],
     tags: ['featured'],
     isPublished: true,
     price: 35,
@@ -2887,9 +2859,7 @@ const products: IProductInput[] = [
       'Autodesk FormIt Pro 2022.1.0 Full LifeTime Activation for Windows'
     ),
     category: 'Architecture and Construction',
-    images: [
-      '/images/webp/product_2_9ef39ebf-6bb2-418e-a4e2-8c6ef43eca8c.webp',
-    ],
+    images: ['/images/webp/product_2_9ef39ebf-6bb2-418e-a4e2-8c6ef43eca8c.webp'],
     tags: ['featured', 'new-arrival', 'todays-deal'],
     isPublished: true,
     price: 35,
@@ -3453,9 +3423,7 @@ const products: IProductInput[] = [
     name: 'Autodesk SketchBook Pro 2021',
     slug: toSlug('Autodesk SketchBook Pro 2021'),
     category: 'Creative and Design',
-    images: [
-      '/images/webp/autodesk-sketchbook-pro-2021-full-version-for-windows_6022af5f368d7-1.webp',
-    ],
+    images: ['/images/webp/autodesk-sketchbook-pro-2021-full-version-for-windows_6022af5f368d7-1.webp'],
     tags: ['featured', 'todays-deal'],
     isPublished: true,
     price: 35,
@@ -3683,9 +3651,7 @@ const products: IProductInput[] = [
       'Avid Sibelius Ultimate 2019 Full ACTIVATED For Windows -Email Delivery'
     ),
     category: 'Music Production',
-    images: [
-      '/images/webp/product_3_36435045-1c04-4e93-a261-f950428f1fca.webp',
-    ],
+    images: ['/images/webp/product_3_36435045-1c04-4e93-a261-f950428f1fca.webp'],
     tags: ['featured', 'todays-deal'],
     isPublished: true,
     price: 35,
@@ -3795,9 +3761,7 @@ const products: IProductInput[] = [
     name: 'Bluebeam Revu eXtreme 2020 for Windows -Email Delivery',
     slug: toSlug('Bluebeam Revu eXtreme 2020 for Windows -Email Delivery'),
     category: 'Architecture and Construction',
-    images: [
-      '/images/webp/product_5_0bc69cdf-4d2a-4489-b85c-a5756ed5ed9c.webp',
-    ],
+    images: ['/images/webp/product_5_0bc69cdf-4d2a-4489-b85c-a5756ed5ed9c.webp'],
     tags: ['featured', 'todays-deal'],
     isPublished: true,
     price: 35,
@@ -3824,9 +3788,7 @@ const products: IProductInput[] = [
     name: 'Bobble Hat Unisex Pink Navy Cream Hat',
     slug: toSlug('Bobble Hat Unisex Pink Navy Cream Hat'),
     category: 'Other',
-    images: [
-      '/images/webp/Adobookproduct_6_e1f00033-6572-42ff-b589-7a556dcd4fed.webp',
-    ],
+    images: ['/images/webp/Adobookproduct_6_e1f00033-6572-42ff-b589-7a556dcd4fed.webp'],
     tags: ['featured'],
     isPublished: false,
     price: 35,
@@ -3971,9 +3933,7 @@ const products: IProductInput[] = [
       'Brother PE Design 11 Embroidery & Sewing Digitizing Machine Full Activated -Email Delivery'
     ),
     category: 'Creative and Design',
-    images: [
-      '/images/webp/product_6_58ce3428-6eed-4a76-b691-0e294d3b72a3.webp',
-    ],
+    images: ['/images/webp/product_6_58ce3428-6eed-4a76-b691-0e294d3b72a3.webp'],
     tags: ['todays-deal', 'best-seller'],
     isPublished: true,
     price: 35,
@@ -4058,9 +4018,7 @@ const products: IProductInput[] = [
       'Capture One 21 Pro 14.4 full version For windows - Email Delivery'
     ),
     category: 'Creative and Design',
-    images: [
-      '/images/webp/product_1_505c032d-74f9-4211-9e69-e618ee5d70fe.webp',
-    ],
+    images: ['/images/webp/product_1_505c032d-74f9-4211-9e69-e618ee5d70fe.webp'],
     tags: ['best-seller'],
     isPublished: true,
     price: 35,
@@ -4143,9 +4101,7 @@ const products: IProductInput[] = [
     name: 'Capture One Pro 22 Lifetime License',
     slug: toSlug('Capture One Pro 22 Lifetime License'),
     category: 'Creative and Design',
-    images: [
-      '/images/webp/02b87836b061f3efeb4ca1ad6bc0d266324b7812_3832b272-4215-45d2-b9ff-b3a1885840ab.webp',
-    ],
+    images: ['/images/webp/02b87836b061f3efeb4ca1ad6bc0d266324b7812_3832b272-4215-45d2-b9ff-b3a1885840ab.webp'],
     tags: ['new-arrival', 'featured'],
     isPublished: true,
     price: 35,
@@ -4172,9 +4128,7 @@ const products: IProductInput[] = [
     name: 'CCleaner Professional (1 PC | 1 Year) Email Delivery',
     slug: toSlug('CCleaner Professional (1 PC | 1 Year) Email Delivery'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/45331310_f60ab83b-85c4-45de-bceb-6b721fa25841_635_634.webp',
-    ],
+    images: ['/images/webp/45331310_f60ab83b-85c4-45de-bceb-6b721fa25841_635_634.webp'],
     tags: ['best-seller'],
     isPublished: true,
     price: 35,
@@ -4340,9 +4294,7 @@ const products: IProductInput[] = [
       'Chief Architect Premier X13 Full version for Windows -Email Delivery'
     ),
     category: 'Architecture and Construction',
-    images: [
-      '/images/webp/product_7_1825e0d0-224f-4351-a03d-1183ada50574.webp',
-    ],
+    images: ['/images/webp/product_7_1825e0d0-224f-4351-a03d-1183ada50574.webp'],
     tags: ['todays-deal'],
     isPublished: true,
     price: 35,
@@ -4427,9 +4379,7 @@ const products: IProductInput[] = [
       'Clip Studio PAINT EX FULL VERSION FOR WINDOWS - EMAIL DELIVERY'
     ),
     category: 'Creative and Design',
-    images: [
-      '/images/webp/product_8_a765482d-9c82-4fc6-a971-53a9e57203bd.webp',
-    ],
+    images: ['/images/webp/product_8_a765482d-9c82-4fc6-a971-53a9e57203bd.webp'],
     tags: ['featured', 'new-arrival'],
     isPublished: true,
     price: 35,
@@ -4458,9 +4408,7 @@ const products: IProductInput[] = [
       'CoffeeCup Responsive Site Designer Full version For Windows - Email Delivery'
     ),
     category: 'Development and IT',
-    images: [
-      '/images/webp/SoftwareForwindows_96cfa0a0-255b-471f-99a1-0e3e367f43b7.webp',
-    ],
+    images: ['/images/webp/SoftwareForwindows_96cfa0a0-255b-471f-99a1-0e3e367f43b7.webp'],
     tags: ['new-arrival', 'todays-deal'],
     isPublished: true,
     price: 35,
@@ -4514,9 +4462,7 @@ const products: IProductInput[] = [
     name: 'Corel AfterShot HDR 3 Lifetime License',
     slug: toSlug('Corel AfterShot HDR 3 Lifetime License'),
     category: 'Creative and Design',
-    images: [
-      '/images/webp/corel_esdass3ml_corel_aftershot_3_standard_1300108_a376e401-621d-4f9b-8c69-2d51fe7d6e35.webp',
-    ],
+    images: ['/images/webp/corel_esdass3ml_corel_aftershot_3_standard_1300108_a376e401-621d-4f9b-8c69-2d51fe7d6e35.webp'],
     tags: ['best-seller', 'featured'],
     isPublished: true,
     price: 35,
@@ -4925,9 +4871,7 @@ const products: IProductInput[] = [
     name: 'CorelDRAW Graphics Suite 2022 Lifetime License for Windows',
     slug: toSlug('CorelDRAW Graphics Suite 2022 Lifetime License for Windows'),
     category: 'Creative and Design',
-    images: [
-      '/images/webp/CorelDraw-Graphics-Suite-2022_540x_db52a609-486f-4c09-9a07-3788d00e85d9.webp',
-    ],
+    images: ['/images/webp/CorelDraw-Graphics-Suite-2022_540x_db52a609-486f-4c09-9a07-3788d00e85d9.webp'],
     tags: ['new-arrival', 'featured', 'best-seller'],
     isPublished: true,
     price: 35,
@@ -4985,9 +4929,7 @@ const products: IProductInput[] = [
       'Custom Order: Microsoft Windows 10 Pro 32 or 64 Bit Standard License Key Code Product'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/windows-10-download-license-32-64-bit_1024x1024_b2114217-42f7-41cb-9fbe-c0aea6abcf8d.webp',
-    ],
+    images: ['/images/webp/windows-10-download-license-32-64-bit_1024x1024_b2114217-42f7-41cb-9fbe-c0aea6abcf8d.webp'],
     tags: ['featured', 'todays-deal', 'new-arrival'],
     isPublished: true,
     price: 35,
@@ -5246,9 +5188,7 @@ const products: IProductInput[] = [
     name: 'CyberLink PowerDirector 20 Ultimate Lifetime License',
     slug: toSlug('CyberLink PowerDirector 20 Ultimate Lifetime License'),
     category: 'Creative and Design',
-    images: [
-      '/images/webp/cyberlink_pdr_ek00_rpm0_00_powerdirector_20_ultimate_1680804_b2d77259-c391-47c2-b4bf-38008f77c3fe.webp',
-    ],
+    images: ['/images/webp/cyberlink_pdr_ek00_rpm0_00_powerdirector_20_ultimate_1680804_b2d77259-c391-47c2-b4bf-38008f77c3fe.webp'],
     tags: ['todays-deal'],
     isPublished: true,
     price: 35,
@@ -5304,9 +5244,7 @@ const products: IProductInput[] = [
     name: 'CyberLink PowerDVD Ultra 21 Lifetime License',
     slug: toSlug('CyberLink PowerDVD Ultra 21 Lifetime License'),
     category: 'Creative and Design',
-    images: [
-      '/images/webp/Cyberlink-PowerDVD-21-Ultra_0173e166-81ac-4c5c-b229-58ab4a3ca5ef.webp',
-    ],
+    images: ['/images/webp/Cyberlink-PowerDVD-21-Ultra_0173e166-81ac-4c5c-b229-58ab4a3ca5ef.webp'],
     tags: ['new-arrival'],
     isPublished: true,
     price: 35,
@@ -5671,9 +5609,7 @@ const products: IProductInput[] = [
       'Dynamics 365 for Customer Service Enterprise - 1 Month Subscription'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/Microsoft-Dynamics-365-for-Customer-Service_1024x1024_0f0aee65-7615-4184-ab13-a374c7010311.webp',
-    ],
+    images: ['/images/webp/Microsoft-Dynamics-365-for-Customer-Service_1024x1024_0f0aee65-7615-4184-ab13-a374c7010311.webp'],
     tags: ['best-seller'],
     isPublished: true,
     price: 35,
@@ -5785,9 +5721,7 @@ const products: IProductInput[] = [
       'FabFilter Total Bundle 2021 Full Version For Windows & Mac - Email Delivery'
     ),
     category: 'Music Production',
-    images: [
-      '/images/webp/product_11_0963299f-c362-42a4-b6aa-2f345c1ae8de.webp',
-    ],
+    images: ['/images/webp/product_11_0963299f-c362-42a4-b6aa-2f345c1ae8de.webp'],
     tags: ['best-seller'],
     isPublished: true,
     price: 35,
@@ -5928,9 +5862,7 @@ const products: IProductInput[] = [
     name: 'FL Studio Full version for macOS - Email Delivery',
     slug: toSlug('FL Studio Full version for macOS - Email Delivery'),
     category: 'Music Production',
-    images: [
-      '/images/webp/product_12_454e0faa-e630-4762-bd94-79df3f26d904.webp',
-    ],
+    images: ['/images/webp/product_12_454e0faa-e630-4762-bd94-79df3f26d904.webp'],
     tags: ['new-arrival', 'best-seller'],
     isPublished: true,
     price: 35,
@@ -5959,9 +5891,7 @@ const products: IProductInput[] = [
       'FL Studio Producer Edition Version 20 Full version for Windows - Email Delivery'
     ),
     category: 'Music Production',
-    images: [
-      '/images/webp/product_13_df0131f8-e1d7-444c-833f-1f41c42e0791.webp',
-    ],
+    images: ['/images/webp/product_13_df0131f8-e1d7-444c-833f-1f41c42e0791.webp'],
     tags: ['new-arrival', 'featured'],
     isPublished: true,
     price: 35,
@@ -6216,9 +6146,7 @@ const products: IProductInput[] = [
       'GUITAR PRO 7.6 Editing & Composition Software For Windows - Email Delivery'
     ),
     category: 'Music Production',
-    images: [
-      '/images/webp/product_14_f7e18e9d-fd50-428d-9f8b-75b8580a5792.webp',
-    ],
+    images: ['/images/webp/product_14_f7e18e9d-fd50-428d-9f8b-75b8580a5792.webp'],
     tags: ['todays-deal', 'best-seller'],
     isPublished: true,
     price: 35,
@@ -6326,9 +6254,7 @@ const products: IProductInput[] = [
     name: 'Handmade Crochet Ear warmer',
     slug: toSlug('Handmade Crochet Ear warmer'),
     category: 'Other',
-    images: [
-      '/images/webp/Adobookproduct_21_70e66493-03e2-41cd-b568-84306f1fa0f5.webp',
-    ],
+    images: ['/images/webp/Adobookproduct_21_70e66493-03e2-41cd-b568-84306f1fa0f5.webp'],
     tags: ['best-seller', 'todays-deal', 'new-arrival'],
     isPublished: false,
     price: 35,
@@ -6382,9 +6308,7 @@ const products: IProductInput[] = [
     name: 'Handmade Crochet Mens winter hat 100% natural icelandic',
     slug: toSlug('Handmade Crochet Mens winter hat 100% natural icelandic'),
     category: 'Other',
-    images: [
-      '/images/webp/Adobookproduct_13_21a7324e-02ac-4b06-9eef-c8aabc0ec307.webp',
-    ],
+    images: ['/images/webp/Adobookproduct_13_21a7324e-02ac-4b06-9eef-c8aabc0ec307.webp'],
     tags: ['todays-deal'],
     isPublished: false,
     price: 35,
@@ -6438,9 +6362,7 @@ const products: IProductInput[] = [
     name: 'Handmade Crochet Straw Bucket Hat',
     slug: toSlug('Handmade Crochet Straw Bucket Hat'),
     category: 'Other',
-    images: [
-      '/images/webp/Adobookproduct_3_f9c2ca61-d5c9-4d9e-a857-a0b338d0f46c.webp',
-    ],
+    images: ['/images/webp/Adobookproduct_3_f9c2ca61-d5c9-4d9e-a857-a0b338d0f46c.webp'],
     tags: ['best-seller', 'featured'],
     isPublished: false,
     price: 35,
@@ -6575,9 +6497,7 @@ const products: IProductInput[] = [
     name: 'Handmade Recycled Cotton Bucket Hat - Crochet',
     slug: toSlug('Handmade Recycled Cotton Bucket Hat - Crochet'),
     category: 'Other',
-    images: [
-      '/images/webp/Adobookproduct_23_c50c26d6-b51b-4f63-8315-6cb4cfd2eb76.webp',
-    ],
+    images: ['/images/webp/Adobookproduct_23_c50c26d6-b51b-4f63-8315-6cb4cfd2eb76.webp'],
     tags: ['featured'],
     isPublished: false,
     price: 35,
@@ -6631,9 +6551,7 @@ const products: IProductInput[] = [
     name: 'HDRsoft Photomatix Pro 6.3 Lifetime License for Windows',
     slug: toSlug('HDRsoft Photomatix Pro 6.3 Lifetime License for Windows'),
     category: 'Creative and Design',
-    images: [
-      '/images/webp/81NN3BvUbqL._SL1500_25618da5-af36-4f76-92c0-d6f123cd4e79.webp',
-    ],
+    images: ['/images/webp/81NN3BvUbqL._SL1500_25618da5-af36-4f76-92c0-d6f123cd4e79.webp'],
     tags: ['featured', 'todays-deal'],
     isPublished: true,
     price: 35,
@@ -6660,9 +6578,7 @@ const products: IProductInput[] = [
     name: 'Hemp Cotton Patch Flexible Brim hat',
     slug: toSlug('Hemp Cotton Patch Flexible Brim hat'),
     category: 'Other',
-    images: [
-      '/images/webp/Adobookproduct_19_077d15de-77e6-45ac-a87e-76baf0cb463f.webp',
-    ],
+    images: ['/images/webp/Adobookproduct_19_077d15de-77e6-45ac-a87e-76baf0cb463f.webp'],
     tags: ['new-arrival', 'best-seller', 'featured'],
     isPublished: false,
     price: 35,
@@ -6834,9 +6750,7 @@ const products: IProductInput[] = [
       'INTUIT QuickBooks Desktop Enterprise 2021 – 5 Users License key Lifetime WINDOWS USA'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/Captureh3_885b8f88-de99-4630-81ad-847b8f68056a.webp',
-    ],
+    images: ['/images/webp/Captureh3_885b8f88-de99-4630-81ad-847b8f68056a.webp'],
     tags: ['featured', 'todays-deal'],
     isPublished: true,
     price: 35,
@@ -6892,9 +6806,7 @@ const products: IProductInput[] = [
     name: 'INTUIT QuickBooks Enterprise 2021 Lifetime License',
     slug: toSlug('INTUIT QuickBooks Enterprise 2021 Lifetime License'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/INTUIT_QUICKBOOKS_2021_6e6fd8af-e9b9-4dd0-9a1c-5eca18408286.webp',
-    ],
+    images: ['/images/webp/INTUIT_QUICKBOOKS_2021_6e6fd8af-e9b9-4dd0-9a1c-5eca18408286.webp'],
     tags: ['new-arrival', 'featured', 'todays-deal'],
     isPublished: true,
     price: 35,
@@ -7222,9 +7134,7 @@ const products: IProductInput[] = [
     name: 'Luminar NEO Full Version for Windows and Mac',
     slug: toSlug('Luminar NEO Full Version for Windows and Mac'),
     category: 'Creative and Design',
-    images: [
-      '/images/webp/image_dc397290-f1b7-426c-88ec-03a6e3f12a61.webp, /images/webp/image_80f8d6ae-1d14-46e1-bf0f-e88ff985846f.webp',
-    ],
+    images: ['/images/webp/image_dc397290-f1b7-426c-88ec-03a6e3f12a61.webp, /images/webp/image_80f8d6ae-1d14-46e1-bf0f-e88ff985846f.webp'],
     tags: ['best-seller'],
     isPublished: true,
     price: 35,
@@ -7280,9 +7190,7 @@ const products: IProductInput[] = [
       'LUMION PRO 11.5 Full Activated Version for Windows -Email Delivery'
     ),
     category: 'Architecture and Construction',
-    images: [
-      '/images/webp/product_16_302e7247-2d2b-4665-8c95-8eccff1012e3.webp',
-    ],
+    images: ['/images/webp/product_16_302e7247-2d2b-4665-8c95-8eccff1012e3.webp'],
     tags: ['new-arrival'],
     isPublished: true,
     price: 35,
@@ -7475,9 +7383,7 @@ const products: IProductInput[] = [
       'MAGIX VEGAS MOVIE STUDIO 2022 PLATINUM LIFETIME LICENSE FOR WINDOWS'
     ),
     category: 'Creative and Design',
-    images: [
-      '/images/webp/MAGIX-VEGAS-Movie-Studio-Platinum-2022-Free-Download-GetintoPC.com_.webp',
-    ],
+    images: ['/images/webp/MAGIX-VEGAS-Movie-Studio-Platinum-2022-Free-Download-GetintoPC.com_.webp'],
     tags: ['best-seller'],
     isPublished: true,
     price: 35,
@@ -7535,9 +7441,7 @@ const products: IProductInput[] = [
       'MAGIX VEGAS Pro 19 Full Version for WINDOWS - Email Delivery'
     ),
     category: 'Creative and Design',
-    images: [
-      '/images/webp/product_18_e5163ed5-5dc3-450f-b164-65400e206793.webp',
-    ],
+    images: ['/images/webp/product_18_e5163ed5-5dc3-450f-b164-65400e206793.webp'],
     tags: ['new-arrival'],
     isPublished: true,
     price: 35,
@@ -7564,9 +7468,7 @@ const products: IProductInput[] = [
     name: 'MAGIX VEGAS Pro 19 Lifetime License',
     slug: toSlug('MAGIX VEGAS Pro 19 Lifetime License'),
     category: 'Creative and Design',
-    images: [
-      '/images/webp/246114637_e1bd7e15fd6c74c51cb10837e324d25e_0e68ed7f-7837-459f-9288-20aa816f6f26.webp',
-    ],
+    images: ['/images/webp/246114637_e1bd7e15fd6c74c51cb10837e324d25e_0e68ed7f-7837-459f-9288-20aa816f6f26.webp'],
     tags: ['featured'],
     isPublished: true,
     price: 35,
@@ -7651,9 +7553,7 @@ const products: IProductInput[] = [
     name: 'Maxon CINEMA 4D Studio S24 2021 Lifetime License',
     slug: toSlug('Maxon CINEMA 4D Studio S24 2021 Lifetime License'),
     category: 'Creative and Design',
-    images: [
-      '/images/webp/Screenshot_2021-04-13-Maxon-Announces-Cinema-4D-S24_6d8ae591-0942-429d-bd50-a85ec14560be.webp',
-    ],
+    images: ['/images/webp/Screenshot_2021-04-13-Maxon-Announces-Cinema-4D-S24_6d8ae591-0942-429d-bd50-a85ec14560be.webp'],
     tags: ['todays-deal'],
     isPublished: true,
     price: 35,
@@ -7850,9 +7750,7 @@ const products: IProductInput[] = [
       'Microsoft Dynamics 365 for Finance and Operations Business Edition'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/For_finance_and_Operations_f0fe837f-e555-482b-8469-f2c5b92fa029.webp',
-    ],
+    images: ['/images/webp/For_finance_and_Operations_f0fe837f-e555-482b-8469-f2c5b92fa029.webp'],
     tags: ['featured', 'todays-deal', 'new-arrival'],
     isPublished: true,
     price: 35,
@@ -7879,9 +7777,7 @@ const products: IProductInput[] = [
     name: 'Microsoft Dynamics 365 for Sales Enterprise Edition',
     slug: toSlug('Microsoft Dynamics 365 for Sales Enterprise Edition'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/for_sales_6d50832e-3870-4b6f-9cb4-7bdbd6cecbc8.webp',
-    ],
+    images: ['/images/webp/for_sales_6d50832e-3870-4b6f-9cb4-7bdbd6cecbc8.webp'],
     tags: ['best-seller'],
     isPublished: true,
     price: 35,
@@ -7908,9 +7804,7 @@ const products: IProductInput[] = [
     name: 'Microsoft Dynamics 365 for Sales Enterprise Edition - GOV',
     slug: toSlug('Microsoft Dynamics 365 for Sales Enterprise Edition - GOV'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/for_salesGOV_2376b601-80b9-447f-9e6e-78749b5d057a.webp',
-    ],
+    images: ['/images/webp/for_salesGOV_2376b601-80b9-447f-9e6e-78749b5d057a.webp'],
     tags: ['featured'],
     isPublished: true,
     price: 35,
@@ -7939,9 +7833,7 @@ const products: IProductInput[] = [
       'Microsoft Dynamics 365 for Sales Enterprise Edition Add-on for CRM Basic (Qualified Offer) - GOV'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/for_salesGOV_7cb019ae-ad05-40d1-852d-faf26b546a06.webp',
-    ],
+    images: ['/images/webp/for_salesGOV_7cb019ae-ad05-40d1-852d-faf26b546a06.webp'],
     tags: ['todays-deal', 'featured'],
     isPublished: true,
     price: 35,
@@ -7999,9 +7891,7 @@ const products: IProductInput[] = [
       'Microsoft Dynamics 365 for Sales Enterprise Edition CRM Online Basic (Qualified Offer) - GOV'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/for_salesGOV_a622b182-367b-4e0c-bbdf-390612e7d940.webp',
-    ],
+    images: ['/images/webp/for_salesGOV_a622b182-367b-4e0c-bbdf-390612e7d940.webp'],
     tags: ['todays-deal', 'new-arrival'],
     isPublished: true,
     price: 35,
@@ -8030,9 +7920,7 @@ const products: IProductInput[] = [
       'Microsoft Dynamics 365 for Sales Enterprise Edition CRM Online Professional (Qualified Offer)'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/for_sales_54f8f0c8-8ec7-4c5e-b0c2-5f509022a33b.webp',
-    ],
+    images: ['/images/webp/for_sales_54f8f0c8-8ec7-4c5e-b0c2-5f509022a33b.webp'],
     tags: ['best-seller', 'featured', 'new-arrival'],
     isPublished: true,
     price: 35,
@@ -8059,9 +7947,7 @@ const products: IProductInput[] = [
     name: 'Microsoft Dynamics 365 for Sales Enterprise Edition Device',
     slug: toSlug('Microsoft Dynamics 365 for Sales Enterprise Edition Device'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/for_sales_82616a37-9842-4046-9370-a32a650e3716.webp',
-    ],
+    images: ['/images/webp/for_sales_82616a37-9842-4046-9370-a32a650e3716.webp'],
     tags: ['new-arrival'],
     isPublished: true,
     price: 35,
@@ -8090,9 +7976,7 @@ const products: IProductInput[] = [
       'Microsoft Dynamics 365 for Sales Enterprise Edition for CRM Online Pro add-on to Office 365 Users (Qualified Offer) - GOV'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/for_salesGOV_6143ed85-08c1-4917-b9dc-3aa147f1dcce.webp',
-    ],
+    images: ['/images/webp/for_salesGOV_6143ed85-08c1-4917-b9dc-3aa147f1dcce.webp'],
     tags: ['featured'],
     isPublished: true,
     price: 35,
@@ -8121,9 +8005,7 @@ const products: IProductInput[] = [
       'Microsoft Dynamics 365 for Sales Enterprise Edition From SA for CRM Basic (Qualified Offer)'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/for_sales_ce35ccb6-6c13-4d09-854e-9713efabb1e0.webp',
-    ],
+    images: ['/images/webp/for_sales_ce35ccb6-6c13-4d09-854e-9713efabb1e0.webp'],
     tags: ['featured'],
     isPublished: true,
     price: 35,
@@ -8152,9 +8034,7 @@ const products: IProductInput[] = [
       'Microsoft Dynamics 365 for Sales Enterprise Edition From SA for CRM Basic (Qualified Offer) - GOV'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/for_salesGOV_6cdf4ee9-57f6-4a93-a61b-0a52b9eea53f.webp',
-    ],
+    images: ['/images/webp/for_salesGOV_6cdf4ee9-57f6-4a93-a61b-0a52b9eea53f.webp'],
     tags: ['new-arrival'],
     isPublished: true,
     price: 35,
@@ -8181,9 +8061,7 @@ const products: IProductInput[] = [
     name: 'Microsoft Excel Course - Excel from Beginner To Advanced',
     slug: toSlug('Microsoft Excel Course - Excel from Beginner To Advanced'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/166494570_807758666495002_4225888564000821323_n.webp',
-    ],
+    images: ['/images/webp/166494570_807758666495002_4225888564000821323_n.webp'],
     tags: ['best-seller'],
     isPublished: true,
     price: 35,
@@ -8270,9 +8148,7 @@ const products: IProductInput[] = [
       'Microsoft Office 2010 Professional Plus for Windows PC Product License Code 1 PC'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/serial_number_microsoft_office_2010_professional_plus_14.webp',
-    ],
+    images: ['/images/webp/serial_number_microsoft_office_2010_professional_plus_14.webp'],
     tags: ['featured', 'todays-deal', 'best-seller'],
     isPublished: true,
     price: 35,
@@ -8328,9 +8204,7 @@ const products: IProductInput[] = [
     name: 'Microsoft Office 2013 Pro Plus Lifetime License Key',
     slug: toSlug('Microsoft Office 2013 Pro Plus Lifetime License Key'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/microsoft-office-pro-2013_e3061015-93d5-4a33-9f7b-da3f79acbddd.webp',
-    ],
+    images: ['/images/webp/microsoft-office-pro-2013_e3061015-93d5-4a33-9f7b-da3f79acbddd.webp'],
     tags: ['featured'],
     isPublished: true,
     price: 35,
@@ -8357,9 +8231,7 @@ const products: IProductInput[] = [
     name: 'Microsoft Office 2016 Home & Business 1 Mac',
     slug: toSlug('Microsoft Office 2016 Home & Business 1 Mac'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/mac2016hb_695x695_0edd6d84-533f-4282-ab2f-a6aaa6d10d3d.webp',
-    ],
+    images: ['/images/webp/mac2016hb_695x695_0edd6d84-533f-4282-ab2f-a6aaa6d10d3d.webp'],
     tags: ['new-arrival', 'todays-deal'],
     isPublished: true,
     price: 35,
@@ -8388,9 +8260,7 @@ const products: IProductInput[] = [
       'Microsoft Office 2016 Home and Business For PC - Lifetime Activation'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/Office2016home_businessForPC-LifetimeSubscription-min.webp',
-    ],
+    images: ['/images/webp/Office2016home_businessForPC-LifetimeSubscription-min.webp'],
     tags: ['new-arrival'],
     isPublished: true,
     price: 35,
@@ -8417,9 +8287,7 @@ const products: IProductInput[] = [
     name: 'Microsoft Office 2016 Pro Plus Lifetime License Key',
     slug: toSlug('Microsoft Office 2016 Pro Plus Lifetime License Key'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/office-2016-pro-plus_96f3c189-7028-420b-9952-d18082de1d79.webp',
-    ],
+    images: ['/images/webp/office-2016-pro-plus_96f3c189-7028-420b-9952-d18082de1d79.webp'],
     tags: ['todays-deal', 'featured', 'best-seller'],
     isPublished: true,
     price: 35,
@@ -8446,9 +8314,7 @@ const products: IProductInput[] = [
     name: 'Microsoft Office 2016 Pro Plus Lifetime Retail License 1PC',
     slug: toSlug('Microsoft Office 2016 Pro Plus Lifetime Retail License 1PC'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/Plan-de-travail-1-5_0bd8b01b-0a5c-4612-adce-baf0d2a53c86.webp',
-    ],
+    images: ['/images/webp/Plan-de-travail-1-5_0bd8b01b-0a5c-4612-adce-baf0d2a53c86.webp'],
     tags: ['todays-deal', 'best-seller'],
     isPublished: true,
     price: 35,
@@ -8477,9 +8343,7 @@ const products: IProductInput[] = [
       'Microsoft Office 2016 Professional Plus for Windows 2 PC Latest Updates'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/buy-purchase-download-install-office-professional-plus-2016.webp',
-    ],
+    images: ['/images/webp/buy-purchase-download-install-office-professional-plus-2016.webp'],
     tags: ['best-seller'],
     isPublished: true,
     price: 35,
@@ -8535,9 +8399,7 @@ const products: IProductInput[] = [
     name: 'Microsoft Office 2019 Home & Business 1 User PC or Mac',
     slug: toSlug('Microsoft Office 2019 Home & Business 1 User PC or Mac'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/MS_Office_2019_H_B_Retail_Box_Win_4b7fd370-c313-4cff-b9cc-bd5cda7628b2.webp, /images/webp/Microsoft-Office-2019-Home-Business-Activation-Key-_E2_80_93-1-PC-Mac.webp',
-    ],
+    images: ['/images/webp/MS_Office_2019_H_B_Retail_Box_Win_4b7fd370-c313-4cff-b9cc-bd5cda7628b2.webp, /images/webp/Microsoft-Office-2019-Home-Business-Activation-Key-_E2_80_93-1-PC-Mac.webp'],
     tags: ['best-seller'],
     isPublished: false,
     price: 35,
@@ -8595,9 +8457,7 @@ const products: IProductInput[] = [
       'Microsoft Office 2019 Pro Professional Plus Lifetime License Key'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/Microsoft-Office-pro-plus-product_698765db-70bb-4f56-a9a2-2e5a936959d3.webp',
-    ],
+    images: ['/images/webp/Microsoft-Office-pro-plus-product_698765db-70bb-4f56-a9a2-2e5a936959d3.webp'],
     tags: ['todays-deal'],
     isPublished: true,
     price: 35,
@@ -8655,9 +8515,7 @@ const products: IProductInput[] = [
       'Microsoft Office 2019 Professional Plus For Windows PC Redemption Code'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/MS_Office_Pro_Plus_2019_Win_1024x1024_8b4816c5-1afa-4ec0-b7b8-97f622f2f4ac.webp',
-    ],
+    images: ['/images/webp/MS_Office_Pro_Plus_2019_Win_1024x1024_8b4816c5-1afa-4ec0-b7b8-97f622f2f4ac.webp'],
     tags: ['best-seller'],
     isPublished: true,
     price: 35,
@@ -8767,9 +8625,7 @@ const products: IProductInput[] = [
     name: 'Microsoft Office 2021 Home & Student 1 PC',
     slug: toSlug('Microsoft Office 2021 Home & Student 1 PC'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/h_s_425x425_5c559e8e-bf47-4737-acee-66992a33de28.webp',
-    ],
+    images: ['/images/webp/h_s_425x425_5c559e8e-bf47-4737-acee-66992a33de28.webp'],
     tags: ['new-arrival', 'best-seller'],
     isPublished: true,
     price: 35,
@@ -8796,9 +8652,7 @@ const products: IProductInput[] = [
     name: 'Microsoft Office 2021 Professional Plus for Windows PC',
     slug: toSlug('Microsoft Office 2021 Professional Plus for Windows PC'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/Microsoft-Office-2021-Professinal-Plus_425x425_b204f785-d68a-4ca9-a9ae-d0f865cc940a.webp',
-    ],
+    images: ['/images/webp/Microsoft-Office-2021-Professinal-Plus_425x425_b204f785-d68a-4ca9-a9ae-d0f865cc940a.webp'],
     tags: ['featured'],
     isPublished: true,
     price: 35,
@@ -8854,9 +8708,7 @@ const products: IProductInput[] = [
     name: 'Microsoft Office 2021 Professional Plus License Key',
     slug: toSlug('Microsoft Office 2021 Professional Plus License Key'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/office2021_1024x1024_2x_8b3391b2-49d7-41fb-bf6a-283094c1b741.webp',
-    ],
+    images: ['/images/webp/office2021_1024x1024_2x_8b3391b2-49d7-41fb-bf6a-283094c1b741.webp'],
     tags: ['featured', 'todays-deal'],
     isPublished: true,
     price: 35,
@@ -8912,9 +8764,7 @@ const products: IProductInput[] = [
     name: 'Microsoft Office 2021 Professional Plus Redemption Code',
     slug: toSlug('Microsoft Office 2021 Professional Plus Redemption Code'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/office-2021-professional_Plus_3cf639d6-68ff-4265-9539-1d19389976b1.webp',
-    ],
+    images: ['/images/webp/office-2021-professional_Plus_3cf639d6-68ff-4265-9539-1d19389976b1.webp'],
     tags: ['featured'],
     isPublished: true,
     price: 35,
@@ -9055,9 +8905,7 @@ const products: IProductInput[] = [
       'Microsoft Office 365 Business Essentials - 1 Year Subscription'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/Office_365year_f42a8e48-52ff-498f-bebf-d2b12c7c4c6b.webp',
-    ],
+    images: ['/images/webp/Office_365year_f42a8e48-52ff-498f-bebf-d2b12c7c4c6b.webp'],
     tags: ['todays-deal'],
     isPublished: false,
     price: 35,
@@ -9084,9 +8932,7 @@ const products: IProductInput[] = [
     name: 'Microsoft Office 365 Business Premium - 1 Year Subscription',
     slug: toSlug('Microsoft Office 365 Business Premium - 1 Year Subscription'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/Office_365year_08f6995c-966d-4977-aa0e-19c77fa4631d.webp',
-    ],
+    images: ['/images/webp/Office_365year_08f6995c-966d-4977-aa0e-19c77fa4631d.webp'],
     tags: ['featured', 'new-arrival', 'best-seller'],
     isPublished: false,
     price: 35,
@@ -9115,9 +8961,7 @@ const products: IProductInput[] = [
       'Microsoft Office 365 Business with Installation Media - 1 Year Subscription'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/Office_365year_a8df4944-7da1-44c9-a6b6-fc369f43d5ae.webp',
-    ],
+    images: ['/images/webp/Office_365year_a8df4944-7da1-44c9-a6b6-fc369f43d5ae.webp'],
     tags: ['featured'],
     isPublished: false,
     price: 35,
@@ -9306,9 +9150,7 @@ const products: IProductInput[] = [
     name: 'Microsoft Office 365 Enterprise E5 - 1 Year Subscription',
     slug: toSlug('Microsoft Office 365 Enterprise E5 - 1 Year Subscription'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/Enterprise_Plan_e5_month_GOV_9eaa31bf-d220-44c5-9cb2-22fc0d29eeb4.webp',
-    ],
+    images: ['/images/webp/Enterprise_Plan_e5_month_GOV_9eaa31bf-d220-44c5-9cb2-22fc0d29eeb4.webp'],
     tags: ['featured', 'new-arrival', 'todays-deal'],
     isPublished: false,
     price: 35,
@@ -9335,9 +9177,7 @@ const products: IProductInput[] = [
     name: 'Microsoft Office 365 Enterprise E5 - Government',
     slug: toSlug('Microsoft Office 365 Enterprise E5 - Government'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/Enterprise_Plan_e5_month_GOV_ac189580-4283-49b8-91cf-86d6f6e969cc.webp',
-    ],
+    images: ['/images/webp/Enterprise_Plan_e5_month_GOV_ac189580-4283-49b8-91cf-86d6f6e969cc.webp'],
     tags: ['new-arrival'],
     isPublished: false,
     price: 35,
@@ -9366,9 +9206,7 @@ const products: IProductInput[] = [
       'Microsoft Office 365 Enterprise E5 without Audio Conferencing'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/Enterprise_Plan_e5_month_0f3c1519-ee3a-4193-99d0-519e9ad87160.webp',
-    ],
+    images: ['/images/webp/Enterprise_Plan_e5_month_0f3c1519-ee3a-4193-99d0-519e9ad87160.webp'],
     tags: ['new-arrival'],
     isPublished: false,
     price: 35,
@@ -9397,9 +9235,7 @@ const products: IProductInput[] = [
       'Microsoft Office 365 Enterprise E5 Without Audio Conferencing - 1 Year Subscription'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/Enterprise_Plan_e5_month_GOV_22d46ea2-2ca8-438a-8cfd-30ee87615aa8.webp',
-    ],
+    images: ['/images/webp/Enterprise_Plan_e5_month_GOV_22d46ea2-2ca8-438a-8cfd-30ee87615aa8.webp'],
     tags: ['featured', 'best-seller'],
     isPublished: false,
     price: 35,
@@ -9428,9 +9264,7 @@ const products: IProductInput[] = [
       'Microsoft Office 365 Enterprise E5 Without Audio Conferencing - Government'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/Enterprise_Plan_e5_month_GOV_b91ffac7-e309-44c9-87a9-9c2464598db0.webp',
-    ],
+    images: ['/images/webp/Enterprise_Plan_e5_month_GOV_b91ffac7-e309-44c9-87a9-9c2464598db0.webp'],
     tags: ['new-arrival', 'best-seller'],
     isPublished: false,
     price: 35,
@@ -9652,9 +9486,7 @@ const products: IProductInput[] = [
     name: 'Microsoft Office 365 Professional Plus For 5 Devices',
     slug: toSlug('Microsoft Office 365 Professional Plus For 5 Devices'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/Office-365-new-pro-plus_d4211c50-f6b1-4642-823c-55c42698a059.webp',
-    ],
+    images: ['/images/webp/Office-365-new-pro-plus_d4211c50-f6b1-4642-823c-55c42698a059.webp'],
     tags: ['todays-deal'],
     isPublished: false,
     price: 35,
@@ -9764,9 +9596,7 @@ const products: IProductInput[] = [
       'Microsoft Office 365 | Business Premium With Installation Media'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/Office_365year_d19d3ef4-4439-4f67-943b-3c0623c8d32c.webp',
-    ],
+    images: ['/images/webp/Office_365year_d19d3ef4-4439-4f67-943b-3c0623c8d32c.webp'],
     tags: ['todays-deal', 'new-arrival'],
     isPublished: false,
     price: 35,
@@ -10102,9 +9932,7 @@ const products: IProductInput[] = [
     name: 'Microsoft Office Professional 2021 - Elite Pricing',
     slug: toSlug('Microsoft Office Professional 2021 - Elite Pricing'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/mso-pro-2021_ttt_2b492cc6-b178-4248-9202-7501f11fa0f4.webp',
-    ],
+    images: ['/images/webp/mso-pro-2021_ttt_2b492cc6-b178-4248-9202-7501f11fa0f4.webp'],
     tags: ['featured'],
     isPublished: true,
     price: 35,
@@ -10131,9 +9959,7 @@ const products: IProductInput[] = [
     name: 'Microsoft Office Professional Plus 2016 - Full Version',
     slug: toSlug('Microsoft Office Professional Plus 2016 - Full Version'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/Professional_plus_white_copy_b317cff7-ce16-4e25-a0ed-8ad0239c6d17.webp',
-    ],
+    images: ['/images/webp/Professional_plus_white_copy_b317cff7-ce16-4e25-a0ed-8ad0239c6d17.webp'],
     tags: ['todays-deal', 'best-seller', 'new-arrival'],
     isPublished: true,
     price: 35,
@@ -10216,9 +10042,7 @@ const products: IProductInput[] = [
     name: 'Microsoft Office Professional Plus 2019 - License',
     slug: toSlug('Microsoft Office Professional Plus 2019 - License'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/MicrosoftOfficeProfessionalPlus2019-FullVersion.webp',
-    ],
+    images: ['/images/webp/MicrosoftOfficeProfessionalPlus2019-FullVersion.webp'],
     tags: ['new-arrival'],
     isPublished: true,
     price: 35,
@@ -10247,9 +10071,7 @@ const products: IProductInput[] = [
       'Microsoft Office Professional Plus 2019 Product Key BIND Retail key'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/Office-2019-pro-plus-bind-product-key-bind-key.webp',
-    ],
+    images: ['/images/webp/Office-2019-pro-plus-bind-product-key-bind-key.webp'],
     tags: ['best-seller', 'todays-deal', 'new-arrival'],
     isPublished: true,
     price: 35,
@@ -10276,9 +10098,7 @@ const products: IProductInput[] = [
     name: 'Microsoft Office Professional Plus 2021 - Full Version',
     slug: toSlug('Microsoft Office Professional Plus 2021 - Full Version'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/2021OfficeNEWTILESPROPLUS_400x_5cb629e5-2444-4b31-8e9f-de62862093de.webp',
-    ],
+    images: ['/images/webp/2021OfficeNEWTILESPROPLUS_400x_5cb629e5-2444-4b31-8e9f-de62862093de.webp'],
     tags: ['todays-deal', 'best-seller', 'featured'],
     isPublished: true,
     price: 35,
@@ -10361,9 +10181,7 @@ const products: IProductInput[] = [
     name: 'Microsoft OnAdobesiness Plan 2',
     slug: toSlug('Microsoft OnAdobesiness Plan 2'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/OneDrivePlan2_550caa02-423a-4aaf-9dc1-6a206d771460.webp',
-    ],
+    images: ['/images/webp/OneDrivePlan2_550caa02-423a-4aaf-9dc1-6a206d771460.webp'],
     tags: ['todays-deal', 'new-arrival'],
     isPublished: true,
     price: 35,
@@ -10471,9 +10289,7 @@ const products: IProductInput[] = [
     name: 'Microsoft Power BI Premium P3',
     slug: toSlug('Microsoft Power BI Premium P3'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/Power_BI_P2_7ac5e35d-6f88-4a98-9335-d7f4d026b496.webp',
-    ],
+    images: ['/images/webp/Power_BI_P2_7ac5e35d-6f88-4a98-9335-d7f4d026b496.webp'],
     tags: ['best-seller'],
     isPublished: true,
     price: 35,
@@ -10581,9 +10397,7 @@ const products: IProductInput[] = [
     name: 'Microsoft Project Professional 2019 - Full Version',
     slug: toSlug('Microsoft Project Professional 2019 - Full Version'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/oldgreenProject_2019-Recovered_copy_400x_2e7f238c-bf23-42c1-bb1c-4d5b6e6043bd.webp',
-    ],
+    images: ['/images/webp/oldgreenProject_2019-Recovered_copy_400x_2e7f238c-bf23-42c1-bb1c-4d5b6e6043bd.webp'],
     tags: ['best-seller', 'featured'],
     isPublished: true,
     price: 35,
@@ -10637,9 +10451,7 @@ const products: IProductInput[] = [
     name: 'Microsoft Project Professional 2019',
     slug: toSlug('Microsoft Project Professional 2019'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/oldgreenProject_2019-Recovered_copy_028e551b-9caf-446b-9710-769494134e52.webp',
-    ],
+    images: ['/images/webp/oldgreenProject_2019-Recovered_copy_028e551b-9caf-446b-9710-769494134e52.webp'],
     tags: ['new-arrival'],
     isPublished: true,
     price: 35,
@@ -10724,9 +10536,7 @@ const products: IProductInput[] = [
       'Microsoft Project Professional 2019 License Key Code Product USB Drive with License'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/MS-Project-Pro-2019-Win-V2_1024x1024_334e8ea0-7c6e-4661-a8b6-a566798022c3.webp',
-    ],
+    images: ['/images/webp/MS-Project-Pro-2019-Win-V2_1024x1024_334e8ea0-7c6e-4661-a8b6-a566798022c3.webp'],
     tags: ['best-seller', 'new-arrival', 'featured'],
     isPublished: true,
     price: 35,
@@ -10807,9 +10617,7 @@ const products: IProductInput[] = [
     name: 'Microsoft SharePoint Online Plan 2',
     slug: toSlug('Microsoft SharePoint Online Plan 2'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/SharePoint_ae349db3-854c-443c-a2ab-a5cfc534af69.webp',
-    ],
+    images: ['/images/webp/SharePoint_ae349db3-854c-443c-a2ab-a5cfc534af69.webp'],
     tags: ['featured', 'best-seller', 'new-arrival'],
     isPublished: true,
     price: 35,
@@ -10836,9 +10644,7 @@ const products: IProductInput[] = [
     name: 'Microsoft SharePoint Online Plan 2 - Government',
     slug: toSlug('Microsoft SharePoint Online Plan 2 - Government'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/SharePointGOV_16ea1f03-edc2-4f66-a985-1a3a0da31aaa.webp',
-    ],
+    images: ['/images/webp/SharePointGOV_16ea1f03-edc2-4f66-a985-1a3a0da31aaa.webp'],
     tags: ['featured'],
     isPublished: true,
     price: 35,
@@ -11116,9 +10922,7 @@ const products: IProductInput[] = [
       'Microsoft Windows 10 Enterprise E3 VDA - 1 Year Subscription'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/windows_10_blue_e3_year_3860f3b2-9f75-458d-890b-7c572b8a537a.webp',
-    ],
+    images: ['/images/webp/windows_10_blue_e3_year_3860f3b2-9f75-458d-890b-7c572b8a537a.webp'],
     tags: ['best-seller', 'todays-deal'],
     isPublished: true,
     price: 35,
@@ -11147,9 +10951,7 @@ const products: IProductInput[] = [
       'Microsoft Windows 10 Enterprise E5 with Advanced Threat Protection - 1 Year Subscription'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/windows10e5year_dcf01bec-6cac-41d5-87df-75d844baa0cb.webp',
-    ],
+    images: ['/images/webp/windows10e5year_dcf01bec-6cac-41d5-87df-75d844baa0cb.webp'],
     tags: ['best-seller', 'featured'],
     isPublished: true,
     price: 35,
@@ -11205,9 +11007,7 @@ const products: IProductInput[] = [
       'Microsoft Windows 10 Home 32 or 64 Bit Retail License Key Code Product'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/Windows_10_Home_f907ec4c-8c6b-46df-99ee-e702ecf82ae7_1024x1024_2x_-_Edited.webp',
-    ],
+    images: ['/images/webp/Windows_10_Home_f907ec4c-8c6b-46df-99ee-e702ecf82ae7_1024x1024_2x_-_Edited.webp'],
     tags: ['best-seller'],
     isPublished: true,
     price: 35,
@@ -11236,9 +11036,7 @@ const products: IProductInput[] = [
       'Microsoft Windows 10 Home 32 or 64 Bit Standard License Key Code Product'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/Windows_10_Home_1024x1024_2x_-_Edited_3761c36e-89dd-4200-bfdc-c92f3e125cc0.webp',
-    ],
+    images: ['/images/webp/Windows_10_Home_1024x1024_2x_-_Edited_3761c36e-89dd-4200-bfdc-c92f3e125cc0.webp'],
     tags: ['todays-deal'],
     isPublished: true,
     price: 35,
@@ -11267,9 +11065,7 @@ const products: IProductInput[] = [
       'Microsoft Windows 10 Home Product Key 32/64 Bit (Retail Version) Digital'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/51839670_793684170999735_3480731841315471360_n_1700448a-deda-4622-8891-f60dcc6a386b.webp',
-    ],
+    images: ['/images/webp/51839670_793684170999735_3480731841315471360_n_1700448a-deda-4622-8891-f60dcc6a386b.webp'],
     tags: ['featured'],
     isPublished: true,
     price: 35,
@@ -11298,9 +11094,7 @@ const products: IProductInput[] = [
       'Microsoft Windows 10 Pro 32 or 64 Bit Retail License Key Code Product'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/Windows_10_Pro_2_1024x1024_2x_-_Edited_92bd5694-0c44-4c1f-9618-003c6e1ab8d7.webp, /images/webp/Win10prousb.webp',
-    ],
+    images: ['/images/webp/Windows_10_Pro_2_1024x1024_2x_-_Edited_92bd5694-0c44-4c1f-9618-003c6e1ab8d7.webp, /images/webp/Win10prousb.webp'],
     tags: ['featured', 'new-arrival', 'best-seller'],
     isPublished: true,
     price: 35,
@@ -11358,9 +11152,7 @@ const products: IProductInput[] = [
       'Microsoft Windows 10 Pro 64 Bit OEM - Installer DVD & Product Key'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/s-l1600_1400x_ce4d46a8-9671-41ee-8586-363d3c99843c.webp',
-    ],
+    images: ['/images/webp/s-l1600_1400x_ce4d46a8-9671-41ee-8586-363d3c99843c.webp'],
     tags: ['todays-deal'],
     isPublished: true,
     price: 35,
@@ -11414,9 +11206,7 @@ const products: IProductInput[] = [
     name: 'Microsoft Windows 10 Pro Lifetime License Key',
     slug: toSlug('Microsoft Windows 10 Pro Lifetime License Key'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/windows-10-pro-product-key_6e282e8c-bba9-414e-ad20-917623440dff.webp',
-    ],
+    images: ['/images/webp/windows-10-pro-product-key_6e282e8c-bba9-414e-ad20-917623440dff.webp'],
     tags: ['best-seller'],
     isPublished: true,
     price: 35,
@@ -11499,9 +11289,7 @@ const products: IProductInput[] = [
       'Microsoft Windows 11 Pro 32 or 64 Bit Retail License Key Code Product'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/w11-pro_2048x2048_85709649-af87-4d1d-89bc-0265fa56050e.webp',
-    ],
+    images: ['/images/webp/w11-pro_2048x2048_85709649-af87-4d1d-89bc-0265fa56050e.webp'],
     tags: ['new-arrival', 'featured'],
     isPublished: true,
     price: 35,
@@ -11557,9 +11345,7 @@ const products: IProductInput[] = [
       'Microsoft Windows 11 Professional (5PC) - Lifetime Activation Key'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/Windows11Professional5PC_LifetimeActivationKey.webp',
-    ],
+    images: ['/images/webp/Windows11Professional5PC_LifetimeActivationKey.webp'],
     tags: ['new-arrival'],
     isPublished: true,
     price: 35,
@@ -11586,9 +11372,7 @@ const products: IProductInput[] = [
     name: 'Microsoft Windows 11 Professional License - 64 bit',
     slug: toSlug('Microsoft Windows 11 Professional License - 64 bit'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/Windows11Prowith10tile_dc0cc424-f650-4ba4-9638-5008867d44fd.webp',
-    ],
+    images: ['/images/webp/Windows11Prowith10tile_dc0cc424-f650-4ba4-9638-5008867d44fd.webp'],
     tags: ['featured', 'new-arrival'],
     isPublished: true,
     price: 35,
@@ -11617,9 +11401,7 @@ const products: IProductInput[] = [
       'Microsoft Windows 8.1 Pro 32 or 64 Bit Retail License Key Code Product'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/Windows_8.1_Pro_1024x1024_2x_-_Edited_75e4a792-03c1-4466-af80-bc0c5dd49216.webp',
-    ],
+    images: ['/images/webp/Windows_8.1_Pro_1024x1024_2x_-_Edited_75e4a792-03c1-4466-af80-bc0c5dd49216.webp'],
     tags: ['best-seller', 'new-arrival', 'featured'],
     isPublished: true,
     price: 35,
@@ -11762,9 +11544,7 @@ const products: IProductInput[] = [
     name: 'Microsoft Windows Server 2016 Standard',
     slug: toSlug('Microsoft Windows Server 2016 Standard'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/server2016standard_large_f5d4c3cb-fc4d-453f-998f-31969903d894.webp',
-    ],
+    images: ['/images/webp/server2016standard_large_f5d4c3cb-fc4d-453f-998f-31969903d894.webp'],
     tags: ['featured', 'best-seller'],
     isPublished: true,
     price: 35,
@@ -12019,9 +11799,7 @@ const products: IProductInput[] = [
       'Movavi Video Editor Plus 22 Full Version for MacOS - Email Delivery'
     ),
     category: 'Creative and Design',
-    images: [
-      '/images/webp/product_21_c05d1e4f-eec3-461f-808e-fe6e53fb9ffd.webp',
-    ],
+    images: ['/images/webp/product_21_c05d1e4f-eec3-461f-808e-fe6e53fb9ffd.webp'],
     tags: ['best-seller', 'todays-deal'],
     isPublished: true,
     price: 35,
@@ -12050,9 +11828,7 @@ const products: IProductInput[] = [
       'Movavi Video Editor Plus 22 Full Version for Windows - Email Delivery'
     ),
     category: 'Creative and Design',
-    images: [
-      '/images/webp/product_20_932c0322-49e1-45f7-b27b-1f5d8c7f223b.webp',
-    ],
+    images: ['/images/webp/product_20_932c0322-49e1-45f7-b27b-1f5d8c7f223b.webp'],
     tags: ['new-arrival'],
     isPublished: true,
     price: 35,
@@ -12079,9 +11855,7 @@ const products: IProductInput[] = [
     name: 'Movavi Video Suite 2022 Lifetime License',
     slug: toSlug('Movavi Video Suite 2022 Lifetime License'),
     category: 'Creative and Design',
-    images: [
-      '/images/webp/movavi_mvs22pe_esd_video_suite_2022_personal_1682332_c58a08d2-04b8-4d06-bdf9-440d7ba0fbee.webp',
-    ],
+    images: ['/images/webp/movavi_mvs22pe_esd_video_suite_2022_personal_1682332_c58a08d2-04b8-4d06-bdf9-440d7ba0fbee.webp'],
     tags: ['new-arrival', 'best-seller', 'todays-deal'],
     isPublished: true,
     price: 35,
@@ -12334,9 +12108,7 @@ const products: IProductInput[] = [
       'Nuance Dragon NaturallySpeaking Premium 13 Full Version for Windows'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/nuance-dragon-naturallyspeaking-premium-130-international-english-dns13prem.webp',
-    ],
+    images: ['/images/webp/nuance-dragon-naturallyspeaking-premium-130-international-english-dns13prem.webp'],
     tags: ['todays-deal'],
     isPublished: true,
     price: 35,
@@ -12363,9 +12135,7 @@ const products: IProductInput[] = [
     name: 'Nuance Dragon NaturallySpeaking Premium 13 Lifetime License',
     slug: toSlug('Nuance Dragon NaturallySpeaking Premium 13 Lifetime License'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/71TOY2ypeGL._AC_SL1500_973a9be2-41a1-483a-b16f-cee4c7e1668f.webp',
-    ],
+    images: ['/images/webp/71TOY2ypeGL._AC_SL1500_973a9be2-41a1-483a-b16f-cee4c7e1668f.webp'],
     tags: ['featured', 'todays-deal', 'new-arrival'],
     isPublished: true,
     price: 35,
@@ -12562,9 +12332,7 @@ const products: IProductInput[] = [
     name: 'Nuance OmniPage Ultimate 19 Lifetime License',
     slug: toSlug('Nuance OmniPage Ultimate 19 Lifetime License'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/omnipage-ultimate-19_cc835b42-662e-495d-995a-e8503e76a3de.webp',
-    ],
+    images: ['/images/webp/omnipage-ultimate-19_cc835b42-662e-495d-995a-e8503e76a3de.webp'],
     tags: ['new-arrival'],
     isPublished: true,
     price: 35,
@@ -12649,9 +12417,7 @@ const products: IProductInput[] = [
       'Nuance PDF Converter Creator Professional 8.1 Full Version for Windows'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/PDFConverterPro8__98746_380x380_9599fdb6-7dab-4691-be7d-4b566b38343d.webp',
-    ],
+    images: ['/images/webp/PDFConverterPro8__98746_380x380_9599fdb6-7dab-4691-be7d-4b566b38343d.webp'],
     tags: ['todays-deal', 'featured'],
     isPublished: true,
     price: 35,
@@ -12680,9 +12446,7 @@ const products: IProductInput[] = [
       'Nuance PDF Converter Creator Professional 8.1 Lifetime License'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/PDFConverterPro8__98746_380x380_6394f5dc-88fb-449d-bb13-1cc9030b0671.webp',
-    ],
+    images: ['/images/webp/PDFConverterPro8__98746_380x380_6394f5dc-88fb-449d-bb13-1cc9030b0671.webp'],
     tags: ['todays-deal'],
     isPublished: true,
     price: 35,
@@ -12738,9 +12502,7 @@ const products: IProductInput[] = [
     name: 'Nuance PowerPDF Advanced 3 Lifetime License',
     slug: toSlug('Nuance PowerPDF Advanced 3 Lifetime License'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/nuance-power-pdf-advanced-3header_8e1a3c57-325e-4fe3-bc31-0436600b1d2c.webp',
-    ],
+    images: ['/images/webp/nuance-power-pdf-advanced-3header_8e1a3c57-325e-4fe3-bc31-0436600b1d2c.webp'],
     tags: ['new-arrival'],
     isPublished: true,
     price: 35,
@@ -12827,9 +12589,7 @@ const products: IProductInput[] = [
       'Office 2021 Pro Plus 32/64 BIT Lifetime License Key For Mac Email Delivery'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/Hcca573a4a7e0444b91de53e4a3b5c465N_1024x1024_2x_08d2d837-fe83-4fcf-9fe6-5abd09a240a5.webp',
-    ],
+    images: ['/images/webp/Hcca573a4a7e0444b91de53e4a3b5c465N_1024x1024_2x_08d2d837-fe83-4fcf-9fe6-5abd09a240a5.webp'],
     tags: ['new-arrival'],
     isPublished: true,
     price: 35,
@@ -12995,9 +12755,7 @@ const products: IProductInput[] = [
     name: 'Paramount Plus - Stream Live TV Premium Account For 1 Years',
     slug: toSlug('Paramount Plus - Stream Live TV Premium Account For 1 Years'),
     category: 'Other',
-    images: [
-      '/images/webp/Untitleddesign_3_7f9e0d3e-e3d3-4952-bc01-c971f72e0910.webp',
-    ],
+    images: ['/images/webp/Untitleddesign_3_7f9e0d3e-e3d3-4952-bc01-c971f72e0910.webp'],
     tags: ['new-arrival', 'todays-deal', 'best-seller'],
     isPublished: true,
     price: 35,
@@ -13418,9 +13176,7 @@ const products: IProductInput[] = [
       'PREMIUM Microsoft Office Professional Plus 2019 Product Key FPP Retail.'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/51839670_793684170999735_3480731841315471360_n_de70ed14-29e8-4a9a-b95d-40c01f773c3b.webp',
-    ],
+    images: ['/images/webp/51839670_793684170999735_3480731841315471360_n_de70ed14-29e8-4a9a-b95d-40c01f773c3b.webp'],
     tags: ['todays-deal'],
     isPublished: true,
     price: 35,
@@ -13986,9 +13742,7 @@ const products: IProductInput[] = [
       'SketchUp Pro 2021 Full Version with Lifetime License for Windows'
     ),
     category: 'Architecture and Construction',
-    images: [
-      '/images/webp/sketchup-pro-2021-full-version-for-macos_6116834f803e1.webp',
-    ],
+    images: ['/images/webp/sketchup-pro-2021-full-version-for-macos_6116834f803e1.webp'],
     tags: ['new-arrival'],
     isPublished: true,
     price: 35,
@@ -14154,9 +13908,7 @@ const products: IProductInput[] = [
       'SolidWorks 2021 Full Version Premium For Windows - Email Delivery'
     ),
     category: 'Architecture and Construction',
-    images: [
-      '/images/webp/product_22_844353e6-f1d3-43c7-83fe-1a4b364a9477.webp',
-    ],
+    images: ['/images/webp/product_22_844353e6-f1d3-43c7-83fe-1a4b364a9477.webp'],
     tags: ['new-arrival', 'todays-deal', 'best-seller'],
     isPublished: true,
     price: 35,
@@ -14241,9 +13993,7 @@ const products: IProductInput[] = [
     name: 'Spotify Premium Account 1 years (All Devices & Worldwide)',
     slug: toSlug('Spotify Premium Account 1 years (All Devices & Worldwide)'),
     category: 'Other',
-    images: [
-      '/images/webp/Untitleddesign_ec650411-bf85-4ed1-bbc7-4c6cf0de87a8.webp',
-    ],
+    images: ['/images/webp/Untitleddesign_ec650411-bf85-4ed1-bbc7-4c6cf0de87a8.webp'],
     tags: ['featured', 'todays-deal', 'best-seller'],
     isPublished: true,
     price: 35,
@@ -14272,9 +14022,7 @@ const products: IProductInput[] = [
       'Steinberg Cubase 11 Pro full version for MacOS - Email Delivery'
     ),
     category: 'Music Production',
-    images: [
-      '/images/webp/product_24_f9ab6e3c-2bab-4343-8f4c-6b69a6dcfb08.webp',
-    ],
+    images: ['/images/webp/product_24_f9ab6e3c-2bab-4343-8f4c-6b69a6dcfb08.webp'],
     tags: ['best-seller', 'todays-deal', 'new-arrival'],
     isPublished: true,
     price: 35,
@@ -14471,9 +14219,7 @@ const products: IProductInput[] = [
       'Toontrack Superior Drummer Full Version 3.2 for Mac - Email Delivery'
     ),
     category: 'Music Production',
-    images: [
-      '/images/webp/product_25_dd2401a9-4920-4c85-b0de-d88423d6e7a3.webp',
-    ],
+    images: ['/images/webp/product_25_dd2401a9-4920-4c85-b0de-d88423d6e7a3.webp'],
     tags: ['featured', 'best-seller', 'todays-deal'],
     isPublished: true,
     price: 35,
@@ -14502,9 +14248,7 @@ const products: IProductInput[] = [
       'Toontrack Superior Drummer Full Version 3.2 For Windows - Email Delivery'
     ),
     category: 'Music Production',
-    images: [
-      '/images/webp/product_26_35f23227-8012-4e9d-adc2-d22c8975fede.webp',
-    ],
+    images: ['/images/webp/product_26_35f23227-8012-4e9d-adc2-d22c8975fede.webp'],
     tags: ['best-seller', 'todays-deal', 'featured'],
     isPublished: true,
     price: 35,
@@ -14562,9 +14306,7 @@ const products: IProductInput[] = [
       'Trimble Tekla Tedds 2021 SP2 v23.2 for windows - Email Delivery'
     ),
     category: 'Architecture and Construction',
-    images: [
-      '/images/webp/product_22_760495ae-d10c-44ba-92d3-20bddba37f6d.webp',
-    ],
+    images: ['/images/webp/product_22_760495ae-d10c-44ba-92d3-20bddba37f6d.webp'],
     tags: ['new-arrival', 'best-seller', 'todays-deal'],
     isPublished: true,
     price: 35,
@@ -14948,9 +14690,7 @@ const products: IProductInput[] = [
     name: 'Vectorworks 2022 Lifetime License for Windows Fast service',
     slug: toSlug('Vectorworks 2022 Lifetime License for Windows Fast service'),
     category: 'Architecture and Construction',
-    images: [
-      '/images/webp/VICTRTFGFH_476ab340-c8e8-4ab4-8966-fb2ef7b83675.webp',
-    ],
+    images: ['/images/webp/VICTRTFGFH_476ab340-c8e8-4ab4-8966-fb2ef7b83675.webp'],
     tags: ['todays-deal'],
     isPublished: true,
     price: 35,
@@ -15369,9 +15109,7 @@ const products: IProductInput[] = [
       'Windows 10 Enterprise LTSC 2019 Product Key License Digital - Instant'
     ),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/51839670_793684170999735_3480731841315471360_n_bf16a100-88f2-4ec1-85d7-2f89a5ba950f.webp',
-    ],
+    images: ['/images/webp/51839670_793684170999735_3480731841315471360_n_bf16a100-88f2-4ec1-85d7-2f89a5ba950f.webp'],
     tags: ['new-arrival', 'best-seller', 'featured'],
     isPublished: true,
     price: 35,
@@ -15512,9 +15250,7 @@ const products: IProductInput[] = [
     name: 'Windows 10 Professional License Key',
     slug: toSlug('Windows 10 Professional License Key'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/10pro_1024x1024_2x_a3d77f09-cd95-4074-a963-b1758deaf389.webp',
-    ],
+    images: ['/images/webp/10pro_1024x1024_2x_a3d77f09-cd95-4074-a963-b1758deaf389.webp'],
     tags: ['best-seller', 'new-arrival', 'todays-deal'],
     isPublished: true,
     price: 35,
@@ -15628,9 +15364,7 @@ const products: IProductInput[] = [
     name: 'Windows 11 Pro License Key',
     slug: toSlug('Windows 11 Pro License Key'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/windows11professional_1024x1024_2x_8f8ff28f-ef5e-42ae-8410-2e5039d6701c.webp',
-    ],
+    images: ['/images/webp/windows11professional_1024x1024_2x_8f8ff28f-ef5e-42ae-8410-2e5039d6701c.webp'],
     tags: ['new-arrival', 'featured', 'best-seller'],
     isPublished: true,
     price: 35,
@@ -15964,9 +15698,7 @@ const products: IProductInput[] = [
     name: 'Windows Server 2019 DataCenter 16 core product key',
     slug: toSlug('Windows Server 2019 DataCenter 16 core product key'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/windows-server-2019-16-core_57f47710-423a-4a03-b659-8bf16803efb0.webp',
-    ],
+    images: ['/images/webp/windows-server-2019-16-core_57f47710-423a-4a03-b659-8bf16803efb0.webp'],
     tags: ['new-arrival'],
     isPublished: true,
     price: 35,
@@ -15993,9 +15725,7 @@ const products: IProductInput[] = [
     name: 'Windows Server 2019 DataCenter 32 core Product key',
     slug: toSlug('Windows Server 2019 DataCenter 32 core Product key'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/windows-server-2019-32-core_e2a63f19-3146-493c-8990-164a4525dfea.webp',
-    ],
+    images: ['/images/webp/windows-server-2019-32-core_e2a63f19-3146-493c-8990-164a4525dfea.webp'],
     tags: ['new-arrival', 'todays-deal'],
     isPublished: true,
     price: 35,
@@ -16049,9 +15779,7 @@ const products: IProductInput[] = [
     name: 'WINDOWS SERVER 2019 STANDARD',
     slug: toSlug('WINDOWS SERVER 2019 STANDARD'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/MS_Win_Server_2019_Standard_16_core_380x380_b2d7d70f-8084-4c68-8f75-6483bebd765e.webp',
-    ],
+    images: ['/images/webp/MS_Win_Server_2019_Standard_16_core_380x380_b2d7d70f-8084-4c68-8f75-6483bebd765e.webp'],
     tags: ['featured', 'todays-deal'],
     isPublished: true,
     price: 35,
@@ -16213,9 +15941,7 @@ const products: IProductInput[] = [
     name: 'Windows Server 2022 Datacenter 8 Cores product key',
     slug: toSlug('Windows Server 2022 Datacenter 8 Cores product key'),
     category: 'Productivity and Business',
-    images: [
-      '/images/webp/Windows-Server-2022-DataCenter-8-Cores_48cef92c-e0c4-4915-8bbb-309913adc7ca.webp',
-    ],
+    images: ['/images/webp/Windows-Server-2022-DataCenter-8-Cores_48cef92c-e0c4-4915-8bbb-309913adc7ca.webp'],
     tags: ['todays-deal', 'best-seller'],
     isPublished: true,
     price: 35,
@@ -16352,9 +16078,7 @@ const products: IProductInput[] = [
     name: 'Winter Beanie Hat - Hand Crocheted',
     slug: toSlug('Winter Beanie Hat - Hand Crocheted'),
     category: 'Other',
-    images: [
-      '/images/webp/Adobookproduct_1_95b338d3-e205-46a2-a048-52bb72425e21.webp',
-    ],
+    images: ['/images/webp/Adobookproduct_1_95b338d3-e205-46a2-a048-52bb72425e21.webp'],
     tags: ['best-seller', 'new-arrival', 'featured'],
     isPublished: false,
     price: 35,
@@ -16499,9 +16223,7 @@ const products: IProductInput[] = [
       'Wondershare Filmora X 10.7.8.12 Lifetime Activation for Windows'
     ),
     category: 'Creative and Design',
-    images: [
-      '/images/webp/WhatsAppImage2021-12-31at9.16.49AM_500x_e400647c-c295-4711-8b09-e8fee3e70a97.webp',
-    ],
+    images: ['/images/webp/WhatsAppImage2021-12-31at9.16.49AM_500x_e400647c-c295-4711-8b09-e8fee3e70a97.webp'],
     tags: ['best-seller'],
     isPublished: true,
     price: 35,
@@ -16613,9 +16335,7 @@ const products: IProductInput[] = [
       'Xara Designer Pro V21.6 full version for Windows - Email Delivery'
     ),
     category: 'Creative and Design',
-    images: [
-      '/images/webp/product_17_9512fe10-33b6-4de3-926c-ff0b5500a930.webp',
-    ],
+    images: ['/images/webp/product_17_9512fe10-33b6-4de3-926c-ff0b5500a930.webp'],
     tags: ['new-arrival'],
     isPublished: true,
     price: 35,
@@ -16671,9 +16391,7 @@ const products: IProductInput[] = [
     name: 'Ableton Live 12 Updates Explained TUTORiAL-HiDERA',
     slug: toSlug('Ableton Live 12 Updates Explained TUTORiAL-HiDERA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Ableton-Live-12-Updates-Explained-TUTORiAL-HiDERA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Ableton-Live-12-Updates-Explained-TUTORiAL-HiDERA-MaGeSY.webp'],
     tags: ['featured', 'TUTORiALS'],
     isPublished: true,
     price: 6.65,
@@ -16700,9 +16418,7 @@ const products: IProductInput[] = [
     name: 'Does Your DAW Have a Sound TUTORiAL-HiDERA',
     slug: toSlug('Does Your DAW Have a Sound TUTORiAL-HiDERA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Does-Your-DAW-Have-a-Sound-TUTORiAL-HiDERA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Does-Your-DAW-Have-a-Sound-TUTORiAL-HiDERA-MaGeSY.webp'],
     tags: ['new-arrival', 'featured', 'TUTORiALS'],
     isPublished: true,
     price: 4.75,
@@ -16908,9 +16624,7 @@ const products: IProductInput[] = [
     name: 'Funky Rhythm Essentials on Piano TUTORiAL',
     slug: toSlug('Funky Rhythm Essentials on Piano TUTORiAL'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Funky-Rhythm-Essentials-on-Piano-TUTORiAL-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Funky-Rhythm-Essentials-on-Piano-TUTORiAL-MaGeSY.webp'],
     tags: ['todays-deal', 'featured', 'best-seller', 'TUTORiALS'],
     isPublished: true,
     price: 5.95,
@@ -16974,9 +16688,7 @@ const products: IProductInput[] = [
     name: 'Sparkstation Massive SoundBank II MASSiVE NSMV-DiSCOVER',
     slug: toSlug('Sparkstation Massive SoundBank II MASSiVE NSMV-DiSCOVER'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Sparkstation-Massive-SoundBank-II-MASSiVE-NSMV-DiSCOVER-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Sparkstation-Massive-SoundBank-II-MASSiVE-NSMV-DiSCOVER-MaGeSY.webp'],
     tags: [
       'best-seller',
       'featured',
@@ -17010,9 +16722,7 @@ const products: IProductInput[] = [
     name: 'PXT Series for Ableton Push WiN MAC-0RGan1c',
     slug: toSlug('PXT Series for Ableton Push WiN MAC-0RGan1c'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/PXT-Series-for-Ableton-Push-WiN-MAC-0RGan1c-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/PXT-Series-for-Ableton-Push-WiN-MAC-0RGan1c-MaGeSY.webp'],
     tags: ['best-seller', 'Ableton', 'Audio Software', 'macos', 'windows'],
     isPublished: true,
     price: 55.74,
@@ -17039,9 +16749,7 @@ const products: IProductInput[] = [
     name: 'Efx MOTiONS v1.1.0.5460 AAX VST2 VST3 x64 WiN-TCD',
     slug: toSlug('Efx MOTiONS v1.1.0.5460 AAX VST2 VST3 x64 WiN-TCD'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Efx-MOTiONS-v1.0.0-AAX-VST2-VST3-x64-WiN-TCD-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Efx-MOTiONS-v1.0.0-AAX-VST2-VST3-x64-WiN-TCD-MaGeSY.webp'],
     tags: ['todays-deal', 'new-arrival', 'AAX', 'Vst', 'VST3', 'x64'],
     isPublished: true,
     price: 13.5,
@@ -17095,9 +16803,7 @@ const products: IProductInput[] = [
     name: 'Eclectic Electric Vol.2 KONTAKT-ARCADiA',
     slug: toSlug('Eclectic Electric Vol.2 KONTAKT-ARCADiA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Eclectic-Electric-Vol.2-KONTAKT-ARCADiA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Eclectic-Electric-Vol.2-KONTAKT-ARCADiA-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'featured',
@@ -17167,9 +16873,7 @@ const products: IProductInput[] = [
     name: 'Moonwave FX Bundle v1.0 WiN MAC-BUBBiX',
     slug: toSlug('Moonwave FX Bundle v1.0 WiN MAC-BUBBiX'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Moonwave-FX-Bundle-v1.0-WiN-MAC-BUBBiX-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Moonwave-FX-Bundle-v1.0-WiN-MAC-BUBBiX-MaGeSY.webp'],
     tags: [
       'todays-deal',
       'new-arrival',
@@ -17426,9 +17130,7 @@ const products: IProductInput[] = [
     name: 'Korea Pop Sensation Vol.1 WAV-FANTASTiC',
     slug: toSlug('Korea Pop Sensation Vol.1 WAV-FANTASTiC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Korea-Pop-Sensation-Vol.1-WAV-FANTASTiC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Korea-Pop-Sensation-Vol.1-WAV-FANTASTiC-MaGeSY.webp'],
     tags: ['featured', 'Audio samples', 'wav'],
     isPublished: true,
     price: 34.96,
@@ -17555,9 +17257,7 @@ const products: IProductInput[] = [
       '? AGR v1.0.0 VST2i VST3i AU AAX STANDALONE WiN MAC-LaptopSolution'
     ),
     category: 'Music Production',
-    images: [
-      '/images/webp2/AGR-v1.0.0-VST2i-VST3i-AU-AAX-STANDALONE-WiN-MAC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/AGR-v1.0.0-VST2i-VST3i-AU-AAX-STANDALONE-WiN-MAC-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'featured',
@@ -17593,9 +17293,7 @@ const products: IProductInput[] = [
     name: 'Emotional Uplifting Trance MiDi SYLENTH SPiRE-FANTASTiC',
     slug: toSlug('Emotional Uplifting Trance MiDi SYLENTH SPiRE-FANTASTiC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Emotional-Uplifting-Trance-MiDi-SYLENTH-SPiRE-FANTASTiC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Emotional-Uplifting-Trance-MiDi-SYLENTH-SPiRE-FANTASTiC-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'best-seller',
@@ -17698,9 +17396,7 @@ const products: IProductInput[] = [
     name: 'Serpentine: Neo Noir Cinematics WAV-FANTASTiC',
     slug: toSlug('Serpentine: Neo Noir Cinematics WAV-FANTASTiC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Serpentine-Neo-Noir-Cinematics-WAV-FANTASTiC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Serpentine-Neo-Noir-Cinematics-WAV-FANTASTiC-MaGeSY.webp'],
     tags: ['todays-deal', 'featured', 'Audio samples', 'wav'],
     isPublished: true,
     price: 34.87,
@@ -17796,9 +17492,7 @@ const products: IProductInput[] = [
     name: 'MVP Loops Sound World V.L.X WAV MiDi KONTAKT-MAGNETRiXX',
     slug: toSlug('MVP Loops Sound World V.L.X WAV MiDi KONTAKT-MAGNETRiXX'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Sound-World-V.L.X-WAV-MiDi-KONTAKT-MAGNETRiXX-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Sound-World-V.L.X-WAV-MiDi-KONTAKT-MAGNETRiXX-MaGeSY.webp'],
     tags: ['featured', 'Audio samples', 'Kontakt', 'Patterns MIDI', 'wav'],
     isPublished: true,
     price: 58.14,
@@ -18046,9 +17740,7 @@ const products: IProductInput[] = [
     name: 'Infinitone 2 v2.0.3 AAX STANDALONE VST3 x64 WiN-MOCHA',
     slug: toSlug('Infinitone 2 v2.0.3 AAX STANDALONE VST3 x64 WiN-MOCHA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Infinitone-2-v2.0.0-AAX-STANDALONE-VST3-x64-WiN-MOCHA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Infinitone-2-v2.0.0-AAX-STANDALONE-VST3-x64-WiN-MOCHA-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'best-seller',
@@ -18109,9 +17801,7 @@ const products: IProductInput[] = [
     name: 'Lumina Delay v2.5.3.386 AAX VST3 x64 WiN-MOCHA',
     slug: toSlug('Lumina Delay v2.5.3.386 AAX VST3 x64 WiN-MOCHA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Lumina-Delay-v2.0.0-AAX-VST3-x64-WiN-MOCHA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Lumina-Delay-v2.0.0-AAX-VST3-x64-WiN-MOCHA-MaGeSY.webp'],
     tags: [
       'todays-deal',
       'featured',
@@ -18212,9 +17902,7 @@ const products: IProductInput[] = [
     name: 'Convolution Reverb v1.6 For MAX FOR LiVE',
     slug: toSlug('Convolution Reverb v1.6 For MAX FOR LiVE'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Convolution-Reverb-v1.3-For-MAX-FOR-LiVE-FLARE.webp',
-    ],
+    images: ['/images/webp2/Convolution-Reverb-v1.3-For-MAX-FOR-LiVE-FLARE.webp'],
     tags: [
       'featured',
       'todays-deal',
@@ -18248,9 +17936,7 @@ const products: IProductInput[] = [
     name: 'Black Box Analog Design HG-Q v1.0.1 WiN-BUBBiX',
     slug: toSlug('Black Box Analog Design HG-Q v1.0.1 WiN-BUBBiX'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Black-Box-Analog-Design-HG-Q-v1.0.0-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Black-Box-Analog-Design-HG-Q-v1.0.0-WiN-LaptopSolution-MaGeSY.webp'],
     tags: ['featured', 'todays-deal', 'AAX', 'Vst', 'VST3', 'windows', 'x64'],
     isPublished: true,
     price: 34.41,
@@ -18337,9 +18023,7 @@ const products: IProductInput[] = [
     name: 'PES 24 + EXPANSION PACK MULTiFORMAT-FANTASTiC',
     slug: toSlug('PES 24 + EXPANSION PACK MULTiFORMAT-FANTASTiC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/PES-24-EXPANSION-PACK-MULTiFORMAT-FANTASTiC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/PES-24-EXPANSION-PACK-MULTiFORMAT-FANTASTiC-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'best-seller',
@@ -18402,9 +18086,7 @@ const products: IProductInput[] = [
     name: 'DP Meter Pro v4.3.3 WiN MAC-LaptopSolution',
     slug: toSlug('DP Meter Pro v4.3.3 WiN MAC-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/DP-Meter-Pro-v4.3.3-WiN-MAC-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/DP-Meter-Pro-v4.3.3-WiN-MAC-LaptopSolution-MaGeSY.webp'],
     tags: [
       'featured',
       'todays-deal',
@@ -18444,9 +18126,7 @@ const products: IProductInput[] = [
     name: 'iZ Aurora v1.0.0 AAX AU VST3 64Bit macOS-MORiA',
     slug: toSlug('iZ Aurora v1.0.0 AAX AU VST3 64Bit macOS-MORiA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/iZ-Aurora-v1.0.0-AAX-VST3-x64-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/iZ-Aurora-v1.0.0-AAX-VST3-x64-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
       'todays-deal',
       'featured',
@@ -18659,9 +18339,7 @@ const products: IProductInput[] = [
     name: 'How To Sound Like Disclosure TUTORiAL-HiDERA',
     slug: toSlug('How To Sound Like Disclosure TUTORiAL-HiDERA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/How-To-Sound-Like-Disclosure-TUTORiAL-HiDERA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/How-To-Sound-Like-Disclosure-TUTORiAL-HiDERA-MaGeSY.webp'],
     tags: ['new-arrival', 'TUTORiALS'],
     isPublished: true,
     price: 6.33,
@@ -18769,9 +18447,7 @@ const products: IProductInput[] = [
     name: 'P42 Climax v5.7.0 U2B macOS-MORiA',
     slug: toSlug('P42 Climax v5.7.0 U2B macOS-MORiA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/P42-Climax-v3.84-AAX-VST3-x64-WiN-LaptopSolution.webp',
-    ],
+    images: ['/images/webp2/P42-Climax-v3.84-AAX-VST3-x64-WiN-LaptopSolution.webp'],
     tags: [
       'featured',
       'new-arrival',
@@ -18807,9 +18483,7 @@ const products: IProductInput[] = [
     name: 'MH Production Bundle v4.0.23.187 WiN-LaptopSolution',
     slug: toSlug('MH Production Bundle v4.0.23.187 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/MH-Production-Bundle-v4.0.23.187-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/MH-Production-Bundle-v4.0.23.187-WiN-LaptopSolution-MaGeSY.webp'],
     tags: ['best-seller', 'AAX', 'Vst', 'VST3', 'windows', 'x64'],
     isPublished: true,
     price: 35.62,
@@ -18836,9 +18510,7 @@ const products: IProductInput[] = [
     name: 'Acoustic Drums v1.0.0 KONTAKT 8-FANTASTiC',
     slug: toSlug('Acoustic Drums v1.0.0 KONTAKT 8-FANTASTiC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Acoustic-Drums-v1.0.0-KONTAKT-8-FANTASTiC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Acoustic-Drums-v1.0.0-KONTAKT-8-FANTASTiC-MaGeSY.webp'],
     tags: [
       'todays-deal',
       'featured',
@@ -18904,9 +18576,7 @@ const products: IProductInput[] = [
     name: 'Thorns: Emotional Guitars WAV MiDi-FANTASTiC',
     slug: toSlug('Thorns: Emotional Guitars WAV MiDi-FANTASTiC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Thorns-Emotional-Guitars-WAV-MiDi-FANTASTiC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Thorns-Emotional-Guitars-WAV-MiDi-FANTASTiC-MaGeSY.webp'],
     tags: [
       'best-seller',
       'todays-deal',
@@ -18994,9 +18664,7 @@ const products: IProductInput[] = [
     name: '80s New Wave v1.0.0 KONTAKT 8-FANTASTiC',
     slug: toSlug('80s New Wave v1.0.0 KONTAKT 8-FANTASTiC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/80s-New-Wave-v1.0.0-KONTAKT-8-FANTASTiC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/80s-New-Wave-v1.0.0-KONTAKT-8-FANTASTiC-MaGeSY.webp'],
     tags: ['best-seller', 'Audio samples', 'Kontakt'],
     isPublished: true,
     price: 54.33,
@@ -19088,9 +18756,7 @@ const products: IProductInput[] = [
     name: 'Parallels Toolbox Business Edition 6.7.0 macOS-HCiSO',
     slug: toSlug('Parallels Toolbox Business Edition 6.7.0 macOS-HCiSO'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Parallels-Toolbox-Business-Edition-6.7.0-macOS-HCiSO-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Parallels-Toolbox-Business-Edition-6.7.0-macOS-HCiSO-MaGeSY.webp'],
     tags: [
       'featured',
       'best-seller',
@@ -19231,9 +18897,7 @@ const products: IProductInput[] = [
     name: 'Groove Shaper v1.1.2 WiN-LaptopSolution',
     slug: toSlug('Groove Shaper v1.1.2 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Groove-Shaper-v1.0.0-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Groove-Shaper-v1.0.0-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
       'featured',
       'best-seller',
@@ -19302,9 +18966,7 @@ const products: IProductInput[] = [
     name: 'Waldorf Microwave 1 v1.1.0 WiN-BUBBiX',
     slug: toSlug('Waldorf Microwave 1 v1.1.0 WiN-BUBBiX'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Waldorf-Microwave-1-v1.0.0-WiN-MAC-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Waldorf-Microwave-1-v1.0.0-WiN-MAC-LaptopSolution-MaGeSY.webp'],
     tags: ['todays-deal', 'AAX', 'VST3', 'VSTi', 'windows', 'x64'],
     isPublished: true,
     price: 27.84,
@@ -19450,9 +19112,7 @@ const products: IProductInput[] = [
     name: 'Bornemark Broomstick Bass VSTi x86 WiN MAC-FULL',
     slug: toSlug('Bornemark Broomstick Bass VSTi x86 WiN MAC-FULL'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Bornemark-Broomstick-Bass-VSTi-x86-WiN-MAC-FULL-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Bornemark-Broomstick-Bass-VSTi-x86-WiN-MAC-FULL-MaGeSY.webp'],
     tags: ['best-seller', 'featured', 'AU', 'macos', 'VSTi', 'windows', 'x86'],
     isPublished: true,
     price: 38.69,
@@ -19514,9 +19174,7 @@ const products: IProductInput[] = [
     name: 'Tech Trance Masterclass TUTORiAL-ARCADiA',
     slug: toSlug('Tech Trance Masterclass TUTORiAL-ARCADiA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Tech-Trance-Masterclass-TUTORiAL-ARCADiA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Tech-Trance-Masterclass-TUTORiAL-ARCADiA-MaGeSY.webp'],
     tags: ['best-seller', 'TUTORiALS'],
     isPublished: true,
     price: 6.5,
@@ -19545,9 +19203,7 @@ const products: IProductInput[] = [
       '? TEAM LaptopSolution KONTAKT Manager v1.1.13 WiN-LaptopSolution'
     ),
     category: 'Music Production',
-    images: [
-      '/images/webp2/TEAM-LaptopSolution-KONTAKT-Manager-v1.0.0-WiN-LaptopSolution.webp',
-    ],
+    images: ['/images/webp2/TEAM-LaptopSolution-KONTAKT-Manager-v1.0.0-WiN-LaptopSolution.webp'],
     tags: ['featured', 'todays-deal', 'Audio Software', 'NI', 'windows'],
     isPublished: true,
     price: 30.74,
@@ -19574,9 +19230,7 @@ const products: IProductInput[] = [
     name: 'Chaos Audio Plugins Bundle v14.01.2025 WiN-GTA',
     slug: toSlug('Chaos Audio Plugins Bundle v14.01.2025 WiN-GTA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Chaos-Audio-Plugins-Bundle-v14.01.2025-WiN-GTA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Chaos-Audio-Plugins-Bundle-v14.01.2025-WiN-GTA-MaGeSY.webp'],
     tags: ['featured', 'todays-deal', 'AAX', 'VST3', 'windows', 'x64'],
     isPublished: true,
     price: 27.72,
@@ -19603,9 +19257,7 @@ const products: IProductInput[] = [
     name: 'BEAT Magazine 222 July 2024 (English Edition) PDF',
     slug: toSlug('BEAT Magazine 222 July 2024 (English Edition) PDF'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/BEAT-Magazine-222-July-2024-English-Edition-PDF-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/BEAT-Magazine-222-July-2024-English-Edition-PDF-MaGeSY.webp'],
     tags: ['new-arrival', 'News'],
     isPublished: true,
     price: 26.61,
@@ -19686,9 +19338,7 @@ const products: IProductInput[] = [
     name: 'TE-100 v1.1.3 U2B AU VST VST3 64Bit macOS-MORiA',
     slug: toSlug('TE-100 v1.1.3 U2B AU VST VST3 64Bit macOS-MORiA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/TE-100-v1.1.1-AAX-VST-VST3-x86-x64-WiN-LaptopSolution.webp',
-    ],
+    images: ['/images/webp2/TE-100-v1.1.1-AAX-VST-VST3-x86-x64-WiN-LaptopSolution.webp'],
     tags: [
       'new-arrival',
       'featured',
@@ -19724,9 +19374,7 @@ const products: IProductInput[] = [
     name: 'ST-R-I-P v1.1.0 AU VST WiN MAC-LaptopSolution',
     slug: toSlug('ST-R-I-P v1.1.0 AU VST WiN MAC-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/ST-R-I-P-v1.1.0-AU-VST-WiN-MAC-LaptopSolution.webp',
-    ],
+    images: ['/images/webp2/ST-R-I-P-v1.1.0-AU-VST-WiN-MAC-LaptopSolution.webp'],
     tags: [
       'featured',
       'todays-deal',
@@ -19800,9 +19448,7 @@ const products: IProductInput[] = [
     name: '412 RECT Essentials Impulse Responses IRs WAV',
     slug: toSlug('412 RECT Essentials Impulse Responses IRs WAV'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/412-RECT-Essentials-Impulse-Responses-IRs-WAV-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/412-RECT-Essentials-Impulse-Responses-IRs-WAV-MaGeSY.webp'],
     tags: ['featured', 'new-arrival', 'todays-deal', 'Presets', 'wav'],
     isPublished: true,
     price: 29.56,
@@ -19958,9 +19604,7 @@ const products: IProductInput[] = [
     name: 'Shady Mountain Compo Mojo 192 khz for Nebula Pro',
     slug: toSlug('Shady Mountain Compo Mojo 192 khz for Nebula Pro'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Shady-Mountain-Compo-Mojo-192-khz-for-Nebula-Pro-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Shady-Mountain-Compo-Mojo-192-khz-for-Nebula-Pro-MaGeSY.webp'],
     tags: ['featured', 'new-arrival', 'NEBULA', 'Presets'],
     isPublished: true,
     price: 31.43,
@@ -19987,9 +19631,7 @@ const products: IProductInput[] = [
     name: 'Pad Invasion For Padshop Vol.1-TZ Group',
     slug: toSlug('Pad Invasion For Padshop Vol.1-TZ Group'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Pad-Invasion-For-Padshop-Vol.1-TZ-Group-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Pad-Invasion-For-Padshop-Vol.1-TZ-Group-MaGeSY.webp'],
     tags: ['best-seller', 'featured', 'PadShop Pro', 'Presets'],
     isPublished: true,
     price: 28.48,
@@ -20070,9 +19712,7 @@ const products: IProductInput[] = [
     name: 'House Engine Pro v1.3.0 WiN MAC-LaptopSolution',
     slug: toSlug('House Engine Pro v1.3.0 WiN MAC-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/House-Engine-Pro-v1.3.0-WiN-MAC-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/House-Engine-Pro-v1.3.0-WiN-MAC-LaptopSolution-MaGeSY.webp'],
     tags: [
       'featured',
       'todays-deal',
@@ -20111,9 +19751,7 @@ const products: IProductInput[] = [
       '? Swazher Generator v1.0.0 VST VST3 x86 x64 WiN-LaptopSolution'
     ),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Swazher-Generator-v1.0.0-VST-VST3-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Swazher-Generator-v1.0.0-VST-VST3-WiN-LaptopSolution-MaGeSY.webp'],
     tags: ['todays-deal', 'Vst', 'VST3', 'windows', 'x64', 'x86'],
     isPublished: true,
     price: 38.99,
@@ -20140,9 +19778,7 @@ const products: IProductInput[] = [
     name: 'Complete v15 Ultimate 13.01.2025 WiN MAC',
     slug: toSlug('Complete v15 Ultimate 13.01.2025 WiN MAC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Complete-v15-Ultimate-18.12.2024-WiN-MAC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Complete-v15-Ultimate-18.12.2024-WiN-MAC-MaGeSY.webp'],
     tags: [
       'todays-deal',
       'featured',
@@ -20181,9 +19817,7 @@ const products: IProductInput[] = [
     name: 'Puremagnetik Devil07 MULTiFORMAT-DYNAMiCS',
     slug: toSlug('Puremagnetik Devil07 MULTiFORMAT-DYNAMiCS'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Puremagnetik-Devil07-MULTiFORMAT-DYNAMiCS-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Puremagnetik-Devil07-MULTiFORMAT-DYNAMiCS-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'Ableton LiVE',
@@ -20310,9 +19944,7 @@ const products: IProductInput[] = [
     name: 'Polyscape Analogue v1.0.0 WiN MAC-BUBBiX',
     slug: toSlug('Polyscape Analogue v1.0.0 WiN MAC-BUBBiX'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Polyscape-Analogue-v1.0.0-WiN-MAC-BUBBiX-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Polyscape-Analogue-v1.0.0-WiN-MAC-BUBBiX-MaGeSY.webp'],
     tags: [
       'best-seller',
       'new-arrival',
@@ -20520,9 +20152,7 @@ const products: IProductInput[] = [
       '? Big Fish Audio Prosonus Orchestral Strings KONTAKT-DiSCOVER'
     ),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Big-Fish-Audio-Prosonus-Orchestral-Strings-KONTAKT-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Big-Fish-Audio-Prosonus-Orchestral-Strings-KONTAKT-MaGeSY.webp'],
     tags: [
       'best-seller',
       'new-arrival',
@@ -20555,9 +20185,7 @@ const products: IProductInput[] = [
     name: 'Dark Melodic Minimal Techno WAV MiDi-FANTASTiC',
     slug: toSlug('Dark Melodic Minimal Techno WAV MiDi-FANTASTiC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Dark-Melodic-Minimal-Techno-WAV-MiDi-FANTASTiC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Dark-Melodic-Minimal-Techno-WAV-MiDi-FANTASTiC-MaGeSY.webp'],
     tags: ['todays-deal', 'Audio samples', 'Patterns MIDI', 'wav'],
     isPublished: true,
     price: 28.9,
@@ -20611,9 +20239,7 @@ const products: IProductInput[] = [
     name: 'FKFX Vocal Freeze v1.5.1 U2B macOS-MORiA',
     slug: toSlug('FKFX Vocal Freeze v1.5.1 U2B macOS-MORiA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/FKFX-Vocal-Freeze-v1.4.0-U2B-macOS-MORiA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/FKFX-Vocal-Freeze-v1.4.0-U2B-macOS-MORiA-MaGeSY.webp'],
     tags: [
       'featured',
       'Apple Silicon',
@@ -20767,9 +20393,7 @@ const products: IProductInput[] = [
     name: 'Dance Mega Disco-House WAV',
     slug: toSlug('Dance Mega Disco-House WAV'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Best-Service-Dance-Mega-Disco-House-FRONT-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Best-Service-Dance-Mega-Disco-House-FRONT-MaGeSY.webp'],
     tags: ['new-arrival', 'todays-deal', 'featured', 'Audio samples', 'wav'],
     isPublished: true,
     price: 31.28,
@@ -21008,9 +20632,7 @@ const products: IProductInput[] = [
     name: 'Maag EQ4 MS v1.0.0 AAX VST2 VST3 x64 WiN-LaptopSolution',
     slug: toSlug('Maag EQ4 MS v1.0.0 AAX VST2 VST3 x64 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Maag-EQ4-MS-v1.0.0-AAX-VST2-VST3-x64-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Maag-EQ4-MS-v1.0.0-AAX-VST2-VST3-x64-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
       'best-seller',
       'featured',
@@ -21046,9 +20668,7 @@ const products: IProductInput[] = [
     name: 'Wusik Station 8 v8.0.2 And Legacy Presets WiN MAC-ZODiACK',
     slug: toSlug('Wusik Station 8 v8.0.2 And Legacy Presets WiN MAC-ZODiACK'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Wusik-Station-8-v8.0.2-And-Legacy-Presets-WiN-MAC-ZODiACK-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Wusik-Station-8-v8.0.2-And-Legacy-Presets-WiN-MAC-ZODiACK-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'todays-deal',
@@ -21128,9 +20748,7 @@ const products: IProductInput[] = [
     name: 'Synthwave Nostalgia Vol.1 WAV-FANTASTiC',
     slug: toSlug('Synthwave Nostalgia Vol.1 WAV-FANTASTiC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Synthwave-Nostalgia-Vol.1-WAV-FANTASTiC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Synthwave-Nostalgia-Vol.1-WAV-FANTASTiC-MaGeSY.webp'],
     tags: ['best-seller', 'featured', 'Audio samples', 'wav'],
     isPublished: true,
     price: 13.74,
@@ -21157,9 +20775,7 @@ const products: IProductInput[] = [
     name: 'NA Bass Hammer v1.0.1 WiN-LaptopSolution',
     slug: toSlug('NA Bass Hammer v1.0.1 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/NA-Bass-Hammer-v1.0.1-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/NA-Bass-Hammer-v1.0.1-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'todays-deal',
@@ -21376,9 +20992,7 @@ const products: IProductInput[] = [
     name: 'Mixing Drums with Intelligent Plugins TUTORiAL',
     slug: toSlug('Mixing Drums with Intelligent Plugins TUTORiAL'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Mixing-Drums-with-Intelligent-Plugins-TUTORiAL-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Mixing-Drums-with-Intelligent-Plugins-TUTORiAL-MaGeSY.webp'],
     tags: ['best-seller', 'TUTORiALS'],
     isPublished: true,
     price: 3.34,
@@ -21405,9 +21019,7 @@ const products: IProductInput[] = [
     name: 'Essentials Techno Vol.1 WAV MiDi-FANTASTiC',
     slug: toSlug('Essentials Techno Vol.1 WAV MiDi-FANTASTiC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Essentials-Techno-Vol.1-WAV-MiDi-FANTASTiC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Essentials-Techno-Vol.1-WAV-MiDi-FANTASTiC-MaGeSY.webp'],
     tags: ['new-arrival', 'Audio samples', 'Patterns MIDI', 'wav'],
     isPublished: true,
     price: 17.91,
@@ -21471,9 +21083,7 @@ const products: IProductInput[] = [
     name: 'Afrology: Afrobeats And Guitars Vol.2 WAV MiDi-FANTASTiC',
     slug: toSlug('Afrology: Afrobeats And Guitars Vol.2 WAV MiDi-FANTASTiC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Afrology-Afrobeats-And-Guitars-Vol.2-WAV-MiDi-FANTASTiC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Afrology-Afrobeats-And-Guitars-Vol.2-WAV-MiDi-FANTASTiC-MaGeSY.webp'],
     tags: ['best-seller', 'featured', 'Audio samples', 'Patterns MIDI', 'wav'],
     isPublished: true,
     price: 10.75,
@@ -21527,9 +21137,7 @@ const products: IProductInput[] = [
     name: 'Advanced Mixdown Techniques TUTORiAL-FANTASTiC',
     slug: toSlug('Advanced Mixdown Techniques TUTORiAL-FANTASTiC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Advanced-Mixdown-Techniques-TUTORiAL-FANTASTiC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Advanced-Mixdown-Techniques-TUTORiAL-FANTASTiC-MaGeSY.webp'],
     tags: ['featured', 'TUTORiALS'],
     isPublished: true,
     price: 7.4,
@@ -21556,9 +21164,7 @@ const products: IProductInput[] = [
     name: 'Synthx V v1.0.0 WiN-LaptopSolution',
     slug: toSlug('Synthx V v1.0.0 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Synthx-V-Multitimbral-Analog-Synthesizer-iNTEL-macOS-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Synthx-V-Multitimbral-Analog-Synthesizer-iNTEL-macOS-MaGeSY.webp'],
     tags: [
       'todays-deal',
       'featured',
@@ -21628,9 +21234,7 @@ const products: IProductInput[] = [
     name: 'iZotope Plasma Explained TUTORiAL-HiDERA',
     slug: toSlug('iZotope Plasma Explained TUTORiAL-HiDERA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/iZotope-Plasma-Explained-TUTORiAL-HiDERA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/iZotope-Plasma-Explained-TUTORiAL-HiDERA-MaGeSY.webp'],
     tags: ['new-arrival', 'featured', 'TUTORiALS'],
     isPublished: true,
     price: 8.68,
@@ -21657,9 +21261,7 @@ const products: IProductInput[] = [
     name: 'Adventures In Hip Hop WAV ABLETON LiVE-AUDiOSTRiKE',
     slug: toSlug('Adventures In Hip Hop WAV ABLETON LiVE-AUDiOSTRiKE'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Adventures-In-Hip-Hop-WAV-ABLETON-LiVE-AUDiOSTRiKE-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Adventures-In-Hip-Hop-WAV-ABLETON-LiVE-AUDiOSTRiKE-MaGeSY.webp'],
     tags: [
       'best-seller',
       'Ableton LiVE',
@@ -21693,9 +21295,7 @@ const products: IProductInput[] = [
     name: 'The Assistant Job: Mix Session Prep TUTORiAL-HiDERA',
     slug: toSlug('The Assistant Job: Mix Session Prep TUTORiAL-HiDERA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/he-Assistant-Job-Mix-Session-Prep-TUTORiAL-HiDERA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/he-Assistant-Job-Mix-Session-Prep-TUTORiAL-HiDERA-MaGeSY.webp'],
     tags: ['featured', 'best-seller', 'todays-deal', 'TUTORiALS'],
     isPublished: true,
     price: 5.74,
@@ -21724,9 +21324,7 @@ const products: IProductInput[] = [
       'Producing Modern Metal with Virtual Instruments TUTORiAL-HiDERA'
     ),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Producing-Modern-Metal-with-Virtual-Instruments-TUTORiAL-HiDERA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Producing-Modern-Metal-with-Virtual-Instruments-TUTORiAL-HiDERA-MaGeSY.webp'],
     tags: ['best-seller', 'TUTORiALS'],
     isPublished: true,
     price: 3.29,
@@ -21753,9 +21351,7 @@ const products: IProductInput[] = [
     name: 'Creative Mixing with Clipping Explained TUTORiAL-HiDERA',
     slug: toSlug('Creative Mixing with Clipping Explained TUTORiAL-HiDERA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Creative-Mixing-with-Clipping-Explained-TUTORiAL-HiDERA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Creative-Mixing-with-Clipping-Explained-TUTORiAL-HiDERA-MaGeSY.webp'],
     tags: ['featured', 'new-arrival', 'todays-deal', 'TUTORiALS'],
     isPublished: true,
     price: 6.71,
@@ -21927,9 +21523,7 @@ const products: IProductInput[] = [
     name: 'TAL-BassLine-101 v3.9.3 WiN-TCD',
     slug: toSlug('TAL-BassLine-101 v3.9.3 WiN-TCD'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/TAL-BassLine-101-AU-AAX-VST-VSTi-x86-x64-WiN-MAC-LaptopSolution.webp',
-    ],
+    images: ['/images/webp2/TAL-BassLine-101-AU-AAX-VST-VSTi-x86-x64-WiN-MAC-LaptopSolution.webp'],
     tags: ['new-arrival', 'featured', 'AAX', 'VST3', 'VSTi', 'windows', 'x64'],
     isPublished: true,
     price: 25.5,
@@ -22078,9 +21672,7 @@ const products: IProductInput[] = [
     name: 'Waldorf Microwave 1 v1.1.0 WiN MAC-LaptopSolution',
     slug: toSlug('Waldorf Microwave 1 v1.1.0 WiN MAC-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Waldorf-Microwave-1-v1.0.0-WiN-MAC-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Waldorf-Microwave-1-v1.0.0-WiN-MAC-LaptopSolution-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'todays-deal',
@@ -22199,9 +21791,7 @@ const products: IProductInput[] = [
     name: 'VocAlign 6 Pro v6.1.18 WiN-LaptopSolution',
     slug: toSlug('VocAlign 6 Pro v6.1.18 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/VocAlign-6-Pro-v6.1.18-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/VocAlign-6-Pro-v6.1.18-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
       'best-seller',
       'featured',
@@ -22337,9 +21927,7 @@ const products: IProductInput[] = [
     name: 'bx_XL V2 v2.16.1 R2 WiN-LaptopSolution',
     slug: toSlug('bx_XL V2 v2.16.1 R2 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/bx_XL-V2-v2.16.1-R2-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/bx_XL-V2-v2.16.1-R2-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
       'best-seller',
       'featured',
@@ -22439,9 +22027,7 @@ const products: IProductInput[] = [
     name: 'MEGA Sampler v1.1.1 R2 AAX VST3 WiN-LaptopSolution',
     slug: toSlug('MEGA Sampler v1.1.1 R2 AAX VST3 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/MEGA-Sampler-2022-AAX-VST3-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/MEGA-Sampler-2022-AAX-VST3-WiN-LaptopSolution-MaGeSY.webp'],
     tags: ['todays-deal', 'best-seller', 'AAX', 'VST3', 'windows', 'x64'],
     isPublished: true,
     price: 14.57,
@@ -22468,9 +22054,7 @@ const products: IProductInput[] = [
     name: 'dearVR PRO v1.10.0 AU VST VST3 macOS-HCiSO',
     slug: toSlug('dearVR PRO v1.10.0 AU VST VST3 macOS-HCiSO'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/dearVR-pro-v1.4.1-AAX-VST-VST3-x86-x64-WiN-LaptopSolution.webp',
-    ],
+    images: ['/images/webp2/dearVR-pro-v1.4.1-AAX-VST-VST3-x86-x64-WiN-LaptopSolution.webp'],
     tags: [
       'featured',
       'new-arrival',
@@ -22508,9 +22092,7 @@ const products: IProductInput[] = [
     name: 'GK Amplification 3 Pro v3.1.3 AAX VST3 x64 WiN-TCD',
     slug: toSlug('GK Amplification 3 Pro v3.1.3 AAX VST3 x64 WiN-TCD'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/GK-Amplification-3-Pro-v3.1.1-AAX-VST3-x64-WiN-MOCHA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/GK-Amplification-3-Pro-v3.1.1-AAX-VST3-x64-WiN-MOCHA-MaGeSY.webp'],
     tags: ['featured', 'AAX', 'VST3', 'windows', 'x64'],
     isPublished: true,
     price: 22.17,
@@ -22645,9 +22227,7 @@ const products: IProductInput[] = [
     name: 'AMG Megabass REMIX! Vol.1-2 WAV CDDA-ALFiSO',
     slug: toSlug('AMG Megabass REMIX! Vol.1-2 WAV CDDA-ALFiSO'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/AMG-Megabass-REMIX-Vol.1-2-WAV-CDDA-ALFiSO-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/AMG-Megabass-REMIX-Vol.1-2-WAV-CDDA-ALFiSO-MaGeSY.webp'],
     tags: ['new-arrival', 'featured', 'AMG', 'Audio samples', 'CDDA', 'wav'],
     isPublished: true,
     price: 12.08,
@@ -22711,9 +22291,7 @@ const products: IProductInput[] = [
     name: 'dearVR Pro v2.0.0 AAX VST3 x64 WiN-LaptopSolution',
     slug: toSlug('dearVR Pro v2.0.0 AAX VST3 x64 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/dearVR-pro-v2.0.0-AAX-VST3-x64-WiN-MORiA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/dearVR-pro-v2.0.0-AAX-VST3-x64-WiN-MORiA-MaGeSY.webp'],
     tags: ['new-arrival', 'AAX', 'VST3', 'windows', 'x64'],
     isPublished: true,
     price: 28.95,
@@ -22740,9 +22318,7 @@ const products: IProductInput[] = [
     name: 'TAL-BassLine-101 v3.9.3 WiN MAC LiNUX-LaptopSolution',
     slug: toSlug('TAL-BassLine-101 v3.9.3 WiN MAC LiNUX-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/TAL-BassLine-101-AU-AAX-VST-VSTi-x86-x64-WiN-MAC-LaptopSolution.webp',
-    ],
+    images: ['/images/webp2/TAL-BassLine-101-AU-AAX-VST-VSTi-x86-x64-WiN-MAC-LaptopSolution.webp'],
     tags: [
       'new-arrival',
       'best-seller',
@@ -22785,9 +22361,7 @@ const products: IProductInput[] = [
       'VirtualDJ Pro 2023 Infinity v8.5.7921 x64 WiN-LaptopSolution'
     ),
     category: 'Music Production',
-    images: [
-      '/images/webp2/VirtualDJ-Pro-2021-Infinity-v8.5.6067-WiN-x64-CE-V.R.webp',
-    ],
+    images: ['/images/webp2/VirtualDJ-Pro-2021-Infinity-v8.5.6067-WiN-x64-CE-V.R.webp'],
     tags: ['todays-deal', 'featured', 'DJ Soft', 'windows'],
     isPublished: true,
     price: 36.07,
@@ -22928,9 +22502,7 @@ const products: IProductInput[] = [
     name: 'aXPlugins BUNDLE 2023.07 AAX VST3 x64 WiN-MOCHA',
     slug: toSlug('aXPlugins BUNDLE 2023.07 AAX VST3 x64 WiN-MOCHA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/aXPlugins-BUNDLE-AAX-VST3-x64-WiN-MOCHA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/aXPlugins-BUNDLE-AAX-VST3-x64-WiN-MOCHA-MaGeSY.webp'],
     tags: ['featured', 'AAX', 'VST3', 'windows', 'x64'],
     isPublished: true,
     price: 17.41,
@@ -23135,9 +22707,7 @@ const products: IProductInput[] = [
     name: 'Synthx V Multitimbral Analog Synthesizer iNTEL macOS',
     slug: toSlug('Synthx V Multitimbral Analog Synthesizer iNTEL macOS'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Synthx-V-Multitimbral-Analog-Synthesizer-iNTEL-macOS-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Synthx-V-Multitimbral-Analog-Synthesizer-iNTEL-macOS-MaGeSY.webp'],
     tags: [
       'best-seller',
       'new-arrival',
@@ -23338,9 +22908,7 @@ const products: IProductInput[] = [
     name: 'Imaginando Plug-ins Collection 09.01.2025 U2B macOS-MORiA',
     slug: toSlug('Imaginando Plug-ins Collection 09.01.2025 U2B macOS-MORiA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Imaginando-Plug-ins-Bundle-macOS-MORiA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Imaginando-Plug-ins-Bundle-macOS-MORiA-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'Apple Silicon',
@@ -23458,9 +23026,7 @@ const products: IProductInput[] = [
     name: 'Hip Hop Engine Pro v1.0.0 FiNAL WiN-BUBBiX',
     slug: toSlug('Hip Hop Engine Pro v1.0.0 FiNAL WiN-BUBBiX'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Hip-Hop-Engine-Pro-v1.0.0-Beta-1-WiN-BUBBiX-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Hip-Hop-Engine-Pro-v1.0.0-Beta-1-WiN-BUBBiX-MaGeSY.webp'],
     tags: [
       'best-seller',
       'featured',
@@ -23495,9 +23061,7 @@ const products: IProductInput[] = [
     name: 'Massive X v1.4.5 AAX VSTi WiN x64-LaptopSolution',
     slug: toSlug('Massive X v1.4.5 AAX VSTi WiN x64-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Massive-X-v1.3.1-AAX-VSTi-WiN-x64-LaptopSolution.webp',
-    ],
+    images: ['/images/webp2/Massive-X-v1.3.1-AAX-VSTi-WiN-x64-LaptopSolution.webp'],
     tags: ['todays-deal', 'best-seller', 'AAX', 'VSTi', 'windows', 'x64'],
     isPublished: true,
     price: 34.27,
@@ -23524,9 +23088,7 @@ const products: IProductInput[] = [
     name: 'MASSiVE v1.7.0 AAX VSTi STANDALONE x64 WiN-LaptopSolution',
     slug: toSlug('MASSiVE v1.7.0 AAX VSTi STANDALONE x64 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Massive-v1.5.8-AAX-VSTi-STANDALONE-x64-CE-WiN-V.R.webp',
-    ],
+    images: ['/images/webp2/Massive-v1.5.8-AAX-VSTi-STANDALONE-x64-CE-WiN-V.R.webp'],
     tags: [
       'featured',
       'new-arrival',
@@ -23631,9 +23193,7 @@ const products: IProductInput[] = [
     name: 'Dirty Dyna v1.0.2 AAX VST3 x64 WiN-BUBBiX',
     slug: toSlug('Dirty Dyna v1.0.2 AAX VST3 x64 WiN-BUBBiX'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Dirty-Dyna-v1.0.2-AAX-VST3-x64-WiN-BUBBiX-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Dirty-Dyna-v1.0.2-AAX-VST3-x64-WiN-BUBBiX-MaGeSY.webp'],
     tags: ['new-arrival', 'featured', 'AAX', 'VST3', 'windows', 'x64'],
     isPublished: true,
     price: 11.8,
@@ -23660,9 +23220,7 @@ const products: IProductInput[] = [
     name: 'Klimper v2.3.1 VST3 STANDALONE x64 WiN-MOCHA',
     slug: toSlug('Klimper v2.3.1 VST3 STANDALONE x64 WiN-MOCHA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Klimper-v.2.0.6-VST3-STANDALONE-x64-WiN-MOCHA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Klimper-v.2.0.6-VST3-STANDALONE-x64-WiN-MOCHA-MaGeSY.webp'],
     tags: ['todays-deal', 'Audio Software', 'VST3', 'windows', 'x64'],
     isPublished: true,
     price: 58.29,
@@ -23689,9 +23247,7 @@ const products: IProductInput[] = [
     name: 'RealGuitar 6 v6.1.2.7554 WiN-LaptopSolution',
     slug: toSlug('RealGuitar 6 v6.1.2.7554 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/RealGuitar-6-v6.1.0.7549-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/RealGuitar-6-v6.1.0.7549-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
       'todays-deal',
       'featured',
@@ -23755,9 +23311,7 @@ const products: IProductInput[] = [
     name: 'How To Make Ambient FX TUTORiAL-FANTASTiC',
     slug: toSlug('How To Make Ambient FX TUTORiAL-FANTASTiC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/How-To-Make-Ambient-FX-TUTORiAL-FANTASTiC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/How-To-Make-Ambient-FX-TUTORiAL-FANTASTiC-MaGeSY.webp'],
     tags: ['best-seller', 'TUTORiALS'],
     isPublished: true,
     price: 5.02,
@@ -23784,9 +23338,7 @@ const products: IProductInput[] = [
     name: 'Massive X v1.4.5 AAX VST3 VSTi WiN x64-V.R',
     slug: toSlug('Massive X v1.4.5 AAX VST3 VSTi WiN x64-V.R'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Massive-X-v1.3.1-AAX-VSTi-WiN-x64-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Massive-X-v1.3.1-AAX-VSTi-WiN-x64-LaptopSolution-MaGeSY.webp'],
     tags: ['featured', 'AAX', 'NI', 'VST3', 'VSTi', 'windows', 'x64'],
     isPublished: true,
     price: 12.9,
@@ -23813,9 +23365,7 @@ const products: IProductInput[] = [
     name: 'RealLPC 6 v6.1.2.7554 WiN-LaptopSolution',
     slug: toSlug('RealLPC 6 v6.1.2.7554 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/RealLPC-6-v6.1.0.7549-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/RealLPC-6-v6.1.0.7549-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
       'todays-deal',
       'featured',
@@ -23851,9 +23401,7 @@ const products: IProductInput[] = [
     name: 'RealRick 6 v6.1.2.7554 WiN-LaptopSolution',
     slug: toSlug('RealRick 6 v6.1.2.7554 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/RealRick-6-v6.1.0.7549-WiN-READ-NFO-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/RealRick-6-v6.1.0.7549-WiN-READ-NFO-LaptopSolution-MaGeSY.webp'],
     tags: ['todays-deal', 'AAX', 'Audio Software', 'VST3', 'VSTi', 'x64'],
     isPublished: true,
     price: 45.18,
@@ -23934,9 +23482,7 @@ const products: IProductInput[] = [
     name: 'RealStrat 6 v6.1.2.7554 WiN-LaptopSolution',
     slug: toSlug('RealStrat 6 v6.1.2.7554 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/RealStrat-6-v6.1.0.7549-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/RealStrat-6-v6.1.0.7549-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
       'featured',
       'best-seller',
@@ -23972,9 +23518,7 @@ const products: IProductInput[] = [
     name: 'Dark Nu Wave Disco MULTiFORMAT-AUDIOSTRiKE',
     slug: toSlug('Dark Nu Wave Disco MULTiFORMAT-AUDIOSTRiKE'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Dark-Nu-Wave-Disco-MULTiFORMAT-AUDIOSTRiKE-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Dark-Nu-Wave-Disco-MULTiFORMAT-AUDIOSTRiKE-MaGeSY.webp'],
     tags: [
       'best-seller',
       'new-arrival',
@@ -24040,9 +23584,7 @@ const products: IProductInput[] = [
     name: 'Nudistort v1.1.13 AAX VST3 x64 WiN-MOCHA',
     slug: toSlug('Nudistort v1.1.13 AAX VST3 x64 WiN-MOCHA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Nudistort-v1.1.13-AAX-VST3-x64-WiN-MOCHA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Nudistort-v1.1.13-AAX-VST3-x64-WiN-MOCHA-MaGeSY.webp'],
     tags: ['todays-deal', 'featured', 'AAX', 'VST3', 'windows', 'x64'],
     isPublished: true,
     price: 21.79,
@@ -24069,9 +23611,7 @@ const products: IProductInput[] = [
     name: 'Graphiti v1.0.1 AAX VST2 VST3 x64 WiN-MOCHA',
     slug: toSlug('Graphiti v1.0.1 AAX VST2 VST3 x64 WiN-MOCHA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Graphiti-v1.0.0-AAX-VST2-VST3-x64-WiN-MOCHA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Graphiti-v1.0.0-AAX-VST2-VST3-x64-WiN-MOCHA-MaGeSY.webp'],
     tags: ['featured', 'AAX', 'VST3', 'VSTi', 'x64'],
     isPublished: true,
     price: 10.48,
@@ -24242,9 +23782,7 @@ const products: IProductInput[] = [
     name: 'Dr. Sound FX DJ Sound FX [Dj Turntable Scratch] MP3',
     slug: toSlug('Dr. Sound FX DJ Sound FX [Dj Turntable Scratch] MP3'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Dr.-Sound-FX-DJ-Sound-FX-Dj-Turntable-Scratch-MP3-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Dr.-Sound-FX-DJ-Sound-FX-Dj-Turntable-Scratch-MP3-MaGeSY.webp'],
     tags: ['new-arrival', 'Audio samples', 'mp3'],
     isPublished: true,
     price: 13.88,
@@ -24300,9 +23838,7 @@ const products: IProductInput[] = [
       'Behringer Vintage v1.0.1.128 STANDALONE VST3 x64 WiN-LaptopSolution'
     ),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Behringer-Vintage-v1.0.1-STANDALONE-VST3-x64-WiN-LaptopSolution.webp',
-    ],
+    images: ['/images/webp2/Behringer-Vintage-v1.0.1-STANDALONE-VST3-x64-WiN-LaptopSolution.webp'],
     tags: ['featured', 'Audio Software', 'Behringer', 'VST3', 'windows'],
     isPublished: true,
     price: 43.0,
@@ -24454,9 +23990,7 @@ const products: IProductInput[] = [
     name: 'Chillout Engine Pro v2.1.0 WiN MAC-LaptopSolution',
     slug: toSlug('Chillout Engine Pro v2.1.0 WiN MAC-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Chillout-Engine-Pro-v1.0.0-WiN-MAC-LaptopSolution.webp',
-    ],
+    images: ['/images/webp2/Chillout-Engine-Pro-v1.0.0-WiN-MAC-LaptopSolution.webp'],
     tags: [
       'best-seller',
       'new-arrival',
@@ -24597,9 +24131,7 @@ const products: IProductInput[] = [
     name: 'Guide to Ableton Live 4th Edition 2024 PDF',
     slug: toSlug('Guide to Ableton Live 4th Edition 2024 PDF'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Guide-to-Ableton-Live-4th-Edition-2024-PDF-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Guide-to-Ableton-Live-4th-Edition-2024-PDF-MaGeSY.webp'],
     tags: ['todays-deal', 'TUTORiALS'],
     isPublished: true,
     price: 5.4,
@@ -24626,9 +24158,7 @@ const products: IProductInput[] = [
     name: 'Maag Audio Bundle 2024.10.10 macOS-HCiSO',
     slug: toSlug('Maag Audio Bundle 2024.10.10 macOS-HCiSO'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Maag-Audio-Bundle-2024.10.10-macOS-HCiSO-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Maag-Audio-Bundle-2024.10.10-macOS-HCiSO-MaGeSY.webp'],
     tags: [
       'featured',
       'AAX',
@@ -24728,9 +24258,7 @@ const products: IProductInput[] = [
     name: 'WavePad Sound Editor Masters Edition v19.86 WiN-BTCR',
     slug: toSlug('WavePad Sound Editor Masters Edition v19.86 WiN-BTCR'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/WavePad-Sound-Editor-Masters-Edition-v16.00-WiN-DVT.webp',
-    ],
+    images: ['/images/webp2/WavePad-Sound-Editor-Masters-Edition-v16.00-WiN-DVT.webp'],
     tags: [
       'new-arrival',
       'best-seller',
@@ -24857,9 +24385,7 @@ const products: IProductInput[] = [
     name: 'Crescendo Masters v10.77 WiN-BTCR',
     slug: toSlug('Crescendo Masters v10.77 WiN-BTCR'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Crescendo-Masters-Music-Notation-Software-v5.58-WiN.webp',
-    ],
+    images: ['/images/webp2/Crescendo-Masters-Music-Notation-Software-v5.58-WiN.webp'],
     tags: ['featured', 'Audio Software', 'windows'],
     isPublished: true,
     price: 47.24,
@@ -25003,9 +24529,7 @@ const products: IProductInput[] = [
     name: 'ValveKult v2.0.0 AAX VST3 x64 WiN-LaptopSolution',
     slug: toSlug('ValveKult v2.0.0 AAX VST3 x64 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/ValveKult-v2.0.0-AAX-VST3-x64-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/ValveKult-v2.0.0-AAX-VST3-x64-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
       'best-seller',
       'todays-deal',
@@ -25040,9 +24564,7 @@ const products: IProductInput[] = [
     name: 'Steinberg Groove Agent SE 5 v5.2.10 WiN-LaptopSolution',
     slug: toSlug('Steinberg Groove Agent SE 5 v5.2.10 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Steinberg-Groove-Agent-SE-5-v5.1.0-WiN-LaptopSolution.webp',
-    ],
+    images: ['/images/webp2/Steinberg-Groove-Agent-SE-5-v5.1.0-WiN-LaptopSolution.webp'],
     tags: [
       'todays-deal',
       'AAX',
@@ -25078,9 +24600,7 @@ const products: IProductInput[] = [
     name: 'Proxima: Hardwave Sample Pack WAV MiDi-ARCADiA',
     slug: toSlug('Proxima: Hardwave Sample Pack WAV MiDi-ARCADiA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Proxima-Hardwave-Sample-Pack-WAV-MiDi-ARCADiA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Proxima-Hardwave-Sample-Pack-WAV-MiDi-ARCADiA-MaGeSY.webp'],
     tags: [
       'best-seller',
       'featured',
@@ -25114,9 +24634,7 @@ const products: IProductInput[] = [
     name: 'Cycling 74 Max 8.6.5 incl. RNBO macOS-HCiSO',
     slug: toSlug('Cycling 74 Max 8.6.5 incl. RNBO macOS-HCiSO'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Cycling-74-Max-8.5.5-incl.-RNBO-macOS-HCiSO-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Cycling-74-Max-8.5.5-incl.-RNBO-macOS-HCiSO-MaGeSY.webp'],
     tags: [
       'todays-deal',
       'new-arrival',
@@ -25150,9 +24668,7 @@ const products: IProductInput[] = [
     name: 'Symphonic Elements BRAAASS v1.1.1 U2B macOS-MORiA',
     slug: toSlug('Symphonic Elements BRAAASS v1.1.1 U2B macOS-MORiA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Symphonic-Elements-BRAAASS-v1.1.1-WiN-CE-V.R-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Symphonic-Elements-BRAAASS-v1.1.1-WiN-CE-V.R-MaGeSY.webp'],
     tags: [
       'best-seller',
       'featured',
@@ -25187,9 +24703,7 @@ const products: IProductInput[] = [
     name: 'Poiesis Cello v2.0.1 KONTAKT',
     slug: toSlug('Poiesis Cello v2.0.1 KONTAKT'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Poiesis-Cello-v2.0.1-KONTAKT-MaGeSY-731x1024-1.webp',
-    ],
+    images: ['/images/webp2/Poiesis-Cello-v2.0.1-KONTAKT-MaGeSY-731x1024-1.webp'],
     tags: ['todays-deal', 'featured', 'Audio samples', 'Kontakt'],
     isPublished: true,
     price: 61.83,
@@ -25216,9 +24730,7 @@ const products: IProductInput[] = [
     name: 'Nasty Looper PRO EVO 1.0 VST2i VST3i x64 WiN-SNEAKZ',
     slug: toSlug('Nasty Looper PRO EVO 1.0 VST2i VST3i x64 WiN-SNEAKZ'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Nasty-Looper-PRO-EVO-1.0-VST2i-VST3i-x64-WiN-SNEAKZ-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Nasty-Looper-PRO-EVO-1.0-VST2i-VST3i-x64-WiN-SNEAKZ-MaGeSY.webp'],
     tags: [
       'featured',
       'todays-deal',
@@ -25316,9 +24828,7 @@ const products: IProductInput[] = [
     name: 'Making Music with Logic Pro for iPad TUTORiAL',
     slug: toSlug('Making Music with Logic Pro for iPad TUTORiAL'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Making-Music-with-Logic-Pro-for-iPad-TUTORiAL-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Making-Music-with-Logic-Pro-for-iPad-TUTORiAL-MaGeSY.webp'],
     tags: ['new-arrival', 'featured', 'TUTORiALS'],
     isPublished: true,
     price: 6.06,
@@ -25345,9 +24855,7 @@ const products: IProductInput[] = [
     name: 'Speldosa v1.0.3 AAX VST3 VST2 x64 x86 WiN-BUBBiX',
     slug: toSlug('Speldosa v1.0.3 AAX VST3 VST2 x64 x86 WiN-BUBBiX'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Speldosa-v1.0.1-AAX-VST3-VST2-x64-x86-WiN-TCD-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Speldosa-v1.0.1-AAX-VST3-VST2-x64-x86-WiN-TCD-MaGeSY.webp'],
     tags: ['todays-deal', 'AAX', 'VST3', 'VSTi', 'windows', 'x64', 'x86'],
     isPublished: true,
     price: 38.1,
@@ -25511,9 +25019,7 @@ const products: IProductInput[] = [
     name: 'Ableton Live 12 MiDi Tools Masterclass TUTORiAL-FANTASTiC',
     slug: toSlug('Ableton Live 12 MiDi Tools Masterclass TUTORiAL-FANTASTiC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Ableton-Live-12-MiDi-Tools-Masterclass-TUTORiAL-FANTASTiC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Ableton-Live-12-MiDi-Tools-Masterclass-TUTORiAL-FANTASTiC-MaGeSY.webp'],
     tags: ['best-seller', 'TUTORiALS'],
     isPublished: true,
     price: 6.88,
@@ -25540,9 +25046,7 @@ const products: IProductInput[] = [
     name: 'Voxengo Premium 2024 WiN-LaptopSolution',
     slug: toSlug('Voxengo Premium 2024 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Voxengo-Premium-2024-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Voxengo-Premium-2024-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'todays-deal',
@@ -25577,9 +25081,7 @@ const products: IProductInput[] = [
     name: 'MiniMeters v0.8.24 Beta WiN MAC LiNUX-BTCR',
     slug: toSlug('MiniMeters v0.8.24 Beta WiN MAC LiNUX-BTCR'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/MiniMeters-v0.8.11-Beta-WiN-MAC-LiNUX-BTCR-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/MiniMeters-v0.8.11-Beta-WiN-MAC-LiNUX-BTCR-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'featured',
@@ -25615,9 +25117,7 @@ const products: IProductInput[] = [
     name: 'SLURP v1.1.2 x64 WiN MAC LiNUX PORTABLE-BTCR',
     slug: toSlug('SLURP v1.1.2 x64 WiN MAC LiNUX PORTABLE-BTCR'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/SLURP-v1.1.1-x64-WiN-MAC-LiNUX-PORTABLE-BTCR-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/SLURP-v1.1.1-x64-WiN-MAC-LiNUX-PORTABLE-BTCR-MaGeSY.webp'],
     tags: [
       'featured',
       'Apple Silicon',
@@ -25654,9 +25154,7 @@ const products: IProductInput[] = [
     name: 'Lurssen Mastering Console v1.2.0 macOS-MORiA',
     slug: toSlug('Lurssen Mastering Console v1.2.0 macOS-MORiA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Lurssen-Mastering-Console-v1.1.0x-WiN-MAC-LaptopSolution.webp',
-    ],
+    images: ['/images/webp2/Lurssen-Mastering-Console-v1.1.0x-WiN-MAC-LaptopSolution.webp'],
     tags: [
       'featured',
       'new-arrival',
@@ -25786,9 +25284,7 @@ const products: IProductInput[] = [
     name: 'Mixing Rock on a Budget Explained TUTORiAL-HiDERA',
     slug: toSlug('Mixing Rock on a Budget Explained TUTORiAL-HiDERA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Mixing-Rock-on-a-Budget-Explained-TUTORiAL-HiDERA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Mixing-Rock-on-a-Budget-Explained-TUTORiAL-HiDERA-MaGeSY.webp'],
     tags: ['todays-deal', 'TUTORiALS'],
     isPublished: true,
     price: 7.22,
@@ -25815,9 +25311,7 @@ const products: IProductInput[] = [
     name: 'Tech House Mixing Explained TUTORiAL-HiDERA',
     slug: toSlug('Tech House Mixing Explained TUTORiAL-HiDERA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Tech-House-Mixing-Explained-TUTORiAL-HiDERA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Tech-House-Mixing-Explained-TUTORiAL-HiDERA-MaGeSY.webp'],
     tags: ['best-seller', 'todays-deal', 'TUTORiALS'],
     isPublished: true,
     price: 7.2,
@@ -25871,9 +25365,7 @@ const products: IProductInput[] = [
     name: 'MLC S_Zero 100 v1.0.1021 U2B macOS-MORiA',
     slug: toSlug('MLC S_Zero 100 v1.0.1021 U2B macOS-MORiA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/MLC-S_Zero-100-v1.0.961-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/MLC-S_Zero-100-v1.0.961-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'featured',
@@ -25937,9 +25429,7 @@ const products: IProductInput[] = [
     name: 'Learning Logic Pro Essential Training (2024) TUTORiAL',
     slug: toSlug('Learning Logic Pro Essential Training (2024) TUTORiAL'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Learning-Logic-Pro-Essential-Training-2024-TUTORiAL-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Learning-Logic-Pro-Essential-Training-2024-TUTORiAL-MaGeSY.webp'],
     tags: ['new-arrival', 'best-seller', 'featured', 'TUTORiALS'],
     isPublished: true,
     price: 4.27,
@@ -25968,9 +25458,7 @@ const products: IProductInput[] = [
       'AudioRaiders Sasha Soundlab Essentials 1 & 2 MULTiFORMAT-MAGNETRiXX'
     ),
     category: 'Music Production',
-    images: [
-      '/images/webp2/AudioRaiders-Sasha-Soundlab-Essentials-2-MULTiFORMAT-MAGNETRiXX.webp',
-    ],
+    images: ['/images/webp2/AudioRaiders-Sasha-Soundlab-Essentials-2-MULTiFORMAT-MAGNETRiXX.webp'],
     tags: [
       'todays-deal',
       'best-seller',
@@ -26032,9 +25520,7 @@ const products: IProductInput[] = [
     name: 'Art Of Editing: Davinci Resolve Edition TUTORiAL',
     slug: toSlug('Art Of Editing: Davinci Resolve Edition TUTORiAL'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Art-Of-Editing-Davinci-Resolve-Edition-TUTORiAL-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Art-Of-Editing-Davinci-Resolve-Edition-TUTORiAL-MaGeSY.webp'],
     tags: ['featured', 'new-arrival', 'todays-deal', 'TUTORiALS'],
     isPublished: true,
     price: 3.3,
@@ -26205,9 +25691,7 @@ const products: IProductInput[] = [
     name: 'Cenozoix Compressor v1.1.1 WiN-BUBBiX',
     slug: toSlug('Cenozoix Compressor v1.1.1 WiN-BUBBiX'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Cenozoix-Compressor-v1.0.0-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Cenozoix-Compressor-v1.0.0-WiN-LaptopSolution-MaGeSY.webp'],
     tags: ['best-seller', 'todays-deal', 'AAX', 'VST3', 'windows'],
     isPublished: true,
     price: 30.43,
@@ -26234,9 +25718,7 @@ const products: IProductInput[] = [
     name: 'Cenozoix Compressor v1.1.1 U2B macOS-HCiSO',
     slug: toSlug('Cenozoix Compressor v1.1.1 U2B macOS-HCiSO'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Cenozoix-Compressor-v1.0.0-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Cenozoix-Compressor-v1.0.0-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'Apple Silicon',
@@ -26272,9 +25754,7 @@ const products: IProductInput[] = [
     name: 'Hype v1.5.0 U2B AU VST VST3 macOS-HCiSO',
     slug: toSlug('Hype v1.5.0 U2B AU VST VST3 macOS-HCiSO'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Hype-v1.0.0-AAX-VST2-VST3-x64-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Hype-v1.0.0-AAX-VST2-VST3-x64-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'AAX',
@@ -26345,9 +25825,7 @@ const products: IProductInput[] = [
     name: 'Shades of Techno Moog Little-Slim Phatty SoundBanks SYX',
     slug: toSlug('Shades of Techno Moog Little-Slim Phatty SoundBanks SYX'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Shades-of-Techno-Moog-Little-Slim-Phatty-SoundBanks-SYX-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Shades-of-Techno-Moog-Little-Slim-Phatty-SoundBanks-SYX-MaGeSY.webp'],
     tags: ['todays-deal', 'new-arrival', 'featured', 'Presets', 'SYX'],
     isPublished: true,
     price: 38.91,
@@ -26374,9 +25852,7 @@ const products: IProductInput[] = [
     name: 'Steinberg VST Live 2 Pro v2.1.xx WiN MAC-V.R',
     slug: toSlug('Steinberg VST Live 2 Pro v2.1.xx WiN MAC-V.R'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Steinberg-VST-Live-2-Pro-v2.0.0-WiN-MAC-V.R-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Steinberg-VST-Live-2-Pro-v2.0.0-WiN-MAC-V.R-MaGeSY.webp'],
     tags: [
       'best-seller',
       'featured',
@@ -26411,9 +25887,7 @@ const products: IProductInput[] = [
     name: 'Hype v1.5.0 AAX VST2 VST3 x64 WiN-BUBiXX',
     slug: toSlug('Hype v1.5.0 AAX VST2 VST3 x64 WiN-BUBiXX'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Hype-v1.0.0-AAX-VST2-VST3-x64-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Hype-v1.0.0-AAX-VST2-VST3-x64-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
       'todays-deal',
       'best-seller',
@@ -26476,9 +25950,7 @@ const products: IProductInput[] = [
     name: 'Astral Production Suite MULTiFORMAT-FANTASTiC',
     slug: toSlug('Astral Production Suite MULTiFORMAT-FANTASTiC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Astral-Production-Suite-MULTiFORMAT-FANTASTiC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Astral-Production-Suite-MULTiFORMAT-FANTASTiC-MaGeSY.webp'],
     tags: [
       'best-seller',
       'todays-deal',
@@ -26513,9 +25985,7 @@ const products: IProductInput[] = [
     name: 'Producing Amapiano Explained TUTORiAL-HiDERA',
     slug: toSlug('Producing Amapiano Explained TUTORiAL-HiDERA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Producing-Amapiano-Explained-TUTORiAL-HiDERA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Producing-Amapiano-Explained-TUTORiAL-HiDERA-MaGeSY.webp'],
     tags: ['best-seller', 'featured', 'todays-deal', 'TUTORiALS'],
     isPublished: true,
     price: 6.87,
@@ -26542,9 +26012,7 @@ const products: IProductInput[] = [
     name: 'Cycling 74 Max v8.6.5 x64 WiN-BOBDULE',
     slug: toSlug('Cycling 74 Max v8.6.5 x64 WiN-BOBDULE'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Cycling-74-Max-8.5.5-incl.-RNBO-macOS-HCiSO-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Cycling-74-Max-8.5.5-incl.-RNBO-macOS-HCiSO-MaGeSY.webp'],
     tags: [
       'best-seller',
       'featured',
@@ -26700,9 +26168,7 @@ const products: IProductInput[] = [
     name: 'Rekraft v1.1.0 AAX VST3 x64 WiN-BUBBiX',
     slug: toSlug('Rekraft v1.1.0 AAX VST3 x64 WiN-BUBBiX'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Rekraft-v1.0.2-AAX-VST3-x64-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Rekraft-v1.0.2-AAX-VST3-x64-WiN-LaptopSolution-MaGeSY.webp'],
     tags: ['todays-deal', 'AAX', 'VST3', 'windows', 'x64'],
     isPublished: true,
     price: 23.65,
@@ -26765,9 +26231,7 @@ const products: IProductInput[] = [
     name: 'MEGA Bundle Effects 2024.12 WiN-LaptopSolution [REPACK]',
     slug: toSlug('MEGA Bundle Effects 2024.12 WiN-LaptopSolution [REPACK]'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/MEGA-Bundle-Effects-2024.06-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/MEGA-Bundle-Effects-2024.06-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
       'featured',
       'todays-deal',
@@ -26874,9 +26338,7 @@ const products: IProductInput[] = [
     name: 'Plasmonic v1.2.7 STANDALONE VST3 x64 WiN-LaptopSolution',
     slug: toSlug('Plasmonic v1.2.7 STANDALONE VST3 x64 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Plasmonic-v1.2.0-STANDALONE-VST3-x64-WiN-NeBULA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Plasmonic-v1.2.0-STANDALONE-VST3-x64-WiN-NeBULA-MaGeSY.webp'],
     tags: [
       'todays-deal',
       'new-arrival',
@@ -26911,9 +26373,7 @@ const products: IProductInput[] = [
     name: 'Laney Digbeth Production Suite v1.1.0 WiN-LaptopSolution',
     slug: toSlug('Laney Digbeth Production Suite v1.1.0 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Laney-Digbeth-Production-Suite-v1.0.0-WiN-BUBBiX-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Laney-Digbeth-Production-Suite-v1.0.0-WiN-BUBBiX-MaGeSY.webp'],
     tags: [
       'todays-deal',
       'featured',
@@ -26948,9 +26408,7 @@ const products: IProductInput[] = [
     name: 'Monster 4000 v1.0.2 AAX VST3 x64 WiN-LaptopSolution',
     slug: toSlug('Monster 4000 v1.0.2 AAX VST3 x64 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Monster-4000-v1.0.0-AAX-VST3-x64-WiN-BUBBiX-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Monster-4000-v1.0.0-AAX-VST3-x64-WiN-BUBBiX-MaGeSY.webp'],
     tags: [
       'featured',
       'best-seller',
@@ -27046,9 +26504,7 @@ const products: IProductInput[] = [
     name: 'L2-Aura v1.0.0 AAX VST3 x64 WiN-LaptopSolution',
     slug: toSlug('L2-Aura v1.0.0 AAX VST3 x64 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/L2-Aura-v1.0.0-AAX-VST3-x64-WiN-BUBBiX-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/L2-Aura-v1.0.0-AAX-VST3-x64-WiN-BUBBiX-MaGeSY.webp'],
     tags: [
       'best-seller',
       'todays-deal',
@@ -27083,9 +26539,7 @@ const products: IProductInput[] = [
     name: 'EQ510 v1.2.4 AAX VST3 x64 WiN-LaptopSolution',
     slug: toSlug('EQ510 v1.2.4 AAX VST3 x64 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/EQ510-v1.0.0-AAX-VST3-x64-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/EQ510-v1.0.0-AAX-VST3-x64-WiN-LaptopSolution-MaGeSY.webp'],
     tags: ['best-seller', 'featured', 'AAX', 'VST3', 'windows', 'x64'],
     isPublished: true,
     price: 27.53,
@@ -27151,9 +26605,7 @@ const products: IProductInput[] = [
       'Pod Farm Platinum v2.59 STANDALONE RTAS VST x86 x64 WiN-LaptopSolution'
     ),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Pod-Farm-Platinum-v2.59-STANDALONE-RTAS-VST-x86-x64-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Pod-Farm-Platinum-v2.59-STANDALONE-RTAS-VST-x86-x64-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
       'featured',
       'todays-deal',
@@ -27217,9 +26669,7 @@ const products: IProductInput[] = [
     name: 'T600 IR Impulse Responses WAV DVDR SCD-SPiRiT',
     slug: toSlug('T600 IR Impulse Responses WAV DVDR SCD-SPiRiT'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/T600-IR-Impulse-Responses-WAV-DVDR-SCD-SPiRiT-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/T600-IR-Impulse-Responses-WAV-DVDR-SCD-SPiRiT-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'featured',
@@ -27280,9 +26730,7 @@ const products: IProductInput[] = [
     name: 'bx_enhancer v1.1.1 macOS-HCiSO',
     slug: toSlug('bx_enhancer v1.1.1 macOS-HCiSO'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Enhancer-v1.0.0-WiN-READ-NFO-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Enhancer-v1.0.0-WiN-READ-NFO-LaptopSolution-MaGeSY.webp'],
     tags: [
       'best-seller',
       'Apple Silicon',
@@ -27345,9 +26793,7 @@ const products: IProductInput[] = [
     name: 'LANDR Composer v1.0.2 WiN-LaptopSolution',
     slug: toSlug('LANDR Composer v1.0.2 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/LANDR-Composer-v1.0.2-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/LANDR-Composer-v1.0.2-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
       'best-seller',
       'featured',
@@ -27382,9 +26828,7 @@ const products: IProductInput[] = [
     name: 'Full MiDi Tracks Series: Ambient Choir Vol.1 MiDi-GTA',
     slug: toSlug('Full MiDi Tracks Series: Ambient Choir Vol.1 MiDi-GTA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Full-MiDi-Tracks-Series-Ambient-Choir-Vol.1-MiDi-GTA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Full-MiDi-Tracks-Series-Ambient-Choir-Vol.1-MiDi-GTA-MaGeSY.webp'],
     tags: ['todays-deal', 'Patterns MIDI'],
     isPublished: true,
     price: 29.69,
@@ -27411,9 +26855,7 @@ const products: IProductInput[] = [
     name: 'Full MiDi Tracks Series: Cinematic Strings Vol.4 MiDi-GTA',
     slug: toSlug('Full MiDi Tracks Series: Cinematic Strings Vol.4 MiDi-GTA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Full-MiDi-Tracks-Series-Cinematic-Strings-Vol.4-MiDi-GTA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Full-MiDi-Tracks-Series-Cinematic-Strings-Vol.4-MiDi-GTA-MaGeSY.webp'],
     tags: ['new-arrival', 'Patterns MIDI'],
     isPublished: true,
     price: 13.78,
@@ -27440,9 +26882,7 @@ const products: IProductInput[] = [
     name: 'Beat Issue 228 Januar 2025 (German Edition) PDF',
     slug: toSlug('Beat Issue 228 Januar 2025 (German Edition) PDF'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Beat-Issue-228-Januar-2025-German-Edition-PDF-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Beat-Issue-228-Januar-2025-German-Edition-PDF-MaGeSY.webp'],
     tags: ['todays-deal', 'best-seller', 'featured', 'News'],
     isPublished: true,
     price: 17.21,
@@ -27566,9 +27006,7 @@ const products: IProductInput[] = [
     name: 'Peak And Raw Techno Serum Pack SERUM PRESETS-GTA',
     slug: toSlug('Peak And Raw Techno Serum Pack SERUM PRESETS-GTA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Peak-And-Raw-Techno-Serum-Pack-SERUM-PRESETS-GTA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Peak-And-Raw-Techno-Serum-Pack-SERUM-PRESETS-GTA-MaGeSY.webp'],
     tags: ['new-arrival', 'featured', 'todays-deal', 'Presets', 'SERUM'],
     isPublished: true,
     price: 20.48,
@@ -27736,9 +27174,7 @@ const products: IProductInput[] = [
     name: 'Yamaha FX Suite v3.0.0 WiN-LaptopSolution',
     slug: toSlug('Yamaha FX Suite v3.0.0 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Yamaha-FX-Suite-v3.0.0-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Yamaha-FX-Suite-v3.0.0-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
       'featured',
       'todays-deal',
@@ -27844,9 +27280,7 @@ const products: IProductInput[] = [
     name: 'AmpKnob Trivium Bundle 2024.11 WiN-LaptopSolution',
     slug: toSlug('AmpKnob Trivium Bundle 2024.11 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/AmpKnob-Trivium-Bundle-2024.05-WiN-MOCHA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/AmpKnob-Trivium-Bundle-2024.05-WiN-MOCHA-MaGeSY.webp'],
     tags: [
       'best-seller',
       'new-arrival',
@@ -27882,9 +27316,7 @@ const products: IProductInput[] = [
     name: 'Brass N Bounce v1.0.0 MASCHiNE EXPANSiON',
     slug: toSlug('Brass N Bounce v1.0.0 MASCHiNE EXPANSiON'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Brass-N-Bounce-v1.0.0-MASCHiNE-EXPANSiON-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Brass-N-Bounce-v1.0.0-MASCHiNE-EXPANSiON-MaGeSY.webp'],
     tags: [
       'todays-deal',
       'new-arrival',
@@ -27922,9 +27354,7 @@ const products: IProductInput[] = [
     name: 'Rapid Techno Experiment Serum Presets-FANTASTiC',
     slug: toSlug('Rapid Techno Experiment Serum Presets-FANTASTiC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Rapid-Techno-Experiment-Serum-Presets-FANTASTiC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Rapid-Techno-Experiment-Serum-Presets-FANTASTiC-MaGeSY.webp'],
     tags: ['best-seller', 'Presets', 'SERUM'],
     isPublished: true,
     price: 12.06,
@@ -27951,9 +27381,7 @@ const products: IProductInput[] = [
     name: 'Steinberg WaveLab Cast v2.0.50 WiN-V.R',
     slug: toSlug('Steinberg WaveLab Cast v2.0.50 WiN-V.R'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Steinberg-WaveLab-Cast-v1.2.0-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Steinberg-WaveLab-Cast-v1.2.0-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
       'featured',
       'todays-deal',
@@ -28053,9 +27481,7 @@ const products: IProductInput[] = [
     name: 'U-he Repro-1 v1.1.3 WiN MAC LiNUX-LaptopSolution',
     slug: toSlug('U-he Repro-1 v1.1.3 WiN MAC LiNUX-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/U-he-Repro-1-v1.1.2.12092-AAX-VST3-VSTi-x86-x64-WiN-CE-V.webp',
-    ],
+    images: ['/images/webp2/U-he-Repro-1-v1.1.2.12092-AAX-VST3-VSTi-x86-x64-WiN-CE-V.webp'],
     tags: [
       'best-seller',
       'todays-deal',
@@ -28123,9 +27549,7 @@ const products: IProductInput[] = [
     name: 'How to Design Whispy Transition Sound TUTORiAL-FANTASTiC',
     slug: toSlug('How to Design Whispy Transition Sound TUTORiAL-FANTASTiC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/How-to-Design-Whispy-Transition-Sound-TUTORiAL-FANTASTiC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/How-to-Design-Whispy-Transition-Sound-TUTORiAL-FANTASTiC-MaGeSY.webp'],
     tags: ['featured', 'TUTORiALS'],
     isPublished: true,
     price: 4.09,
@@ -28152,9 +27576,7 @@ const products: IProductInput[] = [
     name: 'BAM v1.2.0 STANDALONE VST2i VST3i x64 WiN-LaptopSolution',
     slug: toSlug('BAM v1.2.0 STANDALONE VST2i VST3i x64 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/BAM-v1.0.3-STANDALONE-VST2i-VST3i-x64-WiN-TCD-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/BAM-v1.0.3-STANDALONE-VST2i-VST3i-x64-WiN-TCD-MaGeSY.webp'],
     tags: ['best-seller', 'Audio Software', 'VST3', 'VSTi', 'windows', 'x64'],
     isPublished: true,
     price: 49.67,
@@ -28181,9 +27603,7 @@ const products: IProductInput[] = [
     name: 'Create Custom 90s Ambient Pads TUTORiAL-FANTASTiC',
     slug: toSlug('Create Custom 90s Ambient Pads TUTORiAL-FANTASTiC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Create-Custom-90s-Ambient-Pads-TUTORiAL-FANTASTiC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Create-Custom-90s-Ambient-Pads-TUTORiAL-FANTASTiC-MaGeSY.webp'],
     tags: ['todays-deal', 'TUTORiALS'],
     isPublished: true,
     price: 7.79,
@@ -28473,9 +27893,7 @@ const products: IProductInput[] = [
     name: '100 Discotheque Jingles Vol.2 [Vinyl] WAV HQ',
     slug: toSlug('100 Discotheque Jingles Vol.2 [Vinyl] WAV HQ'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/100-Discotheque-Jingles-Vol.2-Vinyl-WAV-HQ-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/100-Discotheque-Jingles-Vol.2-Vinyl-WAV-HQ-MaGeSY.webp'],
     tags: ['best-seller', 'todays-deal', 'featured', 'Audio samples', 'wav'],
     isPublished: true,
     price: 15.34,
@@ -28502,9 +27920,7 @@ const products: IProductInput[] = [
     name: 'Internet Download Manager v6.42 Build 26 WiN-OneClick',
     slug: toSlug('Internet Download Manager v6.42 Build 26 WiN-OneClick'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Internet-Download-Manager-v6.42-Build-26-WiN-OneClick-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Internet-Download-Manager-v6.42-Build-26-WiN-OneClick-MaGeSY.webp'],
     tags: ['best-seller', 'new-arrival', 'featured', 'Special', 'windows'],
     isPublished: true,
     price: 39.63,
@@ -28567,9 +27983,7 @@ const products: IProductInput[] = [
     name: 'PUNCH v1.0.0 AAX VST3 x64 WiN-LaptopSolution',
     slug: toSlug('PUNCH v1.0.0 AAX VST3 x64 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/PUNCH-v1.0.0-AAX-VST3-x64-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/PUNCH-v1.0.0-AAX-VST3-x64-WiN-LaptopSolution-MaGeSY.webp'],
     tags: ['best-seller', 'AAX', 'VST3', 'windows', 'x64'],
     isPublished: true,
     price: 21.18,
@@ -28596,9 +28010,7 @@ const products: IProductInput[] = [
     name: 'PiTCHSHiFT PRO v1.2.0 WiN-LaptopSolution',
     slug: toSlug('PiTCHSHiFT PRO v1.2.0 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/PiTCHSHiFT-PRO-v1.0.0-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/PiTCHSHiFT-PRO-v1.0.0-WiN-LaptopSolution-MaGeSY.webp'],
     tags: ['best-seller', 'todays-deal', 'AAX', 'VST3', 'windows', 'x64'],
     isPublished: true,
     price: 19.41,
@@ -28625,9 +28037,7 @@ const products: IProductInput[] = [
     name: 'GHOST v1.0.9 CLAP VST3 x64 WiN-LaptopSolution',
     slug: toSlug('GHOST v1.0.9 CLAP VST3 x64 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/GHOST-v1.0.8-CLAP-VST3-x64-WiN-READ-NFO-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/GHOST-v1.0.8-CLAP-VST3-x64-WiN-READ-NFO-LaptopSolution-MaGeSY.webp'],
     tags: ['best-seller', 'todays-deal', 'featured', 'CLAP', 'VST3', 'x64'],
     isPublished: true,
     price: 38.56,
@@ -28654,9 +28064,7 @@ const products: IProductInput[] = [
     name: 'Studio One Pro 7 v7.0.2 WiN-LaptopSolution',
     slug: toSlug('Studio One Pro 7 v7.0.2 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Studio-One-Pro-7-v7.0.0-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Studio-One-Pro-7-v7.0.0-WiN-LaptopSolution-MaGeSY.webp'],
     tags: ['featured', 'best-seller', 'Audio Software', 'Presonus', 'windows'],
     isPublished: true,
     price: 48.21,
@@ -28683,9 +28091,7 @@ const products: IProductInput[] = [
     name: 'Alesis DM Pro [DRUM MODULE] Kit AiFF',
     slug: toSlug('Alesis DM Pro [DRUM MODULE] Kit AiFF'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Alesis-DM-Pro-DRUM-MODULE-Kit-AiFF-MaGeSY-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Alesis-DM-Pro-DRUM-MODULE-Kit-AiFF-MaGeSY-MaGeSY.webp'],
     tags: ['new-arrival', 'todays-deal', 'AiFF', 'Audio samples'],
     isPublished: true,
     price: 12.36,
@@ -28712,9 +28118,7 @@ const products: IProductInput[] = [
     name: 'Beatfader v1.2.0 AAX VST3 x64 WiN-BUBBiX',
     slug: toSlug('Beatfader v1.2.0 AAX VST3 x64 WiN-BUBBiX'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Beatfader-v1.1.0-AAX-VST3-x64-WiN-MOCHA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Beatfader-v1.1.0-AAX-VST3-x64-WiN-MOCHA-MaGeSY.webp'],
     tags: [
       'best-seller',
       'featured',
@@ -28751,9 +28155,7 @@ const products: IProductInput[] = [
       'Studio One 6 Professional v6.6.4 RETAiL WiN COMPLETE-LaptopSolution'
     ),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Studio-One-6-Professional-v6.0.0-WiN-COMPLETE-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Studio-One-6-Professional-v6.0.0-WiN-COMPLETE-LaptopSolution-MaGeSY.webp'],
     tags: ['featured', 'best-seller', 'Audio Software', 'Presonus'],
     isPublished: true,
     price: 46.48,
@@ -28782,9 +28184,7 @@ const products: IProductInput[] = [
       'Studio One 5 Professional v5.5.2 WiN RETAiL x64-LaptopSolution'
     ),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Studio-One-5-Professional-v5.0.1-WiN-x64-LaptopSolution.webp',
-    ],
+    images: ['/images/webp2/Studio-One-5-Professional-v5.0.1-WiN-x64-LaptopSolution.webp'],
     tags: ['featured', 'Audio Software', 'Presonus', 'windows'],
     isPublished: true,
     price: 33.23,
@@ -28844,9 +28244,7 @@ const products: IProductInput[] = [
     name: 'Massive v1.7.0 AU VSTi STANDALONE 64Bit macOS-HCiSO',
     slug: toSlug('Massive v1.7.0 AU VSTi STANDALONE 64Bit macOS-HCiSO'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Massive-v1.5.8-AAX-VSTi-STANDALONE-x64-CE-WiN-V.R.webp',
-    ],
+    images: ['/images/webp2/Massive-v1.5.8-AAX-VSTi-STANDALONE-x64-CE-WiN-V.R.webp'],
     tags: [
       'new-arrival',
       'Apple Silicon',
@@ -28920,9 +28318,7 @@ const products: IProductInput[] = [
     name: 'TV3 v1.0.0 VST2 VST3 x64 WiN-LaptopSolution',
     slug: toSlug('TV3 v1.0.0 VST2 VST3 x64 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/TV3-v1.0.0-VST2-VST3-x64-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/TV3-v1.0.0-VST2-VST3-x64-WiN-LaptopSolution-MaGeSY.webp'],
     tags: ['featured', 'new-arrival', 'Vst', 'VST3', 'windows', 'x64'],
     isPublished: true,
     price: 39.36,
@@ -29036,9 +28432,7 @@ const products: IProductInput[] = [
     name: 'KABUKi And NOH PERCUSSiON v2.0.0 KONTAKT',
     slug: toSlug('KABUKi And NOH PERCUSSiON v2.0.0 KONTAKT'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/KABUKi-And-NOH-PERCUSSiON-v2.0.0-KONTAKT-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/KABUKi-And-NOH-PERCUSSiON-v2.0.0-KONTAKT-MaGeSY.webp'],
     tags: ['todays-deal', 'new-arrival', 'Audio samples', 'Kontakt'],
     isPublished: true,
     price: 61.76,
@@ -29129,9 +28523,7 @@ const products: IProductInput[] = [
     name: 'Monster 4000 v1.0.1 AAX VST3 x64 WiN-BUBBiX',
     slug: toSlug('Monster 4000 v1.0.1 AAX VST3 x64 WiN-BUBBiX'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Monster-4000-v1.0.0-AAX-VST3-x64-WiN-BUBBiX-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Monster-4000-v1.0.0-AAX-VST3-x64-WiN-BUBBiX-MaGeSY.webp'],
     tags: ['todays-deal', 'best-seller', 'AAX', 'VST3', 'windows', 'x64'],
     isPublished: true,
     price: 16.75,
@@ -29158,9 +28550,7 @@ const products: IProductInput[] = [
     name: 'ACM500X Bundle v3.2.0 R2 WiN-LaptopSolution',
     slug: toSlug('ACM500X Bundle v3.2.0 R2 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/ACM500X-Bundle-v3.2.0-R2-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/ACM500X-Bundle-v3.2.0-R2-WiN-LaptopSolution-MaGeSY.webp'],
     tags: ['new-arrival', 'todays-deal', 'AAX', 'Vst', 'VST3', 'windows'],
     isPublished: true,
     price: 39.07,
@@ -29249,9 +28639,7 @@ const products: IProductInput[] = [
     name: 'BandLab Cakewalk Sonar v30.12.0.004 WiN-LaptopSolution',
     slug: toSlug('BandLab Cakewalk Sonar v30.12.0.004 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/BandLab-Cakewalk-Sonar-v29.09.0.138-Rebuild1-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/BandLab-Cakewalk-Sonar-v29.09.0.138-Rebuild1-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
       'best-seller',
       'Audio Software',
@@ -29283,9 +28671,7 @@ const products: IProductInput[] = [
     name: 'Fire, Water, Air, Earth, REFiLLS-DiSCOVER-SYNTHiC4TE',
     slug: toSlug('Fire, Water, Air, Earth, REFiLLS-DiSCOVER-SYNTHiC4TE'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Fire-Water-Air-Earth-REFiLLS-DiSCOVER-SYNTHiC4TE-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Fire-Water-Air-Earth-REFiLLS-DiSCOVER-SYNTHiC4TE-MaGeSY.webp'],
     tags: ['best-seller', 'ReFiLL'],
     isPublished: true,
     price: 20.02,
@@ -29312,9 +28698,7 @@ const products: IProductInput[] = [
     name: 'Cinematic Elements: Fire & Water Bundle WAV',
     slug: toSlug('Cinematic Elements: Fire & Water Bundle WAV'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Cinematic-Elements-Fire-And-Water-Bundle-WAV-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Cinematic-Elements-Fire-And-Water-Bundle-WAV-MaGeSY.webp'],
     tags: ['featured', 'best-seller', 'Audio samples', 'wav'],
     isPublished: true,
     price: 17.24,
@@ -29341,9 +28725,7 @@ const products: IProductInput[] = [
     name: 'Aurora DSP Everything Bundle 2024.11.18 macOS-HCiSO',
     slug: toSlug('Aurora DSP Everything Bundle 2024.11.18 macOS-HCiSO'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Aurora-DSP-Everything-Bundle-2024.07.29-macOS-HCiSO-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Aurora-DSP-Everything-Bundle-2024.07.29-macOS-HCiSO-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'Apple Silicon',
@@ -29379,9 +28761,7 @@ const products: IProductInput[] = [
     name: 'Sonic Assault Mixed Reaction v1.0 VSTi x86 WiN',
     slug: toSlug('Sonic Assault Mixed Reaction v1.0 VSTi x86 WiN'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Sonic-Assault-Mixed-Reaction-v1.0-VSTi-x86-WiN-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Sonic-Assault-Mixed-Reaction-v1.0-VSTi-x86-WiN-MaGeSY.webp'],
     tags: [
       'best-seller',
       'featured',
@@ -29416,9 +28796,7 @@ const products: IProductInput[] = [
     name: 'Advance Mastering With Pro Q-3 TUTORiAL-FANTASTiC',
     slug: toSlug('Advance Mastering With Pro Q-3 TUTORiAL-FANTASTiC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Advance-Mastering-With-Pro-Q-3-TUTORiAL-FANTASTiC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Advance-Mastering-With-Pro-Q-3-TUTORiAL-FANTASTiC-MaGeSY.webp'],
     tags: ['featured', 'todays-deal', 'TUTORiALS'],
     isPublished: true,
     price: 6.2,
@@ -29665,9 +29043,7 @@ const products: IProductInput[] = [
       'TEAM LaptopSolution Sphere Manager v2.0.0 WiN-LaptopSolution'
     ),
     category: 'Music Production',
-    images: [
-      '/images/webp2/TEAM-LaptopSolution-KONTAKT-Manager-v1.0.0-WiN-LaptopSolution.webp',
-    ],
+    images: ['/images/webp2/TEAM-LaptopSolution-KONTAKT-Manager-v1.0.0-WiN-LaptopSolution.webp'],
     tags: ['featured', 'best-seller', 'Special', 'windows'],
     isPublished: true,
     price: 23.49,
@@ -29819,9 +29195,7 @@ const products: IProductInput[] = [
     name: 'DS-10 Drum Shaper v1.2.5 AU VST2 VST3 macOS-HCiSO',
     slug: toSlug('DS-10 Drum Shaper v1.2.5 AU VST2 VST3 macOS-HCiSO'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/DS-10-Drum-Shaper-v1.1.3.1-WiN-LaptopSolution.webp',
-    ],
+    images: ['/images/webp2/DS-10-Drum-Shaper-v1.1.3.1-WiN-LaptopSolution.webp'],
     tags: [
       'new-arrival',
       'best-seller',
@@ -29859,9 +29233,7 @@ const products: IProductInput[] = [
     name: 'WavePad Sound Editor Masters Edition v19.75 macOS-BTCR',
     slug: toSlug('WavePad Sound Editor Masters Edition v19.75 macOS-BTCR'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/WavePad-Sound-Editor-Masters-Edition-v16.00-WiN-DVT.webp',
-    ],
+    images: ['/images/webp2/WavePad-Sound-Editor-Masters-Edition-v16.00-WiN-DVT.webp'],
     tags: ['featured', 'todays-deal', 'best-seller', 'Audio Software', 'macos'],
     isPublished: true,
     price: 34.04,
@@ -29989,9 +29361,7 @@ const products: IProductInput[] = [
     name: 'Analog Evolution Beta Pack WAV MiDi [FREE]',
     slug: toSlug('Analog Evolution Beta Pack WAV MiDi [FREE]'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Analog-Evolution-Beta-Pack-WAV-MiDi-FREE-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Analog-Evolution-Beta-Pack-WAV-MiDi-FREE-MaGeSY.webp'],
     tags: [
       'best-seller',
       'new-arrival',
@@ -30105,9 +29475,7 @@ const products: IProductInput[] = [
     name: 'Bettermaker Bundle 2024.05.22 macOS-HCiSO',
     slug: toSlug('Bettermaker Bundle 2024.05.22 macOS-HCiSO'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Bettermaker-Bundle-2024.05.22-macOS-HCiSO-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Bettermaker-Bundle-2024.05.22-macOS-HCiSO-MaGeSY.webp'],
     tags: [
       'featured',
       'best-seller',
@@ -30178,9 +29546,7 @@ const products: IProductInput[] = [
     name: 'Dyna Pro v1.0.6 VST2 VST3 x64 WiN-LaptopSolution',
     slug: toSlug('Dyna Pro v1.0.6 VST2 VST3 x64 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Dyna-Pro-v1.0.6-VST2-VST3-x64-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Dyna-Pro-v1.0.6-VST2-VST3-x64-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
       'todays-deal',
       'featured',
@@ -30242,9 +29608,7 @@ const products: IProductInput[] = [
     name: 'Subvert 2 v2.0.0 AU VST3 x64 WiN MAC RETAiL-OHSiE',
     slug: toSlug('Subvert 2 v2.0.0 AU VST3 x64 WiN MAC RETAiL-OHSiE'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Subvert-2-v2.0.0-VST3-x64-WiN-RETAiL-OHSiE-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Subvert-2-v2.0.0-VST3-x64-WiN-RETAiL-OHSiE-MaGeSY.webp'],
     tags: ['best-seller', 'todays-deal', 'featured', 'VST3', 'windows', 'x64'],
     isPublished: true,
     price: 17.18,
@@ -30271,9 +29635,7 @@ const products: IProductInput[] = [
     name: 'Sylenth1 v3.0.73 WiN REPACK-LaptopSolution',
     slug: toSlug('Sylenth1 v3.0.73 WiN REPACK-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Sylenth1-v3.0.72-WiN-READ-NFO-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Sylenth1-v3.0.72-WiN-READ-NFO-LaptopSolution-MaGeSY.webp'],
     tags: [
       'best-seller',
       'new-arrival',
@@ -30308,9 +29670,7 @@ const products: IProductInput[] = [
     name: 'FL Studio Producer Edition v24.2.1 Build 4526 WiN-WD',
     slug: toSlug('FL Studio Producer Edition v24.2.1 Build 4526 WiN-WD'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/FL-Studio-Producer-Edition-v21.0.3-Build-3517-WiN-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/FL-Studio-Producer-Edition-v21.0.3-Build-3517-WiN-MaGeSY.webp'],
     tags: ['todays-deal', 'new-arrival', 'Audio Software'],
     isPublished: true,
     price: 39.13,
@@ -30479,9 +29839,7 @@ const products: IProductInput[] = [
     name: 'Quantum Bundle v2024.10 WiN-LaptopSolution',
     slug: toSlug('Quantum Bundle v2024.10 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Quantum-Bundle-v2024.5-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Quantum-Bundle-v2024.5-WiN-LaptopSolution-MaGeSY.webp'],
     tags: ['best-seller', 'AAX', 'VST3', 'windows', 'x64'],
     isPublished: true,
     price: 13.47,
@@ -30508,9 +29866,7 @@ const products: IProductInput[] = [
     name: 'Pulsar W495 v1.2.0 AAX VST2 VST3 x64 WiN-LaptopSolution',
     slug: toSlug('Pulsar W495 v1.2.0 AAX VST2 VST3 x64 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Pulsar-W495-v1.0.6-AAX-VST2-VST3-x64-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Pulsar-W495-v1.0.6-AAX-VST2-VST3-x64-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'best-seller',
@@ -30572,9 +29928,7 @@ const products: IProductInput[] = [
     name: 'Melodya v1.5.6 WiN-LaptopSolution',
     slug: toSlug('Melodya v1.5.6 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Melodya-v1.0.1-AU-VST-VST3-x86-x64-WiN-MAC-LaptopSolution.webp',
-    ],
+    images: ['/images/webp2/Melodya-v1.0.1-AU-VST-VST3-x86-x64-WiN-MAC-LaptopSolution.webp'],
     tags: [
       'todays-deal',
       'new-arrival',
@@ -30610,9 +29964,7 @@ const products: IProductInput[] = [
     name: 'Rapid Composer 5 v5.4.x WiN MAC-LaptopSolution',
     slug: toSlug('Rapid Composer 5 v5.4.x WiN MAC-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/RapidComposer-4-v4.3.3-WiN-MAC-LaptopSolution.webp',
-    ],
+    images: ['/images/webp2/RapidComposer-4-v4.3.3-WiN-MAC-LaptopSolution.webp'],
     tags: [
       'new-arrival',
       'featured',
@@ -30685,9 +30037,7 @@ const products: IProductInput[] = [
     name: 'Magic Plugins Bundle 2024.10 AAX VST3 WiN-LaptopSolution',
     slug: toSlug('Magic Plugins Bundle 2024.10 AAX VST3 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Magic-Plugins-Bundle-2022.05-AAX-VST3-WiN-MOCHA.webp',
-    ],
+    images: ['/images/webp2/Magic-Plugins-Bundle-2022.05-AAX-VST3-WiN-MOCHA.webp'],
     tags: [
       'new-arrival',
       'best-seller',
@@ -30722,9 +30072,7 @@ const products: IProductInput[] = [
     name: 'DJ Swivel All Plugins Bundle 2024.11.16 macOS-HCiSO',
     slug: toSlug('DJ Swivel All Plugins Bundle 2024.11.16 macOS-HCiSO'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/DJ-Swivel-All-Plugins-Bundle-2024.11.04-macOS-HCiSO.webp',
-    ],
+    images: ['/images/webp2/DJ-Swivel-All-Plugins-Bundle-2024.11.04-macOS-HCiSO.webp'],
     tags: [
       'featured',
       'new-arrival',
@@ -30802,9 +30150,7 @@ const products: IProductInput[] = [
       'Master Music Creation With Ai: Learn To Create Music With Ai TUTORiAL'
     ),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Learn-To-Create-Music-With-Ai-TUTORiAL-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Learn-To-Create-Music-With-Ai-TUTORiAL-MaGeSY.webp'],
     tags: ['featured', 'new-arrival', 'TUTORiALS'],
     isPublished: true,
     price: 7.07,
@@ -30858,9 +30204,7 @@ const products: IProductInput[] = [
     name: 'GNX Music Step Ya Game Up Vol.1 MULTiFORMAT-DYNAMiCS',
     slug: toSlug('GNX Music Step Ya Game Up Vol.1 MULTiFORMAT-DYNAMiCS'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/GNX-Music-Step-Ya-Game-Up-Vol.1-MULTiFORMAT-DYNAMiCS-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/GNX-Music-Step-Ya-Game-Up-Vol.1-MULTiFORMAT-DYNAMiCS-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'todays-deal',
@@ -30897,9 +30241,7 @@ const products: IProductInput[] = [
     name: 'The Prodigy – Sample Pack Limited FREE Edition WAV',
     slug: toSlug('The Prodigy – Sample Pack Limited FREE Edition WAV'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/The-Prodigy-Sample-Pack-Limited-FREE-Edition-WAV.webp',
-    ],
+    images: ['/images/webp2/The-Prodigy-Sample-Pack-Limited-FREE-Edition-WAV.webp'],
     tags: ['new-arrival', 'Audio samples', 'wav'],
     isPublished: true,
     price: 12.23,
@@ -30961,9 +30303,7 @@ const products: IProductInput[] = [
     name: 'Zion Train Dub Drums REX2 WAV DVDR-DYNAMiCS',
     slug: toSlug('Zion Train Dub Drums REX2 WAV DVDR-DYNAMiCS'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Zion-Train-Dub-Drums-REX2-WAV-DVDR-DYNAMiCS-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Zion-Train-Dub-Drums-REX2-WAV-DVDR-DYNAMiCS-MaGeSY.webp'],
     tags: ['new-arrival', 'Audio samples', 'REX2', 'wav'],
     isPublished: true,
     price: 25.4,
@@ -31060,9 +30400,7 @@ const products: IProductInput[] = [
     name: 'Sarod Loops Total India ACiD WAV AiFF REX2-MAGNETRiXX',
     slug: toSlug('Sarod Loops Total India ACiD WAV AiFF REX2-MAGNETRiXX'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Future.Loops_.Sarod_.Loops_.Total_.India-MAGNETRiXX-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Future.Loops_.Sarod_.Loops_.Total_.India-MAGNETRiXX-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'todays-deal',
@@ -31194,9 +30532,7 @@ const products: IProductInput[] = [
     name: 'Headbangers Metal Guitars WAV-FANTASTiC',
     slug: toSlug('Headbangers Metal Guitars WAV-FANTASTiC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Headbangers-Metal-Guitars-WAV-FANTASTiC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Headbangers-Metal-Guitars-WAV-FANTASTiC-MaGeSY.webp'],
     tags: ['featured', 'Audio samples', 'wav'],
     isPublished: true,
     price: 37.39,
@@ -31394,9 +30730,7 @@ const products: IProductInput[] = [
     name: 'Tawus v1.0.3 VST2i VST3i x64 WiN MAC-BUBBiX',
     slug: toSlug('Tawus v1.0.3 VST2i VST3i x64 WiN MAC-BUBBiX'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Tawus-v1.0.3-VST2i-VST3i-x64-WiN-MAC-BUBBiX-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Tawus-v1.0.3-VST2i-VST3i-x64-WiN-MAC-BUBBiX-MaGeSY.webp'],
     tags: [
       'featured',
       'new-arrival',
@@ -31466,9 +30800,7 @@ const products: IProductInput[] = [
     name: 'HiGHER PLACE v1.0.0 WiN MAC ISO MASCHiNE MPC EXPANSiON',
     slug: toSlug('HiGHER PLACE v1.0.0 WiN MAC ISO MASCHiNE MPC EXPANSiON'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/HiGHER-PLACE-v1.0.0-WiN-MAC-ISO-MASCHiNE-EXPANSiON-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/HiGHER-PLACE-v1.0.0-WiN-MAC-ISO-MASCHiNE-EXPANSiON-MaGeSY.webp'],
     tags: [
       'todays-deal',
       'best-seller',
@@ -31517,9 +30849,7 @@ const products: IProductInput[] = [
     name: 'Old School Reggaeton Vol.1 WAV MiDi-FANTASTiC',
     slug: toSlug('Old School Reggaeton Vol.1 WAV MiDi-FANTASTiC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Old-School-Reggaeton-Vol.1-WAV-MiDi-FANTASTiC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Old-School-Reggaeton-Vol.1-WAV-MiDi-FANTASTiC-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'best-seller',
@@ -31616,9 +30946,7 @@ const products: IProductInput[] = [
     name: 'Virtual Drummer LEGEND v2.5.0 U2B macOS-MORiA',
     slug: toSlug('Virtual Drummer LEGEND v2.5.0 U2B macOS-MORiA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Virtual-Drummer-LEGEND-v2.4.0-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Virtual-Drummer-LEGEND-v2.4.0-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
       'best-seller',
       'Apple Silicon',
@@ -31654,9 +30982,7 @@ const products: IProductInput[] = [
     name: 'Invigorate v1.3.10 AAX VST2 VST3 x64 WiN-LaptopSolution',
     slug: toSlug('Invigorate v1.3.10 AAX VST2 VST3 x64 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Invigorate-v1.2.6-AAX-VST2-VST3-x64-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Invigorate-v1.2.6-AAX-VST2-VST3-x64-WiN-LaptopSolution-MaGeSY.webp'],
     tags: ['new-arrival', 'AAX', 'Vst', 'VST3', 'windows', 'x64'],
     isPublished: true,
     price: 17.79,
@@ -31683,9 +31009,7 @@ const products: IProductInput[] = [
     name: 'Generate v1.6.9 AAX VSTi VST3 x64 WiN-LaptopSolution',
     slug: toSlug('Generate v1.6.9 AAX VSTi VST3 x64 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Generate-v1.1.0-AAX-VSTi-VST3-x64-WiN-LaptopSolution.webp',
-    ],
+    images: ['/images/webp2/Generate-v1.1.0-AAX-VSTi-VST3-x64-WiN-LaptopSolution.webp'],
     tags: [
       'new-arrival',
       'featured',
@@ -31794,9 +31118,7 @@ const products: IProductInput[] = [
     name: 'Atmospheric Drum and Bass WAV MiDi AiFF-FANTASTiC',
     slug: toSlug('Atmospheric Drum and Bass WAV MiDi AiFF-FANTASTiC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Atmospheric-Drum-and-Bass-WAV-MiDi-AiFF-FANTASTiC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Atmospheric-Drum-and-Bass-WAV-MiDi-AiFF-FANTASTiC-MaGeSY.webp'],
     tags: [
       'best-seller',
       'featured',
@@ -31894,9 +31216,7 @@ const products: IProductInput[] = [
     name: 'SEQUND LiTE v1.0.2 AU VST2i VST3i x64 WiN MAC-BUBBiX',
     slug: toSlug('SEQUND LiTE v1.0.2 AU VST2i VST3i x64 WiN MAC-BUBBiX'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/SEQUND-LiTE-v1.0.2-AU-VST2i-VST3i-x64-WiN-MAC-BUBBiX-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/SEQUND-LiTE-v1.0.2-AU-VST2i-VST3i-x64-WiN-MAC-BUBBiX-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'featured',
@@ -31932,9 +31252,7 @@ const products: IProductInput[] = [
     name: 'RECKLESS Artist Pack WAV MiDi SERUM PRESETS-GTA',
     slug: toSlug('RECKLESS Artist Pack WAV MiDi SERUM PRESETS-GTA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/RECKLESS-Artist-Pack-WAV-MiDi-SERUM-PRESETS-GTA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/RECKLESS-Artist-Pack-WAV-MiDi-SERUM-PRESETS-GTA-MaGeSY.webp'],
     tags: [
       'featured',
       'best-seller',
@@ -31969,9 +31287,7 @@ const products: IProductInput[] = [
     name: 'TAL-BassLine-101 v3.9.5 INTEL ARM macOS-MORiA',
     slug: toSlug('TAL-BassLine-101 v3.9.5 INTEL ARM macOS-MORiA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/TAL-BassLine-101-AU-AAX-VST-VSTi-x86-x64-WiN-MAC-LaptopSolution.webp',
-    ],
+    images: ['/images/webp2/TAL-BassLine-101-AU-AAX-VST-VSTi-x86-x64-WiN-MAC-LaptopSolution.webp'],
     tags: [
       'featured',
       'new-arrival',
@@ -32090,9 +31406,7 @@ const products: IProductInput[] = [
     name: 'Toolbox Ultimate v2.3.0 AAX VST VSTi WiN x64-V.R',
     slug: toSlug('Toolbox Ultimate v2.3.0 AAX VST VSTi WiN x64-V.R'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Toolbox-Ultimate-v2.0.0-AAX-VST-VSTi-WiN-x64-V.R.webp',
-    ],
+    images: ['/images/webp2/Toolbox-Ultimate-v2.0.0-AAX-VST-VSTi-WiN-x64-V.R.webp'],
     tags: ['todays-deal', 'AAX', 'Vst', 'VST3', 'windows', 'x64'],
     isPublished: true,
     price: 15.93,
@@ -32119,9 +31433,7 @@ const products: IProductInput[] = [
     name: 'Tech House Vocal Anthems MULTiFORMAT-FANTASTiC',
     slug: toSlug('Tech House Vocal Anthems MULTiFORMAT-FANTASTiC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Tech-House-Vocal-Anthems-MULTiFORMAT-FANTASTiC.webp',
-    ],
+    images: ['/images/webp2/Tech-House-Vocal-Anthems-MULTiFORMAT-FANTASTiC.webp'],
     tags: [
       'best-seller',
       'Audio samples',
@@ -32158,9 +31470,7 @@ const products: IProductInput[] = [
     name: '80s Synth Pop Ballads 3 WAV MiDi-FANTASTiC',
     slug: toSlug('80s Synth Pop Ballads 3 WAV MiDi-FANTASTiC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/80s-Synth-Pop-Ballads-3-WAV-MiDi-FANTASTiC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/80s-Synth-Pop-Ballads-3-WAV-MiDi-FANTASTiC-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'todays-deal',
@@ -32248,9 +31558,7 @@ const products: IProductInput[] = [
     name: 'Neurontape 1972 v1.2.0 VST3 x64 WiN-LaptopSolution',
     slug: toSlug('Neurontape 1972 v1.2.0 VST3 x64 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Neurontape-1972-v1.1.0-VST3-x64-WiN-TCD-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Neurontape-1972-v1.1.0-VST3-x64-WiN-TCD-MaGeSY.webp'],
     tags: [
       'featured',
       'best-seller',
@@ -32285,9 +31593,7 @@ const products: IProductInput[] = [
     name: 'Melodic Techno 10x ABLETON TEMPLATES ALS WAV',
     slug: toSlug('Melodic Techno 10x ABLETON TEMPLATES ALS WAV'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Melodic-Techno-10x-ABLETON-TEMPLATES-ALS-WAV-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Melodic-Techno-10x-ABLETON-TEMPLATES-ALS-WAV-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'best-seller',
@@ -32462,9 +31768,7 @@ const products: IProductInput[] = [
     name: 'Late Night Trap x RnB Vocals v1.0.4 MPC EXPANSiON WiN',
     slug: toSlug('Late Night Trap x RnB Vocals v1.0.4 MPC EXPANSiON WiN'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Late-Night-Trap-x-RnB-Vocals-v1.0.4-MPC-EXPANSiON-WiN-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Late-Night-Trap-x-RnB-Vocals-v1.0.4-MPC-EXPANSiON-WiN-MaGeSY.webp'],
     tags: [
       'todays-deal',
       'featured',
@@ -32528,9 +31832,7 @@ const products: IProductInput[] = [
     name: 'Augmented Grand Piano v1.7.2.5305 U2B macOS-MORiA',
     slug: toSlug('Augmented Grand Piano v1.7.2.5305 U2B macOS-MORiA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Augmented-Grand-Piano-v1.0.0.2839-WiN-MAC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Augmented-Grand-Piano-v1.0.0.2839-WiN-MAC-MaGeSY.webp'],
     tags: [
       'todays-deal',
       'new-arrival',
@@ -32571,9 +31873,7 @@ const products: IProductInput[] = [
     name: 'UFX Reverb v2.0.0 AU VST2 VST3 64Bit U2B macOS-MORiA',
     slug: toSlug('UFX Reverb v2.0.0 AU VST2 VST3 64Bit U2B macOS-MORiA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/UJAM-UFX-Reverb-v1.0.0-AAX-VST2-VST3-x64-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/UJAM-UFX-Reverb-v1.0.0-AAX-VST2-VST3-x64-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
       'best-seller',
       'todays-deal',
@@ -32610,9 +31910,7 @@ const products: IProductInput[] = [
     name: 'Kee Bass v1.4.3 AAX VST2i CLAP x86 x64 WiN-LaptopSolution',
     slug: toSlug('Kee Bass v1.4.3 AAX VST2i CLAP x86 x64 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Kee-Bass-v1.3.0-AAX-VST2i-CLAP-x86-x64-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Kee-Bass-v1.3.0-AAX-VST2i-CLAP-x86-x64-WiN-LaptopSolution-MaGeSY.webp'],
     tags: ['featured', 'AAX', 'CLAP', 'VSTi', 'windows', 'x64', 'x86'],
     isPublished: true,
     price: 21.98,
@@ -32880,9 +32178,7 @@ const products: IProductInput[] = [
     name: 'Modular V V3 v3.13.2.5305 U2B macOS-MORiA',
     slug: toSlug('Modular V V3 v3.13.2.5305 U2B macOS-MORiA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Modular-V-V3-v3.13.2.5305-U2B-macOS-MORiA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Modular-V-V3-v3.13.2.5305-U2B-macOS-MORiA-MaGeSY.webp'],
     tags: [
       'featured',
       'new-arrival',
@@ -32923,9 +32219,7 @@ const products: IProductInput[] = [
     name: 'Blackhole Immersive v1.3.0 WiN-LaptopSolution',
     slug: toSlug('Blackhole Immersive v1.3.0 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Blackhole-Immersive-v1.1.4-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Blackhole-Immersive-v1.1.4-WiN-LaptopSolution-MaGeSY.webp'],
     tags: ['best-seller', 'featured', 'AAX', 'Vst', 'VST3', 'windows', 'x64'],
     isPublished: true,
     price: 35.45,
@@ -33073,9 +32367,7 @@ const products: IProductInput[] = [
     name: 'KORG MS-20 V v1.3.2.5305 U2B macOS-MORiA',
     slug: toSlug('KORG MS-20 V v1.3.2.5305 U2B macOS-MORiA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/ARTURiA-KORG-MS-20-V-v1.1.1-macOS-MORiA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/ARTURiA-KORG-MS-20-V-v1.1.1-macOS-MORiA-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'best-seller',
@@ -33116,9 +32408,7 @@ const products: IProductInput[] = [
     name: 'MicroPitch Immersive v1.3.0 WiN-LaptopSolution',
     slug: toSlug('MicroPitch Immersive v1.3.0 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/MicroPitch-Immersive-v1.1.4-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/MicroPitch-Immersive-v1.1.4-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'featured',
@@ -33266,9 +32556,7 @@ const products: IProductInput[] = [
     name: 'Optimus v1.0.19 AAX VST3 x64 WiN-MOCHA',
     slug: toSlug('Optimus v1.0.19 AAX VST3 x64 WiN-MOCHA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Optimus-v1.0.19-AAX-VST3-x64-WiN-MOCHA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Optimus-v1.0.19-AAX-VST3-x64-WiN-MOCHA-MaGeSY.webp'],
     tags: ['best-seller', 'new-arrival', 'AAX', 'VST3', 'windows', 'x64'],
     isPublished: true,
     price: 13.86,
@@ -33295,9 +32583,7 @@ const products: IProductInput[] = [
     name: 'DynAssist v2.1.4 AAX ARA VST3 x64 WiN-MOCHA',
     slug: toSlug('DynAssist v2.1.4 AAX ARA VST3 x64 WiN-MOCHA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Dyn-Assist-v2.1.4-AAX-ARA-VST3-x64-WiN-MOCHA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Dyn-Assist-v2.1.4-AAX-ARA-VST3-x64-WiN-MOCHA-MaGeSY.webp'],
     tags: ['best-seller', 'todays-deal', 'AAX', 'ARA', 'VST3', 'x64'],
     isPublished: true,
     price: 30.09,
@@ -33324,9 +32610,7 @@ const products: IProductInput[] = [
     name: 'Amigo Sampler v2.0.1 VST3 x64 WiN-MOCHA',
     slug: toSlug('Amigo Sampler v2.0.1 VST3 x64 WiN-MOCHA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Amigo-Sampler-AU-VST3-WiN-MAC-LiNUX-SNEAKZ-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Amigo-Sampler-AU-VST3-WiN-MAC-LiNUX-SNEAKZ-MaGeSY.webp'],
     tags: ['featured', 'VST3', 'windows'],
     isPublished: true,
     price: 22.83,
@@ -33396,9 +32680,7 @@ const products: IProductInput[] = [
       '6k Halls Nebula Reverb Programs incl. Skin Nebula Library FULL RELEASE-ARCADiA'
     ),
     category: 'Music Production',
-    images: [
-      '/images/webp2/6k-Halls-Nebula-Reverb-Programs-incl.-Skin-Nebula-Library-FULL-RELEASE-ARCADiA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/6k-Halls-Nebula-Reverb-Programs-incl.-Skin-Nebula-Library-FULL-RELEASE-ARCADiA-MaGeSY.webp'],
     tags: ['featured', 'NEBULA', 'Presets'],
     isPublished: true,
     price: 39.9,
@@ -33567,9 +32849,7 @@ const products: IProductInput[] = [
     name: 'Buchla Easel V v1.13.2.5305 U2B macOS-MORiA',
     slug: toSlug('Buchla Easel V v1.13.2.5305 U2B macOS-MORiA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Buchla-Easel-V-v1.13.2.5305-U2B-macOS-MORiA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Buchla-Easel-V-v1.13.2.5305-U2B-macOS-MORiA-MaGeSY.webp'],
     tags: [
       'best-seller',
       'featured',
@@ -33724,9 +33004,7 @@ const products: IProductInput[] = [
     name: 'Neo Reggaeton v1.1 AU VSTi macOS-FANTASTiC',
     slug: toSlug('Neo Reggaeton v1.1 AU VSTi macOS-FANTASTiC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Neo-Reggaeton-v1.1-AU-VSTi-macOS-FANTASTiC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Neo-Reggaeton-v1.1-AU-VSTi-macOS-FANTASTiC-MaGeSY.webp'],
     tags: ['new-arrival', 'best-seller', 'AU', 'VSTi', 'windows'],
     isPublished: true,
     price: 22.07,
@@ -33753,9 +33031,7 @@ const products: IProductInput[] = [
     name: 'Cabinetron v1.1.5 AAX VST2 VST3 x64 WiN MAC-LaptopSolution',
     slug: toSlug('Cabinetron v1.1.5 AAX VST2 VST3 x64 WiN MAC-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Cabinetron-v1.0.1-AAX-VST2-VST3-x64-WiN-MOCHA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Cabinetron-v1.0.1-AAX-VST2-VST3-x64-WiN-MOCHA-MaGeSY.webp'],
     tags: [
       'featured',
       'todays-deal',
@@ -33792,9 +33068,7 @@ const products: IProductInput[] = [
     name: 'TAL-J-8 v1.9.6 WiN-BUBBiX',
     slug: toSlug('TAL-J-8 v1.9.6 WiN-BUBBiX'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/TAL-J-8-v1.2.2-WiN-MAC-READ-NFO-LaptopSolution.webp',
-    ],
+    images: ['/images/webp2/TAL-J-8-v1.2.2-WiN-MAC-READ-NFO-LaptopSolution.webp'],
     tags: [
       'todays-deal',
       'featured',
@@ -33938,9 +33212,7 @@ const products: IProductInput[] = [
     name: 'Scanner Vibrato v1.4.1 VST2 x86 x64 WiN-TCD',
     slug: toSlug('Scanner Vibrato v1.4.1 VST2 x86 x64 WiN-TCD'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Scanner-Vibrato-v1.2.0-VST2-x86-x64-WiN-TCD-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Scanner-Vibrato-v1.2.0-VST2-x86-x64-WiN-TCD-MaGeSY.webp'],
     tags: [
       'featured',
       'best-seller',
@@ -34002,9 +33274,7 @@ const products: IProductInput[] = [
     name: 'Rhodes V8 Pro v1.1.3 WiN-LaptopSolution',
     slug: toSlug('Rhodes V8 Pro v1.1.3 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Rhodes-V8-Pro-v1.1.3-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Rhodes-V8-Pro-v1.1.3-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
       'best-seller',
       'new-arrival',
@@ -34068,9 +33338,7 @@ const products: IProductInput[] = [
     name: 'Keyboards & Piano V-Collection 2024.12 WiN-V.R',
     slug: toSlug('Keyboards & Piano V-Collection 2024.12 WiN-V.R'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Keyboards-And-Piano-V-Collection-2021.11-CE-V.R.webp',
-    ],
+    images: ['/images/webp2/Keyboards-And-Piano-V-Collection-2021.11-CE-V.R.webp'],
     tags: [
       'todays-deal',
       'best-seller',
@@ -34106,9 +33374,7 @@ const products: IProductInput[] = [
     name: 'Zebra Legacy v2.9.4 WiN MAC LiNUX-LaptopSolution',
     slug: toSlug('Zebra Legacy v2.9.4 WiN MAC LiNUX-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Zebra-Legacy-v2.9.3-WiN-MAC-LiNUX-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Zebra-Legacy-v2.9.3-WiN-MAC-LiNUX-LaptopSolution-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'best-seller',
@@ -34272,9 +33538,7 @@ const products: IProductInput[] = [
     name: 'Jean Claude Stephan Jingles And Musiques Instrumentales WAV',
     slug: toSlug('Jean Claude Stephan Jingles And Musiques Instrumentales WAV'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Jean-Claude-Stephan-Jingles-Cover-Front-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Jean-Claude-Stephan-Jingles-Cover-Front-MaGeSY.webp'],
     tags: ['todays-deal', 'Audio samples', 'wav'],
     isPublished: true,
     price: 27.82,
@@ -34361,9 +33625,7 @@ const products: IProductInput[] = [
     name: 'Augmented Series 6 v2024.11 WiN CE-V.R',
     slug: toSlug('Augmented Series 6 v2024.11 WiN CE-V.R'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Augmented-Series-6-v2024.06-WiN-CE-V.R-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Augmented-Series-6-v2024.06-WiN-CE-V.R-MaGeSY.webp'],
     tags: [
       'featured',
       'best-seller',
@@ -34400,9 +33662,7 @@ const products: IProductInput[] = [
     name: 'Programming Rock Drums in Pro Tools TUTORiAL',
     slug: toSlug('Programming Rock Drums in Pro Tools TUTORiAL'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Programming-Rock-Drums-in-Pro-Tools-TUTORiAL-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Programming-Rock-Drums-in-Pro-Tools-TUTORiAL-MaGeSY.webp'],
     tags: ['featured', 'best-seller', 'new-arrival', 'TUTORiALS'],
     isPublished: true,
     price: 6.02,
@@ -34494,9 +33754,7 @@ const products: IProductInput[] = [
     name: 'TBT Plugins Instruments Collection WiN MAC-LaptopSolution',
     slug: toSlug('TBT Plugins Instruments Collection WiN MAC-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/TBT-Plugins-Instruments-Collection-WiN-MAC-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/TBT-Plugins-Instruments-Collection-WiN-MAC-LaptopSolution-MaGeSY.webp'],
     tags: [
       'featured',
       'best-seller',
@@ -34535,9 +33793,7 @@ const products: IProductInput[] = [
     name: 'VOX Super Continental v1.0.8 U2B macOS-MORiA',
     slug: toSlug('VOX Super Continental v1.0.8 U2B macOS-MORiA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/VOX-Super-Continental-v1.0.1-U2B-macOS-MORiA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/VOX-Super-Continental-v1.0.1-U2B-macOS-MORiA-MaGeSY.webp'],
     tags: [
       'todays-deal',
       'Apple Silicon',
@@ -34575,9 +33831,7 @@ const products: IProductInput[] = [
     name: 'Cream v1.2.6 AU VSTi x86 x64 WiN MAC-LaptopSolution',
     slug: toSlug('Cream v1.2.6 AU VSTi x86 x64 WiN MAC-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Cream-v1.2.4-AU-VSTi-x86-x64-WiN-MAC-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Cream-v1.2.4-AU-VSTi-x86-x64-WiN-MAC-LaptopSolution-MaGeSY.webp'],
     tags: [
       'todays-deal',
       'featured',
@@ -34613,9 +33867,7 @@ const products: IProductInput[] = [
     name: 'UJAM UFX Reverb v1.2.0 AAX VST2 VST3 x64 WiN-LaptopSolution',
     slug: toSlug('UJAM UFX Reverb v1.2.0 AAX VST2 VST3 x64 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/UJAM-UFX-Reverb-v1.0.0-AAX-VST2-VST3-x64-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/UJAM-UFX-Reverb-v1.0.0-AAX-VST2-VST3-x64-WiN-LaptopSolution-MaGeSY.webp'],
     tags: ['best-seller', 'AAX', 'Vst', 'VST3', 'windows', 'x64'],
     isPublished: true,
     price: 37.11,
@@ -34679,9 +33931,7 @@ const products: IProductInput[] = [
     name: 'DaVinci Resolve Studio v19.0.1 WiN-LaptopSolution',
     slug: toSlug('DaVinci Resolve Studio v19.0.1 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/DaVinci-Resolve-Studio-v19.0.1-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/DaVinci-Resolve-Studio-v19.0.1-WiN-LaptopSolution-MaGeSY.webp'],
     tags: ['best-seller', 'new-arrival', 'Audio Software', 'windows'],
     isPublished: true,
     price: 59.46,
@@ -34708,9 +33958,7 @@ const products: IProductInput[] = [
     name: 'Steinberg HALion Sonic 7 v7.1.20 WiN-LaptopSolution',
     slug: toSlug('Steinberg HALion Sonic 7 v7.1.20 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Steinberg-HALion-Sonic-7-v7.0.10-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Steinberg-HALion-Sonic-7-v7.0.10-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'todays-deal',
@@ -34808,9 +34056,7 @@ const products: IProductInput[] = [
     name: 'Steinberg VST Live Pro v2.1.21 WiN-LaptopSolution',
     slug: toSlug('Steinberg VST Live Pro v2.1.21 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Steinberg-VST-Live-Pro-v1.0.0-WiN-x64-V.R-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Steinberg-VST-Live-Pro-v1.0.0-WiN-x64-V.R-MaGeSY.webp'],
     tags: [
       'todays-deal',
       'best-seller',
@@ -34843,9 +34089,7 @@ const products: IProductInput[] = [
     name: 'La Crème: Mix Bus Processor v1.0.3.4481 WiN-BUBBiX',
     slug: toSlug('La Crème: Mix Bus Processor v1.0.3.4481 WiN-BUBBiX'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/La-Creme-Mix-Bus-Processor-v1.0.0-U2B-macOS-MORiA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/La-Creme-Mix-Bus-Processor-v1.0.0-U2B-macOS-MORiA-MaGeSY.webp'],
     tags: ['featured', 'todays-deal', 'AAX', 'VST3', 'windows'],
     isPublished: true,
     price: 28.58,
@@ -34899,9 +34143,7 @@ const products: IProductInput[] = [
     name: 'Internet ABiLiTY 5 Pro v5.01.4 WiN-LaptopSolution',
     slug: toSlug('Internet ABiLiTY 5 Pro v5.01.4 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Internet-ABiLiTY-5-Pro-v5.01.2-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Internet-ABiLiTY-5-Pro-v5.01.2-WiN-LaptopSolution-MaGeSY.webp'],
     tags: ['best-seller', 'featured', 'Audio Software', 'Internet', 'windows'],
     isPublished: true,
     price: 41.51,
@@ -35058,9 +34300,7 @@ const products: IProductInput[] = [
     name: 'Whisper Of Loong v1.6.0 WiN MAC-LaptopSolution',
     slug: toSlug('Whisper Of Loong v1.6.0 WiN MAC-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Whisper-Of-Loong-v1.6.0-WiN-MAC-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Whisper-Of-Loong-v1.6.0-WiN-MAC-LaptopSolution-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'AAX',
@@ -35097,9 +34337,7 @@ const products: IProductInput[] = [
     name: 'Madrona Labs Studio Bundle 2024.12 UNLOCKED WiN-R4E',
     slug: toSlug('Madrona Labs Studio Bundle 2024.12 UNLOCKED WiN-R4E'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Madrona-Labs-Studio-Bundle-2024.12-UNLOCKED-WiN-R4E.webp',
-    ],
+    images: ['/images/webp2/Madrona-Labs-Studio-Bundle-2024.12-UNLOCKED-WiN-R4E.webp'],
     tags: ['best-seller', 'Vst', 'VST3', 'VSTi', 'windows', 'x64'],
     isPublished: true,
     price: 20.23,
@@ -35126,9 +34364,7 @@ const products: IProductInput[] = [
     name: 'SpecCraft v1.4.1 WiN MAC-LaptopSolution',
     slug: toSlug('SpecCraft v1.4.1 WiN MAC-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/SpecCraft-v1.4.1-WiN-MAC-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/SpecCraft-v1.4.1-WiN-MAC-LaptopSolution-MaGeSY.webp'],
     tags: [
       'featured',
       'AAX',
@@ -35204,9 +34440,7 @@ const products: IProductInput[] = [
     name: 'Modern G31 v1.0.2 WiN MAC-LaptopSolution',
     slug: toSlug('Modern G31 v1.0.2 WiN MAC-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Modern-G31-v1.0.2-WiN-MAC-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Modern-G31-v1.0.2-WiN-MAC-LaptopSolution-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'AAX',
@@ -35244,9 +34478,7 @@ const products: IProductInput[] = [
     name: 'Deep Vintage v1.0.3 WiN MAC-LaptopSolution',
     slug: toSlug('Deep Vintage v1.0.3 WiN MAC-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Deep-Vintage-v1.0.3-WiN-MAC-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Deep-Vintage-v1.0.3-WiN-MAC-LaptopSolution-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'todays-deal',
@@ -35313,9 +34545,7 @@ const products: IProductInput[] = [
     name: 'Samplitude Pro X8 Suite v19.2.1 WiN-LaptopSolution',
     slug: toSlug('Samplitude Pro X8 Suite v19.2.1 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Samplitude-Pro-X8-Suite-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Samplitude-Pro-X8-Suite-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
       'featured',
       'new-arrival',
@@ -35450,9 +34680,7 @@ const products: IProductInput[] = [
       'Pro Tools 8 Editing Drums Using Beat Detective and SoundReplacer TUTORiAL'
     ),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Pro-Tools-8-Editing-Drums-Using-Beat-Detective-and-SoundReplacer-TUTORiAL-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Pro-Tools-8-Editing-Drums-Using-Beat-Detective-and-SoundReplacer-TUTORiAL-MaGeSY.webp'],
     tags: ['todays-deal', 'TUTORiALS'],
     isPublished: true,
     price: 3.16,
@@ -35543,9 +34771,7 @@ const products: IProductInput[] = [
     name: 'SoloRack v2.21 CLAP VSTi x86 x64 WiN-LaptopSolution',
     slug: toSlug('SoloRack v2.21 CLAP VSTi x86 x64 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/SoloRack-v2.0-VSTi-x86-x64-WiN-LaptopSolution.webp',
-    ],
+    images: ['/images/webp2/SoloRack-v2.0-VSTi-x86-x64-WiN-LaptopSolution.webp'],
     tags: ['new-arrival', 'CLAP', 'VSTi', 'windows', 'x64', 'x86'],
     isPublished: true,
     price: 18.83,
@@ -35606,9 +34832,7 @@ const products: IProductInput[] = [
     name: 'Eternal Arps v1.0.2 WiN-LaptopSolution',
     slug: toSlug('Eternal Arps v1.0.2 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Eternal-Arps-v1.0.0-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Eternal-Arps-v1.0.0-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
       'featured',
       'todays-deal',
@@ -35671,9 +34895,7 @@ const products: IProductInput[] = [
     name: 'APU Loudness Compressor v3.1.0 WiN MAC-LaptopSolution',
     slug: toSlug('APU Loudness Compressor v3.1.0 WiN MAC-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/APU-Loudness-Compressor-v1.8.3-WiN-TCD-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/APU-Loudness-Compressor-v1.8.3-WiN-TCD-MaGeSY.webp'],
     tags: [
       'featured',
       'todays-deal',
@@ -35747,9 +34969,7 @@ const products: IProductInput[] = [
     name: 'S-770 Sampler Converter Impulse Responses WAV',
     slug: toSlug('S-770 Sampler Converter Impulse Responses WAV'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/S-770-Sampler-Converter-Impulse-Responses-WAV-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/S-770-Sampler-Converter-Impulse-Responses-WAV-MaGeSY.webp'],
     tags: [
       'featured',
       'todays-deal',
@@ -35783,9 +35003,7 @@ const products: IProductInput[] = [
     name: 'AAA Game Character: Police Officer WAV-FANTASTiC',
     slug: toSlug('AAA Game Character: Police Officer WAV-FANTASTiC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/AAA-Game-Character-Police-Officer-WAV-FANTASTiC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/AAA-Game-Character-Police-Officer-WAV-FANTASTiC-MaGeSY.webp'],
     tags: ['todays-deal', 'Audio samples', 'wav'],
     isPublished: true,
     price: 37.5,
@@ -35812,9 +35030,7 @@ const products: IProductInput[] = [
     name: 'Virta v1.9.x AU VST2 x64 WiN MAC-LaptopSolution',
     slug: toSlug('Virta v1.9.x AU VST2 x64 WiN MAC-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Virta-v1.9.x-AU-VST2i-x64-WiN-MAC-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Virta-v1.9.x-AU-VST2i-x64-WiN-MAC-LaptopSolution-MaGeSY.webp'],
     tags: [
       'featured',
       'todays-deal',
@@ -35851,9 +35067,7 @@ const products: IProductInput[] = [
     name: 'Sumu v1.0.0 AU VST3i x64 WiN MAC-LaptopSolution',
     slug: toSlug('Sumu v1.0.0 AU VST3i x64 WiN MAC-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Sumu-v1.0.0-AU-VST3i-x64-WiN-MAC-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Sumu-v1.0.0-AU-VST3i-x64-WiN-MAC-LaptopSolution-MaGeSY.webp'],
     tags: ['todays-deal', 'AU', 'macos', 'VST3', 'windows', 'x64'],
     isPublished: true,
     price: 27.66,
@@ -35880,9 +35094,7 @@ const products: IProductInput[] = [
     name: 'Kaivo v1.9.x AU VST2i x64 WiN MAC-LaptopSolution',
     slug: toSlug('Kaivo v1.9.x AU VST2i x64 WiN MAC-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Kaivo-v1.9.x-AU-VST2i-x64-WiN-MAC-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Kaivo-v1.9.x-AU-VST2i-x64-WiN-MAC-LaptopSolution-MaGeSY.webp'],
     tags: ['featured', 'AU', 'macos', 'VSTi', 'windows', 'x64', 'x86'],
     isPublished: true,
     price: 35.34,
@@ -35945,9 +35157,7 @@ const products: IProductInput[] = [
     name: 'Aalto v1.9.x AU VST2i x64 WiN MAC-LaptopSolution',
     slug: toSlug('Aalto v1.9.x AU VST2i x64 WiN MAC-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Aalto-v1.9.x-VST2i-x64-WiN-MAC-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Aalto-v1.9.x-VST2i-x64-WiN-MAC-LaptopSolution-MaGeSY.webp'],
     tags: [
       'featured',
       'todays-deal',
@@ -35984,9 +35194,7 @@ const products: IProductInput[] = [
     name: 'ClipGain v2.2 For MAX FoR LiVE-FANTASTiC',
     slug: toSlug('ClipGain v2.2 For MAX FoR LiVE-FANTASTiC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/ClipGain-v2.2-For-MAX-FoR-LiVE-FANTASTiC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/ClipGain-v2.2-For-MAX-FoR-LiVE-FANTASTiC-MaGeSY.webp'],
     tags: ['featured', 'Ableton LiVE', 'AMXD', 'MAX for LiVE', 'Presets'],
     isPublished: true,
     price: 17.04,
@@ -36046,9 +35254,7 @@ const products: IProductInput[] = [
     name: 'Ueberschall Eurodance CDDA WAV-DELiRiUM',
     slug: toSlug('Ueberschall Eurodance CDDA WAV-DELiRiUM'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Ueberschall-Eurodance-CDDA-WAV-DELiRiUM-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Ueberschall-Eurodance-CDDA-WAV-DELiRiUM-MaGeSY.webp'],
     tags: [
       'best-seller',
       'todays-deal',
@@ -36082,9 +35288,7 @@ const products: IProductInput[] = [
     name: 'EDM Ready For Ni MASSiVE NMSV-DiSCOVER',
     slug: toSlug('EDM Ready For Ni MASSiVE NMSV-DiSCOVER'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/EDM-Ready-For-Ni-MASSiVE-NSMV-DiSCOVER-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/EDM-Ready-For-Ni-MASSiVE-NSMV-DiSCOVER-MaGeSY.webp'],
     tags: ['new-arrival', 'todays-deal', 'featured', 'NMSV', 'Presets'],
     isPublished: true,
     price: 29.87,
@@ -36111,9 +35315,7 @@ const products: IProductInput[] = [
     name: 'Hip Hop Breaks Sample Pack WAV-FANTASTiC',
     slug: toSlug('Hip Hop Breaks Sample Pack WAV-FANTASTiC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Hip-Hop-Breaks-Sample-Pack-WAV-FANTASTiC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Hip-Hop-Breaks-Sample-Pack-WAV-FANTASTiC-MaGeSY.webp'],
     tags: ['best-seller', 'Audio samples', 'wav'],
     isPublished: true,
     price: 19.08,
@@ -36361,9 +35563,7 @@ const products: IProductInput[] = [
     name: 'HY-MPS3 v1.0.4 VST2 VST3 x86 x64 WiN-TCD',
     slug: toSlug('HY-MPS3 v1.0.4 VST2 VST3 x86 x64 WiN-TCD'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/HY-MPS3-v1.0-WiN-REGGED-READ-NFO-BUBBiX-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/HY-MPS3-v1.0-WiN-REGGED-READ-NFO-BUBBiX-MaGeSY.webp'],
     tags: ['todays-deal', 'VST3', 'VSTi', 'windows', 'x64', 'x86'],
     isPublished: true,
     price: 23.34,
@@ -36417,9 +35617,7 @@ const products: IProductInput[] = [
     name: 'HY-MPS3 v1.0.4 WiN MAC LiNUX-BUBBiX',
     slug: toSlug('HY-MPS3 v1.0.4 WiN MAC LiNUX-BUBBiX'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/HY-MPS3-v1.0-WiN-REGGED-READ-NFO-BUBBiX-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/HY-MPS3-v1.0-WiN-REGGED-READ-NFO-BUBBiX-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'LiNUX',
@@ -36652,9 +35850,7 @@ const products: IProductInput[] = [
     name: 'V.I.P Bundle V4 v4.0.0 WiN-LaptopSolution',
     slug: toSlug('V.I.P Bundle V4 v4.0.0 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/V.I.P-Bundle-V4-v4.0.0-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/V.I.P-Bundle-V4-v4.0.0-WiN-LaptopSolution-MaGeSY.webp'],
     tags: ['best-seller', 'AAX', 'Vst', 'VST3', 'windows', 'x64'],
     isPublished: true,
     price: 30.04,
@@ -36681,9 +35877,7 @@ const products: IProductInput[] = [
     name: 'ERA-D v1.2.1 VST VST3 RTAS AAX WiN-LaptopSolution',
     slug: toSlug('ERA-D v1.2.1 VST VST3 RTAS AAX WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/ERA-D-v1.2.1-VST-VST3-RTAS-AAX-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/ERA-D-v1.2.1-VST-VST3-RTAS-AAX-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'featured',
@@ -36775,9 +35969,7 @@ const products: IProductInput[] = [
     name: 'TCC Plugins Collection AAX VST3 x64 WiN-LaptopSolution',
     slug: toSlug('TCC Plugins Collection AAX VST3 x64 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/TCC-Plugins-Collection-AAX-VST3-x64-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/TCC-Plugins-Collection-AAX-VST3-x64-WiN-LaptopSolution-MaGeSY.webp'],
     tags: ['new-arrival', 'featured', 'AAX', 'VST3', 'windows', 'x64'],
     isPublished: true,
     price: 29.39,
@@ -36804,9 +35996,7 @@ const products: IProductInput[] = [
     name: 'M-Blender v1.0.2 AAX VST3 x64 WiN-BUBBiX',
     slug: toSlug('M-Blender v1.0.2 AAX VST3 x64 WiN-BUBBiX'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/M-Blender-v1.0.0-AAX-VST3-x64-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/M-Blender-v1.0.0-AAX-VST3-x64-WiN-LaptopSolution-MaGeSY.webp'],
     tags: ['new-arrival', 'todays-deal', 'featured', 'AAX', 'VST3', 'windows'],
     isPublished: true,
     price: 13.57,
@@ -36860,9 +36050,7 @@ const products: IProductInput[] = [
     name: 'CrumplePop Complete 2025.0.17 WiN MAC CE-V.R',
     slug: toSlug('CrumplePop Complete 2025.0.17 WiN MAC CE-V.R'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/CrumplePop-Complete-2023.6-WiN-CE-REV.2-V.R-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/CrumplePop-Complete-2023.6-WiN-CE-REV.2-V.R-MaGeSY.webp'],
     tags: [
       'featured',
       'todays-deal',
@@ -36900,9 +36088,7 @@ const products: IProductInput[] = [
     name: 'S-550 12 Bit Sampler Converter IRs WAV',
     slug: toSlug('S-550 12 Bit Sampler Converter IRs WAV'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/S-550-12-Bit-Sampler-Converter-IRs-WAV-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/S-550-12-Bit-Sampler-Converter-IRs-WAV-MaGeSY.webp'],
     tags: ['featured', 'IR Impulse Response', 'Presets', 'wav'],
     isPublished: true,
     price: 25.89,
@@ -36929,9 +36115,7 @@ const products: IProductInput[] = [
     name: 'Never Broke Again MULTiFORMAT-FANTASTiC',
     slug: toSlug('Never Broke Again MULTiFORMAT-FANTASTiC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Never-Broke-Again-MULTiFORMAT-FANTASTiC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Never-Broke-Again-MULTiFORMAT-FANTASTiC-MaGeSY.webp'],
     tags: [
       'best-seller',
       'new-arrival',
@@ -37164,9 +36348,7 @@ const products: IProductInput[] = [
       'AGTC v3.7.0 STANDALONE AU VSTi VST3 AAX x64 WiN MAC-LaptopSolution'
     ),
     category: 'Music Production',
-    images: [
-      '/images/webp2/AGTC-v3.1.0-STANDALONE-AU-VSTi-VST3-AAX-x64-WiN-MAC.webp',
-    ],
+    images: ['/images/webp2/AGTC-v3.1.0-STANDALONE-AU-VSTi-VST3-AAX-x64-WiN-MAC.webp'],
     tags: ['todays-deal', 'AU', 'Audio Software', 'macos', 'windows'],
     isPublished: true,
     price: 50.89,
@@ -37293,9 +36475,7 @@ const products: IProductInput[] = [
     name: 'Dubstep Production Suite MULTiFORMAT-FANTASTiC',
     slug: toSlug('Dubstep Production Suite MULTiFORMAT-FANTASTiC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Dubstep-Production-Suite-MULTiFORMAT-FANTASTiC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Dubstep-Production-Suite-MULTiFORMAT-FANTASTiC-MaGeSY.webp'],
     tags: [
       'todays-deal',
       'Ableton LiVE',
@@ -37361,9 +36541,7 @@ const products: IProductInput[] = [
     name: 'Lo-Fi Producer Collection MPC EXPANSiON',
     slug: toSlug('Lo-Fi Producer Collection MPC EXPANSiON'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Lo-Fi-Producer-Collection-MPC-EXPANSiON-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Lo-Fi-Producer-Collection-MPC-EXPANSiON-MaGeSY.webp'],
     tags: [
       'featured',
       'todays-deal',
@@ -37441,9 +36619,7 @@ const products: IProductInput[] = [
     name: 'Leap RnB Licks v1.0.0 KONTAKT 8-HiDERA',
     slug: toSlug('Leap RnB Licks v1.0.0 KONTAKT 8-HiDERA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Leap-RnB-Licks-v1.0.0-KONTAKT-8-HiDERA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Leap-RnB-Licks-v1.0.0-KONTAKT-8-HiDERA-MaGeSY.webp'],
     tags: ['best-seller', 'todays-deal', 'Kontakt'],
     isPublished: true,
     price: 54.45,
@@ -37524,9 +36700,7 @@ const products: IProductInput[] = [
     name: 'Vintage Essentials MULTiFORMAT-FANTASTiC',
     slug: toSlug('Vintage Essentials MULTiFORMAT-FANTASTiC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Vintage-Essentials-MULTiFORMAT-FANTASTiC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Vintage-Essentials-MULTiFORMAT-FANTASTiC-MaGeSY.webp'],
     tags: [
       'best-seller',
       'todays-deal',
@@ -37566,9 +36740,7 @@ const products: IProductInput[] = [
       'A.C Plugins Collection AAX VST2 VST3 x64 WiN REV.19-LaptopSolution'
     ),
     category: 'Music Production',
-    images: [
-      '/images/webp2/A.C-Plugins-Collection-AAX-VST2-VST3-x64-WiN-REV.2-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/A.C-Plugins-Collection-AAX-VST2-VST3-x64-WiN-REV.2-LaptopSolution-MaGeSY.webp'],
     tags: ['best-seller', 'AAX', 'Vst', 'VST3', 'windows', 'x64'],
     isPublished: true,
     price: 18.32,
@@ -37595,9 +36767,7 @@ const products: IProductInput[] = [
     name: 'Sounds Good – New World Order Journey #1 AKAi CDDA MP3',
     slug: toSlug('Sounds Good – New World Order Journey #1 AKAi CDDA MP3'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Sounds-Good-New-World-Order-Journey-AKAi-CDDA.webp',
-    ],
+    images: ['/images/webp2/Sounds-Good-New-World-Order-Journey-AKAi-CDDA.webp'],
     tags: [
       'best-seller',
       'featured',
@@ -37666,9 +36836,7 @@ const products: IProductInput[] = [
     name: 'Hollowbody v1.0.0 EBX EXPANSiON WiN MAC',
     slug: toSlug('Hollowbody v1.0.0 EBX EXPANSiON WiN MAC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Hollowbody-v1.0.0-EBX-EXPANSiON-WiN-MAC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Hollowbody-v1.0.0-EBX-EXPANSiON-WiN-MAC-MaGeSY.webp'],
     tags: [
       'featured',
       'todays-deal',
@@ -37703,9 +36871,7 @@ const products: IProductInput[] = [
     name: 'Reason Electric Bass 24 Bit REFiLL DVDR-BSOUNDZ',
     slug: toSlug('Reason Electric Bass 24 Bit REFiLL DVDR-BSOUNDZ'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Reason-Electric-Bass-24-Bit-REFiLL-DVDR-BSOUNDZ-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Reason-Electric-Bass-24-Bit-REFiLL-DVDR-BSOUNDZ-MaGeSY.webp'],
     tags: ['featured', 'todays-deal', 'best-seller', 'Audio samples', 'ReFiLL'],
     isPublished: true,
     price: 30.22,
@@ -37732,9 +36898,7 @@ const products: IProductInput[] = [
     name: 'ANALOG EVOLUTiON Platinum Expansion WAV MiDi-GTA',
     slug: toSlug('ANALOG EVOLUTiON Platinum Expansion WAV MiDi-GTA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/ANALOG-EVOLUTiON-Platinum-Expansion-WAV-MiDi-GTA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/ANALOG-EVOLUTiON-Platinum-Expansion-WAV-MiDi-GTA-MaGeSY.webp'],
     tags: [
       'todays-deal',
       'new-arrival',
@@ -37768,9 +36932,7 @@ const products: IProductInput[] = [
     name: 'Wavesurfer v1.0.0 AU VST3 64Bit macOS-HCiSO',
     slug: toSlug('Wavesurfer v1.0.0 AU VST3 64Bit macOS-HCiSO'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Wavesurfer-v1.0.0-AAX-VST3-x64-WiN-BUBBiX-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Wavesurfer-v1.0.0-AAX-VST3-x64-WiN-BUBBiX-MaGeSY.webp'],
     tags: [
       'new-arrival',
       'featured',
@@ -37806,9 +36968,7 @@ const products: IProductInput[] = [
     name: 'Melody Sauce 2 v2.1.3 VST2i VST3i x64 WiN-LaptopSolution',
     slug: toSlug('Melody Sauce 2 v2.1.3 VST2i VST3i x64 WiN-LaptopSolution'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Melody-Sauce-2-v2.1.3-VST2i-VST3i-x64-WiN-MOCHA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Melody-Sauce-2-v2.1.3-VST2i-VST3i-x64-WiN-MOCHA-MaGeSY.webp'],
     tags: ['featured', 'new-arrival', 'todays-deal', 'Vst', 'VST3', 'windows'],
     isPublished: true,
     price: 35.86,
@@ -37907,9 +37067,7 @@ const products: IProductInput[] = [
       'AEU v3.6.0 AAX AU VST2 VST3 STANDALONE WiN MAC-LaptopSolution'
     ),
     category: 'Music Production',
-    images: [
-      '/images/webp2/AEU-v3.4.0-AAX-AU-VST2-VST3-STANDALONE-WiN-MAC.webp',
-    ],
+    images: ['/images/webp2/AEU-v3.4.0-AAX-AU-VST2-VST3-STANDALONE-WiN-MAC.webp'],
     tags: [
       'featured',
       'new-arrival',
@@ -38322,9 +37480,7 @@ const products: IProductInput[] = [
     name: 'Diamond Guitar Chord Strums (Martin) KONTAKT',
     slug: toSlug('Diamond Guitar Chord Strums (Martin) KONTAKT'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Diamond-Guitar-Chord-Strums-Martin-KONTAKT-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Diamond-Guitar-Chord-Strums-Martin-KONTAKT-MaGeSY.webp'],
     tags: ['featured', 'Audio samples', 'Kontakt'],
     isPublished: true,
     price: 63.07,
@@ -38546,9 +37702,7 @@ const products: IProductInput[] = [
     name: 'Worakls And N’to Style ABLETON TEMPLATE-FANTASTiC',
     slug: toSlug('Worakls And N’to Style ABLETON TEMPLATE-FANTASTiC'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Worakls-And-Nto-Style-ABLETON-TEMPLATE-FANTASTiC-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Worakls-And-Nto-Style-ABLETON-TEMPLATE-FANTASTiC-MaGeSY.webp'],
     tags: ['best-seller', 'Ableton LiVE', 'ALS', 'Presets'],
     isPublished: true,
     price: 19.32,
@@ -38629,9 +37783,7 @@ const products: IProductInput[] = [
     name: 'Nightmares and WinterShootouts Sample Pack WAV',
     slug: toSlug('Nightmares and WinterShootouts Sample Pack WAV'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Nightmares-and-WinterShootouts-Sample-Pack-WAV-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Nightmares-and-WinterShootouts-Sample-Pack-WAV-MaGeSY.webp'],
     tags: ['featured', 'new-arrival', 'Audio samples', 'wav'],
     isPublished: true,
     price: 27.32,
@@ -38685,9 +37837,7 @@ const products: IProductInput[] = [
     name: 'Legacy Mystery Pack Gold Edition WAV MiDi-GTA',
     slug: toSlug('Legacy Mystery Pack Gold Edition WAV MiDi-GTA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Legacy-Mystery-Pack-Gold-Edition-WAV-MiDi-GTA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Legacy-Mystery-Pack-Gold-Edition-WAV-MiDi-GTA-MaGeSY.webp'],
     tags: ['featured', 'best-seller', 'Audio samples', 'Patterns MIDI', 'wav'],
     isPublished: true,
     price: 14.49,
@@ -38741,9 +37891,7 @@ const products: IProductInput[] = [
     name: 'Nolard Spring Reverb And Tape Delay NEBULA',
     slug: toSlug('Nolard Spring Reverb And Tape Delay NEBULA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Nolard-Spring-Reverb-And-Tape-Delay-NEBULA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Nolard-Spring-Reverb-And-Tape-Delay-NEBULA-MaGeSY.webp'],
     tags: ['new-arrival', 'best-seller', 'featured', 'NEBULA', 'Presets'],
     isPublished: true,
     price: 21.09,
@@ -38869,9 +38017,7 @@ const products: IProductInput[] = [
     name: 'Bad Cat Samples The Music Box v2 KONTAKT EXS24-DiSCOVER',
     slug: toSlug('Bad Cat Samples The Music Box v2 KONTAKT EXS24-DiSCOVER'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Bad-Cat-Samples-The-Music-Box-v2-KONTAKT-EXS24-DiSCOVER-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Bad-Cat-Samples-The-Music-Box-v2-KONTAKT-EXS24-DiSCOVER-MaGeSY.webp'],
     tags: ['new-arrival', 'Audio samples', 'EXS24', 'Kontakt'],
     isPublished: true,
     price: 58.59,
@@ -38985,9 +38131,7 @@ const products: IProductInput[] = [
     name: 'Mix Awesome Music with Cubase TUTORiAL',
     slug: toSlug('Mix Awesome Music with Cubase TUTORiAL'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/Mix-Awesome-Music-with-Cubase-TUTORiAL-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/Mix-Awesome-Music-with-Cubase-TUTORiAL-MaGeSY.webp'],
     tags: ['new-arrival', 'TUTORiALS'],
     isPublished: true,
     price: 4.42,
@@ -39070,9 +38214,7 @@ const products: IProductInput[] = [
     name: 'BAM v1.4.2 U2B macOS-MORiA',
     slug: toSlug('BAM v1.4.2 U2B macOS-MORiA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/BAM-v1.0.3-STANDALONE-VST2i-VST3i-x64-WiN-TCD-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/BAM-v1.0.3-STANDALONE-VST2i-VST3i-x64-WiN-TCD-MaGeSY.webp'],
     tags: [
       'todays-deal',
       'new-arrival',
@@ -39110,9 +38252,7 @@ const products: IProductInput[] = [
     name: 'TV3 v1.0.0 AU VST2 VST3 U2B macOS-MORiA',
     slug: toSlug('TV3 v1.0.0 AU VST2 VST3 U2B macOS-MORiA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/TV3-v1.0.0-VST2-VST3-x64-WiN-LaptopSolution-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/TV3-v1.0.0-VST2-VST3-x64-WiN-LaptopSolution-MaGeSY.webp'],
     tags: [
       'featured',
       'best-seller',
@@ -39176,9 +38316,7 @@ const products: IProductInput[] = [
     name: 'bx_console N: Step by Step TUTORiAL-HiDERA',
     slug: toSlug('bx_console N: Step by Step TUTORiAL-HiDERA'),
     category: 'Music Production',
-    images: [
-      '/images/webp2/bx_console-N-Step-by-Step-TUTORiAL-HiDERA-MaGeSY.webp',
-    ],
+    images: ['/images/webp2/bx_console-N-Step-by-Step-TUTORiAL-HiDERA-MaGeSY.webp'],
     tags: ['new-arrival', 'TUTORiALS'],
     isPublished: true,
     price: 6.52,
