@@ -63,7 +63,6 @@ export default function OrderDetailsForm({
               </Badge>
             ) : (
               <div>
-                {' '}
                 <Badge variant='destructive'>Not delivered</Badge>
                 <div>
                   Expected delivery at{' '}
