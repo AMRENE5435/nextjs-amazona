@@ -563,7 +563,7 @@ const CheckoutForm = () => {
                         {items.map((item, _index) => (
                           <div key={_index} className='flex gap-4 py-2'>
                             <div className='relative w-16 h-16'>
-                              <Image
+                              <img
                                 src={item.image}
                                 alt={item.name}
                                 fill

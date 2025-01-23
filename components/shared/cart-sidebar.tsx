@@ -71,7 +71,7 @@ export default function CartSidebar() {
                 <div className='my-3'>
                   <Link href={`/product/${item.slug}`}>
                     <div className='relative h-24'>
-                      <Image
+                      <img
                         src={item.image}
                         alt={item.name}
                         fill

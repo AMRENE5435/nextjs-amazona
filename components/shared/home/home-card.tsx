@@ -28,7 +28,7 @@ export function HomeCard({ cards }: { cards: CardItem[] }) {
                   href={item.href}
                   className='flex flex-col'
                 >
-                  <Image
+                  <img
                     src={item.image}
                     alt={item.name}
                     className='aspect-square object-scale-down max-w-full h-auto mx-auto'

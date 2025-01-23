@@ -67,7 +67,7 @@ export default function CartPage() {
                     >
                       <Link href={`/product/${item.slug}`}>
                         <div className='relative w-40 h-40'>
-                          <Image
+                          <img
                             src={item.image}
                             alt={item.name}
                             fill

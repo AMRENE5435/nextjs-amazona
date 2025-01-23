@@ -31,7 +31,7 @@ export default function CartAddItem({ itemId }: { itemId: string }) {
         <Card className='w-full rounded-none'>
           <CardContent className='flex h-full items-center justify-center  gap-3 py-4'>
             <Link href={`/product/${item.slug}`}>
-              <Image
+              <img
                 src={item.image}
                 alt={item.name}
                 width={80}

@@ -1,18 +1,22 @@
-import Image from 'next/image';
-import { useState } from 'react';
+import Image from 'next/image'
+import { useState } from 'react'
 
 interface ProductImageProps {
-  src: string;
-  alt: string;
-  className?: string;
+  src: string
+  alt: string
+  className?: string
 }
 
-export default function ProductImage({ src, alt, className }: ProductImageProps) {
-  const [isLoading, setIsLoading] = useState(true);
+export default function ProductImage({
+  src,
+  alt,
+  className,
+}: ProductImageProps) {
+  const [isLoading, setIsLoading] = useState(true)
 
   return (
     <div className={`relative ${className}`}>
-      <Image
+      <img
         src={src}
         alt={alt}
         fill
@@ -20,11 +24,11 @@ export default function ProductImage({ src, alt, className }: ProductImageProps)
           isLoading ? 'opacity-0' : 'opacity-100'
         }`}
         onLoadingComplete={() => setIsLoading(false)}
-        loading="lazy"
+        loading='lazy'
       />
       {isLoading && (
-        <div className="absolute inset-0 bg-gray-200 animate-pulse" />
+        <div className='absolute inset-0 bg-gray-200 animate-pulse' />
       )}
     </div>
-  );
+  )
 }

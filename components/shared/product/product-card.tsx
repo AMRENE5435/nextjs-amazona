@@ -33,7 +33,7 @@ const ProductCard = ({
           />
         ) : (
           <div className='relative h-52'>
-            <Image
+            <img
               src={product.images[0]}
               alt={product.name}
               fill

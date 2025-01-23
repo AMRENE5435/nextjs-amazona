@@ -93,7 +93,7 @@ export default function Footer() {
         <div className='border-t border-gray-800'>
           <div className='max-w-7xl mx-auto py-8 px-4 flex flex-col items-center space-y-4'>
             <div className='flex items-center space-x-4 flex-wrap md:flex-nowrap'>
-              <Image
+              <img
                 src='/icons/2.webp'
                 alt={`${site.name} logo`}
                 width={128}

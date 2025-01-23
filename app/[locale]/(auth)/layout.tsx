@@ -13,7 +13,7 @@ export default async function AuthLayout({
     <div className='flex flex-col items-center min-h-screen highlight-link  '>
       <header className='mt-8'>
         <Link href='/'>
-          <Image
+          <img
             src='/icons/1.webp'
             alt='logo'
             width={164}

@@ -29,7 +29,7 @@ const ImageHover = ({
       onMouseEnter={handleMouseEnter}
       onMouseLeave={handleMouseLeave}
     >
-      <Image
+      <img
         src={src}
         alt={alt}
         fill
@@ -38,7 +38,7 @@ const ImageHover = ({
           isHovered ? 'opacity-0' : 'opacity-100'
         }`}
       />
-      <Image
+      <img
         src={hoverSrc}
         alt={alt}
         fill

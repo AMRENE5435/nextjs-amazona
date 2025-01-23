@@ -32,7 +32,7 @@ export default function ProductGallery({ images }: { images: string[] }) {
       <div className='w-full'>
         <Zoom>
           <div className='relative h-[500px]'>
-            <Image
+            <img
               src={images[selectedImage]}
               alt={'product image'}
               fill

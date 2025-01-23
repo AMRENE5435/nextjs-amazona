@@ -13,7 +13,7 @@ export default function CheckoutLayout({
       <header className='bg-black mb-4 border-b sticky top-0 z-10'>
         <div className='max-w-6xl mx-auto flex justify-between items-center'>
           <Link href='/'>
-            <Image
+            <img
               src='/icons/2.webp'
               alt='logo'
               width={150}

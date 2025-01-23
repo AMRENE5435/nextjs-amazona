@@ -58,7 +58,7 @@ export default function TableChart({
         >
           {image ? (
             <Link className='flex items-end' href={`/admin/products/${id}`}>
-              <Image
+              <img
                 className='rounded border  aspect-square object-scale-down max-w-full h-auto mx-auto mr-1'
                 src={image!}
                 alt={label}

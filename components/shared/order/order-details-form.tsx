@@ -103,8 +103,7 @@ export default function OrderDetailsForm({
                         href={`/product/${item.slug}`}
                         className='flex items-center'
                       >
-                        <Image
-                          src={item.image}
+                        <img                          src={item.image}
                           alt={item.name}
                           width={50}
                           height={50}

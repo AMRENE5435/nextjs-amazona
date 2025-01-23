@@ -102,7 +102,7 @@ export default function CarouselForm({
                 />
 
                 {watch(`carousels.${index}.image`) && (
-                  <Image
+                  <img
                     src={watch(`carousels.${index}.image`)}
                     alt='image'
                     className=' w-full object-cover object-center rounded-sm'

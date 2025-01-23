@@ -21,7 +21,7 @@ export default async function Header() {
               href='/'
               className='flex items-center header-button font-extrabold text-2xl m-1'
             >
-              <Image
+              <img
                 src={site.logo}
                 width={140}
                 height={140}

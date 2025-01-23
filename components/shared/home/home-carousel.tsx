@@ -36,7 +36,7 @@ export function HomeCarousel({ items }: { items: ICarousel[] }) {
           <CarouselItem key={item.title}>
             <Link href={item.url}>
               <div className='flex aspect-[16/6] items-center justify-center p-6 relative -m-1'>
-                <Image
+                <img
                   src={item.image}
                   alt={item.title}
                   fill
