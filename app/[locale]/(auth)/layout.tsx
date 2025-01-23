@@ -1,5 +1,5 @@
 import { getSetting } from '@/lib/actions/setting.actions'
-import Image from 'next/image'
+import CustomImage from '@/components/CustomImage'
 import Link from 'next/link'
 import React from 'react'
 
@@ -13,7 +13,7 @@ export default async function AuthLayout({
     <div className='flex flex-col items-center min-h-screen highlight-link  '>
       <header className='mt-8'>
         <Link href='/'>
-          <img
+          <CustomImage
             src='/icons/1.webp'
             alt='logo'
             width={164}

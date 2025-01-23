@@ -2,7 +2,7 @@
 
 import ProductPrice from '@/components/shared/product/product-price'
 import { getMonthName } from '@/lib/utils'
-import Image from 'next/image'
+import CustomImage from '@/components/CustomImage'
 import Link from 'next/link'
 
 type TableChartProps = {
@@ -58,7 +58,7 @@ export default function TableChart({
         >
           {image ? (
             <Link className='flex items-end' href={`/admin/products/${id}`}>
-              <img
+              <CustomImage
                 className='rounded border  aspect-square object-scale-down max-w-full h-auto mx-auto mr-1'
                 src={image!}
                 alt={label}

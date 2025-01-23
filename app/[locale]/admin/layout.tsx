@@ -1,4 +1,4 @@
-import Image from 'next/image'
+import CustomImage from '@/components/CustomImage'
 import Link from 'next/link'
 import React from 'react'
 import Menu from '@/components/shared/header/menu'
@@ -17,7 +17,7 @@ export default async function AdminLayout({
         <div className='bg-black text-white'>
           <div className='flex h-16 items-center px-2'>
             <Link href='/'>
-              <img
+              <CustomImage
                 src='/icons/2.webp'
                 width={128}
                 height={128}

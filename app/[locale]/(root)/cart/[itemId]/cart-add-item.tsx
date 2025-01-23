@@ -5,7 +5,7 @@ import { buttonVariants } from '@/components/ui/button'
 import { Card, CardContent } from '@/components/ui/card'
 import { cn } from '@/lib/utils'
 import { CheckCircle2Icon } from 'lucide-react'
-import Image from 'next/image'
+import CustomImage from '@/components/CustomImage'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import useCartStore from '@/hooks/use-cart-store'
@@ -31,7 +31,7 @@ export default function CartAddItem({ itemId }: { itemId: string }) {
         <Card className='w-full rounded-none'>
           <CardContent className='flex h-full items-center justify-center  gap-3 py-4'>
             <Link href={`/product/${item.slug}`}>
-              <img
+              <CustomImage
                 src={item.image}
                 alt={item.name}
                 width={80}

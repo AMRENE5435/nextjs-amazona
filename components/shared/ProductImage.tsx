@@ -1,4 +1,4 @@
-import Image from 'next/image'
+import CustomImage from '@/components/CustomImage'
 import { useState } from 'react'
 
 interface ProductImageProps {
@@ -16,7 +16,7 @@ export default function ProductImage({
 
   return (
     <div className={`relative ${className}`}>
-      <img
+      <CustomImage
         src={src}
         alt={alt}
         fill

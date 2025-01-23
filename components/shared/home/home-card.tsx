@@ -1,4 +1,4 @@
-import Image from 'next/image'
+import CustomImage from '@/components/CustomImage'
 import Link from 'next/link'
 import React from 'react'
 import { Card, CardContent, CardFooter } from '@/components/ui/card'
@@ -28,7 +28,7 @@ export function HomeCard({ cards }: { cards: CardItem[] }) {
                   href={item.href}
                   className='flex flex-col'
                 >
-                  <img
+                  <CustomImage
                     src={item.image}
                     alt={item.name}
                     className='aspect-square object-scale-down max-w-full h-auto mx-auto'

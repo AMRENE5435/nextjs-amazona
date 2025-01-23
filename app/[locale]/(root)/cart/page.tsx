@@ -13,7 +13,7 @@ import {
 import useCartStore from '@/hooks/use-cart-store'
 import useSettingStore from '@/hooks/use-setting-store'
 import { useTranslations } from 'next-intl'
-import Image from 'next/image'
+import CustomImage from '@/components/CustomImage'
 import Link from 'next/link'
 import { useRouter } from 'next/navigation'
 import React from 'react'
@@ -67,7 +67,7 @@ export default function CartPage() {
                     >
                       <Link href={`/product/${item.slug}`}>
                         <div className='relative w-40 h-40'>
-                          <img
+                          <CustomImage
                             src={item.image}
                             alt={item.name}
                             fill

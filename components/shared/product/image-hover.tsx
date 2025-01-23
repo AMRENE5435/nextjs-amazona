@@ -1,6 +1,6 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 'use client'
-import Image from 'next/image'
+import CustomImage from '@/components/CustomImage'
 import { useState } from 'react'
 
 const ImageHover = ({
@@ -29,7 +29,7 @@ const ImageHover = ({
       onMouseEnter={handleMouseEnter}
       onMouseLeave={handleMouseLeave}
     >
-      <img
+      <CustomImage
         src={src}
         alt={alt}
         fill
@@ -38,7 +38,7 @@ const ImageHover = ({
           isHovered ? 'opacity-0' : 'opacity-100'
         }`}
       />
-      <img
+      <CustomImage
         src={hoverSrc}
         alt={alt}
         fill

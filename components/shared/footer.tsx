@@ -1,7 +1,7 @@
 'use client'
 import { ChevronUp } from 'lucide-react'
 import Link from 'next/link'
-import Image from 'next/image'
+import CustomImage from '@/components/CustomImage'
 
 import { Button } from '@/components/ui/button'
 import useSettingStore from '@/hooks/use-setting-store'
@@ -93,12 +93,12 @@ export default function Footer() {
         <div className='border-t border-gray-800'>
           <div className='max-w-7xl mx-auto py-8 px-4 flex flex-col items-center space-y-4'>
             <div className='flex items-center space-x-4 flex-wrap md:flex-nowrap'>
-              <img
+              <CustomImage
                 src='/icons/2.webp'
                 alt={`${site.name} logo`}
                 width={128}
                 height={128}
-                className='w-full h-auto'
+                className='w-46 h-auto'
                 style={{
                   maxWidth: '100%',
                   height: 'auto',

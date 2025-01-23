@@ -1,7 +1,6 @@
 'use client'
-
 import { useState } from 'react'
-import Image from 'next/image'
+import CustomImage from '@/components/CustomImage'
 import Zoom from 'react-medium-image-zoom'
 import 'react-medium-image-zoom/dist/styles.css'
 export default function ProductGallery({ images }: { images: string[] }) {
@@ -24,7 +23,7 @@ export default function ProductGallery({ images }: { images: string[] }) {
                 : 'ring-1 ring-gray-300'
             }`}
           >
-            <Image src={image} alt={'product image'} width={48} height={48} />
+            <CustomImage src={image} alt={'product image'} width={48} height={48} />
           </button>
         ))}
       </div>
@@ -32,7 +31,7 @@ export default function ProductGallery({ images }: { images: string[] }) {
       <div className='w-full'>
         <Zoom>
           <div className='relative h-[500px]'>
-            <img
+            <CustomImage
               src={images[selectedImage]}
               alt={'product image'}
               fill

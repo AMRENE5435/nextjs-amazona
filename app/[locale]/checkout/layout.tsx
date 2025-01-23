@@ -1,5 +1,5 @@
 import { HelpCircle } from 'lucide-react'
-import Image from 'next/image'
+import CustomImage from '@/components/CustomImage'
 import Link from 'next/link'
 import React from 'react'
 
@@ -13,7 +13,7 @@ export default function CheckoutLayout({
       <header className='bg-black mb-4 border-b sticky top-0 z-10'>
         <div className='max-w-6xl mx-auto flex justify-between items-center'>
           <Link href='/'>
-            <img
+            <CustomImage
               src='/icons/2.webp'
               alt='logo'
               width={150}

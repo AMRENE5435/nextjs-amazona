@@ -5,7 +5,7 @@ import React from 'react'
 import { Button, buttonVariants } from '../ui/button'
 import { Separator } from '../ui/separator'
 import { ScrollArea } from '../ui/scroll-area'
-import Image from 'next/image'
+import CustomImage from '@/components/CustomImage'
 import {
   Select,
   SelectContent,
@@ -71,7 +71,7 @@ export default function CartSidebar() {
                 <div className='my-3'>
                   <Link href={`/product/${item.slug}`}>
                     <div className='relative h-24'>
-                      <img
+                      <CustomImage
                         src={item.image}
                         alt={item.name}
                         fill

@@ -12,7 +12,7 @@ import { toast } from '@/hooks/use-toast'
 import { UploadButton } from '@/lib/uploadthing'
 import { ISettingInput } from '@/types'
 import { TrashIcon } from 'lucide-react'
-import Image from 'next/image'
+import CustomImage from '@/components/CustomImage'
 import { useFieldArray, UseFormReturn } from 'react-hook-form'
 
 export default function CarouselForm({
@@ -102,7 +102,7 @@ export default function CarouselForm({
                 />
 
                 {watch(`carousels.${index}.image`) && (
-                  <img
+                  <CustomImage
                     src={watch(`carousels.${index}.image`)}
                     alt='image'
                     className=' w-full object-cover object-center rounded-sm'

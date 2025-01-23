@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import Image from 'next/image'
+import CustomImage from '@/components/CustomImage'
 import Autoplay from 'embla-carousel-autoplay'
 import {
   Carousel,
@@ -36,7 +36,7 @@ export function HomeCarousel({ items }: { items: ICarousel[] }) {
           <CarouselItem key={item.title}>
             <Link href={item.url}>
               <div className='flex aspect-[16/6] items-center justify-center p-6 relative -m-1'>
-                <img
+                <CustomImage
                   src={item.image}
                   alt={item.title}
                   fill

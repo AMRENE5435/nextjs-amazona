@@ -1,4 +1,4 @@
-import Image from 'next/image'
+import CustomImage from '@/components/CustomImage'
 import Link from 'next/link'
 import { getAllCategories } from '@/lib/actions/product.actions'
 import Menu from './menu'
@@ -21,7 +21,7 @@ export default async function Header() {
               href='/'
               className='flex items-center header-button font-extrabold text-2xl m-1'
             >
-              <img
+              <CustomImage
                 src={site.logo}
                 width={140}
                 height={140}

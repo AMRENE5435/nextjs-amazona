@@ -13,7 +13,7 @@ import {
   Tailwind,
   Text,
 } from '@react-email/components'
-
+import CustomImage from '@/components/CustomImage'
 import { formatCurrency } from '@/lib/utils'
 import { IOrder } from '@/lib/db/models/order.model'
 import { getSetting } from '@/lib/actions/setting.actions'
@@ -107,7 +107,7 @@ export default async function PurchaseReceiptEmail({
                 <Row key={item.product} className='mt-8'>
                   <Column className='w-20'>
                     <Link href={`${site.url}/product/${item.slug}`}>
-                      <Img
+                      <CustomImage
                         width='80'
                         alt={item.name}
                         className='rounded'

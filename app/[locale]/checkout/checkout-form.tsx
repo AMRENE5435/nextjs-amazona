@@ -28,7 +28,7 @@ import {
 } from '@/lib/utils'
 import { ShippingAddressSchema } from '@/lib/validator'
 import { zodResolver } from '@hookform/resolvers/zod'
-import Image from 'next/image'
+import CustomImage from '@/components/CustomImage'
 import { useRouter } from 'next/navigation'
 import { useEffect, useState } from 'react'
 import { SubmitHandler, useForm } from 'react-hook-form'
@@ -563,7 +563,7 @@ const CheckoutForm = () => {
                         {items.map((item, _index) => (
                           <div key={_index} className='flex gap-4 py-2'>
                             <div className='relative w-16 h-16'>
-                              <img
+                              <CustomImage
                                 src={item.image}
                                 alt={item.name}
                                 fill

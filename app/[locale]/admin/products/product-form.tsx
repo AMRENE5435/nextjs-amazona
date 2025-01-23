@@ -1,7 +1,7 @@
 'use client'
 
 import { zodResolver } from '@hookform/resolvers/zod'
-import Image from 'next/image'
+import CustomImage from '@/components/CustomImage'
 import { useRouter } from 'next/navigation'
 import { useForm } from 'react-hook-form'
 import { Button } from '@/components/ui/button'
@@ -264,7 +264,7 @@ const ProductForm = ({
                   <CardContent className='space-y-2 mt-2 min-h-48'>
                     <div className='flex justify-start items-center space-x-2'>
                       {images.map((image: string) => (
-                        <img
+                        <CustomImage
                           key={image}
                           src={image}
                           alt='product image'

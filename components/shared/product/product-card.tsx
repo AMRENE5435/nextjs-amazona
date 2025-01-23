@@ -1,4 +1,4 @@
-import Image from 'next/image'
+import CustomImage from '@/components/CustomImage'
 import Link from 'next/link'
 import React from 'react'
 
@@ -33,7 +33,7 @@ const ProductCard = ({
           />
         ) : (
           <div className='relative h-52'>
-            <img
+            <CustomImage
               src={product.images[0]}
               alt={product.name}
               fill

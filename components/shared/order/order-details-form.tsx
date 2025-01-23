@@ -1,6 +1,6 @@
 'use client'
 
-import Image from 'next/image'
+import CustomImage from '@/components/CustomImage'
 import Link from 'next/link'
 
 import { Badge } from '@/components/ui/badge'
@@ -54,7 +54,7 @@ export default function OrderDetailsForm({
             <p>
               {shippingAddress.street}, {shippingAddress.city},{' '}
               {shippingAddress.province}, {shippingAddress.postalCode},{' '}
-              {shippingAddress.country}{' '}
+              {shippingAddress.country}
             </p>
 
             {isDelivered ? (
@@ -84,7 +84,7 @@ export default function OrderDetailsForm({
           </CardContent>
         </Card>
         <Card>
-          <CardContent className='p-4   gap-4'>
+          <CardContent className='p-4 gap-4'>
             <h2 className='text-xl pb-4'>Order Items</h2>
             <Table>
               <TableHeader>
@@ -102,11 +102,12 @@ export default function OrderDetailsForm({
                         href={`/product/${item.slug}`}
                         className='flex items-center'
                       >
-                        <img                          src={item.image}
+                        <CustomImage
+                          src={item.image}
                           alt={item.name}
                           width={50}
                           height={50}
-                        ></Image>
+                        />
                         <span className='px-2'>{item.name}</span>
                       </Link>
                     </TableCell>
@@ -123,33 +124,29 @@ export default function OrderDetailsForm({
       </div>
       <div>
         <Card>
-          <CardContent className='p-4  space-y-4 gap-4'>
+          <CardContent className='p-4 space-y-4'>
             <h2 className='text-xl pb-4'>Order Summary</h2>
             <div className='flex justify-between'>
               <div>Items</div>
               <div>
-                {' '}
                 <ProductPrice price={itemsPrice} plain />
               </div>
             </div>
             <div className='flex justify-between'>
               <div>Tax</div>
               <div>
-                {' '}
                 <ProductPrice price={taxPrice} plain />
               </div>
             </div>
             <div className='flex justify-between'>
               <div>Shipping</div>
               <div>
-                {' '}
                 <ProductPrice price={shippingPrice} plain />
               </div>
             </div>
             <div className='flex justify-between'>
               <div>Total</div>
               <div>
-                {' '}
                 <ProductPrice price={totalPrice} plain />
               </div>
             </div>
