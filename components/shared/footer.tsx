@@ -94,15 +94,11 @@ export default function Footer() {
           <div className='max-w-7xl mx-auto py-8 px-4 flex flex-col items-center space-y-4'>
             <div className='flex items-center space-x-4 flex-wrap md:flex-nowrap'>
               <CustomImage
-                src='/icons/2.webp'
+                src={site.logo}
+                width={294}
+                height={70}
                 alt={`${site.name} logo`}
-                width={128}
-                height={128}
-                className='w-46 h-auto'
-                style={{
-                  maxWidth: '100%',
-                  height: 'auto',
-                }}
+                className='w-24 md:w-36' // Ajustez la taille du logo pour mobile et desktop
               />{' '}
               <Select
                 value={locale}

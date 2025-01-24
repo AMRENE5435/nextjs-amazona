@@ -106,8 +106,8 @@ export default function CarouselForm({
                     src={watch(`carousels.${index}.image`)}
                     alt='image'
                     className=' w-full object-cover object-center rounded-sm'
-                    width={192}
-                    height={68}
+                    width={292}
+                    height={48}
                   />
                 )}
                 {!watch(`carousels.${index}.image`) && (

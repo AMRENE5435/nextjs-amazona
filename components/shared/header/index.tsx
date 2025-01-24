@@ -1,4 +1,4 @@
-import CustomImage from '@/components/CustomImage'
+import CustomImage from '@/components/CustomImage' // Ensure this is imported
 import Link from 'next/link'
 import { getAllCategories } from '@/lib/actions/product.actions'
 import Menu from './menu'
@@ -12,6 +12,7 @@ export default async function Header() {
   const categories = await getAllCategories()
   const { site } = await getSetting()
   const t = await getTranslations()
+
   return (
     <header className='bg-black text-white'>
       <div className='px-1'>
@@ -23,10 +24,10 @@ export default async function Header() {
             >
               <CustomImage
                 src={site.logo}
-                width={140}
-                height={140}
+                width={94} // Set the desired width
+                height={50} // Set the desired height (adjust based on your logo's proportions)
                 alt={`${site.name} logo`}
-                className='w-24 md:w-36' // Ajustez la taille du logo pour mobile et desktop
+                className='w-24 md:w-36' // Adjust for mobile and desktop
               />
               {/* {site.name} */}
             </Link>
