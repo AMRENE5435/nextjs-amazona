@@ -19,6 +19,14 @@ import { getTranslations } from 'next-intl/server'
 import Head from 'next/head'
 import { getReviews } from '@/lib/actions/review.actions'
 
+interface Review {
+  rating: number
+  user: {
+    name: string
+  }
+  comment: string
+}
+
 export async function generateMetadata(props: {
   params: Promise<{ slug: string }>
 }) {
@@ -70,7 +78,7 @@ export default async function ProductDetails(props: {
       ratingValue: product.avgRating,
       reviewCount: product.numReviews,
     },
-    review: reviews.data.map((review: any) => ({
+    review: reviews.data.map((review: Review) => ({
       '@type': 'Review',
       reviewRating: {
         '@type': 'Rating',
