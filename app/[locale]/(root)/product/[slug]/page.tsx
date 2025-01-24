@@ -36,9 +36,55 @@ export async function generateMetadata(props: {
   if (!product) {
     return { title: t('Product.Product not found') }
   }
+
+  // Fetch reviews for the product
+  const reviews = await getReviews({ productId: product._id, page: 1 })
+
+  // Generate structured data
+  const structuredData = {
+    '@context': 'https://schema.org',
+    '@type': 'Product',
+    name: product.name,
+    image: product.images[0],
+    description: product.description,
+    brand: {
+      '@type': 'Brand',
+      name: product.brand,
+    },
+    aggregateRating: {
+      '@type': 'AggregateRating',
+      ratingValue: product.avgRating,
+      reviewCount: product.numReviews,
+    },
+    offers: {
+      '@type': 'Offer',
+      priceCurrency: 'USD', // Update this based on your currency
+      price: product.price,
+      availability:
+        product.countInStock > 0
+          ? 'https://schema.org/InStock'
+          : 'https://schema.org/OutOfStock',
+    },
+    review: reviews.data.map((review: Review) => ({
+      '@type': 'Review',
+      reviewRating: {
+        '@type': 'Rating',
+        ratingValue: review.rating,
+      },
+      author: {
+        '@type': 'Person',
+        name: review.user.name,
+      },
+      reviewBody: review.comment,
+    })),
+  }
+
   return {
     title: product.name,
     description: product.description,
+    other: {
+      'script:ld+json': JSON.stringify(structuredData),
+    },
   }
 }
 
