@@ -16,8 +16,8 @@ import BrowsingHistoryList from '@/components/shared/browsing-history-list'
 import RatingSummary from '@/components/shared/product/rating-summary'
 import ProductSlider from '@/components/shared/product/product-slider'
 import { getTranslations } from 'next-intl/server'
-import Head from 'next/head' // Zid had l import
-import { getReviews } from '@/lib/actions/review.actions' // Import getReviews
+import Head from 'next/head'
+import { getReviews } from '@/lib/actions/review.actions'
 
 export async function generateMetadata(props: {
   params: Promise<{ slug: string }>
@@ -54,36 +54,41 @@ export default async function ProductDetails(props: {
   // Fetch reviews on the server side
   const reviews = await getReviews({ productId: product._id, page: 1 })
 
+  // Generate review structured data
+  const reviewStructuredData = {
+    '@context': 'https://schema.org',
+    '@type': 'Product',
+    name: product.name,
+    image: product.images[0],
+    description: product.description,
+    brand: {
+      '@type': 'Brand',
+      name: product.brand,
+    },
+    aggregateRating: {
+      '@type': 'AggregateRating',
+      ratingValue: product.avgRating,
+      reviewCount: product.numReviews,
+    },
+    review: reviews.data.map((review: any) => ({
+      '@type': 'Review',
+      reviewRating: {
+        '@type': 'Rating',
+        ratingValue: review.rating,
+      },
+      author: {
+        '@type': 'Person',
+        name: review.user.name,
+      },
+      reviewBody: review.comment,
+    })),
+  }
+
   return (
     <div>
-      {/* Zid Schema Markup f <head> */}
       <Head>
         <script type='application/ld+json'>
-          {JSON.stringify({
-            '@context': 'https://schema.org',
-            '@type': 'Product',
-            name: product.name,
-            image: product.images[0], // Khod l image loul
-            description: product.description,
-            brand: {
-              '@type': 'Brand',
-              name: product.brand,
-            },
-            offers: {
-              '@type': 'Offer',
-              price: product.price,
-              priceCurrency: 'USD',
-              availability:
-                product.countInStock > 0
-                  ? 'https://schema.org/InStock'
-                  : 'https://schema.org/OutOfStock',
-            },
-            aggregateRating: {
-              '@type': 'AggregateRating',
-              ratingValue: product.avgRating,
-              reviewCount: product.numReviews,
-            },
-          })}
+          {JSON.stringify(reviewStructuredData)}
         </script>
       </Head>
 
