@@ -17,6 +17,7 @@ import RatingSummary from '@/components/shared/product/rating-summary'
 import ProductSlider from '@/components/shared/product/product-slider'
 import { getTranslations } from 'next-intl/server'
 import Head from 'next/head' // Zid had l import
+import { getReviews } from '@/lib/actions/review.actions' // Import getReviews
 
 export async function generateMetadata(props: {
   params: Promise<{ slug: string }>
@@ -49,6 +50,9 @@ export default async function ProductDetails(props: {
     page: Number(page || '1'),
   })
   const t = await getTranslations()
+
+  // Fetch reviews on the server side
+  const reviews = await getReviews({ productId: product._id, page: 1 })
 
   return (
     <div>
@@ -132,51 +136,50 @@ export default async function ProductDetails(props: {
               </p>
             </div>
           </div>
-          
+
           <div>
-          <Card className='sticky-card'>
-            <CardContent className='p-4 flex flex-col gap-4'>
-              <ProductPrice price={product.price} />
+            <Card className='sticky-card'>
+              <CardContent className='p-4 flex flex-col gap-4'>
+                <ProductPrice price={product.price} />
 
-              {product.countInStock > 0 && product.countInStock <= 3 && (
-                <div className='text-destructive font-bold'>
-                  {t('Product.Only X left in stock - order soon', {
-                    count: product.countInStock,
-                  })}
-                </div>
-              )}
-              {product.countInStock !== 0 ? (
-                <div className='text-green-700 text-xl'>
-                  {t('Product.In Stock')}
-                </div>
-              ) : (
-                <div className='text-destructive text-xl'>
-                  {t('Product.Out of Stock')}
-                </div>
-              )}
+                {product.countInStock > 0 && product.countInStock <= 3 && (
+                  <div className='text-destructive font-bold'>
+                    {t('Product.Only X left in stock - order soon', {
+                      count: product.countInStock,
+                    })}
+                  </div>
+                )}
+                {product.countInStock !== 0 ? (
+                  <div className='text-green-700 text-xl'>
+                    {t('Product.In Stock')}
+                  </div>
+                ) : (
+                  <div className='text-destructive text-xl'>
+                    {t('Product.Out of Stock')}
+                  </div>
+                )}
 
-              {product.countInStock !== 0 && (
-                <div className='flex justify-center items-center'>
-                  <AddToCart
-                    item={{
-                      clientId: generateId(),
-                      product: product._id,
-                      countInStock: product.countInStock,
-                      name: product.name,
-                      slug: product.slug,
-                      category: product.category,
-                      price: round2(product.price),
-                      quantity: 1,
-                      image: product.images[0],
-                      size: size || product.sizes[0],
-                      color: color || product.colors[0],
-                    }}
-                  />
-                </div>
-              )}
-            </CardContent>
-          </Card>
-
+                {product.countInStock !== 0 && (
+                  <div className='flex justify-center items-center'>
+                    <AddToCart
+                      item={{
+                        clientId: generateId(),
+                        product: product._id,
+                        countInStock: product.countInStock,
+                        name: product.name,
+                        slug: product.slug,
+                        category: product.category,
+                        price: round2(product.price),
+                        quantity: 1,
+                        image: product.images[0],
+                        size: size || product.sizes[0],
+                        color: color || product.colors[0],
+                      }}
+                    />
+                  </div>
+                )}
+              </CardContent>
+            </Card>
           </div>
         </div>
       </section>
@@ -184,7 +187,11 @@ export default async function ProductDetails(props: {
         <h2 className='h2-bold mb-2' id='reviews'>
           {t('Product.Customer Reviews')}
         </h2>
-        <ReviewList product={product} userId={session?.user.id} />
+        <ReviewList
+          product={product}
+          userId={session?.user.id}
+          initialReviews={reviews.data}
+        />
       </section>
       <section className='mt-10'>
         <ProductSlider

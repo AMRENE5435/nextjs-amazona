@@ -64,14 +64,17 @@ const reviewFormDefaultValues = {
 export default function ReviewList({
   userId,
   product,
+  initialReviews,
 }: {
   userId: string | undefined
   product: IProduct
+  initialReviews: IReviewDetails[]
 }) {
+  const [reviews, setReviews] = useState<IReviewDetails[]>(initialReviews)
+
   const t = useTranslations('Product')
   const [page, setPage] = useState(2)
   const [totalPages, setTotalPages] = useState(0)
-  const [reviews, setReviews] = useState<IReviewDetails[]>([])
   const { ref, inView } = useInView({ triggerOnce: true })
   const reload = async () => {
     try {
