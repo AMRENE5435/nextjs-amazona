@@ -3,7 +3,6 @@ import { HomeCard } from '@/components/shared/home/home-card'
 import { HomeCarousel } from '@/components/shared/home/home-carousel'
 import ProductSlider from '@/components/shared/product/product-slider'
 import { Card, CardContent } from '@/components/ui/card'
-
 import {
   getProductsForCard,
   getProductsByTag,
@@ -12,6 +11,7 @@ import {
 import { getSetting } from '@/lib/actions/setting.actions'
 import { toSlug } from '@/lib/utils'
 import { getTranslations } from 'next-intl/server'
+import Head from 'next/head' // Import Head for adding schema markup
 
 export default async function HomePage() {
   const t = await getTranslations('Home')
@@ -70,6 +70,25 @@ export default async function HomePage() {
 
   return (
     <>
+      {/* Add Schema Markup for the Home Page */}
+      <Head>
+        <script type="application/ld+json">
+          {JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Website",
+            "name": "Laptop Solution", // Replace with your website name
+            "url": "https://www.laptopsolution.tech", // Replace with your website URL
+            "description": "Your one-stop solution for laptops and software.", // Replace with your website description
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": "https://www.laptopsolution.tech/search?q={search_term_string}", // Replace with your search URL
+              "query-input": "required name=search_term_string"
+            }
+          })}
+        </script>
+      </Head>
+
+      {/* Home Page Content */}
       <HomeCarousel items={carousels} />
       <div className='md:p-4 md:space-y-4 bg-border rounded-md'>
         <HomeCard cards={cards} />
