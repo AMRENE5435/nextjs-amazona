@@ -1,5 +1,4 @@
 import Link from 'next/link'
-
 import Pagination from '@/components/shared/pagination'
 import ProductCard from '@/components/shared/product/product-card'
 import { Button } from '@/components/ui/button'
@@ -13,7 +12,6 @@ import ProductSortSelector from '@/components/shared/product/product-sort-select
 import { getFilterUrl } from '@/lib/utils'
 // import { getFilterUrl, toSlug } from '@/lib/utils'
 import Rating from '@/components/shared/product/rating'
-
 import CollapsibleOnMobile from '@/components/shared/collapsible-on-mobile'
 import { getTranslations } from 'next-intl/server'
 
@@ -274,7 +272,7 @@ export default async function SearchPage(props: {
             </div>
           </div>
 
-          <div className='grid grid-cols-1 gap-4 md:grid-cols-2  lg:grid-cols-3  '>
+          <div className='grid grid-cols-1 gap-4 md:grid-cols-3  lg:grid-cols-5  '>
             {data.products.length === 0 && (
               <div>{t('Search.No product found')}</div>
             )}

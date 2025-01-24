@@ -38717,7 +38717,7 @@ Refunds are not available for software that has been downloaded, accessed, or us
         isMaintenanceMode: false,
         defaultTheme: 'Light',
         defaultColor: 'Green',
-        pageSize: 9,
+        pageSize: 25,
       },
       site: {
         name: 'LaptopSolution',
@@ -38781,7 +38781,7 @@ Refunds are not available for software that has been downloaded, accessed, or us
       defaultPaymentMethod: 'Stripe',
       availableDeliveryDates: [
         {
-          name: 'up to 24 hours',
+          name: 'Next 24 hours',
           hoursToDeliver: 24,
           shippingPrice: 0,
           freeShippingMinPrice: 50,
@@ -38799,7 +38799,7 @@ Refunds are not available for software that has been downloaded, accessed, or us
           freeShippingMinPrice: 50,
         },
       ],
-      defaultDeliveryDate: 'up to 24 hours',
+      defaultDeliveryDate: 'Next 24 hours',
     },
   ],
 }
