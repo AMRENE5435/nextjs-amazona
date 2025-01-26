@@ -16,8 +16,8 @@ export default async function AuthLayout({
           <CustomImage
             src='/icons/1.webp'
             alt='logo'
-            width={164}
-            height={164}
+            width={194}
+            height={110}
             priority
             style={{
               maxWidth: '100%',

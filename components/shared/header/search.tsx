@@ -37,7 +37,7 @@ export default async function Search() {
       </Select>
       <Input
         className='flex-1 rounded-none dark:border-gray-200 bg-gray-100 text-black text-base h-full'
-        placeholder='Search on Laptop Solution' // Updated placeholder
+        placeholder='Search' // Updated placeholder
         name='q'
         type='search'
       />
