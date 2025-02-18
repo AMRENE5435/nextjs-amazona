@@ -103,35 +103,36 @@ export const getPayPalAccessToken = async () => {
 /**
  * Create a PayPal order.
  */
-interface PayPalOrderDetails {
-  intent: string;
-  purchase_units: {
-    amount: {
-      currency_code: string;
-      value: string;
-    };
-    payee: {
-      email_address: string;
-    };
-    description?: string;
-  }[];
-  application_context: {
-    return_url: string;
-    cancel_url: string;
-    brand_name?: string;
-    shipping_preference?: string;
-    user_action?: string;
-  };
-}
+// interface PayPalOrderDetails {
+//   intent: string;
+//   purchase_units: {
+//     amount: {
+//       currency_code: string;
+//       value: string;
+//     };
+//     payee: {
+//       email_address: string;
+//     };
+//     description?: string;
+//   }[];
+//   application_context: {
+//     return_url: string;
+//     cancel_url: string;
+//     brand_name?: string;
+//     shipping_preference?: string;
+//     user_action?: string;
+//   };
+// }
 
 export const createPayPalOrder = async (orderId: string, receiverEmail: string) => {
   try {
     const accessToken = await getPayPalAccessToken();
+    console.log('PayPal Access Token:', accessToken);
 
     const order = await Order.findById(orderId);
     if (!order) throw new Error('Order not found');
 
-    const orderDetails: PayPalOrderDetails = {
+    const orderDetails = {
       intent: 'CAPTURE',
       purchase_units: [
         {
@@ -165,7 +166,12 @@ export const createPayPalOrder = async (orderId: string, receiverEmail: string) 
     );
 
     const data = await response.json();
-    return data;
+
+    if (response.ok) {
+      return data.id; // Return only the order ID
+    } else {
+      throw new Error(data.message || 'Failed to create PayPal order');
+    }
   } catch (error) {
     console.error('Error creating PayPal order:', error);
     throw error;

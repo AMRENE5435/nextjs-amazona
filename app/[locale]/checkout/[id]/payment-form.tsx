@@ -25,18 +25,17 @@ import { loadStripe } from '@stripe/stripe-js'
 const stripePromise = loadStripe(
   process.env.NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY as string
 )
+
 export default function OrderDetailsForm({
   order,
   paypalClientId,
   clientSecret,
-  //isAdmin,
-  receiverEmail, // Add this prop
+  receiverEmail,
 }: {
   order: IOrder
   paypalClientId: string
   clientSecret: string | null
-  //isAdmin: boolean
-  receiverEmail: string // Add this prop
+  receiverEmail: string
 }) {
   const router = useRouter()
   const {
@@ -55,6 +54,7 @@ export default function OrderDetailsForm({
   if (isPaid) {
     redirect(`/account/orders/${order._id}`)
   }
+
   function PrintLoadingState() {
     const [{ isPending, isRejected }] = usePayPalScriptReducer()
     let status = ''
@@ -65,21 +65,42 @@ export default function OrderDetailsForm({
     }
     return status
   }
+
   const handleCreatePayPalOrder = async () => {
-    const res = await createPayPalOrder(order._id, receiverEmail) // Pass receiverEmail
-    if (!res.success)
-      return toast({
-        description: res.message,
+    try {
+      console.log('Creating PayPal order for:', order._id, receiverEmail)
+      console.log('Creating PayPal order with orderId:', order._id);
+      const response = await createPayPalOrder(order._id, receiverEmail)
+      console.log('PayPal Order Response:', response)
+      if (response.success && response.data) {
+        return response.data.orderID
+      } else {
+        throw new Error(response.message || 'Failed to create PayPal order.')
+      }
+    } catch (error) {
+      console.error('Error creating PayPal order:', error)
+      toast({
+        description: 'Failed to create PayPal order. Please try again.',
         variant: 'destructive',
       })
-    return res.data
+      throw error
+    }
   }
+
   const handleApprovePayPalOrder = async (data: { orderID: string }) => {
-    const res = await approvePayPalOrder(order._id, data)
-    toast({
-      description: res.message,
-      variant: res.success ? 'default' : 'destructive',
-    })
+    try {
+      const res = await approvePayPalOrder(order._id, data)
+      toast({
+        description: res.message,
+        variant: res.success ? 'default' : 'destructive',
+      })
+    } catch (error) {
+      console.error('Error approving PayPal order:', error)
+      toast({
+        description: 'Failed to approve PayPal order. Please try again.',
+        variant: 'destructive',
+      })
+    }
   }
 
   const CheckoutSummary = () => (
@@ -117,7 +138,7 @@ export default function OrderDetailsForm({
                 )}
               </span>
             </div>
-            <div className='flex justify-between  pt-1 font-bold text-lg'>
+            <div className='flex justify-between pt-1 font-bold text-lg'>
               <span> Order Total:</span>
               <span>
                 {' '}
@@ -184,7 +205,7 @@ export default function OrderDetailsForm({
             </div>
           </div>
 
-          {/* payment method */}
+          {/* Payment Method */}
           <div className='border-y'>
             <div className='grid md:grid-cols-3 my-3 pb-3'>
               <div className='text-lg font-bold'>

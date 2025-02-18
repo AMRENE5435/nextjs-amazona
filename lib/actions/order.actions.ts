@@ -221,7 +221,6 @@ export async function getOrderById(orderId: string): Promise<IOrder> {
 export const createPayPalOrder = async (orderId: string, receiverEmail: string) => {
   try {
     const accessToken = await getPayPalAccessToken();
-
     const order = await Order.findById(orderId);
     if (!order) throw new Error('Order not found');
 
@@ -231,10 +230,11 @@ export const createPayPalOrder = async (orderId: string, receiverEmail: string) 
         {
           amount: {
             currency_code: 'USD',
-            value: order.totalPrice.toFixed(2), // Use dynamic order total
+            value: order.totalPrice.toFixed(2),
           },
           payee: {
-            email_address: receiverEmail, // Use the receiver email
+            email_address: receiverEmail,
+          //console.log('Receiver Email:', receiverEmail);
           },
         },
       ],
@@ -259,10 +259,10 @@ export const createPayPalOrder = async (orderId: string, receiverEmail: string) 
     );
 
     const data = await response.json();
-    console.log('PayPal API Response:', data); // Add this line
-    
+    console.log('PayPal API Response:', data); // Check the structure
+
     if (response.ok) {
-      return { success: true, data };
+      return { success: true, data: { orderID: data.id } }; // Explicitly return id
     } else {
       return { success: false, message: data.message || 'Failed to create PayPal order' };
     }
@@ -272,16 +272,15 @@ export const createPayPalOrder = async (orderId: string, receiverEmail: string) 
   }
 }
 
-export async function approvePayPalOrder(
-  orderId: string,
-  data: { orderID: string }
-) {
+export async function approvePayPalOrder(orderId: string, data: { orderID: string }) {
   await connectToDatabase();
   try {
     const order = await Order.findById(orderId).populate('user', 'email');
     if (!order) throw new Error('Order not found');
 
     const accessToken = await getPayPalAccessToken();
+    console.log('PayPal Access Token:', accessToken);
+
     const captureData = await capturePayPalOrder(data.orderID, accessToken);
 
     if (
