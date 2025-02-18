@@ -29,11 +29,14 @@ export default function OrderDetailsForm({
   order,
   paypalClientId,
   clientSecret,
+  //isAdmin,
+  receiverEmail, // Add this prop
 }: {
   order: IOrder
   paypalClientId: string
-  isAdmin: boolean
   clientSecret: string | null
+  //isAdmin: boolean
+  receiverEmail: string // Add this prop
 }) {
   const router = useRouter()
   const {
@@ -63,7 +66,7 @@ export default function OrderDetailsForm({
     return status
   }
   const handleCreatePayPalOrder = async () => {
-    const res = await createPayPalOrder(order._id)
+    const res = await createPayPalOrder(order._id, receiverEmail) // Pass receiverEmail
     if (!res.success)
       return toast({
         description: res.message,

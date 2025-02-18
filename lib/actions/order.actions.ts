@@ -8,7 +8,7 @@ import { OrderInputSchema } from '../validator'
 import Order, { IOrder } from '../db/models/order.model'
 import { revalidatePath } from 'next/cache'
 import { sendAskReviewOrderItems, sendPurchaseReceipt } from '@/emails'
-import { paypal } from '../paypal'
+import { getPayPalAccessToken, capturePayPalOrder } from '../paypal'
 import { DateRange } from 'react-day-picker'
 import Product from '../db/models/product.model'
 import User from '../db/models/user.model'
@@ -35,6 +35,7 @@ export const createOrder = async (clientSideCart: Cart) => {
     return { success: false, message: formatError(error) }
   }
 }
+
 export const createOrderFromCart = async (
   clientSideCart: Cart,
   userId: string
@@ -82,6 +83,7 @@ export async function updateOrderToPaid(orderId: string) {
     return { success: false, message: formatError(err) }
   }
 }
+
 const updateProductStock = async (orderId: string) => {
   const session = await mongoose.connection.startSession()
 
@@ -116,6 +118,7 @@ const updateProductStock = async (orderId: string) => {
     throw error
   }
 }
+
 export async function deliverOrder(orderId: string) {
   try {
     await connectToDatabase()
@@ -152,7 +155,6 @@ export async function deleteOrder(id: string) {
 }
 
 // GET ALL ORDERS
-
 export async function getAllOrders({
   limit,
   page,
@@ -177,6 +179,7 @@ export async function getAllOrders({
     totalPages: Math.ceil(ordersCount / limit),
   }
 }
+
 export async function getMyOrders({
   limit,
   page,
@@ -207,35 +210,65 @@ export async function getMyOrders({
     totalPages: Math.ceil(ordersCount / limit),
   }
 }
+
 export async function getOrderById(orderId: string): Promise<IOrder> {
   await connectToDatabase()
   const order = await Order.findById(orderId)
   return JSON.parse(JSON.stringify(order))
 }
 
-export async function createPayPalOrder(orderId: string) {
-  await connectToDatabase()
+// Local implementation of createPayPalOrder
+export const createPayPalOrder = async (orderId: string, receiverEmail: string) => {
   try {
-    const order = await Order.findById(orderId)
-    if (order) {
-      const paypalOrder = await paypal.createOrder(order.totalPrice)
-      order.paymentResult = {
-        id: paypalOrder.id,
-        email_address: '',
-        status: '',
-        pricePaid: '0',
+    const accessToken = await getPayPalAccessToken();
+
+    const order = await Order.findById(orderId);
+    if (!order) throw new Error('Order not found');
+
+    const orderDetails = {
+      intent: 'CAPTURE',
+      purchase_units: [
+        {
+          amount: {
+            currency_code: 'USD',
+            value: order.totalPrice.toFixed(2), // Use dynamic order total
+          },
+          payee: {
+            email_address: receiverEmail, // Use the receiver email
+          },
+        },
+      ],
+      application_context: {
+        return_url: `${process.env.NEXT_PUBLIC_BASE_URL}/checkout/success`,
+        cancel_url: `${process.env.NEXT_PUBLIC_BASE_URL}/checkout/cancel`,
+      },
+    };
+
+    const response = await fetch(
+      process.env.NEXT_PUBLIC_PAYPAL_MODE === 'live'
+        ? 'https://api.paypal.com/v2/checkout/orders'
+        : 'https://api.sandbox.paypal.com/v2/checkout/orders',
+      {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          Authorization: `Bearer ${accessToken}`,
+        },
+        body: JSON.stringify(orderDetails),
       }
-      await order.save()
-      return {
-        success: true,
-        message: 'PayPal order created successfully',
-        data: paypalOrder.id,
-      }
+    );
+
+    const data = await response.json();
+    console.log('PayPal API Response:', data); // Add this line
+    
+    if (response.ok) {
+      return { success: true, data };
     } else {
-      throw new Error('Order not found')
+      return { success: false, message: data.message || 'Failed to create PayPal order' };
     }
-  } catch (err) {
-    return { success: false, message: formatError(err) }
+  } catch (error) {
+    console.error('Error creating PayPal order:', error);
+    return { success: false, message: 'An error occurred while creating the PayPal order' };
   }
 }
 
@@ -243,38 +276,43 @@ export async function approvePayPalOrder(
   orderId: string,
   data: { orderID: string }
 ) {
-  await connectToDatabase()
+  await connectToDatabase();
   try {
-    const order = await Order.findById(orderId).populate('user', 'email')
-    if (!order) throw new Error('Order not found')
+    const order = await Order.findById(orderId).populate('user', 'email');
+    if (!order) throw new Error('Order not found');
 
-    const captureData = await paypal.capturePayment(data.orderID)
+    const accessToken = await getPayPalAccessToken();
+    const captureData = await capturePayPalOrder(data.orderID, accessToken);
+
     if (
       !captureData ||
       captureData.id !== order.paymentResult?.id ||
       captureData.status !== 'COMPLETED'
     )
-      throw new Error('Error in paypal payment')
-    order.isPaid = true
-    order.paidAt = new Date()
+      throw new Error('Error in PayPal payment');
+
+    order.isPaid = true;
+    order.paidAt = new Date();
     order.paymentResult = {
       id: captureData.id,
       status: captureData.status,
       email_address: captureData.payer.email_address,
       pricePaid:
         captureData.purchase_units[0]?.payments?.captures[0]?.amount?.value,
-    }
-    await order.save()
-    await sendPurchaseReceipt({ order })
-    revalidatePath(`/account/orders/${orderId}`)
+    };
+    await order.save();
+    await sendPurchaseReceipt({ order });
+    revalidatePath(`/account/orders/${orderId}`);
     return {
       success: true,
       message: 'Your order has been successfully paid by PayPal',
-    }
+    };
   } catch (err) {
-    return { success: false, message: formatError(err) }
+    return { success: false, message: formatError(err) };
   }
 }
+
+// Rest of the file remains unchanged...
 
 export const calcDeliveryDateAndPrice = async ({
   items,
